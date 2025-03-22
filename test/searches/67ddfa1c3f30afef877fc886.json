@@ -1,0 +1,2178 @@
+{
+  "search_metadata": {
+    "id": "67ddfa1c3f30afef877fc886",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8dcc97381d564901/67ddfa1c3f30afef877fc886.json",
+    "created_at": "2025-03-21 23:45:32 UTC",
+    "processed_at": "2025-03-21 23:45:32 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8dcc97381d564901/67ddfa1c3f30afef877fc886.html",
+    "total_time_taken": 2.47
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"Germany\" AND (current OR present) AND (\"Chief\" OR \"CXO\" OR \"Director\" OR \"Senior Director\" OR \"Executive Director\" OR \"Managing Director\" OR \"Board Director\" OR \"Regional Director\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"Germany\" AND (current OR present) AND (\"Chief\" OR \"CXO\" OR \"Director\" OR \"Senior Director\" OR \"Executive Director\" OR \"Managing Director\" OR \"Board Director\" OR \"Regional Director\")",
+    "total_results": 17400000,
+    "time_taken_displayed": 0.69,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Philipp Schindler - Google",
+      "link": "https://www.linkedin.com/in/philipp-schindler-12531a94",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/philipp-schindler-12531a94&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECB4QAQ",
+      "displayed_link": "20.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb33676fce88b72ec377e5592108e4711c4.png",
+      "snippet": "Chief Business Officer at Google. Eat, sleep, & breathe customer & partner ... Guetersloh, Germany. Education. EBS Universität für Wirtschaft und Recht ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Philipp Schindler"
+    },
+    {
+      "position": 2,
+      "title": "Michiel van Eldik - Google",
+      "link": "https://uk.linkedin.com/in/michielvaneldik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/michielvaneldik&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECBkQAQ",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3fdbb6a581887c9e8640cfd202d83d3c2.png",
+      "snippet": "Experience. Google Graphic · Google. London, United Kingdom. -. Milan Area, Italy. -. Amsterdam/ London. -. Munich Area, Germany. -. Munich Area, Germany ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michiel van Eldik"
+    },
+    {
+      "position": 3,
+      "title": "Pieter Baeyaert - Director, Google Customer Solutions",
+      "link": "https://ie.linkedin.com/in/pbaeyaert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/pbaeyaert&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECBUQAQ",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3eca2913d793495da5253b7459d8be9ad.png",
+      "snippet": "Pieter Baeyaert. Director @ Google Customer Solutions - Germany SMB. Google Ashridge Executive Education, Hult International Business School ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Google",
+        "Germany",
+        "Google"
+      ],
+      "source": "LinkedIn · Pieter Baeyaert"
+    },
+    {
+      "position": 4,
+      "title": "Manuel Greisinger – Google",
+      "link": "https://de.linkedin.com/in/mgreisinger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/mgreisinger&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECCIQAQ",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb31daae5cd398ca255c2c1eed8ec9184cb.png",
+      "snippet": "With 20+ years of experience in technology and leadership, I am a Director of Global… · ... Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Manuel Greisinger"
+    },
+    {
+      "position": 5,
+      "title": "Lutz Mache – Google",
+      "link": "https://de.linkedin.com/in/lutzmache",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/lutzmache&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECBYQAQ",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3be81882f914239eea6734f06006ffb4e.png",
+      "snippet": "Lutz Mache. Google. Berlin, Berlin, Deutschland. 3505 Follower:innen 500+ Kontakte.",
+      "snippet_highlighted_words": [
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lutz Mache"
+    },
+    {
+      "position": 6,
+      "title": "Wencke Schmidt – Director Automotive Google Cloud",
+      "link": "https://de.linkedin.com/in/wenckeschmidt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/wenckeschmidt&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECCEQAQ",
+      "displayed_link": "4.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3973244ac313412ce7baf4f14ebad4287.png",
+      "snippet": "Director Automotive Google Cloud - Germany · Director Manufacturing & Mittelstand Google Cloud (interim) · Head of Retail and Digital Natives - Google Cloud · Head ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Google",
+        "Germany",
+        "Director",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Wencke Schmidt"
+    },
+    {
+      "position": 7,
+      "title": "Dennis Trautwein - Managing Director Germany & France",
+      "link": "https://de.linkedin.com/in/dennis-trautwein-671a851a/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dennis-trautwein-671a851a/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECCkQAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb340481905faeb843166aa39bc833478d8.png",
+      "snippet": "Managing Director Germany & France · Octagon · Frankfurt · 500+ connections ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or.",
+      "snippet_highlighted_words": [
+        "Managing Director Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hesse, Germany",
+            "Managing Director Germany & France",
+            "Octagon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dennis Trautwein"
+    },
+    {
+      "position": 8,
+      "title": "Gemma Garriga - Google",
+      "link": "https://www.linkedin.com/in/gemmagarriga",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gemmagarriga&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCNoBEAE",
+      "displayed_link": "4.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3e14dc55c62e313ce4c72b8b6ce4fb025.png",
+      "snippet": "Experience. Google Graphic · Google. San Francisco Bay Area. -. San Francisco Bay Area. -. -. -. Munich Area, Germany. -. Munich Area, Germany. -. Munich Area, ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gemma Garriga"
+    },
+    {
+      "position": 9,
+      "title": "Ann Marie Clements - Director of Communications - Google",
+      "link": "https://www.linkedin.com/in/ann-marie-clements-934498a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ann-marie-clements-934498a&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECEMQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3ef3955b6b1fc5fb1791a89bcaecd695c.png",
+      "snippet": "Google Public Sector, Director of Comms · Over 20 years of experience ... Germany, France and Spain. GMMB Graphic. Communications Specialist. GMMB. Sep ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Director",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ashburn, Virginia, United States",
+            "Director of Communications",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ann Marie Clements"
+    },
+    {
+      "position": 10,
+      "title": "Laurent Samama - Director EMEA Partnerships at Google",
+      "link": "https://uk.linkedin.com/in/laurentsamama",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/laurentsamama&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCJgBEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3a22d059d1addf38f57a4bd62d23b1126.png",
+      "snippet": "Director EMEA Partnerships at Google · Experience: Google · Education: Columbia University - Columbia Business School · Location: London · 500+ connections ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Laurent Samama"
+    },
+    {
+      "position": 11,
+      "title": "Otto Kreiter - Director, Global Infrastructure - Google",
+      "link": "https://uk.linkedin.com/in/ottokreiter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ottokreiter&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCOcBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3f6550b302669adc48ca703c7df142b3a.png",
+      "snippet": "Otto Kreiter. Director - Global Infrastructure at Google. Google Universitatea Tehnică din Cluj-Napoca. Greater Cambridge Area.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Cambridge Area",
+            "Director, Global Infrastructure",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Otto Kreiter"
+    },
+    {
+      "position": 12,
+      "title": "Julia Hoffmann - Google",
+      "link": "https://uk.linkedin.com/in/julia-hoffmann-00299",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/julia-hoffmann-00299&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCJICEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb377a853f241340831bde9bfd8e6d8cd10.png",
+      "snippet": "Experience · Google Graphic · Google. London, United Kingdom · -. Lucerne Area, Switzerland · -. Berlin Area, Germany · -. Berlin, Germany · -. New York · - · -. New ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julia Hoffmann"
+    },
+    {
+      "position": 13,
+      "title": "Dr. Christian Richter – Director Global Automotive Vertical ...",
+      "link": "https://de.linkedin.com/in/dr-christian-richter-a4740ab",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dr-christian-richter-a4740ab&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECEQQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb31a438e294f51d4d2ee953621b5d9f74a.png",
+      "snippet": "Director Global Automotive & Automotive Retail at Google · AI-Driven ... Global Client Lead - Automotive. Google Germany GmbH. März 2015 – Jan. 2023 7 ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Google",
+        "Google Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Director Global Automotive Vertical & Auto Retail Solutions",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Christian Richter"
+    },
+    {
+      "position": 14,
+      "title": "Milstein Alexander - Managing Director TBWA WorldWide",
+      "link": "https://de.linkedin.com/in/alexander-milstein-8105193a/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/alexander-milstein-8105193a/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECHAQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3337ecfe33ca3247417aa56858a3cb563.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Chief Client Officer Germany/ Managing Director TBWA WorldWide. HeimatTBWA ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief",
+        "Germany",
+        "Managing Director"
+      ],
+      "source": "LinkedIn · Alexander Milstein"
+    },
+    {
+      "position": 15,
+      "title": "Dr. Matthias Lichtblau - Chief Operating Officer Germany ...",
+      "link": "https://de.linkedin.com/in/matthiaslichtblau/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/matthiaslichtblau/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCKEBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3c4085db108e18cfc7fc060c6f3f44980.png",
+      "snippet": "Executive Director, CMS Legal Services EEIG · Dentons · Frankfurt · 500 ... Chief Operating Officer Germany/Director of Strategic Projects Europe.",
+      "snippet_highlighted_words": [
+        "Executive Director",
+        "Chief",
+        "Germany",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hesse, Germany",
+            "Chief Operating Officer Germany/Director of Strategic Projects Europe",
+            "Dentons"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Matthias Lichtblau"
+    },
+    {
+      "position": 16,
+      "title": "Jens Riegelsberger - Google",
+      "link": "https://uk.linkedin.com/in/jriegels",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jriegels&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCM8BEAE",
+      "displayed_link": "5.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb30e49f1d114daf7af5b65208c06e1ac95.png",
+      "snippet": "Munich Area, Germany ... In this episode, Travis Neilson interviews Jens Riegelsberger, a UX director at Google, about the company's evolving design identity.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "director",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jens Riegelsberger"
+    },
+    {
+      "position": 17,
+      "title": "Lynn Torrel - Google",
+      "link": "https://www.linkedin.com/in/lynntorrel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lynntorrel&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCOoBEAE",
+      "displayed_link": "8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3e4089a3e887122cd6b79cbea32fb90bb.png",
+      "snippet": "Deutschakademie, Munich, Germany. Issued Aug 1998. Volunteer Experience ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Jose, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lynn Torrel"
+    },
+    {
+      "position": 18,
+      "title": "Martin Kipping - Executive Director for Germany, ...",
+      "link": "https://ci.linkedin.com/in/mkipping",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ci.linkedin.com/in/mkipping&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCPABEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb370e9cf05a3af58c5fe4fc5c5ffdd2612.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By clicking ... Executive Director for Germany, Luxembourg, Portugal, and Switzerland.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Executive Director",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Abidjan, Côte d'Ivoire",
+            "Executive Director for Germany, Luxembourg, Portugal, and Switzerland",
+            "African Development Bank Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Martin Kipping"
+    },
+    {
+      "position": 19,
+      "title": "Shen Jackson - Google",
+      "link": "https://www.linkedin.com/in/shen-jackson-400a4022",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shen-jackson-400a4022&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCJsCEAE",
+      "displayed_link": "4.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb31866bccb78e290e64011e3c1de7ad324.png",
+      "snippet": "Google · Los Altos · 500+ connections on LinkedIn. View Shen Jackson's profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Altos, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shen Jackson"
+    },
+    {
+      "position": 20,
+      "title": "Andreas Briese – Country Director YouTube Germany ...",
+      "link": "https://de.linkedin.com/in/andreas-briese",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/andreas-briese&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCKICEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb383054e6982490d908e6f55b19dd8568b.png",
+      "snippet": "Country Director YouTube Germany, Regional Director YouTube Central and ... I joined Google in 2008 as YouTube Germany employee #1. I had the ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Germany",
+        "Regional Director",
+        "Google",
+        "Germany"
+      ],
+      "source": "LinkedIn · Andreas Briese"
+    },
+    {
+      "position": 21,
+      "title": "Niklas Becker - Director for Finland, Estonia, Latvia, Lithuania",
+      "link": "https://www.linkedin.com/in/beckerniklas/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/beckerniklas/&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECEIQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb33b68e0f13359b18b25268f834663e0eb.png",
+      "snippet": "Director for Finland, Estonia, Latvia, Lithuania bei Germany Trade & Invest ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Helsinki, Uusimaa, Finland",
+            "Director for Finland, Estonia, Latvia, Lithuania",
+            "Germany Trade & Invest"
+          ]
+        }
+      },
+      "source": "LinkedIn · Niklas Becker"
+    },
+    {
+      "position": 22,
+      "title": "Mark Schneider – Harvard Business School",
+      "link": "https://ch.linkedin.com/in/markschneidernestle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ch.linkedin.com/in/markschneidernestle&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECF0QAQ",
+      "displayed_link": "126.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3b08f9de2c0ff0822dac5b4b468e1fbc1.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden ... Chief Executive Officer. Nestlé. 2017 – 2024 7 Jahre. Switzerland. I was ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief"
+      ],
+      "source": "LinkedIn · Mark Schneider"
+    },
+    {
+      "position": 23,
+      "title": "David Brückmann - Managing Director - Permira",
+      "link": "https://de.linkedin.com/in/david-br%C3%BCckmann-21a6b21a/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/david-br%25C3%25BCckmann-21a6b21a/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECHgQAQ",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3c7dae7e0613120f04f1b2d1134765080.png",
+      "snippet": "Managing Director at Permira · Experience: Permira · Education: European Business School Oestrich-Winkel · Location: Germany · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Germany"
+      ],
+      "source": "LinkedIn · David Brückmann"
+    },
+    {
+      "position": 24,
+      "title": "Ivan Varela - Director Corporate Strategy",
+      "link": "https://de.linkedin.com/in/ivan-varela-72876a21/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ivan-varela-72876a21/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCIcBEAE",
+      "displayed_link": "960+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3283ac07ce97148045eeb6e4260730808.png",
+      "snippet": "Director - Corporate Strategy - Telefonica · Telefónica Germany · Munich ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Director Corporate Strategy",
+            "Telefónica Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ivan Varela"
+    },
+    {
+      "position": 25,
+      "title": "Vivek Natarajan - Google",
+      "link": "https://www.linkedin.com/in/vivek-natarajan-a3670118",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vivek-natarajan-a3670118&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCKMBEAE",
+      "displayed_link": "13.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3d0e70cdd41ddbfa342f34678253d24e1.png",
+      "snippet": "Apr 2012. DAAD WISE scholarship to pursue research in Germany. Languages ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vivek Natarajan"
+    },
+    {
+      "position": 26,
+      "title": "Seema Bhardwaj - Director India - Germany Trade & Invest",
+      "link": "https://in.linkedin.com/in/seema-bhardwajgtai",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/seema-bhardwajgtai&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCLcBEAE",
+      "displayed_link": "7.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3b68f72b447e136eb37a7df748bd6dd74.png",
+      "snippet": "Director India @ Germany Trade & Invest | Investment Promotion · As the ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mumbai Metropolitan Region",
+            "Director India",
+            "Germany Trade & Invest"
+          ]
+        }
+      },
+      "source": "LinkedIn · Seema Bhardwaj"
+    },
+    {
+      "position": 27,
+      "title": "Scott Carpenter - Managing Director, Jigsaw",
+      "link": "https://www.linkedin.com/in/scott-carpenter-6b79b59",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/scott-carpenter-6b79b59&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCNABEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3ba467abc3213596395de1d0540c23037.png",
+      "snippet": "Managing Director, Jigsaw · Experience: Jigsaw · Location: New York · 500+ connections on LinkedIn ... Deputy Director, Google Ideas. Google. Jul 2012 - Feb 2016 ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Director",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Scott Carpenter"
+    },
+    {
+      "position": 28,
+      "title": "Robert Fenstermacher - American Council on Germany",
+      "link": "https://www.linkedin.com/in/robert-fenstermacher-00a3631",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robert-fenstermacher-00a3631&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCNIBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb323af1bd2c75b89dfd8444af542c0d30d.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Experience. American Council on Germany Graphic. Chief Content Officer.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Chief Content Officer",
+            "American Council on Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert Fenstermacher"
+    },
+    {
+      "position": 29,
+      "title": "Tim Januschowski – Director of Engineering & Site Lead ...",
+      "link": "https://de.linkedin.com/in/tim-januschowski",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/tim-januschowski&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCPEBEAE",
+      "displayed_link": "18.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb323d6285ccff06a4b49e7f833de7668d0.png",
+      "snippet": "Amazon Web Services. März 2018 – Dez. 2021 3 Jahre 10 Monate. Berlin Area, Germany ... Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Tim Januschowski"
+    },
+    {
+      "position": 30,
+      "title": "Roland Busch – President and CEO of Siemens AG",
+      "link": "https://de.linkedin.com/in/buschroland",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/buschroland&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCO0BEAE",
+      "displayed_link": "209.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb36d7e9a068ecafe65ad3da9c5b9d37175.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden ... CHRO and Labor Director of Siemens AG. Siemens. Dez. 2019 – Okt. 2020 11 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Director"
+      ],
+      "source": "LinkedIn · Roland Busch"
+    },
+    {
+      "position": 31,
+      "title": "Werner Baumann - RWTH Aachen University",
+      "link": "https://de.linkedin.com/in/werner-baumann/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/werner-baumann/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCIICEAE",
+      "displayed_link": "68.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3e6b4a45cffd91fe646b149e61cc8bf5d.png",
+      "snippet": "Experience · Chief Sustainability Officer at Bayer · CEO at Bayer AG · Director of Labour Affairs at Bayer AG · Chief Strategy Officer at Bayer AG · Chief Executive ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Director",
+        "Chief",
+        "Chief"
+      ],
+      "source": "LinkedIn · Werner Baumann"
+    },
+    {
+      "position": 32,
+      "title": "Danny Bar-Zohar – Global Head of R&D and Chief Medical ...",
+      "link": "https://de.linkedin.com/in/danny-bar-zohar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/danny-bar-zohar&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCIYCEAE",
+      "displayed_link": "8.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb31d44a7938a4f646410ac03dbf3f34afc.png",
+      "snippet": "Global Head of Research & Development and Chief Medical Officer at Merck KGaA, Darmstadt, Germany ... Continue with GoogleContinue with Google. Neu bei ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Darmstadt, Hessen, Deutschland",
+            "Global Head of R&D and Chief Medical Officer",
+            "Merck Healthcare"
+          ]
+        }
+      },
+      "source": "LinkedIn · Danny Bar-Zohar"
+    },
+    {
+      "position": 33,
+      "title": "Iarla Flynn - Director Govt Affairs & Public Policy (Northern ...",
+      "link": "https://ie.linkedin.com/in/iarla-flynn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/iarla-flynn&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCJcCEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb31356c9e8d30c4ebaa4bc952cccaa8066.png",
+      "snippet": "Experience · Google Graphic. Director Govt Affairs & Public Policy (Northern Europe) · Google Graphic. Director Govt Affairs & Public Policy (Germany, Austria, ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Director",
+        "Google",
+        "Director",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dublin, County Dublin, Ireland",
+            "Director Govt Affairs & Public Policy (Northern Europe)",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Iarla Flynn"
+    },
+    {
+      "position": 34,
+      "title": "Robert Redeleanu - Managing Director, Digital Infrastructure",
+      "link": "https://www.linkedin.com/in/robert-redeleanu-3a432617/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robert-redeleanu-3a432617/&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCKECEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3d525312bda7a5caf4bd0cdd5fe587ae1.png",
+      "snippet": "Experience · Liberty Global Graphic. Managing Director, Digital Infrastructure · Sunrise GmbH Graphic. Chief Business Officer · Chief Executive Officer. UPC CEE.",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Chief",
+        "Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Switzerland",
+            "Managing Director, Digital Infrastructure",
+            "Liberty Global"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert Redeleanu"
+    },
+    {
+      "position": 35,
+      "title": "Sunil Kulkarni - Managing Director - TPES Germany GmbH",
+      "link": "https://in.linkedin.com/in/trichemie",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/trichemie&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCKQCEAE",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb338e479d28bc36d9a97d63f771fef97ec.png",
+      "snippet": "Managing Director TPES Private Ltd, Managing Director TPES Germany GmbH. · TPES Germany ... Continue with GoogleContinue with Google. New to LinkedIn? Join ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Managing Director",
+        "Germany",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Sunil Kulkarni"
+    },
+    {
+      "position": 36,
+      "title": "Ahmad Alhendawi – Regional Director for Middle East, ...",
+      "link": "https://ch.linkedin.com/in/ahmad-alhendawi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ch.linkedin.com/in/ahmad-alhendawi&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCLgCEAE",
+      "displayed_link": "6.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb393632ec9e3ecc5b95c0b9359d5e68ec2.png",
+      "snippet": "International Development, Global Affairs & Diplomacy, Non-profit Management | Senior Executive | Board Director ... Regional Director for Middle East, North ...",
+      "snippet_highlighted_words": [
+        "Board Director",
+        "Regional Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion Genf",
+            "Regional Director for Middle East, North Africa and Eastern Europe",
+            "Save the Children International"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ahmad Alhendawi"
+    },
+    {
+      "position": 37,
+      "title": "Ralf Kleber - Amazon Germany CEO (20+y)",
+      "link": "https://de.linkedin.com/in/ralf-kleber-b1499a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ralf-kleber-b1499a&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECEUQAQ",
+      "displayed_link": "24.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb36ae0fb7bbd214838cb75572b0c8b7e87.png",
+      "snippet": "Berufserfahrung: Ex: Amazon Germany CEO (20+y) · Ort: Metropolregion München · 500+ Kontakte auf LinkedIn ... Continue with GoogleContinue with Google. Neu bei ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "ex_amazon_germany_ceo_y": 20
+          },
+          "extensions": [
+            "Metropolregion München",
+            "Ex: Amazon Germany CEO (20+y)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ralf Kleber"
+    },
+    {
+      "position": 38,
+      "title": "Jürgen Boenecke - Managing Director / Geschäftsführer ...",
+      "link": "https://www.linkedin.com/in/j%C3%BCrgen-boenecke-41b53047",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/j%25C3%25BCrgen-boenecke-41b53047&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECE8QAQ",
+      "displayed_link": "720+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb33f7eb9b9d39d474b4d4810e15c61cb6e.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join ... Managing Director of Arcadis Germany, Responsible for Environmental Business in Germany ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Managing Director",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Managing Director / Geschäftsführer Arcadis Germany",
+            "Arcadis"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jürgen Boenecke"
+    },
+    {
+      "position": 39,
+      "title": "Ute Stauss - Licensing International Germany",
+      "link": "https://de.linkedin.com/in/ute-stauss-profile/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ute-stauss-profile/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECFwQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb30d2ff34e79e10da92d2157e9f479dbd5.png",
+      "snippet": "Continue with GoogleContinue with Google. New to ... Experience. Licensing International Germany Graphic. Managing Director Germany Licensing International.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Managing Director Germany"
+      ],
+      "source": "LinkedIn · Ute Stauss"
+    },
+    {
+      "position": 40,
+      "title": "Sarah Olsen - Head of Retail, EMEA Hub - Germany - Google",
+      "link": "https://www.linkedin.com/in/sarah-arvo-olsen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarah-arvo-olsen&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECGYQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3a25fbb852e3ba91643d0125300dfe016.png",
+      "snippet": "... Germany. Charged with developing pitches and strategies to introduce new ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Detroit Metropolitan Area",
+            "Head of Retail, EMEA Hub",
+            "Germany",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Olsen"
+    },
+    {
+      "position": 41,
+      "title": "Sindhu Gangadharan - Head, Customer Innovation ...",
+      "link": "https://in.linkedin.com/in/sindhugangadharan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/sindhugangadharan&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECHUQAQ",
+      "displayed_link": "118.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb354721213c0b39c53d066b824a1406a8d.png",
+      "snippet": "... Managing Director of SAP Labs in India, Sindhu is responsible for product ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Sindhu Gangadharan"
+    },
+    {
+      "position": 42,
+      "title": "Andrea Passalacqua – VP and General Manager, Germany",
+      "link": "https://ch.linkedin.com/in/andreapassalacqua",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ch.linkedin.com/in/andreapassalacqua&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECH8QAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb38947a13e30e9b152a7ee55c7c335960e.png",
+      "snippet": "Executive Director EMEA Pricing & Market Access. Celgene. Jan. 2015 – Feb ... Senior Director Solid Tumors, Global Marketing. Celgene. Sept. 2012 – Dez ...",
+      "snippet_highlighted_words": [
+        "Executive Director",
+        "Senior Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Neuenburg, Neuenburg, Schweiz",
+            "VP and General Manager, Germany",
+            "Alexion Pharmaceuticals, Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrea Passalacqua"
+    },
+    {
+      "position": 43,
+      "title": "Valerie Heitmann Snyder - Director Brand & Content ...",
+      "link": "https://fr.linkedin.com/in/valerie-heitmann-snyder-21032019/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fr.linkedin.com/in/valerie-heitmann-snyder-21032019/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCJABEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3ed7c4b2b3273683fc1aced12136cceee.png",
+      "snippet": "Director Brand & Content Marketing France and Germany at Audible, Inc. · 10 ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "France",
+            "Director Brand & Content Marketing France and Germany",
+            "Audible"
+          ]
+        }
+      },
+      "source": "LinkedIn · Valerie Heitmann Snyder"
+    },
+    {
+      "position": 44,
+      "title": "Dr. Frank Hiller - Chief Executive Officer - BayWa AG",
+      "link": "https://de.linkedin.com/in/dr-frank-hiller/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dr-frank-hiller/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCI4BEAE",
+      "displayed_link": "19.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb39741446557362d26c957a5c9d207d9eb.png",
+      "snippet": "Chief Executive Officer at BayWa AG · As an engineer, I am fascinated by technical solutions and new approaches that enable economic and ecological progress ...",
+      "snippet_highlighted_words": [
+        "Chief"
+      ],
+      "source": "LinkedIn · Dr. Frank Hiller"
+    },
+    {
+      "position": 45,
+      "title": "Bassil Akra - Chief Executive Officer - AKRA TEAM GmbH",
+      "link": "https://de.linkedin.com/in/bassil-akra-akrateam/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/bassil-akra-akrateam/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCKgBEAE",
+      "displayed_link": "10.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb33f0511aca9f6b4e95c2d53196de79d1b.png",
+      "snippet": "Chief Executive Officer · Co-CEO · CEO and Co-Owner · Vice President · Vice President · Vice President · Director Clinical Centre of Excellence · Product Specialist.",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Landsberg, Bavaria, Germany",
+            "Chief Executive Officer",
+            "AKRA TEAM GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bassil Akra"
+    },
+    {
+      "position": 46,
+      "title": "Rahul Roy-Chowdhury - Grammarly",
+      "link": "https://www.linkedin.com/in/rahulrc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rahulrc&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCKoBEAE",
+      "displayed_link": "12.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb391cc0403562ef76d4ea78c8104365376.png",
+      "snippet": "When expanded it provides a list of search options that will switch the search inputs to match the current selection. ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "current",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Grammarly"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rahul Roy-Chowdhury"
+    },
+    {
+      "position": 47,
+      "title": "Lars Auerbach 💻 Skill Transformation Solutions",
+      "link": "https://de.linkedin.com/in/larsauerbach/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/larsauerbach/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCLoBEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3622e960e83517098f40b886f6597224b.png",
+      "snippet": "Director Academy Germany | We help companies master their tech skill ... Project Manager (Assistant to Regional Director). Modis. Jan 2019 - Oct 2019 10 ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Germany",
+        "Regional Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Director Academy Germany",
+            "Akkodis"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lars Auerbach 💻 Skill Transformation Solutions"
+    },
+    {
+      "position": 48,
+      "title": "Robin Vince - Chief Executive Officer - BNY",
+      "link": "https://www.linkedin.com/in/robin-vince",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robin-vince&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCL8BEAE",
+      "displayed_link": "51K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb300eaa0ce354f5597187ee930f149ec09.png",
+      "snippet": "Chief Executive Officer · President & Chief Executive Officer-Elect · Vice Chair · Senior Director · Chief Risk Officer · Treasurer · Head of Operations · COO for ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Chief",
+        "Senior Director",
+        "Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Chief Executive Officer",
+            "BNY"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robin Vince"
+    },
+    {
+      "position": 49,
+      "title": "Rajesh Ranjan - Head of Core Government Affairs and ...",
+      "link": "https://in.linkedin.com/in/rajesh-ranjan-646553a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/rajesh-ranjan-646553a&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCNYBEAE",
+      "displayed_link": "6.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb38b5411529049169097fbf5da27d875e3.png",
+      "snippet": "Experience · Google Graphic. Head of Core Government Affairs and Public Policy · Microsoft Graphic. Director - Corporate Affairs and Public Policy · KPMG · Radials ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "South Delhi, Delhi, India",
+            "Head of Core Government Affairs and Public Policy",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rajesh Ranjan"
+    },
+    {
+      "position": 50,
+      "title": "Beatrix Kania - Director, Chief of Protocol - United Nations",
+      "link": "https://www.linkedin.com/in/beatrix-kania-06a49972",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/beatrix-kania-06a49972&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCNgBEAE",
+      "displayed_link": "590+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb34ce5b0d781a9604891f3b702bab41bbf.png",
+      "snippet": "Director, Chief of Protocol. United Nations. Jul 2019 - Present 5 years 9 months. New York, New York. Auswärtiges Amt (Federal Foreign Office) Germany Graphic ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Chief",
+        "Present",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "Director, Chief of Protocol",
+            "United Nations"
+          ]
+        }
+      },
+      "source": "LinkedIn · Beatrix Kania"
+    },
+    {
+      "position": 51,
+      "title": "Benedikt Franke - Munich Security Conference",
+      "link": "https://de.linkedin.com/in/benedikt-franke-ceo-msc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/benedikt-franke-ceo-msc&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCNEBEAE",
+      "displayed_link": "13K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3986f41a9626cdf18b6225a6e4d6f39a9.png",
+      "snippet": "Vice Chairman · Chief Executive Officer · Chief Operating Officer · Head of Protocol and External Relations · Director · Beauftragter für Strategiefragen · Policy ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Chief",
+        "Director"
+      ],
+      "source": "LinkedIn · Benedikt Franke"
+    },
+    {
+      "position": 52,
+      "title": "Georg Ludwig - Telefónica Germany",
+      "link": "https://de.linkedin.com/in/ludwiggeorg/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ludwiggeorg/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCNMBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb39ba0c11052932ae44b30d71bc49ec52c.png",
+      "snippet": "Experience: Telefónica Germany · Education: DHBW Stuttgart · Location: Munich · 500+ connections on LinkedIn ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Telefónica Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Georg Ludwig"
+    },
+    {
+      "position": 53,
+      "title": "Stephan Jablonski - SENIOR CLIENT DIRECTOR, LEISURE",
+      "link": "https://de.linkedin.com/in/stephanjablonski/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/stephanjablonski/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCOsBEAE",
+      "displayed_link": "6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb34091fb1078fc055c8352353daaf4e621.png",
+      "snippet": "Senior Client Director, Leisure - Germany Austria & Switzerland Belmond ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cologne, North Rhine-Westphalia, Germany",
+            "SENIOR CLIENT DIRECTOR, LEISURE",
+            "GERMANY, AUSTRIA & SWITZERLAND",
+            "Belmond"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephan Jablonski"
+    },
+    {
+      "position": 54,
+      "title": "Guido Massfeller – Business Development Director Public ...",
+      "link": "https://de.linkedin.com/in/guido-massfeller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/guido-massfeller&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCOwBEAE",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb343fc570cd1994e1ff676ab691905ae14.png",
+      "snippet": "Guido Massfeller. Business Development Director Public Sector Germany. Google Fachhochschule Rottenburg - Hochschule für Forstwirtschaft. Koblenz und Umgebung.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Germany",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Koblenz und Umgebung",
+            "Business Development Director Public Sector Germany",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Guido Massfeller"
+    },
+    {
+      "position": 55,
+      "title": "Michele Greiner MRICS - Managing Director Germany",
+      "link": "https://de.linkedin.com/in/michele-greiner-21243b56/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/michele-greiner-21243b56/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCPkBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb326a6059f105362db5952c9a72a2a8147.png",
+      "snippet": "Managing Director Germany · Experience: MARK · Education: Henley Business ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Managing Director Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt Rhine-Main Metropolitan Area",
+            "Managing Director Germany",
+            "MARK"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michele Greiner"
+    },
+    {
+      "position": 56,
+      "title": "Dr. Veit Buetterlin-Goldberg - Partner & Managing Director",
+      "link": "https://de.linkedin.com/in/dr-veit-buetterlin-goldberg-1412b818/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dr-veit-buetterlin-goldberg-1412b818/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCPsBEAE",
+      "displayed_link": "16K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb38e5edf3198da7d8397cacd47fcdf81ee.png",
+      "snippet": "Partner & Managing Director | Country Head Germany. AlixPartners. Feb 2025 ... Senior Director, Management Board Member. AlixPartners. Jan 2019 - Dec 2021 ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Germany",
+        "Senior Director"
+      ],
+      "source": "LinkedIn · Dr. Veit Buetterlin-Goldberg"
+    },
+    {
+      "position": 57,
+      "title": "Thorsten Freese - Managing Director Germany - Believe",
+      "link": "https://de.linkedin.com/in/thorstenfreese/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/thorstenfreese/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCIMCEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb384180a2cc7bbf64c7aa9a5cc16168732.png",
+      "snippet": "Managing Director Believe Germany · Long-term experience in international sales, licensing and music industry ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Hamburg Area",
+            "Managing Director Germany",
+            "Believe"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thorsten Freese"
+    },
+    {
+      "position": 58,
+      "title": "Julian Mueller-Kaler - Director & Chief of Staff",
+      "link": "https://www.linkedin.com/in/julian-mueller-kaler-7a0334149",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/julian-mueller-kaler-7a0334149&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCIkCEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb36199bc634bc78fd5a4b40573e48811a0.png",
+      "snippet": "Director and Chief of Staff at the Stimson Center | Working on Strategic ... Executive Director at the World Bank Group; and Fulbright-Schuman Scholar ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Chief",
+        "Executive Director"
+      ],
+      "source": "LinkedIn · Julian Mueller-Kaler"
+    },
+    {
+      "position": 59,
+      "title": "Hein Schumacher - CEO - Unilever",
+      "link": "https://uk.linkedin.com/in/hein-schumacher",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hein-schumacher&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCIUCEAE",
+      "displayed_link": "115.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3993b09212d3b23ba6e373be07750a7af.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Finance Director Netherlands. HJ Heinz. Nov 2003 - Oct 2005 2 years. Ahold ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "CEO",
+            "Unilever"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hein Schumacher"
+    },
+    {
+      "position": 60,
+      "title": "Andrés Marx - Managing Director, Germany - Neoen",
+      "link": "https://de.linkedin.com/in/andr%C3%A9s-marx-9b19601b9/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/andr%25C3%25A9s-marx-9b19601b9/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCIcCEAE",
+      "displayed_link": "530+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb31d25f46bff1ad75eff1bba1cc245c50d.png",
+      "snippet": "Managing Director, Germany @ Neoen. Neoen Universität Passau. Germany. 534 ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Germany",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Managing Director, Germany",
+            "Neoen"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrés Marx"
+    },
+    {
+      "position": 61,
+      "title": "Kavya Shrivastav - Director - Germany Careers",
+      "link": "https://in.linkedin.com/in/kavya-shrivastav-b983121b7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/kavya-shrivastav-b983121b7&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCJwCEAE",
+      "displayed_link": "580+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3766d317bb3d988b182a6d35e178df519.png",
+      "snippet": "Director at Germany Careers. German & Japanese language trainer. Freelancer ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Kavya Shrivastav"
+    },
+    {
+      "position": 62,
+      "title": "Helen Giza - Chief Executive Officer and Chair of the ...",
+      "link": "https://www.linkedin.com/in/helen-giza",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/helen-giza&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCJoCEAE",
+      "displayed_link": "15.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3b22176896b490169f2a365891d6360b7.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Experience. Fresenius Medical Care Graphic. Chief Executive Officer and Chair of ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Waltham, Massachusetts, United States",
+            "Chief Executive Officer and Chair of the Management Board",
+            "Fresenius Medical Care"
+          ]
+        }
+      },
+      "source": "LinkedIn · Helen Giza"
+    },
+    {
+      "position": 63,
+      "title": "Stephen Anderson – Deputy Chief of Mission, Acting",
+      "link": "https://de.linkedin.com/in/stephen-anderson-a9a82184",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/stephen-anderson-a9a82184&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCKACEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3fa9c072b339ef4b1219d3c8097f68594.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied ... American Chamber of Commerce in Germany e.V. (AmCham Germany) Grafik. Board ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "source": "LinkedIn · Stephen Anderson"
+    },
+    {
+      "position": 64,
+      "title": "Michael Schroeder - Managing Director at Coinbase",
+      "link": "https://ch.linkedin.com/in/mschroeder-cb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ch.linkedin.com/in/mschroeder-cb&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCJ8CEAE",
+      "displayed_link": "6.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3af4e1e727fefcf2591bbda3c8ed3b52c.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden. oder ... Managing Director & Board Member Germany / Chief Risk Officer Europe.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Managing Director",
+        "Germany",
+        "Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Schweiz",
+            "Managing Director & Board Member Germany / Chief Risk Officer Europe",
+            "Coinbase"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Schroeder"
+    },
+    {
+      "position": 65,
+      "title": "Michael Peters - Chief Operating Officer - Voya Investment ...",
+      "link": "https://www.linkedin.com/in/michaelpetersallianzgi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michaelpetersallianzgi&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCLICEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3d4e7cb16ca8f9226272e9eb3e1f909e9.png",
+      "snippet": "Munich, Bavaria, Germany. Managing Director, Member of the Investment Executive Committee (IEC), responsible for Investment Transformation ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Managing Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Chief Operating Officer",
+            "Voya Investment Management"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Peters"
+    },
+    {
+      "position": 66,
+      "title": "Winter Casey - Senior Director - SAP",
+      "link": "https://www.linkedin.com/in/winter-casey-42bb50",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/winter-casey-42bb50&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCLMCEAE",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb32bc12b5be08a9bd41c95e61b00e50f7c.png",
+      "snippet": "Senior Director · Vice President, Global Government Affairs · Deputy Chief Technology Officer of the United States · Deputy Director of Digital Economy · Global ...",
+      "snippet_highlighted_words": [
+        "Senior Director",
+        "Chief",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Senior Director",
+            "SAP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Winter Casey"
+    },
+    {
+      "position": 67,
+      "title": "Bill McDermott - Chairman and CEO - ServiceNow",
+      "link": "https://www.linkedin.com/in/billrmcdermott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/billrmcdermott&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCMECEAE",
+      "displayed_link": "307.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3fa4b5f88e13720549ff5a2337c996733.png",
+      "snippet": "Bill McDermott is Chairman and Chief Executive Officer of ServiceNow – the company with the fastest organic growth in the history of enterprise software.",
+      "snippet_highlighted_words": [
+        "Chief"
+      ],
+      "source": "LinkedIn · Bill McDermott"
+    },
+    {
+      "position": 68,
+      "title": "A. Aldo Faisal - Professor in AI & Neuroscience",
+      "link": "https://uk.linkedin.com/in/a-aldo-faisal-057b704b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/a-aldo-faisal-057b704b&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCL0CEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3bfd9eb26f6f01c0f246cdae1e46006dd.png",
+      "snippet": "Professor in AI & Neuroscience + Director UKRI Centre AI for Healthcare (Imperial College London, UK) & Chair in Digital Health (Uni Bayreuth, Germany) ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Germany"
+      ],
+      "source": "LinkedIn · A. Aldo Faisal"
+    },
+    {
+      "position": 69,
+      "title": "Boris Sramel - Strategic Projects Development & Managing ...",
+      "link": "https://si.linkedin.com/in/boris-sramel-ba042727",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://si.linkedin.com/in/boris-sramel-ba042727&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECE0QAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3c0729d39584b3769187bcc75c503a1b7.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn ... Trimo. 13 years. Trimo Graphic. Regional director West Europa & Managing director Trimo Germany.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Regional director",
+        "Managing director",
+        "Germany"
+      ],
+      "source": "LinkedIn · Boris Sramel"
+    },
+    {
+      "position": 70,
+      "title": "Sven Baumann – Managing Director – Jefferies",
+      "link": "https://de.linkedin.com/in/sven-baumann-8a6a52103",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sven-baumann-8a6a52103&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECEkQAQ",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3402a6a6ddfa82710f3e84edb4c5ea8eb.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden ... Managing Director. Jefferies. Okt. 2023 –Heute 1 Jahr 6 Monate. Germany.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Managing Director",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hessen, Deutschland",
+            "Managing Director",
+            "Jefferies"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sven Baumann"
+    },
+    {
+      "position": 71,
+      "title": "Wolfgang Eckert – Director - Country Manager Amazon ...",
+      "link": "https://de.linkedin.com/in/wolfgang-eckert-890b4b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/wolfgang-eckert-890b4b&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECFkQAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb366a800e41394d47051582999afa24c95.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied ... Director AmazonFresh & PrimeNow Germany. Amazon. Jan. 2018 – März 2019 1 Jahr ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Director",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bayern, Deutschland",
+            "Director",
+            "Country Manager Amazon Business Germany",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Wolfgang Eckert"
+    },
+    {
+      "position": 72,
+      "title": "Joe Kaeser - Supervisory Board Chairman - Siemens Energy",
+      "link": "https://de.linkedin.com/in/joe-kaeser/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/joe-kaeser/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECE4QAQ",
+      "displayed_link": "126.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3fc22e4b5787d587c8d47999c670dc3cb.png",
+      "snippet": "... Chief Financial officer since 2006. Today, I am Grandpa, Chairman ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Joe Kaeser"
+    },
+    {
+      "position": 73,
+      "title": "Jana Weidig - White & Case LLP",
+      "link": "https://de.linkedin.com/in/jana-weidig-965115100/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/jana-weidig-965115100/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECFsQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb33bb922e20d4c053dbd2ce5b42b506d6f.png",
+      "snippet": "Associate Director Operations Germany · Experience: White & Case LLP ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Jana Weidig"
+    },
+    {
+      "position": 74,
+      "title": "Illana Kern - Global Director of Learning and Development",
+      "link": "https://www.linkedin.com/in/illanakern",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/illanakern&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECGcQAQ",
+      "displayed_link": "10.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb301172f39f50df40dd3cbdb043ae48e94.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... International Business. France and Germany. Managing - Leadership Program.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "source": "LinkedIn · Illana Kern"
+    },
+    {
+      "position": 75,
+      "title": "Izzet Ensoy – Finance Director, Multi Germany and ...",
+      "link": "https://de.linkedin.com/in/izzet-ensoy-83bb9664",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/izzet-ensoy-83bb9664&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECGgQAQ",
+      "displayed_link": "850+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3bceab8d9a8091055d54cffc051706efe.png",
+      "snippet": "Promoted to the position in July 2013. Leads a team of 5 controllers and directly reports to Managing Director of Multi Turkey. • Conduct relationship with ...",
+      "snippet_highlighted_words": [
+        "Managing Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+            "Finance Director, Multi Germany and Switzerland",
+            "Multi Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Izzet Ensoy"
+    },
+    {
+      "position": 76,
+      "title": "Dr. Martin Brudermüller - Chairman of the Supervisory Board",
+      "link": "https://www.linkedin.com/in/martin-brudermueller/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/martin-brudermueller/&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECGkQAQ",
+      "displayed_link": "98.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb32c48f0bcbc72a496d387adbca9f5474b.png",
+      "snippet": "... Germany · 500+ connections on LinkedIn. View Dr. Martin Brudermüller's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Dr. Martin Brudermüller"
+    },
+    {
+      "position": 77,
+      "title": "Dr. Martin Frick - Director, WFP Global Office Berlin",
+      "link": "https://de.linkedin.com/in/martin-frick-wfp/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/martin-frick-wfp/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECHYQAQ",
+      "displayed_link": "10.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb38a190689861aabb38e6a3c613aa8c49c.png",
+      "snippet": "Senior Director Policy and Programme Coordination. UNFCCC. Nov 2017 - Nov 2021 4 years 1 month. Bonn Area, Germany. FAO Graphic. Director Climate, Energy and ...",
+      "snippet_highlighted_words": [
+        "Senior Director",
+        "Germany",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Director, WFP Global Office Berlin",
+            "World Food Programme"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Martin Frick"
+    },
+    {
+      "position": 78,
+      "title": "Suchetha Haldipur - Managing Director/ Geschäftsführer",
+      "link": "https://in.linkedin.com/in/suchethahaldipur",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/suchethahaldipur&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECHQQAQ",
+      "displayed_link": "6.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3453be52104f2ea9883e20fe387aa9d67.png",
+      "snippet": "CEO & Co-Founder at HireInfinity Consulting | Managing Director at HireInfinity Consulting Germany ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Suchetha Haldipur"
+    },
+    {
+      "position": 79,
+      "title": "Nermin Gnam - Managing Director Global Service",
+      "link": "https://de.linkedin.com/in/nermingnam/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/nermingnam/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCIUBEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb37cfb1151985079c64b2ff239c55577a3.png",
+      "snippet": "Einhell Germany AG Graphic. Managing Director Global Service. Einhell Germany AG. 2024 - Present 1 year. Landau an der Isar, Bayern, Deutschland. Electrolux ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Managing Director",
+        "Germany",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Leipheim, Bavaria, Germany",
+            "Managing Director Global Service",
+            "Einhell Germany AG"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nermin Gnam"
+    },
+    {
+      "position": 80,
+      "title": "Andreas Lukas - Frankfurt, Hesse, Germany",
+      "link": "https://www.linkedin.com/in/andreas-lukas-04628aa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andreas-lukas-04628aa&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCIIBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3cb58a9929f916d30c9a4e4c4e07b40eb.png",
+      "snippet": "Andreas Lukas. Managing Director Energy. Frankfurt, Hesse, Germany. 2K followers 500+ connections. See your mutual connections. View mutual connections with ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Germany"
+      ],
+      "source": "LinkedIn · Andreas Lukas"
+    },
+    {
+      "position": 81,
+      "title": "John Plews - Director - Canadian Summer School in ...",
+      "link": "https://ca.linkedin.com/in/john-plews-b7884044",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ca.linkedin.com/in/john-plews-b7884044&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCI0BEAE",
+      "displayed_link": "160+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb357fced9aaf807f0e1649b6e1a54ef154.png",
+      "snippet": "Director at Canadian Summer School in Germany (Kassel Program) · Experience ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · John Plews"
+    },
+    {
+      "position": 82,
+      "title": "Carsten Schneider – Managing Director Germany",
+      "link": "https://de.linkedin.com/in/carsten-schneider-b026409a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/carsten-schneider-b026409a&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCI8BEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3d017b4fbb7ab1e839a75182e1d642f5d.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden. oder ... Managing Director Germany. CyrusOne. Okt. 2023 –Heute 1 Jahr 6 Monate.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Managing Director Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt/Rhein-Main",
+            "Managing Director Germany",
+            "CyrusOne"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carsten Schneider"
+    },
+    {
+      "position": 83,
+      "title": "Dianna Germany - Director - Travel Support Cyprus",
+      "link": "https://www.linkedin.com/in/dianna-germany",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dianna-germany&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCJkBEAE",
+      "displayed_link": "50+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb304014113edddad1a21e7850ebea5e282.png",
+      "snippet": "... Germany's profile on LinkedIn, a professional community of 1 billion members ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany's",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Larnaca, Cyprus",
+            "Director",
+            "Travel Support Cyprus"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dianna Germany"
+    },
+    {
+      "position": 84,
+      "title": "David Nichols - US Head - Group Political Office",
+      "link": "https://www.linkedin.com/in/david-nichols-86967311b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-nichols-86967311b&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCJYBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3ce36840365b311601257b4c66064e378.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Director, Advocacy and State Government Affairs. EMD Serono, Inc. Apr ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Plymouth, Massachusetts, United States",
+            "US Head",
+            "Group Political Office",
+            "Merck KGaA, Darmstadt, Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Nichols"
+    },
+    {
+      "position": 85,
+      "title": "Alex Kenning - Aquent",
+      "link": "https://uk.linkedin.com/in/alexkenning",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alexkenning&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCKcBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb380f0f6f6dd34fe8cc1340b49f508e0a8.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Regional Director, UK & Europe (France, Netherlands & Germany). Aquent. Jul ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Regional Director",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Guisborough, England, United Kingdom",
+            "Regional Director, UK & Europe (France, Netherlands & Germany)",
+            "Aquent"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alex Kenning"
+    },
+    {
+      "position": 86,
+      "title": "Giuseppe Marsocci - Giorgio Armani Corporation",
+      "link": "https://www.linkedin.com/in/giuseppe-marsocci-90435817",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/giuseppe-marsocci-90435817&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCKYBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb33e4a2b2cff8137fe77214ee3913fb545.png",
+      "snippet": "Chief Executive Officer - Giorgio Armani Corporation - New York ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chief Executive Officer",
+            "Giorgio Armani Corporation"
+          ]
+        }
+      },
+      "source": "LinkedIn · Giuseppe Marsocci"
+    },
+    {
+      "position": 87,
+      "title": "Carla Marschall - Dresden International School",
+      "link": "https://de.linkedin.com/in/carlamarschall/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/carlamarschall/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCLUBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3f642826dc8953a6569353d38c1395063.png",
+      "snippet": "Dresden, Saxony, Germany. 2K followers 500+ connections. See your mutual ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dresden, Saxony, Germany",
+            "Director",
+            "DIS",
+            "Dresden International School"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carla Marschall"
+    },
+    {
+      "position": 88,
+      "title": "Björn Claußen - Managing Director - Head of Corporate ...",
+      "link": "https://de.linkedin.com/in/bjoernclaussen/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/bjoernclaussen/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCLQBEAE",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3f05675edcc12e27b33dbd5afddb4cacf.png",
+      "snippet": "Managing Director - Head of Corporate Coverage Southwest Germany / Head of ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Stuttgart, Baden-Württemberg, Germany",
+            "Managing Director",
+            "Head of Corporate Coverage Southwest Germany",
+            "BNP Paribas CIB"
+          ]
+        }
+      },
+      "source": "LinkedIn · Björn Claußen"
+    },
+    {
+      "position": 89,
+      "title": "Ricardo Martinez - Chief Executive Officer - Funny Or Die",
+      "link": "https://www.linkedin.com/in/rimartinez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rimartinez&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCMsBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb37eaef5098c102798b29b023729e4363e.png",
+      "snippet": "Funny Or Die Graphic. Chief Executive Officer. Funny Or Die. Jan 2025 - Present 3 months · Executive Director, Current Programming at ABC Entertainment. ABC ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Present",
+        "Executive Director",
+        "Current"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Chief Executive Officer",
+            "Funny Or Die"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ricardo Martinez"
+    },
+    {
+      "position": 90,
+      "title": "Richard Jager - Chief Executive Officer at Randstad Group ...",
+      "link": "https://www.linkedin.com/in/richard-jager-5888851/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/richard-jager-5888851/&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCMABEAE",
+      "displayed_link": "8.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3b0b0239cbb94c2b46b6f0fc3424014ff.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Director at Randstad Netherlands. Randstad. Jan 2007 - Sep 2010 3 years 9 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Director"
+      ],
+      "source": "LinkedIn · Richard Jager"
+    },
+    {
+      "position": 91,
+      "title": "Jean-Paul Spijker – Director Sales and Marketing Specialty ...",
+      "link": "https://de.linkedin.com/in/jean-paul-spijker-2821a83",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/jean-paul-spijker-2821a83&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCL4BEAE",
+      "displayed_link": "4.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3733eb6b24957c5ea648d7c65f6f21225.png",
+      "snippet": "Managing Director (Member of the Onyx Group). MARANGONI INDUSTRIE ... Regional Director Of Sales & Marketing. Solideal International S.A.. Nov. 1998 ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Regional Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hannover, Niedersachsen, Deutschland",
+            "Director Sales and Marketing Specialty Tire Europe",
+            "Linglong Germany GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jean-Paul Spijker"
+    },
+    {
+      "position": 92,
+      "title": "Markus Krebber - CEO - RWE",
+      "link": "https://de.linkedin.com/in/markus-krebber/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/markus-krebber/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoFCMEBEAE",
+      "displayed_link": "82.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3f466875ddbbed4d1939ccb2f656bd095.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Managing Director and Chief Financial Officer, RWE Supply & Trading. RWE ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Managing Director",
+        "Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Essen, North Rhine-Westphalia, Germany",
+            "CEO",
+            "RWE"
+          ]
+        }
+      },
+      "source": "LinkedIn · Markus Krebber"
+    },
+    {
+      "position": 93,
+      "title": "Katja Scharnagl - Portfolio Ambassador to Germany, ...",
+      "link": "https://www.linkedin.com/in/katja-scharnagl-2600ba18",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katja-scharnagl-2600ba18&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECCoQAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb384157ebe3182af1d2498662c8b8e3e39.png",
+      "snippet": "Experience · Portfolio Ambassador to Germany, Austria & Slovenia · Chief Executive Officer · Beverage Director · Sales Specialist · Sommelier · Chef Sommelier.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Chief",
+        "Director"
+      ],
+      "source": "LinkedIn · Katja Scharnagl"
+    },
+    {
+      "position": 94,
+      "title": "Cristina Méndez - Executive Vice President & Chief ...",
+      "link": "https://www.linkedin.com/in/cristina-m%C3%A9ndez-2581096",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cristina-m%25C3%25A9ndez-2581096&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECDAQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb37f308661c5d1361a2c360480fc927b5e.png",
+      "snippet": "Telefónica Germany Graphic. Director Controlling. Telefónica Germany. Jan 2018 - Jan ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Director",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Farmington, Connecticut, United States",
+            "Executive Vice President & Chief Financial Officer",
+            "Otis Elevator Co."
+          ]
+        }
+      },
+      "source": "LinkedIn · Cristina Méndez"
+    },
+    {
+      "position": 95,
+      "title": "Hartmut Thomsen - Chief Executive Officer - Aareon Group",
+      "link": "https://de.linkedin.com/in/hartmut-thomsen-4040255a/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/hartmut-thomsen-4040255a/en&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECDYQAQ",
+      "displayed_link": "10.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb31bb3a13e33d0db4cb4ecd977d9a0c5c9.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Hartmut was Managing Director of SAP Germany for four and a half years. As ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Managing Director",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mainz, Rhineland-Palatinate, Germany",
+            "Chief Executive Officer",
+            "Aareon Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hartmut Thomsen"
+    },
+    {
+      "position": 96,
+      "title": "Kristine Berzina - Managing Director, Geostrategy North",
+      "link": "https://www.linkedin.com/in/kristine-berzina-bb05a21a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kristine-berzina-bb05a21a&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECCwQAQ",
+      "displayed_link": "880+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3ff96acde9ee00446cddb2b6ef1c3a043.png",
+      "snippet": "Managing Director, Geostrategy North, German Marshall Fund of the United ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Managing Director, Geostrategy North",
+            "German Marshall Fund of the United States"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kristine Berzina"
+    },
+    {
+      "position": 97,
+      "title": "Gerrit Kazmaier - Workday",
+      "link": "https://www.linkedin.com/in/gerrit-kazmaier",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gerrit-kazmaier&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECCcQAQ",
+      "displayed_link": "15.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3f6a4e699954f297442964789ce84ef36.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Germany. -. Germany. -. Vancouver, British Columbia, Canada. -. Vancouver ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Workday"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gerrit Kazmaier"
+    },
+    {
+      "position": 98,
+      "title": "Markus Schäfer - Mitglied des Vorstands der Mercedes- ...",
+      "link": "https://www.linkedin.com/in/markus-sch%C3%A4fer/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/markus-sch%25C3%25A4fer/&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECDEQAQ",
+      "displayed_link": "98.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb39a69ee9ec25b7f5f4b6b12eb3f2d6f6e.png",
+      "snippet": "Member of the Board of Management of Mercedes-Benz Group AG, Chief Technology Officer, Development & Procurement · ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Stuttgart Region",
+            "Mitglied des Vorstands der Mercedes-Benz Group AG, Chief Technology Officer, Entwicklung & Einkauf",
+            "Mercedes-Benz Group AG"
+          ]
+        }
+      },
+      "source": "LinkedIn · Markus Schäfer"
+    },
+    {
+      "position": 99,
+      "title": "Martin Klingen - Chief Corporate Affairs Officer Germany & ...",
+      "link": "https://www.linkedin.com/in/martin-klingen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/martin-klingen&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECCgQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3176d267eaea3a9563369a764c088c0e2.png",
+      "snippet": "Experience ; Chief Corporate Affairs Officer Germany & Nordics | Member of the Board · Jan 2024 - Present 1 year 3 months ; Corporate Affairs Senior Director | ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Germany",
+        "Present",
+        "Senior Director"
+      ],
+      "source": "LinkedIn · Martin Klingen"
+    },
+    {
+      "position": 100,
+      "title": "Amy Arora - Google",
+      "link": "https://www.linkedin.com/in/amyarora",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amyarora&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90QFnoECCsQAQ",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa1c3f30afef877fc886/images/b7d09f4bb365062748adb5b6d194afb3a055ea0c491b7e3bde28aea309c805bd.png",
+      "snippet": "Experienced executive with a strong track record in strategy, M&A, investments, and… Experience. Google Graphic. Google. -. -. -. Munich, Bavaria, Germany ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amy Arora"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=HfrdZ86hHuLm2roPuLbM6A0&start=100&sa=N&sstk=Af40H4U1ZVO7sQYM68BNC4Er9T7O7PB1R1_4416zaLxIiXuHub_Ll9i5DlAawhhpYp-FcUnddZEuXdLksmw_IVehPZjctNZTpovNCQ&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90Q8NMDegQICRAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=HfrdZ86hHuLm2roPuLbM6A0&start=100&sa=N&sstk=Af40H4U1ZVO7sQYM68BNC4Er9T7O7PB1R1_4416zaLxIiXuHub_Ll9i5DlAawhhpYp-FcUnddZEuXdLksmw_IVehPZjctNZTpovNCQ&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90Q8tMDegQICRAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=HfrdZ86hHuLm2roPuLbM6A0&start=200&sa=N&sstk=Af40H4U1ZVO7sQYM68BNC4Er9T7O7PB1R1_4416zaLxIiXuHub_Ll9i5DlAawhhpYp-FcUnddZEuXdLksmw_IVehPZjctNZTpovNCQ&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90Q8tMDegQICRAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=HfrdZ86hHuLm2roPuLbM6A0&start=300&sa=N&sstk=Af40H4U1ZVO7sQYM68BNC4Er9T7O7PB1R1_4416zaLxIiXuHub_Ll9i5DlAawhhpYp-FcUnddZEuXdLksmw_IVehPZjctNZTpovNCQ&ved=2ahUKEwiOpNLNrZyMAxVis1YBHTgbE90Q8tMDegQICRAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=300"
+    }
+  }
+}

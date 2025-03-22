@@ -1,0 +1,2249 @@
+{
+  "search_metadata": {
+    "id": "67ddfaad35837b39e69e78a9",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9caecd2e5005278d/67ddfaad35837b39e69e78a9.json",
+    "created_at": "2025-03-21 23:47:57 UTC",
+    "processed_at": "2025-03-21 23:47:57 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9caecd2e5005278d/67ddfaad35837b39e69e78a9.html",
+    "total_time_taken": 2.38
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Amazon\" AND \"United Kingdom\" AND (current OR present) AND (\"President\" OR \"Chairman\" OR \"Chief Executive\" OR \"Principal Owner\" OR \"Managing Member\" OR \"Fellow\" OR \"Senior Fellow\" OR \"Distinguished Engineer\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Amazon\" AND \"United Kingdom\" AND (current OR present) AND (\"President\" OR \"Chairman\" OR \"Chief Executive\" OR \"Principal Owner\" OR \"Managing Member\" OR \"Fellow\" OR \"Senior Fellow\" OR \"Distinguished Engineer\")",
+    "total_results": 3830000,
+    "time_taken_displayed": 1.07,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "John Boumphrey - VP Country Manager UK & Ireland",
+      "link": "https://uk.linkedin.com/in/johnboumphrey",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/johnboumphrey&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECBkQAQ",
+      "displayed_link": "36.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306c07bf6744df517b83938178e35342e2c.png",
+      "snippet": "London, England, United Kingdom. Amazon Graphic. Vice President, Amazon Fashion Europe. Amazon. Sep 2018 - Nov 2020 2 years 3 months. London, United Kingdom.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon",
+        "President",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "VP Country Manager UK & Ireland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Boumphrey"
+    },
+    {
+      "position": 2,
+      "title": "Ian Levy - Amazon",
+      "link": "https://uk.linkedin.com/in/ian-levy-182a8342",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ian-levy-182a8342&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECBwQAQ",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306cd5fffa92a2b87123d5250d97db0717e.png",
+      "snippet": "Experience: Amazon · Education: University of Warwick · Location: United Kingdom · 500+ connections on LinkedIn. View Ian Levy's profile on LinkedIn, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ian Levy"
+    },
+    {
+      "position": 3,
+      "title": "Narayan Kamath - Google",
+      "link": "https://uk.linkedin.com/in/narayan-kamath-5216682",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/narayan-kamath-5216682&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECBoQAQ",
+      "displayed_link": "650+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30630d0ec734c2b918ad6f3737b58f42236.png",
+      "snippet": "Narayan Kamath. Google University of Oxford. London, England, United Kingdom. 653 followers 500 ...",
+      "snippet_highlighted_words": [
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Narayan Kamath"
+    },
+    {
+      "position": 4,
+      "title": "Stuart Morgan - Amazon",
+      "link": "https://uk.linkedin.com/in/stuart-morgan-62684951",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stuart-morgan-62684951&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECB0QAQ",
+      "displayed_link": "710+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306938d54783b9955d6ef61029bfec2cbfc.png",
+      "snippet": "An… · Experience: Amazon · Education: The Open University · Location: London Area, United Kingdom · 500+ connections on LinkedIn. View Stuart Morgan's ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stuart Morgan"
+    },
+    {
+      "position": 5,
+      "title": "John McEwen - General Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/john-mcewen-80b35132",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/john-mcewen-80b35132&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECBgQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306620d09e8680ded1019192fe342d9aa97.png",
+      "snippet": "Amazon. Mar 2024 - Present 1 year 1 month. Greater London, England, United Kingdom ... Vice President of the Asian Culture Association. University of North Dakota.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "General Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John McEwen"
+    },
+    {
+      "position": 6,
+      "title": "Chris Harris - Director, Worldwide Engineering & Automation",
+      "link": "https://uk.linkedin.com/in/chharris",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chharris&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECBUQAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306a5055adf38d06bd1a2404da382bc8e9e.png",
+      "snippet": "Chris Harris. Director, Worldwide Engineering & Automation. Amazon The Open University. England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "England, United Kingdom",
+            "Director, Worldwide Engineering & Automation",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Harris"
+    },
+    {
+      "position": 7,
+      "title": "Uwem Ukpong - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/uwem-ukpong",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/uwem-ukpong&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECCgQAQ",
+      "displayed_link": "21.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3069a5ae0b92bbe11c60b46611fcd9715e2.png",
+      "snippet": "Uwem Ukpong is Vice President of Global Services at Amazon Web Services (AWS). ... London, United Kingdom. -. Paris Area, France. -. Houston, Texas Area. -. Rio ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Houston, Texas, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Uwem Ukpong"
+    },
+    {
+      "position": 8,
+      "title": "Eugenie Teasley - Amazon",
+      "link": "https://uk.linkedin.com/in/eugenieteasley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/eugenieteasley&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCOYBEAE",
+      "displayed_link": "5.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306a91a7c84b9f68221c3480a8faeabc0a9.png",
+      "snippet": "I've held a wide range of roles—from… Experience. Amazon Graphic. Amazon. London, England, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Brighton and Hove Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eugenie Teasley"
+    },
+    {
+      "position": 9,
+      "title": "James Pitt - Amazon",
+      "link": "https://uk.linkedin.com/in/james-pitt-4878897b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/james-pitt-4878897b&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECC8QAQ",
+      "displayed_link": "200+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306a428557192303bcb4ede5e7e6cc91d7e.png",
+      "snippet": "Amazon · University of Exeter · Manchester Area, United Kingdom · 181 connections on LinkedIn ... Activities and Societies: President of the Motorsport ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Manchester Area, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Pitt"
+    },
+    {
+      "position": 10,
+      "title": "Jason Buechel - Vice President, Amazon Worldwide Grocery",
+      "link": "https://www.linkedin.com/in/jasonbuechel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jasonbuechel&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJQBEAE",
+      "displayed_link": "39.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30629749459d0d6e5f2e12afd95b7aad7ce.png",
+      "snippet": "... President of Amazon Worldwide Grocery Stores and as Chief Executive Officer ... United Kingdom, and overseeing the company's technology, supply chain and ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Chief Executive",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Jason Buechel"
+    },
+    {
+      "position": 11,
+      "title": "David Murphy - Prime Video & Amazon Studios",
+      "link": "https://uk.linkedin.com/in/david-a-murphy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/david-a-murphy&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCOQBEAE",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3063a88460f8089006c7d4e9375bcc04858.png",
+      "snippet": "David Murphy. Head Of Production. Prime Video & Amazon Studios. United Kingdom. 479 followers 449 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · David Murphy"
+    },
+    {
+      "position": 12,
+      "title": "Amali de Alwis MBE, UAL Honorary Fellow - Amazon Web ...",
+      "link": "https://uk.linkedin.com/in/amali",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/amali&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCIUCEAE",
+      "displayed_link": "7.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3066e565c868c4a4f25395438e8cb04fa5a.png",
+      "snippet": "Amazon Web Services (AWS) · Education: London College of Fashion, University of the Arts London · Location: United Kingdom ... president of… Show more.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "president"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amali de Alwis MBE, UAL Honorary Fellow"
+    },
+    {
+      "position": 13,
+      "title": "John Wilson - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/johnmwilsonepm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/johnmwilsonepm&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECEYQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30654093bdae34ea18ba6d80e5ea438c151.png",
+      "snippet": "... Amazon Web Services (AWS) · The Open University Business School · United Kingdom · 500+ connections on LinkedIn. View John Wilson's profile on LinkedIn, a ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Wilson"
+    },
+    {
+      "position": 14,
+      "title": "Atif Rafiq - CEO & Co-founder - Ritual",
+      "link": "https://www.linkedin.com/in/atif1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/atif1&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECF4QAQ",
+      "displayed_link": "486.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306f2490c125fd8631f766eb489a39c40de.png",
+      "snippet": "President | Ex-Amazon, C Suite in Fortune 500, startup CEO | Board Director ... 3 years 4 months. London, England, United Kingdom. Board member for this ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Atif Rafiq"
+    },
+    {
+      "position": 15,
+      "title": "Jamal Farah - Chief Executive - Amazon Robotics",
+      "link": "https://uk.linkedin.com/in/jamal-farah-33a599204",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jamal-farah-33a599204&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJgBEAE",
+      "displayed_link": "1 follower",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306b32b8873b110e6cb6f7137945e1e4b0b.png",
+      "snippet": "Chief Executive at Amazon Robotics. Amazon Robotics. Newham, England, United Kingdom. 1 follower. See your mutual connections. View mutual connections with ...",
+      "snippet_highlighted_words": [
+        "Chief Executive",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Newham, England, United Kingdom",
+            "Chief Executive",
+            "Amazon Robotics"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jamal Farah"
+    },
+    {
+      "position": 16,
+      "title": "Matt Newman - Amazon",
+      "link": "https://www.linkedin.com/in/mdnewman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mdnewman&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCMkBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30647624cfc2e812a444f0578cf95e7782c.png",
+      "snippet": "London, United Kingdom. -. London, United Kingdom. -. Greater Seattle Area ... Activities and Societies: Vice President - Entrepreneurship and Venture Club ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "United Kingdom",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Newman"
+    },
+    {
+      "position": 17,
+      "title": "Jeff Helbling - VP, Amazon Shipping Business",
+      "link": "https://uk.linkedin.com/in/jeff-helbling-0753564",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jeff-helbling-0753564&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCOUBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306c4993c16dbed924c9eaa432b2feda477.png",
+      "snippet": "VP, Amazon Shipping Business · VP, Amazon Worldwide Grocery Stores · VP, Amazon Worldwide Grocery Stores · VP, Technical Advisor to the CEO · Vice President, Kindle.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "VP, Amazon Shipping Business",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff Helbling"
+    },
+    {
+      "position": 18,
+      "title": "Piers Heaton-Armstrong - Amazon",
+      "link": "https://uk.linkedin.com/in/piersheatonarmstrong",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/piersheatonarmstrong&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCIECEAE",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306e16ff47492f5638fa401dddf14a50a9c.png",
+      "snippet": "Piers Heaton-Armstrong. Amazon. London, England, United Kingdom. 3K followers ... Organizations. Amazon Smile Foundation. President. Oct 2015 - Present ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Amazon",
+        "President",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Piers Heaton-Armstrong"
+    },
+    {
+      "position": 19,
+      "title": "Nick Jones - Amazon",
+      "link": "https://www.linkedin.com/in/nick-jones-ab22b623",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nick-jones-ab22b623&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJcCEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3062e3d847e3ed8818de60be0a87da4d3c6.png",
+      "snippet": "Amazon Graphic · Amazon. Greater Seattle Area · -. Seattle, Washington, United States · -. Seattle, Washington · - · -. London, United Kingdom · - · -. Bellevue, wa ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Woodinville, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Jones"
+    },
+    {
+      "position": 20,
+      "title": "Jamie Timmins - FC Lead - Amazon",
+      "link": "https://uk.linkedin.com/in/jamie-timmins-087171192",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jamie-timmins-087171192&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCKcCEAE",
+      "displayed_link": "330+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30678d85af225404d7c6ccca5d09cbedbb5.png",
+      "snippet": "... Amazon · Generation UK & Ireland · United Kingdom · 337 connections on LinkedIn. View Jamie Timmins' profile on LinkedIn, a professional community of 1 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "FC Lead",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jamie Timmins"
+    },
+    {
+      "position": 21,
+      "title": "Lateef Q, CEng - Engineering Manager, TVM - Amazon",
+      "link": "https://uk.linkedin.com/in/lquadry",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lquadry&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECEUQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306e3ef387461ce3529064a4b9f7bef8a47.png",
+      "snippet": "... Amazon · Education: Kingston University · Location: London · 500 ... London, England, United Kingdom. 1K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Engineering Manager, TVM",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lateef Q, CEng"
+    },
+    {
+      "position": 22,
+      "title": "Gavin Patterson - Non Executive Director - Ocado Group",
+      "link": "https://uk.linkedin.com/in/gavin-e-patterson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gavin-e-patterson&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECF0QAQ",
+      "displayed_link": "21.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3061b3eace4dfc82119534fb5350553920e.png",
+      "snippet": "President and Chief Revenue Officer. Salesforce. Feb 2020 - Aug 2022 2 years 7 ... Chairman Europe, Middle East and Africa. Salesforce. Aug 2019 - May 2020 ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Chairman"
+      ],
+      "source": "LinkedIn · Gavin Patterson"
+    },
+    {
+      "position": 23,
+      "title": "Shomy Hasan Chowdhury - Program Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/shomy-hasan-chowdhury",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/shomy-hasan-chowdhury&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECF8QAQ",
+      "displayed_link": "6.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306d8daf87511b39dccc3add4b22ad7bd5b.png",
+      "snippet": "... President's Volunteer Service Award (Gold) - President Obama | Samsung-UNDP Gen17 Alum | TEDx Speaker. Amazon Schwarzman Scholars. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "President's",
+        "President",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Shomy Hasan Chowdhury"
+    },
+    {
+      "position": 24,
+      "title": "Daniel Dizon - Fulfillment Associate - Amazon",
+      "link": "https://www.linkedin.com/in/daniel-d-dizon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/daniel-d-dizon&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECHsQAQ",
+      "displayed_link": "20+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30630c03a55a269bdc45c0fb1a546ebb653.png",
+      "snippet": "GRR1 Amazon Associate | International Business Development | Seeking Entry ... present sound findings and investigate clear solutions on the path to betterment.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Grand Rapids Metropolitan Area",
+            "Fulfillment Associate",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Dizon"
+    },
+    {
+      "position": 25,
+      "title": "Debbie W. - Google | LinkedIn",
+      "link": "https://uk.linkedin.com/in/debbie-w-62b2a44",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/debbie-w-62b2a44&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJkBEAE",
+      "displayed_link": "32.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306e618ecc6fc035a6cc2478fa36b3da5e9.png",
+      "snippet": "Debbie W. is an influencer. Google Harvard Business School. London, England, United Kingdom ... Co-President, Women's Student Association. Co- ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Debbie W."
+    },
+    {
+      "position": 26,
+      "title": "Jeff Johnson - Amazon Web Services (AWS)",
+      "link": "https://sg.linkedin.com/in/jeff-johnson-0b6a341a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sg.linkedin.com/in/jeff-johnson-0b6a341a&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCLUBEAE",
+      "displayed_link": "4.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30624861c91b5a800c97ccf38f9c7cd694d.png",
+      "snippet": "Experience: Amazon Web Services (AWS) · Location: Singapore · 500+ connections on LinkedIn ... London, United Kingdom. -. Reading, United Kingdom. -. Reading, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Singapore",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff Johnson"
+    },
+    {
+      "position": 27,
+      "title": "Ganesh Rao - Amazon",
+      "link": "https://uk.linkedin.com/in/ganeshrao55",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ganeshrao55&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCM4BEAE",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3063858645c19b8d6503f0d841faaf4ea19.png",
+      "snippet": "Ganesh Rao. Amazon Northwestern University - Kellogg School of Management. London, England, United Kingdom. 3K ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ganesh Rao"
+    },
+    {
+      "position": 28,
+      "title": "Claire Paull - Amazon",
+      "link": "https://www.linkedin.com/in/claire-paull-88734388",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/claire-paull-88734388&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCNABEAE",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306f9efaa6eacac0c57cdf78b0aaa268782.png",
+      "snippet": "Results driven leader with 20+ years of experience in general management, marketing and… · Experience: Amazon ... London, United Kingdom. -. -. Los Angeles. -.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Claire Paull"
+    },
+    {
+      "position": 29,
+      "title": "Carol Yan - EMEA Head of Energy Transition and ...",
+      "link": "https://uk.linkedin.com/in/-carol-yan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/-carol-yan&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCOgBEAE",
+      "displayed_link": "4.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3061c062f1e3a7224a806c5272ea97e927d.png",
+      "snippet": "Amazon Web Services (AWS). Oct 2022 - Present 2 years 6 months. London, England, United Kingdom. Leads strategic ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "EMEA Head of Energy Transition and Renewables",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carol Yan"
+    },
+    {
+      "position": 30,
+      "title": "Alex Bate - Amazon",
+      "link": "https://uk.linkedin.com/in/alexbate",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alexbate&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCOoBEAE",
+      "displayed_link": "200+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306a506703ca1787f7fd79c2151ab3b86c4.png",
+      "snippet": "Alex Bate. Amazon University of Cambridge. Greater London, England, United Kingdom ... President of the Robinson College Board Games Society. 2011 - 2013 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alex Bate"
+    },
+    {
+      "position": 31,
+      "title": "Robert Sellors - Delivery Driver - Amazon",
+      "link": "https://uk.linkedin.com/in/robert-sellors-0ab4221bb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/robert-sellors-0ab4221bb&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCIACEAE",
+      "displayed_link": "80+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30682bc2a9c5de93f2620cb5276ba4342fc.png",
+      "snippet": "... Amazon · De Montfort University · Hilton · 84 connections on LinkedIn. View ... Apr 2015 - Present 10 years. Derbyshire, England, United Kingdom. Since ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Robert Sellors"
+    },
+    {
+      "position": 32,
+      "title": "Kushal Patel - Systems Development Engineer",
+      "link": "https://uk.linkedin.com/in/kushalnpatel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kushalnpatel&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCIMCEAE",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30684c61d36a053051fe9d4387435eec2dd.png",
+      "snippet": "... Amazon Web Services (AWS) · Education: University of Birmingham · Location: London Area, United Kingdom · 500+ connections on LinkedIn ... President. UoB ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Systems Development Engineer",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kushal Patel"
+    },
+    {
+      "position": 33,
+      "title": "Hilary Tam - Sustainability Leader, EMEA - Amazon Web ...",
+      "link": "https://uk.linkedin.com/in/hilarytam",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hilarytam&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJ4CEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30628872cf851f31d6d5c384dc163130864.png",
+      "snippet": "... Amazon Web Services (AWS) · University of Toronto · London · 500 ... Fellow - Strategy Lead for 2030Vision. World Economic Forum. May 2020 - Oct 2021 1 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Sustainability Leader, EMEA",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hilary Tam"
+    },
+    {
+      "position": 34,
+      "title": "Zheng Zhao - Applied Scientist - Amazon",
+      "link": "https://uk.linkedin.com/in/zheng-zhao-3bb787139",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/zheng-zhao-3bb787139&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJwCEAE",
+      "displayed_link": "480+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306cfd0795f0c82d77223cf91375788a06e.png",
+      "snippet": "Zheng Zhao. PhD student at UKRI CDT in Natural Language Processing. Amazon The University of Edinburgh. United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Applied Scientist",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Zheng Zhao"
+    },
+    {
+      "position": 35,
+      "title": "Sarah C. Rhoads - Amazon",
+      "link": "https://www.linkedin.com/in/sarah-c-rhoads-a9385029",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarah-c-rhoads-a9385029&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCKwCEAE",
+      "displayed_link": "6.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306194b6737bc379467e899eeb6adb01d1b.png",
+      "snippet": "London, England, United Kingdom. -. Swansea Bay, Wales, United Kingdom ... Rhoads, Vice President, Amazon Global Air. National Air and Space Smithsonian ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "United Kingdom",
+        "President",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah C. Rhoads"
+    },
+    {
+      "position": 36,
+      "title": "Tania Neill - EA, EU Marketing Amazon",
+      "link": "https://uk.linkedin.com/in/tania-neill-32852a42",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tania-neill-32852a42&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCLYCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3068e4451e1a8d3128a5199f568ba50167e.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Tania Neill's profile ... Executive Assistant to the Chief Executive and Chairman. Responsible for ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Chief Executive",
+        "Chairman"
+      ],
+      "source": "LinkedIn · Tania Neill"
+    },
+    {
+      "position": 37,
+      "title": "Zacchaeus McEwen - Amazon Public Sector Innovation ...",
+      "link": "https://www.linkedin.com/in/zacchaeus-mcewen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/zacchaeus-mcewen&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECEIQAQ",
+      "displayed_link": "380+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306f0c997f734defb475714e54ccb075779.png",
+      "snippet": "DAF Education With Industry- Amazon Public Sector Innovation Fellow. Amazon ... United Kingdom - Directly managed diverse $8.2M portfolio for Royal Air ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Fellow",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Amazon Public Sector Innovation Fellow",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Zacchaeus McEwen"
+    },
+    {
+      "position": 38,
+      "title": "Michael Punke - Amazon",
+      "link": "https://www.linkedin.com/in/michael-punke-974446101",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-punke-974446101&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECEoQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306d005861f0ad68064d6059d569f3bb7b0.png",
+      "snippet": "Amazon · Cornell Law School · Missoula · 500+ connections on LinkedIn. View Michael Punke's profile on LinkedIn, a professional community of 1 billion ...",
+      "snippet_highlighted_words": [
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Missoula, Montana, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Punke"
+    },
+    {
+      "position": 39,
+      "title": "Rachel Dixon - United Kingdom | Professional Profile",
+      "link": "https://uk.linkedin.com/in/rachel-dixon-getting-things-done",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rachel-dixon-getting-things-done&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECGMQAQ",
+      "displayed_link": "460+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3064d0392be4448bcab57aaa7b441b2644d.png",
+      "snippet": "Principal Technical Program Manager at Amazon Prime Video - Resilience, Availability · Amazon · United Kingdom · 466 connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Rachel Dixon"
+    },
+    {
+      "position": 40,
+      "title": "Jane J.H. Kim - Sr Product Manager, Scope 3 Supplier ...",
+      "link": "https://www.linkedin.com/in/jane-j-h-kim-b553865a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jane-j-h-kim-b553865a&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECGQQAQ",
+      "displayed_link": "680+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3064a0e9976a291cbb1f8794466ce57f56d.png",
+      "snippet": "Sustainability @ Amazon | Supply Chain Decarbonization · Amazon · New York · 500+ connections on LinkedIn ... Vice President (Business Transformation).",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Sr Product Manager, Scope 3 Supplier Decarbonization (WW Ops)",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jane J.H. Kim"
+    },
+    {
+      "position": 41,
+      "title": "Darren Lumb - Senior Product Marketing Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/darren-lumb-96b81476",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/darren-lumb-96b81476&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECHwQAQ",
+      "displayed_link": "580+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3061a7fbad28b50acffb197d8a627c6b971.png",
+      "snippet": "Senior Omni-Channel Commercial Manager, Vice President. Barclays. Mar 2018 - Mar 2019 1 year 1 month. London, United Kingdom. Barclays Graphic. Content planner.",
+      "snippet_highlighted_words": [
+        "President",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Senior Product Marketing Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Darren Lumb"
+    },
+    {
+      "position": 42,
+      "title": "Dave Chesson - Chief Executive Officer - Aegis Investments",
+      "link": "http://linkedin.com/in/davechesson?kuid=313ab543-118a-497f-9ab0-df56eaf7fd8b-1735862400&kref=WJ9rhB36KMrK",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://linkedin.com/in/davechesson%3Fkuid%3D313ab543-118a-497f-9ab0-df56eaf7fd8b-1735862400%26kref%3DWJ9rhB36KMrK&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECHgQAQ",
+      "displayed_link": "http://linkedin.com › davechesson",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3067d1228198852b6fbd9e56476ab5eb0d1.png",
+      "snippet": "Chief Executive Officer. Aegis Investments. May 2022 ... Chairman of the Board. Surge Global. May 2022 ... Amazon Bestselling Author. Amazon.com. A honor ...",
+      "snippet_highlighted_words": [
+        "Chief Executive",
+        "Chairman",
+        "Amazon",
+        "Amazon"
+      ],
+      "source": "LinkedIn"
+    },
+    {
+      "position": 43,
+      "title": "Michael Jefferson - Head of Financial Services Public ...",
+      "link": "https://uk.linkedin.com/in/michael-jefferson-52124a24",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/michael-jefferson-52124a24&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECH8QAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306fa6f88fd5838b708846a5879b3278f9e.png",
+      "snippet": "Amazon Web Services (AWS) University of Oxford. London, England, United Kingdom. 3K followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Head of Financial Services Public Policy UK, MEA and Switzerland",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Jefferson"
+    },
+    {
+      "position": 44,
+      "title": "Ramona Williams - Diversity, Equity and Inclusion Manager",
+      "link": "https://uk.linkedin.com/in/ramona-williams-3b846b72",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ramona-williams-3b846b72&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJcBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306ba0735c3530b3567f7e924a4d3c12dc0.png",
+      "snippet": "DEI Change Manager at Amazon Logistics | Black Employee Network UK Ops President | Amazon UK&IE ... Milton Keynes, England, United Kingdom. 3K followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Milton Keynes, England, United Kingdom",
+            "Diversity, Equity and Inclusion Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ramona Williams"
+    },
+    {
+      "position": 45,
+      "title": "Rachel Repper - Amazon Business",
+      "link": "https://uk.linkedin.com/in/rachel-repper-7217639",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rachel-repper-7217639&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJoBEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30602fcf909b6a9797c80ad9ceefed8d3bc.png",
+      "snippet": "Amazon - previously DHL Vice President, Trading Director, Director of Sales ... United Kingdom · 500+ connections on LinkedIn. View Rachel Repper's ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon Business",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rachel Repper"
+    },
+    {
+      "position": 46,
+      "title": "Niall O'Driscoll - Senior Vice President, Development and ...",
+      "link": "https://www.linkedin.com/in/niallie",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/niallie&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCLIBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306432b59a163e1b3af14c305def717e0f8.png",
+      "snippet": "Experience · Senior Vice President, Development and Current · Head Of Development · Development Executive · Senior Development Producer · Development Producer.",
+      "snippet_highlighted_words": [
+        "President",
+        "Current"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Senior Vice President, Development and Current",
+            "Studio Lambert"
+          ]
+        }
+      },
+      "source": "LinkedIn · Niall O'Driscoll"
+    },
+    {
+      "position": 47,
+      "title": "Mohammed Hassan - Area Manager II - Amazon",
+      "link": "https://uk.linkedin.com/in/mohammedbhassan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mohammedbhassan&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCK8BEAE",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3067800374f089b21cfb838674995da106d.png",
+      "snippet": "Bristol, England, United Kingdom. Amazon Graphic. Outbound Problem Solver. Amazon. Jun 2015 - Jun 2019 4 years 1 month. Milton Keynes, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bedford, England, United Kingdom",
+            "Area Manager II",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mohammed Hassan"
+    },
+    {
+      "position": 48,
+      "title": "Joe Lobo - Senior Marketing Manager, Kindle - Amazon",
+      "link": "https://www.linkedin.com/in/joe-lobo/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joe-lobo/&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCLYBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306b5cae975a6d37df40bcc1c4af252b3af.png",
+      "snippet": "Senior Marketing Manager, Kindle, at Amazon | President, IESE MBA Class of 2022 · Amazon · IESE Business School · United Kingdom · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior Marketing Manager, Kindle",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joe Lobo"
+    },
+    {
+      "position": 49,
+      "title": "Jean-Charles Croix - Senior Applied Scientist - Amazon",
+      "link": "https://www.linkedin.com/in/jean-charles-croix-88778850/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jean-charles-croix-88778850/en&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCMsBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3069532f01cd23ebe7719f0e91aefd5a855.png",
+      "snippet": "Research Fellow in Mathematics chez University of Sussex · Experience: Amazon · Education: Université de Lyon · Location: United States · 500+ connections ...",
+      "snippet_highlighted_words": [
+        "Fellow",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Jean-Charles Croix"
+    },
+    {
+      "position": 50,
+      "title": "Danny Cooper - Operations Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/danny-cooper-503a40103",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/danny-cooper-503a40103&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCMoBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306ab109e1064084db0f6eff6973e4295cf.png",
+      "snippet": "Danny Cooper. Operations Manager at Amazon Logistics. Amazon Liverpool John Moores University. Manchester Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Manchester Area, United Kingdom",
+            "Operations Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Danny Cooper"
+    },
+    {
+      "position": 51,
+      "title": "Ludovic de Valon - Amazon",
+      "link": "https://www.linkedin.com/in/ludovicdevalon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ludovicdevalon&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCM0BEAE",
+      "displayed_link": "10.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306d11d71dafc08def5bc2686072753aa03.png",
+      "snippet": "General Manager with experience in Marketing, Sales, Strategy, Operations and Product at… · Experience: Amazon ... London, England, United Kingdom. -. London, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ludovic de Valon"
+    },
+    {
+      "position": 52,
+      "title": "Brigitte Ricou-Bellan - General Manager, Prime Video EU",
+      "link": "https://uk.linkedin.com/in/brigittericoubellan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/brigittericoubellan&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCNYBEAE",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306cf10b91b15cb3282d663969aa2a9902e.png",
+      "snippet": "Amazon. 5 years 9 months. President, Prime Video France. Amazon. Oct 2021 ... 2004 – 2006 Former Vice-Chairman of ACSEL, French Association for Digital Economy, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "Amazon",
+        "Chairman"
+      ],
+      "source": "LinkedIn · Brigitte Ricou-Bellan"
+    },
+    {
+      "position": 53,
+      "title": "martin castleman - Reliability Engineer - Amazon",
+      "link": "https://uk.linkedin.com/in/martin-castleman-281659b8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/martin-castleman-281659b8&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCOcBEAE",
+      "displayed_link": "70+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3063c7616864d1f201139962db16baadc9c.png",
+      "snippet": "... Amazon · Location: Luton · 54 connections on LinkedIn. View martin castleman's profile on LinkedIn, a professional ... Dunstable, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Luton, England, United Kingdom",
+            "Reliability Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · martin castleman"
+    },
+    {
+      "position": 54,
+      "title": "Giorgi Gabunia - Chief Executive Officer - Amazon",
+      "link": "https://ge.linkedin.com/in/giorgi-gabunia-9a09b2327",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ge.linkedin.com/in/giorgi-gabunia-9a09b2327&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCOkBEAE",
+      "displayed_link": "https://ge.linkedin.com › ...",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30679db4ba3efac379b7fd66dc0e2487750.png",
+      "snippet": "Amazon Graphic. Chief Executive Officer. Amazon. Head of Sales. Amazon tx. Sep 2006 - Present 18 years 7 months. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Chief Executive",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn Georgia"
+    },
+    {
+      "position": 55,
+      "title": "Jim Sterner - Amazon",
+      "link": "https://www.linkedin.com/in/jimsterner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jimsterner&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCOsBEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30664daac1298f83b7bfd9f1d7132e1c1a4.png",
+      "snippet": "Experience: Amazon · Education: University of California, Irvine - The Paul ... London, United Kingdom. -. Seattle, WA. -. Seattle, WA. -. Seattle, WA. -. -. - ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Culver City, California, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jim Sterner"
+    },
+    {
+      "position": 56,
+      "title": "Rachel Lauritzen Shelton - Amazon Ads",
+      "link": "https://uk.linkedin.com/in/rachellauritzen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rachellauritzen&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCPoBEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306bdc7e9eb9577efa91e1f7a0d492e99de.png",
+      "snippet": "President of Washington & Oregon chapter devoted to professional development ... fellow board member of the Northwest Chapter of LMA; and as a friend.",
+      "snippet_highlighted_words": [
+        "President",
+        "fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Manager, Global Content & Creative Studio",
+            "Amazon Ads",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rachel Lauritzen Shelton"
+    },
+    {
+      "position": 57,
+      "title": "M J - Vice President of Sales - Amazon",
+      "link": "https://uk.linkedin.com/in/m-j-9ba506208?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/m-j-9ba506208%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCP8BEAE",
+      "displayed_link": "https://uk.linkedin.com › ...",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306ce4b0da68135406daf0954fcb99fcddd.png",
+      "snippet": "M J. Senior Vice President at Amazon. Amazon Queen Mary University of London. London, England, United Kingdom. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Vice President of Sales",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn"
+    },
+    {
+      "position": 58,
+      "title": "Dan Perlet - Amazon",
+      "link": "https://www.linkedin.com/in/danperlet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danperlet&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCIICEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306212307b5156313b1c45b66efdab7dd41.png",
+      "snippet": "Corporate affairs and marketing communications leader with a successful track record of… · Amazon ... London, United Kingdom. -. London, United Kingdom. -. London ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Perlet"
+    },
+    {
+      "position": 59,
+      "title": "Edward A. - Amazon",
+      "link": "https://www.linkedin.com/in/edwardtagoe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/edwardtagoe&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCIQCEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3061b322c935edf5be9f28318beec5531cb.png",
+      "snippet": "The evolution of Amazon has been driven by innovation. It's part of our DNA ... 2018. Activities and Societies: Vice-President : Kellogg Tech Club Vice ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Arlington, Virginia, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Edward A."
+    },
+    {
+      "position": 60,
+      "title": "Isabel Ferguson - Sr. Manager, Program ...",
+      "link": "https://uk.linkedin.com/in/isabel-ferguson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/isabel-ferguson&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCIYCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30682ec09736753eca50d4bca0edf7435df.png",
+      "snippet": "Isabel Ferguson. Sr. Manager, Program Management. Amazon Bates College. London, England, United Kingdom ... Fellow in our college career center. This is a ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Sr. Manager, Program Management",
+            "WW Amazon Stores Talent Acquisition",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Isabel Ferguson"
+    },
+    {
+      "position": 61,
+      "title": "Erol Arkan - Technology and Data Solutions Leader ...",
+      "link": "https://uk.linkedin.com/in/erolarkan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/erolarkan&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJ0CEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3060ce8c53e0be2b355325b0c85cdc48245.png",
+      "snippet": "... Amazon · Location ... Aug 2022 - Present 2 years 8 months. London, England, United Kingdom. BCD Travel Graphic. Vice President, Global Solutions Engineering.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Technology and Data Solutions Leader, Amazon Travel",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Erol Arkan"
+    },
+    {
+      "position": 62,
+      "title": "Namrata Kankaria - Amazon",
+      "link": "https://uk.linkedin.com/in/namratakankaria",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/namratakankaria&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJsCEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30641fe7e8bfd11c8ad1aefc601797e193a.png",
+      "snippet": "Experience: Amazon · Education: Queen Mary University of London ... Namrata Kankaria. Amazon Queen Mary University of London. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Namrata Kankaria"
+    },
+    {
+      "position": 63,
+      "title": "David Hare - Prime Video & Amazon Studios",
+      "link": "https://uk.linkedin.com/in/davidhare100",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/davidhare100&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJoCEAE",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3062a16720e253869673d586a8846ee6c58.png",
+      "snippet": "Prime Video & Amazon Studios. Jan 2023 - Present 2 years 3 months. London, England, United Kingdom. MGM Graphic. Vice President, Digital Distribution, EMEA. MGM.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "President"
+      ],
+      "source": "LinkedIn · David Hare"
+    },
+    {
+      "position": 64,
+      "title": "Mark Seymour - Amazon",
+      "link": "https://www.linkedin.com/in/mark-seymour-2204123",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mark-seymour-2204123&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJ8CEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306a46f26228738d99a4b503b210f1165ec.png",
+      "snippet": "As GM of Seller Conferences at Amazon, Mark has invested the past five years building new… · ... London, United Kingdom. Education. University of Plymouth Graphic ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Seymour"
+    },
+    {
+      "position": 65,
+      "title": "Archana Chauhan - Head of Amazon Business (B2B) ...",
+      "link": "https://uk.linkedin.com/in/archana-chauhan-63665618",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/archana-chauhan-63665618&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCLMCEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3067204e934fe580c685107cc1e1f1ca8e0.png",
+      "snippet": "Head of U.K. Amazon Business Marketplace. Amazon INSEAD. London, England, United Kingdom. 2K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Head of Amazon Business (B2B) Marketplace UK",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Archana Chauhan"
+    },
+    {
+      "position": 66,
+      "title": "Yianni Papadopoulos - International General Manager ...",
+      "link": "https://uk.linkedin.com/in/yianni-papadopoulos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/yianni-papadopoulos&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCLUCEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3064678c3801c536a5f6511ab187e817f6f.png",
+      "snippet": "General Manager at Amazon | GenAI | Defines Big Missions and Energises Teams to Deliver Them. Amazon University of Cambridge. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "International General Manager, Search & Conversational Shopping",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Yianni Papadopoulos"
+    },
+    {
+      "position": 67,
+      "title": "Blessing Sam Bolaji - Area Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/blessing-sam-bolaji-483b911b3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/blessing-sam-bolaji-483b911b3&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCLcCEAE",
+      "displayed_link": "950+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306a4067c2659e314b52748cefde2188868.png",
+      "snippet": "... Amazon · Education: University of Hull · Location: Basildon · 500 ... Kingston upon Hull, England, United Kingdom. · Manage and train Associates to ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Basildon, England, United Kingdom",
+            "Area Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Blessing Sam Bolaji"
+    },
+    {
+      "position": 68,
+      "title": "Brandon Jones - Operations Analyst - Amazon",
+      "link": "https://www.linkedin.com/in/branjones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/branjones&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCLkCEAE",
+      "displayed_link": "60+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3061ba405e8324c5c1d607390f156607950.png",
+      "snippet": "... current and future roles. I learned hard work, dedication, self ... Amazon · Education: University of Central Arkansas · Location: Seattle · 56 ...",
+      "snippet_highlighted_words": [
+        "current",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Operations Analyst",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brandon Jones"
+    },
+    {
+      "position": 69,
+      "title": "Hamza Ali - Chief Executive Officer - Big-B Solutions ...",
+      "link": "https://uk.linkedin.com/in/hamzaalippcexpert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hamzaalippcexpert&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECEcQAQ",
+      "displayed_link": "360+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3068c73e4ab953f21848f21b76761eca8c9.png",
+      "snippet": "Amazon Product selection and Launch Expert. Amazon. Jun 2020 - Present 4 years 10 months. Wembley, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Hamza Ali"
+    },
+    {
+      "position": 70,
+      "title": "Alun Roberts - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/alunroberts2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alunroberts2&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECEMQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306e9f23d28607e001df86fadbc2ecdf633.png",
+      "snippet": "... (AWS) Graphic · Amazon Web Services (AWS). -. Greater Seattle Area. -. London, United Kingdom. -. London. -. Edinburgh, United Kingdom. -. Edinburgh, United ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "United Kingdom",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alun Roberts"
+    },
+    {
+      "position": 71,
+      "title": "Christopher Walton - Amazon",
+      "link": "https://www.linkedin.com/in/christopherwalton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christopherwalton&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECEkQAQ",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3061254985b9784b66f1eb3ba889740a344.png",
+      "snippet": "I am passionate about solving real-world problems using Artificial Intelligence (AI) and… · Amazon ... Edinburgh, United Kingdom. Education. The University of ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christopher Walton"
+    },
+    {
+      "position": 72,
+      "title": "Kim Majerus - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/kimmajerus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kimmajerus&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECEgQAQ",
+      "displayed_link": "12.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306c88bd5bf0d7e75eef62047c22e2fd0ac.png",
+      "snippet": "Amazon Web Services (AWS) Graphic. Amazon Web Services (AWS). United States. -. US. -. Chicago, IL ... London, United Kingdom. -. Chicago, IL. -. -. Schaumburg, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Chicago Area",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kim Majerus"
+    },
+    {
+      "position": 73,
+      "title": "Seema Talwar - Head of EU Content Operations",
+      "link": "https://uk.linkedin.com/in/seema-talwar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/seema-talwar&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECGEQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30611a2fd856fd5a558c6e4c9223b6f9d14.png",
+      "snippet": "... Amazon · The University of Wolverhampton · London Area, United Kingdom · 500 ... Vice President International Operations. Twentieth Century Fox. Jan 2016 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Head of EU Content Operations | Prime Video",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Seema Talwar"
+    },
+    {
+      "position": 74,
+      "title": "Simon Flowers - Chairman and Chief Analyst",
+      "link": "https://uk.linkedin.com/in/simon-flowers-2090591a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/simon-flowers-2090591a&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECGUQAQ",
+      "displayed_link": "4.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30657812f015fefda16f16164ce59255651.png",
+      "snippet": "Chairman and Chief Analyst. Wood Mackenzie. Apr 2016 - Present 9 years. Edinburgh, United Kingdom. Leading content and thematic research across Wood Mackenzie ...",
+      "snippet_highlighted_words": [
+        "Chairman",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Edinburgh, Scotland, United Kingdom",
+            "Chairman and Chief Analyst",
+            "Wood Mackenzie"
+          ]
+        }
+      },
+      "source": "LinkedIn · Simon Flowers"
+    },
+    {
+      "position": 75,
+      "title": "George Murgatroyd - General Manager & Vice President ...",
+      "link": "https://uk.linkedin.com/in/gmurgatroyd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gmurgatroyd&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECGAQAQ",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3060ed59260b76e9ed1f818999ec812591c.png",
+      "snippet": "General Manager & Vice President, Digital Technologies Business Unit. Medtronic. Feb 2023 - Present 2 years 2 months. Greater London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "President",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "General Manager & Vice President, Digital Technologies Business Unit",
+            "Medtronic"
+          ]
+        }
+      },
+      "source": "LinkedIn · George Murgatroyd"
+    },
+    {
+      "position": 76,
+      "title": "Debbie McGeeney - Executive Assistant to VP EU OHL",
+      "link": "https://uk.linkedin.com/in/debbie-mcgeeney-a401b44",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/debbie-mcgeeney-a401b44&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECGIQAQ",
+      "displayed_link": "850+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306566131e72fa58638945d07416c91e8cc.png",
+      "snippet": "... Amazon · Education: John Kyrle High School, Ross · Location: London Area, United Kingdom ... Executive Assistant to CEO & Chairman. LOVEFiLM. Dec 2009 - Apr ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Chairman"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Executive Assistant to VP EU OHL",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Debbie McGeeney"
+    },
+    {
+      "position": 77,
+      "title": "Abdulfatah Adeneye - Software Development Engineer",
+      "link": "https://www.linkedin.com/in/abduladeneye/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/abduladeneye/&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECH0QAQ",
+      "displayed_link": "610+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3069ef1275307dd0331fe46f0f551958297.png",
+      "snippet": "Abdulfatah Adeneye. Software Development Engineer at Amazon. Amazon University of Lagos. Musselburgh, Scotland, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Musselburgh, Scotland, United Kingdom",
+            "Software Development Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Abdulfatah Adeneye"
+    },
+    {
+      "position": 78,
+      "title": "Ishita N. - Amazon",
+      "link": "https://uk.linkedin.com/in/ishitanarsiker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ishitanarsiker&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECHoQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306ed526df0a707252117f8d6005ce7551b.png",
+      "snippet": "Amazon · London · 500+ connections on LinkedIn. View Ishita N.'s profile on ... London Area, United Kingdom. -. Glasgow City, Scotland, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ishita N."
+    },
+    {
+      "position": 79,
+      "title": "Richard Dyson - Sr Systems Development Engineer",
+      "link": "https://uk.linkedin.com/in/richard-dyson-72764628",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richard-dyson-72764628&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECH4QAQ",
+      "displayed_link": "140+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3066bb6283db029a2481fa7e7b0711ff126.png",
+      "snippet": "Richard Dyson. Sr Systems Development Engineer at Amazon. Amazon. Doncaster, England, United Kingdom. 149 followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Doncaster, England, United Kingdom",
+            "Sr Systems Development Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Dyson"
+    },
+    {
+      "position": 80,
+      "title": "Jonathan Gray - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/jonathan-gray-071290ab",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jonathan-gray-071290ab&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECHkQAQ",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3067451c01ca473b5885b5add60c241d937.png",
+      "snippet": "... engineer / DevOps / SRE based in London blog ::: jonn.io | OpsDump wiki :::… · Experience: Amazon Web Services (AWS) ... City of London, England, United Kingdom. -.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Gray"
+    },
+    {
+      "position": 81,
+      "title": "Ahmmad Youssef, PhD - UK & Ireland Head of Prototyping ...",
+      "link": "https://uk.linkedin.com/in/ahmmad-youssef",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ahmmad-youssef&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCIABEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3060310552c71da2870b0edbd6dff1f4795.png",
+      "snippet": "... Amazon Web Services (AWS) · The London School ... Vice President: CIB Data Engineering. JPMorgan Chase & Co. Jun 2019 - May 2020 1 year. London, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "UK & Ireland Head of Prototyping & Cloud Engineering",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ahmmad Youssef, PhD"
+    },
+    {
+      "position": 82,
+      "title": "Jonathan Allen - Director, Enterprise Strategy - Amazon ...",
+      "link": "https://uk.linkedin.com/in/jonatallen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jonatallen&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJMBEAE",
+      "displayed_link": "10.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306d21fe1c25a101373f5aacb1bc3807ad5.png",
+      "snippet": "Director @ Amazon Web Services | CIO MBA, Cloud Strategy. Amazon Web Services (AWS) Boston University. London, England, United Kingdom. 10K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director, Enterprise Strategy",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Allen"
+    },
+    {
+      "position": 83,
+      "title": "Ryan Miller - Safety Leadership Program Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/ryan-miller-53abaa69",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ryan-miller-53abaa69&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJYBEAE",
+      "displayed_link": "990+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306076315a97fb25580792d7a50e386bbb2.png",
+      "snippet": "Ryan Miller. Safety Leadership Program Manager at Amazon. Amazon Unversity of Newcastle. Congleton, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Congleton, England, United Kingdom",
+            "Safety Leadership Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Miller"
+    },
+    {
+      "position": 84,
+      "title": "Daniel Robinson - Team Lead Amazon Flow",
+      "link": "https://uk.linkedin.com/in/daniel-robinson-0a45b7238",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/daniel-robinson-0a45b7238&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJUBEAE",
+      "displayed_link": "100+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30642f36b52ee72368c8400e2c71f1d126f.png",
+      "snippet": "... Amazon Fullfilment Center · Robert Clack · Romford · 99 connections on ... Dartford, England, United Kingdom. Interpreting and managing workflows in an ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Romford, England, United Kingdom",
+            "OB Flow Team Lead",
+            "Amazon Fullfilment Center"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Robinson"
+    },
+    {
+      "position": 85,
+      "title": "Angelina Greene - Manager, Bid & Proposal Team Public ...",
+      "link": "https://www.linkedin.com/in/angelina-greene-49907784",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/angelina-greene-49907784&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCJsBEAE",
+      "displayed_link": "170+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306f98b3a3f0e414df849bc913c59487d63.png",
+      "snippet": "... United Kingdom, Ireland, Israel, United Nations, and NATO. I leverage my ... Amazon Web Services (AWS) · Location: Washington DC-Baltimore Area · 173 ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington DC-Baltimore Area",
+            "Manager, Bid & Proposal Team Public Sector",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Angelina Greene"
+    },
+    {
+      "position": 86,
+      "title": "Dre Olgiati",
+      "link": "https://www.linkedin.com/in/andreaolgiati",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andreaolgiati&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCLABEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3065c8e1b33d9b6b8a1a615fea80fd30df9.png",
+      "snippet": "Bristol, United Kingdom. Licenses & Certifications. CrossFit Level 2 Trainer ... Crisis Text Line. Jun 2019 - Present 5 years 10 months. Health. I act as a ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "LinkedIn"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dre Olgiati"
+    },
+    {
+      "position": 87,
+      "title": "Meenakshi Mour - Pathways Senior Operations Manager",
+      "link": "https://uk.linkedin.com/in/meenakshimour",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/meenakshimour&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCLEBEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3063030d5d7a3a2f5ed85328ff3454e4bc2.png",
+      "snippet": "... Amazon · Education: ESADE Business & Law School · Location: United Kingdom ... Vice President of Energy and Environment Club. Esade. Nov 2019 - Nov 2020 1 year ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Pathways Senior Operations Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Meenakshi Mour"
+    },
+    {
+      "position": 88,
+      "title": "Jonas Markgraf - Senior Economist - Amazon",
+      "link": "https://uk.linkedin.com/in/jmarkgraf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jmarkgraf&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCLQBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3062c3ccf4b8d03bb7db7bc889996f2208c.png",
+      "snippet": "Amazon · University of Oxford · London Area, United Kingdom · 500 ... Postdoctoral Research Fellow. University of Oxford. Sep 2018 - Sep 2019 1 year 1 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Senior Economist",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonas Markgraf"
+    },
+    {
+      "position": 89,
+      "title": "Izza Hina - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/izza-hina/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/izza-hina/&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCLMBEAE",
+      "displayed_link": "9.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3064bbaebe422047f5b143069b52e0b8f8d.png",
+      "snippet": "I am a Tech Recruiter and my job is to discover the best talent - I love meeting and… · Experience: Amazon ... London, England, United Kingdom. -. London, England ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Arab Emirates",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Izza Hina"
+    },
+    {
+      "position": 90,
+      "title": "Paul McCann - Senior Manager: Global Specialty Recruiting",
+      "link": "https://uk.linkedin.com/in/pmccann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pmccann&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCK4BEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306196a5c88b5ad571470a852898d2aa805.png",
+      "snippet": "Paul McCann. Head of International Executive Recruiting - Engineering at Amazon. Amazon. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Senior Manager: Global Specialty Recruiting",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul McCann"
+    },
+    {
+      "position": 91,
+      "title": "Lashe O. - Software Development Engineer - Amazon",
+      "link": "https://uk.linkedin.com/in/lashe-o-054ba6242?trk=public_post_main-feed-card_reshare_feed-actor-image",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lashe-o-054ba6242%3Ftrk%3Dpublic_post_main-feed-card_reshare_feed-actor-image&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCM8BEAE",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306c8a1a006eb38c6b8d5d6fde89b4b6064.png",
+      "snippet": "Lashe O. Software Engineer Degree Apprentice at Amazon | Rufus Shopping AI |. Amazon University of Roehampton. Gravesend, England, United Kingdom. 477 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Gravesend, England, United Kingdom",
+            "Software Development Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lashe O."
+    },
+    {
+      "position": 92,
+      "title": "Michael Rodriguez - Prime Video & Amazon Studios",
+      "link": "https://www.linkedin.com/in/michaear",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michaear&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoFCMwBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306d4a0d4652f7b88b02c94a4e2e18af436.png",
+      "snippet": "Prime Video & Amazon Studios · Harvard ... 2012. • USC Trojan Professional and Olympic Swim Team • President of the Institute of Industrial Engineers",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Rodriguez"
+    },
+    {
+      "position": 93,
+      "title": "Richard Gallacher - Amazon , eBay , Walmart, SEO",
+      "link": "https://uk.linkedin.com/in/richard-gallacher-a454a71b4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richard-gallacher-a454a71b4&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECEQQAQ",
+      "displayed_link": "10+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30638b932b9e78b1d663f55638c2f961f70.png",
+      "snippet": "Chief Executive Officer. Amazon , eBay , Walmart, SEO. Jan 2021 - Present 4 years 1 month. Scotland, United Kingdom · Writer. Na.",
+      "snippet_highlighted_words": [
+        "Chief Executive",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Langbank, Scotland, United Kingdom",
+            "Chief Executive Officer",
+            "Amazon , eBay , Walmart, SEO"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Gallacher"
+    },
+    {
+      "position": 94,
+      "title": "Arnold Ho - Software Development Engineer II - Amazon",
+      "link": "https://uk.linkedin.com/in/arnold-ho-tc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/arnold-ho-tc&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECCkQAQ",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30678a422435b6bf0d127b67d92dd8a413f.png",
+      "snippet": "Software Engineer at Amazon · A Software Engineer currently working in Amazon Prime Video ... London, England, United Kingdom. Prime Video Financial Systems - ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Software Development Engineer II",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Arnold Ho"
+    },
+    {
+      "position": 95,
+      "title": "Fulbert Fulko - Routing Team Lead - Amazon",
+      "link": "https://uk.linkedin.com/in/fulbert-fulko/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/fulbert-fulko/en&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECCcQAQ",
+      "displayed_link": "220+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306a6c69985c4e609625a627b4dbc0fb50e.png",
+      "snippet": "Amazon Graphic. Routing Team Lead. Amazon. Nov 2023 - Present 1 year 5 months. Dunstable, England, United Kingdom. Managing a configuration team consisting of 7 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Fulbert Fulko"
+    },
+    {
+      "position": 96,
+      "title": "Will Fernandez - EVP, Global Strategic Growth - WPP",
+      "link": "https://uk.linkedin.com/in/whfernandez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/whfernandez&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECCoQAQ",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3066afcf8bd7b17cc0f52d0c161157ba727.png",
+      "snippet": "WPP. Jul 2020 - Present 4 years 9 months. London, England, United Kingdom. Lead WPP's global growth team for Amazon, the world's largest and most ambitious ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Will Fernandez"
+    },
+    {
+      "position": 97,
+      "title": "Richard Caven - Lead EMEA Banking Specialist",
+      "link": "https://uk.linkedin.com/in/richardwcaven",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richardwcaven&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECC4QAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306b885d905a58e918d601f55fcb35fabea.png",
+      "snippet": "Nov 2010 2 years 9 months. London, United Kingdom. Concurrent with full time roles in Strategy and IR, appointed Chief of Staff to Group Chairman providing ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Chairman"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Lead EMEA Banking Specialist",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Caven"
+    },
+    {
+      "position": 98,
+      "title": "Jon Kirk - Amazon",
+      "link": "https://www.linkedin.com/in/jonkirk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jonkirk&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECCsQAQ",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e30662e7fb15b73000b90bf6374904ffea03.png",
+      "snippet": "I lead our third party partnerships globally in video, games, apps and Alexa across… · Amazon ... London, United Kingdom. -. Greater Seattle Area. Education.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jon Kirk"
+    },
+    {
+      "position": 99,
+      "title": "Mrinmoy Sonowal - Software Engineer - Amazon",
+      "link": "https://uk.linkedin.com/in/mrinmoys",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mrinmoys&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECC0QAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e306f3ab1095b5a052ed6cb1a8a4c56c850f.png",
+      "snippet": "Software Engineer @Amazon | Co-founder of ShortQ | Graduate of The University of Edinburgh. Amazon The University of Edinburgh. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Mrinmoy Sonowal"
+    },
+    {
+      "position": 100,
+      "title": "Amali de Alwis MBE FRSA – Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/amali/de",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/amali/de&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQFnoECCwQAQ",
+      "displayed_link": "7.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaad35837b39e69e78a9/images/6c4b32f9f3ce5978b5d489a5c129e3060abf07b61a1810783f762207c4d2d6b0.png",
+      "snippet": "... president of… Mehr anzeigen ... The National Diversity Awards will create and celebrate a new generation of positive role models for the United Kingdom.",
+      "snippet_highlighted_words": [
+        "president",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Vereinigtes Königreich",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amali de Alwis MBE, UAL Honorary Fellow"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=rvrdZ5G-H4_E4-EP5biwGQ&start=100&sa=N&sstk=Af40H4V1X5mqlOdoQGP3weTMoh393bY6sgR7M64t0kKYe4Ar_lfqFhnmNJy0LqQEcZiExn-pPpmkqgG3-JIXzyBu8IwO5YuangrRpg&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQ8NMDegQICxAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=rvrdZ5G-H4_E4-EP5biwGQ&start=100&sa=N&sstk=Af40H4V1X5mqlOdoQGP3weTMoh393bY6sgR7M64t0kKYe4Ar_lfqFhnmNJy0LqQEcZiExn-pPpmkqgG3-JIXzyBu8IwO5YuangrRpg&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQ8tMDegQICxAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=rvrdZ5G-H4_E4-EP5biwGQ&start=200&sa=N&sstk=Af40H4V1X5mqlOdoQGP3weTMoh393bY6sgR7M64t0kKYe4Ar_lfqFhnmNJy0LqQEcZiExn-pPpmkqgG3-JIXzyBu8IwO5YuangrRpg&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQ8tMDegQICxAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=rvrdZ5G-H4_E4-EP5biwGQ&start=300&sa=N&sstk=Af40H4V1X5mqlOdoQGP3weTMoh393bY6sgR7M64t0kKYe4Ar_lfqFhnmNJy0LqQEcZiExn-pPpmkqgG3-JIXzyBu8IwO5YuangrRpg&ved=2ahUKEwiRzeWSrpyMAxUP4jgGHWUcLAMQ8tMDegQICxAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=300"
+    }
+  }
+}

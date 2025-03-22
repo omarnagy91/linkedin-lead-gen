@@ -1,0 +1,276 @@
+{
+  "search_metadata": {
+    "id": "67ddfa28d2a2428f9a658fc2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/84573b2f3c34d20e/67ddfa28d2a2428f9a658fc2.json",
+    "created_at": "2025-03-21 23:45:44 UTC",
+    "processed_at": "2025-03-21 23:45:44 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/84573b2f3c34d20e/67ddfa28d2a2428f9a658fc2.html",
+    "total_time_taken": 1.53
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"Germany\" AND (current OR present) AND (\"Head\" OR \"Head of\" OR \"Global Head\" OR \"Department Head\" OR \"Team Lead\" OR \"Senior Manager\" OR \"Lead Manager\" OR \"Managing Manager\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"Germany\" AND (current OR present) AND (\"Head\" OR \"Head of\" OR \"Global Head\" OR \"Department Head\" OR \"Team Lead\" OR \"Senior Manager\" OR \"Lead Manager\" OR \"Managing Manager\")",
+    "total_results": 14600000,
+    "time_taken_displayed": 0.72,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Sarah Olsen - Head of Retail, EMEA Hub - Germany - Google",
+      "link": "https://www.linkedin.com/in/sarah-arvo-olsen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarah-arvo-olsen&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0QFnoECAkQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa28d2a2428f9a658fc2/images/ff36da90105dca6c5615dca83bee250b0a0e32893400ab845e7a73bc4e9f22fa.png",
+      "snippet": "Experience. Google. 12 years. Google Graphic. Head of Retail, EMEA Hub - Germany. Google. Jan 2025 - Present 3 months. Dublin, County Dublin, Ireland. Google ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Head of",
+        "Germany",
+        "Google",
+        "Present",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Detroit Metropolitan Area",
+            "Head of Retail, EMEA Hub",
+            "Germany",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Olsen"
+    },
+    {
+      "position": 2,
+      "title": "Pieter Baeyaert - Director, Google Customer Solutions",
+      "link": "https://ie.linkedin.com/in/pbaeyaert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/pbaeyaert&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0QFnoECBkQAQ",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa28d2a2428f9a658fc2/images/ff36da90105dca6c5615dca83bee250b8f726e27f047ac9a095e973919de84fe.png",
+      "snippet": "Experience · Director, Google Customer Solutions - Germany SMB · Head of High Potential Companies Benelux; Google Customer Solutions · Head of Sales Belgium & ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany",
+        "Head of",
+        "Google",
+        "Head of"
+      ],
+      "source": "LinkedIn · Pieter Baeyaert"
+    },
+    {
+      "position": 3,
+      "title": "Thomas Buehler - Head of Mid Market - Lead Generation",
+      "link": "https://ie.linkedin.com/in/thomas-m-buehler",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/thomas-m-buehler&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0QFnoECBgQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa28d2a2428f9a658fc2/images/ff36da90105dca6c5615dca83bee250b5961b108dbab75f5f812cd6aada1ab26.png",
+      "snippet": "Google. 13 years 7 months. Google Graphic. Head of Mid Market - Lead Generation - Germany. Google. Oct 2022 - Present 2 years 6 months. Dublin, Ireland.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Head of",
+        "Germany",
+        "Google",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ireland",
+            "Head of Mid Market",
+            "Lead Generation",
+            "Germany",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Buehler"
+    },
+    {
+      "position": 4,
+      "title": "Stany Winkler - Frankfurt, Hesse, Germany",
+      "link": "https://www.linkedin.com/in/stanywinkler/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stanywinkler/&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0QFnoECBoQAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa28d2a2428f9a658fc2/images/ff36da90105dca6c5615dca83bee250bcd3df059b5760361da40e5a5a3292c93.png",
+      "snippet": "Stany Winkler. Head of EMEA SAP Specialists at Google Cloud. Frankfurt, Hesse, Germany. 4K followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Head of",
+        "Google",
+        "Germany"
+      ],
+      "source": "LinkedIn · Stany Winkler"
+    },
+    {
+      "position": 5,
+      "title": "Gonzalo Ruiz Calavera - Google",
+      "link": "https://sg.linkedin.com/in/gonzaloruizcalavera",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sg.linkedin.com/in/gonzaloruizcalavera&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0QFnoECCMQAQ",
+      "displayed_link": "12.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa28d2a2428f9a658fc2/images/ff36da90105dca6c5615dca83bee250b3b312b13b4d6204e83126ca03a8f9fb5.png",
+      "snippet": "Google Graphic. Google · -. Singapore · -. Singapore · -. Madrid, Community of Madrid, Spain · -. Madrid, Community of Madrid, Spain · -. Munich, Bavaria, Germany · -.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Singapore",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gonzalo Ruiz Calavera"
+    },
+    {
+      "position": 6,
+      "title": "Dr. Christian Richter – Director Global Automotive Vertical ...",
+      "link": "https://de.linkedin.com/in/dr-christian-richter-a4740ab",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dr-christian-richter-a4740ab&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0QFnoECBcQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa28d2a2428f9a658fc2/images/ff36da90105dca6c5615dca83bee250b684865a860081c9c3ad404f34471c724.png",
+      "snippet": "Global Client Lead - Automotive. Google Germany GmbH. März 2015 – Jan. 2023 7 ... CPG, Technology and Auto clients. Google Grafik. Head of Global Key Accounts - ...",
+      "snippet_highlighted_words": [
+        "Google Germany",
+        "Google",
+        "Head of"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Director Global Automotive Vertical & Auto Retail Solutions",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Christian Richter"
+    },
+    {
+      "position": 7,
+      "title": "Thomas Hinrichs – Head of Ecommerce & Portals, DACH ...",
+      "link": "https://de.linkedin.com/in/thomashinrichs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/thomashinrichs&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0QFnoECC8QAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa28d2a2428f9a658fc2/images/ff36da90105dca6c5615dca83bee250b080290aaa9c9919d1c60d709c6f544be.png",
+      "snippet": "Head of Ecommerce & Portals at Google Germany GmbH · Online marketing expert with international experience and a complete understanding of the online ...",
+      "snippet_highlighted_words": [
+        "Head of",
+        "Google Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hamburg und Umgebung",
+            "Head of Ecommerce & Portals, DACH Publisher Solutions",
+            "Google Germany GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Hinrichs"
+    },
+    {
+      "position": 8,
+      "title": "Lars Hartmann – Head of Product Management, Retail Ads ...",
+      "link": "https://ch.linkedin.com/in/lars-hartmann-7a8173b7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ch.linkedin.com/in/lars-hartmann-7a8173b7&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0QFnoECC0QAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa28d2a2428f9a658fc2/images/ff36da90105dca6c5615dca83bee250bf46ad233f58390bd2c915386e539d452.png",
+      "snippet": "Head of Product Management, Retail Ads Growth. Google. Apr. 2023 –Heute 2 Jahre. Switzerland. Leading the Retail ...",
+      "snippet_highlighted_words": [
+        "Head of",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Zürich Metropolitan Area",
+            "Head of Product Management, Retail Ads Growth",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lars Hartmann"
+    },
+    {
+      "position": 9,
+      "title": "Christopher Klug - Sales Manager - Google",
+      "link": "https://www.linkedin.com/in/chrisklug1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chrisklug1&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0QFnoECDAQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa28d2a2428f9a658fc2/images/ff36da90105dca6c5615dca83bee250bf9e1caa8512615f839fd3f7a24f5703a.png",
+      "snippet": "Sales Manager at Google · Google · Universität Mannheim · New York · 500+ connections on LinkedIn ... May 2018 - Mar 2019 11 months. Hamburg Area, Germany. Google.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Sales Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christopher Klug"
+    },
+    {
+      "position": 10,
+      "title": "Gerrit Kazmaier - Workday",
+      "link": "https://www.linkedin.com/in/gerrit-kazmaier",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gerrit-kazmaier&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0QFnoECC4QAQ",
+      "displayed_link": "15.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa28d2a2428f9a658fc2/images/ff36da90105dca6c5615dca83bee250b463f5c5dfe5da0129d48d4504bbcd252.png",
+      "snippet": "In my role as head of ux I had the unique opportunity to build a rock-star design team. We crafted visual design, information architecture and ux guidelines.",
+      "snippet_highlighted_words": [
+        "head of"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Workday"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gerrit Kazmaier"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=KPrdZ5ODObLAkPIP656S6Qc&start=100&sa=N&sstk=Af40H4Vk5-KfCBnNiOMG6hU3PcGZuyF3VNHDwjSsAChgN6km3ia44_DEUhY-KO3LG5luRyLqS9VdjEzOiWa8VuQCU4TaxGVmnuckQQ&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0Q8NMDegQIJhAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=KPrdZ5ODObLAkPIP656S6Qc&start=100&sa=N&sstk=Af40H4Vk5-KfCBnNiOMG6hU3PcGZuyF3VNHDwjSsAChgN6km3ia44_DEUhY-KO3LG5luRyLqS9VdjEzOiWa8VuQCU4TaxGVmnuckQQ&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0Q8tMDegQIJhAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=KPrdZ5ODObLAkPIP656S6Qc&start=200&sa=N&sstk=Af40H4Vk5-KfCBnNiOMG6hU3PcGZuyF3VNHDwjSsAChgN6km3ia44_DEUhY-KO3LG5luRyLqS9VdjEzOiWa8VuQCU4TaxGVmnuckQQ&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0Q8tMDegQIJhAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=KPrdZ5ODObLAkPIP656S6Qc&start=300&sa=N&sstk=Af40H4Vk5-KfCBnNiOMG6hU3PcGZuyF3VNHDwjSsAChgN6km3ia44_DEUhY-KO3LG5luRyLqS9VdjEzOiWa8VuQCU4TaxGVmnuckQQ&ved=2ahUKEwiTt4zTrZyMAxUyIEQIHWuPJH0Q8tMDegQIJhAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&start=300"
+    }
+  }
+}

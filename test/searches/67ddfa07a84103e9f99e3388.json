@@ -1,0 +1,2183 @@
+{
+  "search_metadata": {
+    "id": "67ddfa07a84103e9f99e3388",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0266141f5127221f/67ddfa07a84103e9f99e3388.json",
+    "created_at": "2025-03-21 23:45:11 UTC",
+    "processed_at": "2025-03-21 23:45:11 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0266141f5127221f/67ddfa07a84103e9f99e3388.html",
+    "total_time_taken": 1.14
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"United Kingdom\" AND (current OR present) AND (\"Architect\" OR \"Senior Architect\" OR \"Principal Architect\" OR \"Solution Architect\" OR \"Principal\" OR \"Senior Principal\" OR \"Executive\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"United Kingdom\" AND (current OR present) AND (\"Architect\" OR \"Senior Architect\" OR \"Principal Architect\" OR \"Solution Architect\" OR \"Principal\" OR \"Senior Principal\" OR \"Executive\")",
+    "total_results": 51500000,
+    "time_taken_displayed": 0.84,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Richard Evans - Principal Architect - Google",
+      "link": "https://uk.linkedin.com/in/rpevans99",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rpevans99&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECBQQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011139c4de16018846b8b66288a83a8d9bb7.png",
+      "snippet": "Principal Architect · Nov 2020 - Present 4 years 5 months. London, England, United Kingdom ; Enterprise Cloud Architect, Google UK · Jul 2020 - Nov 2020 5 months.",
+      "snippet_highlighted_words": [
+        "Principal Architect",
+        "Present",
+        "United Kingdom",
+        "Architect",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Leicester Area",
+            "Principal Architect",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Evans"
+    },
+    {
+      "position": 2,
+      "title": "Laura Hyatt - Google",
+      "link": "https://uk.linkedin.com/in/laura-hyatt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/laura-hyatt&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECBYQAQ",
+      "displayed_link": "12K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011140ef4a6c6143a701e2a04e08e020d817.png",
+      "snippet": "Laura is a senior Cloud architect for Financial Services at Google Cloud ... Laura Hyatt. Google Lancaster University. London, England, United Kingdom. 12K ...",
+      "snippet_highlighted_words": [
+        "architect",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Laura Hyatt"
+    },
+    {
+      "position": 3,
+      "title": "Paul Thomas - Principal Architect - Google",
+      "link": "https://uk.linkedin.com/in/mrpaulthomas84",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mrpaulthomas84&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECCIQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111fd6ed8b5ec3dcd3c597bc47395d6abe5.png",
+      "snippet": "Paul Thomas. Principal Architect at Google. Google University of Sussex. London, England, United Kingdom. 1K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Principal Architect",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Architect",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Thomas"
+    },
+    {
+      "position": 4,
+      "title": "Paul Nightingale - Google",
+      "link": "https://uk.linkedin.com/in/paul-nightingale-4a392825",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paul-nightingale-4a392825&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECB0QAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301113ccd34f7e3afecc0d7b0599d04d8c9c3.png",
+      "snippet": "Google Cloud Certified Professional Cloud Architect. Google Cloud Platform ... Solution Architect with a broad range of skills and experience across ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Architect",
+        "Google",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Nightingale"
+    },
+    {
+      "position": 5,
+      "title": "Richard Grime - Principal Architect - Google",
+      "link": "https://uk.linkedin.com/in/richard-grime-53777880",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richard-grime-53777880&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECBUQAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111e82f0a6c0e292b6df121cad4e6c31167.png",
+      "snippet": "Experience. Google. 6 years 9 months · Google Graphic. Principal Architect. Google. Jan 2025 - Present 3 months. London Area, United Kingdom. Google Graphic ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Principal Architect",
+        "Google",
+        "Present",
+        "United Kingdom",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Architect",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Grime"
+    },
+    {
+      "position": 6,
+      "title": "David Bartlett - Principal Architect - Google",
+      "link": "https://uk.linkedin.com/in/davejbartlett",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/davejbartlett&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECCgQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111e712f92469a661959b464d688ae41e67.png",
+      "snippet": "David Bartlett. Principal Architect at Google. Google. Soberton, England, United Kingdom. 2K followers ...",
+      "snippet_highlighted_words": [
+        "Principal Architect",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Soberton, England, United Kingdom",
+            "Principal Architect",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Bartlett"
+    },
+    {
+      "position": 7,
+      "title": "Bipul Kumar - Google",
+      "link": "https://uk.linkedin.com/in/bipul-kumar-645995",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/bipul-kumar-645995&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCOUBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301117f43821838fa82116975157af04e1b14.png",
+      "snippet": "During 20+ years of my IT career, I have worked as Data & AI leader, Technology Architect… · Google · London Area, United Kingdom · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bipul Kumar"
+    },
+    {
+      "position": 8,
+      "title": "Rachael Gordon - Senior Staff Product Design Architect",
+      "link": "https://uk.linkedin.com/in/rachael-gordon-6b6b6238",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rachael-gordon-6b6b6238&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECEUQAQ",
+      "displayed_link": "860+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111d8fc85e7314924e0f726630da97b7245.png",
+      "snippet": "Staff Product Design Architect (PDA), Hardware, at Google. Google Royal College of Art. York, England, United Kingdom. 869 followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Rachael Gordon"
+    },
+    {
+      "position": 9,
+      "title": "Amrita Mukherjee - Lead Cloud Architect, Financial Services",
+      "link": "https://uk.linkedin.com/in/amrita-mukherjee-55969416",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/amrita-mukherjee-55969416&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJkBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111d9ecd0c3fba60dab34e65d2266ec632c.png",
+      "snippet": "... Principal Architect for one of the largest Telecom provider in UK & Global ... I worked as an Solution architect in BT Openreach for their EDW ...",
+      "snippet_highlighted_words": [
+        "Principal Architect",
+        "Solution architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Lead Cloud Architect, Financial Services",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amrita Mukherjee"
+    },
+    {
+      "position": 10,
+      "title": "Matt Robinson - Partner Cloud Engineering - AI - Google",
+      "link": "https://www.linkedin.com/in/mattrobn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mattrobn&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCOcBEAE",
+      "displayed_link": "870+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301114ffb3f15e00846a667dcaeb073d2f0d7.png",
+      "snippet": "Principal Cloud Architect, AI on Google Cloud · Cloud solution architect working with clients across industries to maximize the benefits of cloud technologies.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Google",
+        "solution architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chicago, Illinois, United States",
+            "Partner Cloud Engineering",
+            "AI",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Robinson"
+    },
+    {
+      "position": 11,
+      "title": "Tom Scriven - Principal Consultant - Google",
+      "link": "https://uk.linkedin.com/in/tom-scriven-71454910b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tom-scriven-71454910b&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJYCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111b1a47c2167e787f47e21e478eb334417.png",
+      "snippet": "Tom Scriven. Principal Consultant at Mandiant - Now part of Google Cloud. Google. United Kingdom. 1K followers ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Tom Scriven"
+    },
+    {
+      "position": 12,
+      "title": "Dinesh Kumar - Cloud Architect @ Google,UK",
+      "link": "https://in.linkedin.com/in/dinesh-kumar-46946890",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/dinesh-kumar-46946890&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECEQQAQ",
+      "displayed_link": "920+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111e4626a3344c44fdede10b1c78856c1c3.png",
+      "snippet": "Experience · Cloud Architect @ Google,UK. Google. Dec 2022 - Present 2 years 4 months · Technical Solution Architect - Data Center and Cloud. Cisco System India.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Google",
+        "Google",
+        "Present",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Cloud Architect @ Google,UK",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dinesh Kumar"
+    },
+    {
+      "position": 13,
+      "title": "Amanda Rodriguez - Advertising Solutions Architect - Google",
+      "link": "https://uk.linkedin.com/in/rodriguezamanda",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rodriguezamanda&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECG4QAQ",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301116bab8e46367cdb6d8db316aad1c2cc00.png",
+      "snippet": "Experience. Google. 9 years 3 months. Google Graphic. Advertising Solutions Architect. Google. Jan 2016 - Present 9 years 3 months. London, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Architect",
+        "Google",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Advertising Solutions Architect",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amanda Rodriguez"
+    },
+    {
+      "position": 14,
+      "title": "Grant Allen - Technology Program Manager / Principal ...",
+      "link": "https://uk.linkedin.com/in/gxallen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gxallen&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCKgBEAE",
+      "displayed_link": "700+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011176af1c513f9fe1e87432bf6cbb195dd0.png",
+      "snippet": "Experience: Google · Location: London Area, United Kingdom · 500+ connections on LinkedIn ... Technology Program Manager / Principal Architect. Google. 2006 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom",
+        "Principal Architect",
+        "Google"
+      ],
+      "source": "LinkedIn · Grant Allen"
+    },
+    {
+      "position": 15,
+      "title": "Matthieu Simon - Senior Advertising Solutions Architect",
+      "link": "https://uk.linkedin.com/in/matthieus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matthieus&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCMoBEAE",
+      "displayed_link": "920+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301113c64c288baa29bf046ce880a61212188.png",
+      "snippet": "Matthieu Simon. Senior Advertising Solutions Architect. Google Ecole des Mines d'Alès. Greater London, England, United Kingdom. 929 followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Senior Advertising Solutions Architect",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthieu Simon"
+    },
+    {
+      "position": 16,
+      "title": "John Abel - Google",
+      "link": "https://uk.linkedin.com/in/joabel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/joabel&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCOgBEAE",
+      "displayed_link": "16.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301113257b712ed4fc6c8a0d3df6d86d01097.png",
+      "snippet": "John Abel. Google FT Board Director Programme. London, England, United Kingdom. 16K followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Abel"
+    },
+    {
+      "position": 17,
+      "title": "Nick J. - Architectural Technical Lead - Data Centres - EMEA",
+      "link": "https://uk.linkedin.com/in/nick-j-a3a61633",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nick-j-a3a61633&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCIoCEAE",
+      "displayed_link": "870+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011105211b185aee162ed37995a57d18f3e2.png",
+      "snippet": "Nick J. Architectural Technical Lead - Data Centres - EMEA. Google Southampton Solent University. Winchester, England, United Kingdom ... Continue with Google ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Winchester, England, United Kingdom",
+            "Architectural Technical Lead",
+            "Data Centres",
+            "EMEA",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick J."
+    },
+    {
+      "position": 18,
+      "title": "Ben Howard - Solutions Architect - Google",
+      "link": "https://uk.linkedin.com/in/ben-howard-85b96b45",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ben-howard-85b96b45&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJQCEAE",
+      "displayed_link": "640+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111feea87b38d0997cfea729a0b9f8ebcee.png",
+      "snippet": "Ben Howard. Solutions Architect at Google. Google BPP Law School. Greater London, England, United Kingdom. 645 followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Solutions Architect",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Howard"
+    },
+    {
+      "position": 19,
+      "title": "Anna Singer - Google",
+      "link": "https://uk.linkedin.com/in/annahales",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/annahales&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCK8CEAE",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301115cc2dd44cf952cb158c8801a2a08516f.png",
+      "snippet": "Anna Singer. Google Middlesex University. London, England, United Kingdom. 910 followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anna Singer"
+    },
+    {
+      "position": 20,
+      "title": "Matt White - Senior Cloud Solution Architect",
+      "link": "https://uk.linkedin.com/in/matt-ffffff",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matt-ffffff&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECEMQAQ",
+      "displayed_link": "4.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011104abf5fa8b65383214152b3449ae039e.png",
+      "snippet": "Senior Cloud Solution Architect - Global Customer Success Tech Strategy. Microsoft. Nov 2021 - Present 3 years 5 months. United Kingdom. Responsible ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior Cloud Solution Architect",
+            "Global Customer Success Tech Strategy",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt White"
+    },
+    {
+      "position": 21,
+      "title": "Pushmeet Kohli - DeepMind",
+      "link": "https://uk.linkedin.com/in/pushmeet-kohli-4838994",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pushmeet-kohli-4838994&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECF8QAQ",
+      "displayed_link": "8.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111e2390df8d3346fd64e2a7bd0f6c11cb1.png",
+      "snippet": "Developing, applying and securing AI systems at Google DeepMind · Experience: DeepMind · Education: University of Cambridge · Location: United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pushmeet Kohli"
+    },
+    {
+      "position": 22,
+      "title": "Lila Ibrahim - Chief Operating Officer - Google DeepMind",
+      "link": "https://uk.linkedin.com/in/librahim",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/librahim&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECHwQAQ",
+      "displayed_link": "50.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301112c68d8c60e8e6fa35fe1d2d6655548fd.png",
+      "snippet": "COO, Google DeepMind · Lila is an engineer, venture capitalist, tech executive ... United Kingdom · 500+ connections on LinkedIn. View Lila Ibrahim's ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "executive",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Chief Operating Officer",
+            "Google DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lila Ibrahim"
+    },
+    {
+      "position": 23,
+      "title": "Shashi Rana - Senior Principal Advisor - Google",
+      "link": "https://uk.linkedin.com/in/srana",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/srana&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCI0BEAE",
+      "displayed_link": "850+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111a867275ee009fc264864e2298002f46f.png",
+      "snippet": "Experience ; Senior Principal Advisor. Google. May 2020 ; Digital Advisor, Executive. Microsoft. Jun 2012 ; Senior Manager. ING Direct, Group. Nov 2011 ; Senior ...",
+      "snippet_highlighted_words": [
+        "Senior Principal",
+        "Google",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Senior Principal Advisor",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shashi Rana"
+    },
+    {
+      "position": 24,
+      "title": "Keira Anderson - Head of Executive & International ...",
+      "link": "https://www.linkedin.com/in/keiraanderson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/keiraanderson&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCKcBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111f8f7c712c70feb8bca758caa8717968a.png",
+      "snippet": "Corporate & Executive Communications at Google · I lead an awesome team at Google Cloud, working on our CEO's external & internal communications as well as ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Head of Executive & International Communications, Google Cloud",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Keira Anderson"
+    },
+    {
+      "position": 25,
+      "title": "Vishal Goswami - Enterprise Cloud Architect",
+      "link": "https://uk.linkedin.com/in/vgoswami",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/vgoswami&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCL0BEAE",
+      "displayed_link": "830+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301117d694b4f7ed33dd0c65722b099c2f696.png",
+      "snippet": "Enterprise Cloud Architect - Financial Services at Google. Google Osmania University. London, England, United Kingdom ... Apr 2021 - Present 4 years. London ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Google",
+        "Google",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Enterprise Cloud Architect",
+            "Financial Services",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vishal Goswami"
+    },
+    {
+      "position": 26,
+      "title": "Julia Hoffmann - Google",
+      "link": "https://uk.linkedin.com/in/julia-hoffmann-00299",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/julia-hoffmann-00299&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCNsBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301113f37dd83afcd4e6b5613ef01572e260e.png",
+      "snippet": "Julia Hoffmann. Google School of Visual Arts. United Kingdom. 2K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julia Hoffmann"
+    },
+    {
+      "position": 27,
+      "title": "Dr. Andy Packham - Chief Architect and Senior Vice ...",
+      "link": "https://uk.linkedin.com/in/andypackham",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andypackham&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCNwBEAE",
+      "displayed_link": "8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011141a3401e54c6fec11c9e7421de21796d.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Dr. Andy Packham's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Chief Architect and Senior Vice President. Microsoft Business Unit.",
+            "HCLTech"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Andy Packham"
+    },
+    {
+      "position": 28,
+      "title": "Kevin Michael Hicar - Executive Recruiter - Google",
+      "link": "https://www.linkedin.com/in/kevinmichaelhicar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kevinmichaelhicar&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCOkBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111c4efd8ab0b2695f0ceaef9bd085db3e8.png",
+      "snippet": "Executive Search & Talent Advisory @ Google · I am a consultant with 23 ... Senior Principal. Robert Half. Feb 2020 - Feb 2022 2 years 1 month. Washington ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "Senior Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Executive Recruiter",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin Michael Hicar"
+    },
+    {
+      "position": 29,
+      "title": "Bradley G. - Cloud Architect (TVC xWF) for Google",
+      "link": "https://uk.linkedin.com/in/bradley-g-41502227",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/bradley-g-41502227&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCPgBEAE",
+      "displayed_link": "410+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011188122f37762d0d03441bcc4a4d855a79.png",
+      "snippet": "Cloud Architect (TVC xWF) for Google. Media Futures Group. Jan 2025 - Present 3 months. Greater London, England, United Kingdom. EssenceMediacom Graphic ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Google",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Bradley G."
+    },
+    {
+      "position": 30,
+      "title": "Ryan Kroonenburg",
+      "link": "https://uk.linkedin.com/in/acloudguru",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/acloudguru&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCPwBEAE",
+      "displayed_link": "53.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111659bd30da6ab6ac8cd37a7c9fc8b7817.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... London, United Kingdom. -. London, United Kingdom. -. Twickenham, United ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom",
+        "United Kingdom",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Kroonenburg Capital"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Kroonenburg"
+    },
+    {
+      "position": 31,
+      "title": "Demis Hassabis - Founder & CEO - Isomorphic Labs",
+      "link": "https://uk.linkedin.com/in/demishassabis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/demishassabis&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJECEAE",
+      "displayed_link": "93.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111003f854c9fd55af936fc10d9973cdb46.png",
+      "snippet": "Co-Founder & CEO, Google DeepMind. Isomorphic Labs University College London, U. of London. Greater London, England, United Kingdom ... Continue with Google ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom",
+        "Google"
+      ],
+      "source": "LinkedIn · Demis Hassabis"
+    },
+    {
+      "position": 32,
+      "title": "Greta Krupetsky - Non Executive Director - Thought Machine",
+      "link": "https://uk.linkedin.com/in/gretakrupetsky",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gretakrupetsky&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJMCEAE",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301112258d5cf60eb011e173c6609f1e54ded.png",
+      "snippet": "Outside of Google, I serve as Executive Sponsor for 30+ multinational organizations across a range of industries and as a Strategic Advisor to 12 companies.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Executive"
+      ],
+      "source": "LinkedIn · Greta Krupetsky"
+    },
+    {
+      "position": 33,
+      "title": "Hattie Hartman HonFRIBA - Honorary Professor of ...",
+      "link": "https://uk.linkedin.com/in/hattie-hartman-honfriba-5b86111b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hattie-hartman-honfriba-5b86111b&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCKkCEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301112f2ad240d44dba53bfba7bfc353270e2.png",
+      "snippet": "... architect and urban planner at Massachusetts Institute of Technology, I ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "architect",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Hattie Hartman HonFRIBA"
+    },
+    {
+      "position": 34,
+      "title": "Dr Leandro Herrero - Chief Organization Architect, CEO",
+      "link": "https://uk.linkedin.com/in/leandroherrero",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/leandroherrero&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCLACEAE",
+      "displayed_link": "35.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111051dbc6346c6c82a1227d7ab058c5ec4.png",
+      "snippet": "Experience · Chief Organization Architect, CEO · Viral Change™ · Executive Fellow · Visiting Professor · VP R&D Europe (EMEA) · Head Pharmacoeconomics · Head ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Executive"
+      ],
+      "source": "LinkedIn · Dr Leandro Herrero"
+    },
+    {
+      "position": 35,
+      "title": "Kathryn Campbell - Real Estate Project Executive EMEA",
+      "link": "https://uk.linkedin.com/in/kathryn-campbell-183a713b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kathryn-campbell-183a713b&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCLoCEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111161d574a5cc8a4e61252aecb8e35b2b2.png",
+      "snippet": "... Executive EMEA | Women@Google UK, Development Lead | Architect. Google Saïd Business School, University of Oxford. Greater London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "Architect",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Real Estate Project Executive EMEA",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kathryn Campbell"
+    },
+    {
+      "position": 36,
+      "title": "Simon Freakley - Executive Chairman - AlixPartners",
+      "link": "https://www.linkedin.com/in/simon-freakley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/simon-freakley&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECEYQAQ",
+      "displayed_link": "14.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011159320c9c3a4fd0607c2e20bad9f1f04a.png",
+      "snippet": "Chief Executive Officer. Zolfo Cooper LLP. Jan 2008 - Feb 2015 7 years 2 months. London, United Kingdom. Kroll Graphic. Global CEO. Kroll. 2004 - 2008 4 years.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Executive Chairman",
+            "AlixPartners"
+          ]
+        }
+      },
+      "source": "LinkedIn · Simon Freakley"
+    },
+    {
+      "position": 37,
+      "title": "Dex Hunter-Torricke - Google DeepMind",
+      "link": "https://uk.linkedin.com/in/dextb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/dextb&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECE0QAQ",
+      "displayed_link": "8.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111ba7a20910edfa004ae993b67215328ff.png",
+      "snippet": "Dex Hunter-Torricke. Google DeepMind University of Oxford. London Area, United Kingdom. 8K followers 500 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Google DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dex Hunter-Torricke"
+    },
+    {
+      "position": 38,
+      "title": "Tadeu Marroco - Chief Executive - BAT",
+      "link": "https://uk.linkedin.com/in/tadeumarroco",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tadeumarroco&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECGIQAQ",
+      "displayed_link": "18.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011184ec7030a68ba59babc4217cf342662b.png",
+      "snippet": "Experience ; Chief Executive · May 2023 - Present 1 year 11 months. London, England, United Kingdom. Chief Executive ; Group Chief Financial Officer · Aug 2019 - ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Present",
+        "United Kingdom",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Chief Executive",
+            "BAT"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tadeu Marroco"
+    },
+    {
+      "position": 39,
+      "title": "Allison Kirkby - Chief Executive - BT Group",
+      "link": "https://uk.linkedin.com/in/allison-kirkby-b639758",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/allison-kirkby-b639758&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECGQQAQ",
+      "displayed_link": "24.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111335f0dd2159f2876685ccdd619de64f5.png",
+      "snippet": "Experience ; Chief Executive · Feb 2024 - Present 1 year 2 months. London, England, United Kingdom ; Senior Advisor · Mar 2025 - Present 1 month ; President & Group ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Present",
+        "United Kingdom",
+        "Present"
+      ],
+      "source": "LinkedIn · Allison Kirkby"
+    },
+    {
+      "position": 40,
+      "title": "Eleanor Young - Editor, RIBA Journal",
+      "link": "https://uk.linkedin.com/in/eleanor-young-3a279a16",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/eleanor-young-3a279a16&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECHsQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301118ee64bcf6a9bf4ea0cfe2a32260cea1f.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Eleanor Young's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Editor, RIBA Journal",
+            "RIBA Journal"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eleanor Young"
+    },
+    {
+      "position": 41,
+      "title": "Mohit Joshi - CEO and Managing Director - Tech Mahindra",
+      "link": "https://uk.linkedin.com/in/themohitjoshipage",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/themohitjoshipage&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECH8QAQ",
+      "displayed_link": "138.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111668599a8754b1365abe8847255ab5137.png",
+      "snippet": "... Executive Officer and Managing Director at Tech Mahindra. My career has ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Mohit Joshi"
+    },
+    {
+      "position": 42,
+      "title": "Prasad Rao - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/kprasadrao",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kprasadrao&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCIwBEAE",
+      "displayed_link": "37.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111444a18e2b4eee29c72ad9d9858dfbf53.png",
+      "snippet": "I'm Principal Partner Solutions Architect at AWS. I work with AWS Partners ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Prasad Rao"
+    },
+    {
+      "position": 43,
+      "title": "Susan Thomas - Clinical Director, Google Health",
+      "link": "https://uk.linkedin.com/in/susanthomashealth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/susanthomashealth&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJcBEAE",
+      "displayed_link": "4.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011107dbf03085a3e5905d300db8a9d6fffe.png",
+      "snippet": "Experience. Google Graphic. Clinical Director, Google Health. Google. Apr 2021 - Present 4 years. London, England, United Kingdom. EY. 12 years 8 months. EY ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Google",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Clinical Director, Google Health",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Susan Thomas"
+    },
+    {
+      "position": 44,
+      "title": "Sarah Langslow, PCC - Executive Leadership Coach",
+      "link": "https://uk.linkedin.com/in/sarahlangslow",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sarahlangslow&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCK4BEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111efda7859590913ee990e91cae0eed1d5.png",
+      "snippet": "Experience · Sarah Langslow Limited Graphic. Executive Leadership Coach. Sarah Langslow Limited. Jan 2016 - Present 9 years 3 months. London, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Sarah Langslow, PCC"
+    },
+    {
+      "position": 45,
+      "title": "Richard Dougherty RIBA ARB - Gallaudet University",
+      "link": "https://www.linkedin.com/in/richard-dougherty-riba-arb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/richard-dougherty-riba-arb&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCLIBEAE",
+      "displayed_link": "720+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111965fbf281535752e71e428adcd68b53d.png",
+      "snippet": "Executive Director, Architecture and Facilities Management · University Architect · Director · Design Council Expert - Associate · Associate · Architect · Urban ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Architect",
+        "Architect"
+      ],
+      "source": "LinkedIn · Richard Dougherty RIBA ARB"
+    },
+    {
+      "position": 46,
+      "title": "Alex Musil - Google",
+      "link": "https://uk.linkedin.com/in/alexmusil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alexmusil&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCL8BEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111a738320ae7bbef0a4f662d90486fe5a6.png",
+      "snippet": "Product executive with 20+ years of consumer and B2B Internet experience, and 15+ years… · Google · Stanford University · London Area, United Kingdom · 500+ ...",
+      "snippet_highlighted_words": [
+        "executive",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alex Musil"
+    },
+    {
+      "position": 47,
+      "title": "Izzi Ness - Executive Engagement Manager - Google",
+      "link": "https://uk.linkedin.com/in/izzi-ness-a98988131",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/izzi-ness-a98988131&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCMwBEAE",
+      "displayed_link": "480+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011129bd5a40bfa04e7087a8874b48efcb2f.png",
+      "snippet": "Executive Engagement Manager at Google. Google Bournemouth University. London, England, United Kingdom. 482 followers 483 connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Executive Engagement Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Izzi Ness"
+    },
+    {
+      "position": 48,
+      "title": "Laszlo Bock - Co-Founder and Board Member - Gretel Inc",
+      "link": "https://www.linkedin.com/in/laszlobock",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/laszlobock&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCM0BEAE",
+      "displayed_link": "996.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301119a4672e5decf79a13e9c6d4cf4dbdf15.png",
+      "snippet": "Before that, he spent a decade as a member of the Executive Management Team at Google where he served as Senior Vice President of People Operations. His best- ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google"
+      ],
+      "source": "LinkedIn · Laszlo Bock"
+    },
+    {
+      "position": 49,
+      "title": "Catalin Vieru - Google",
+      "link": "https://www.linkedin.com/in/catalin-vieru",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/catalin-vieru&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCN4BEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011141c8a3d86039137322a027e9fb1b99bc.png",
+      "snippet": "• GenAI Principal Architect for Strategic Accounts at Google • Chief Architect and… Services. IT Consulting · Resume Review · Public Speaking · Executive ...",
+      "snippet_highlighted_words": [
+        "Principal Architect",
+        "Google",
+        "Architect",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Catalin Vieru"
+    },
+    {
+      "position": 50,
+      "title": "Rebecca Franks - Google",
+      "link": "https://uk.linkedin.com/in/rebeccafranks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rebeccafranks&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCOYBEAE",
+      "displayed_link": "11K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301116ff79e4a682bd448e910a867945192d2.png",
+      "snippet": "Hi I'm Rebecca, a passionate, experienced Android Engineering Lead, currently working… Experience. Google Graphic · Google. London, England, United Kingdom. -.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rebecca Franks"
+    },
+    {
+      "position": 51,
+      "title": "Julie Brown - Non Executive Director - Diageo",
+      "link": "https://uk.linkedin.com/in/juliebrowncfo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/juliebrowncfo&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCOQBEAE",
+      "displayed_link": "4.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111ac2cc4277836980a10cd54046f7d851a.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Julie Brown's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Julie Brown"
+    },
+    {
+      "position": 52,
+      "title": "Jay Kulkarni - Project Executive | Workplace Design & ...",
+      "link": "https://in.linkedin.com/in/kulkarnijay",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/kulkarnijay&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCPcBEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111158044ecac9a2ebb91c70be1db87c6bd.png",
+      "snippet": "Project Executive, Real Estate Design & Delivery at Google | MRICS, MBA, MSc ... Architect. Cooper and Assosciates. May 2003 - Aug 2004 1 year 4 months.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Project Executive | Workplace Design & Delivery",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jay Kulkarni"
+    },
+    {
+      "position": 53,
+      "title": "David Gallagher - Design Manager - Google",
+      "link": "https://www.linkedin.com/in/dgallagher",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dgallagher&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCPYBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011163f1e6eac22a5c759d16d46e46c4a392.png",
+      "snippet": "Sky. Jul 2012 - Oct 2012 4 months. London, United Kingdom. Freelance interaction designer for OTT streaming service NowTV. Intel Corporation Graphic. Principal ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Design Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Gallagher"
+    },
+    {
+      "position": 54,
+      "title": "Whitaker Sherk - Executive Recruiter - Google",
+      "link": "https://www.linkedin.com/in/whitaker-sherk-012a9b44",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/whitaker-sherk-012a9b44&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCP4BEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111bfa58ac298e342daca7f99aeec8c729e.png",
+      "snippet": "Executive Recruitment at Google. Google University of Oregon. Seattle ... London, England, United Kingdom. Google Graphic. Administrative Business Partner.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "Google",
+        "United Kingdom",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Executive Recruiter",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Whitaker Sherk"
+    },
+    {
+      "position": 55,
+      "title": "Gordon Stuart - Chief Executive Officer - AMS",
+      "link": "https://uk.linkedin.com/in/gordon-stuart-1b24377",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gordon-stuart-1b24377&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCPsBEAE",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111ce90c820c48b2ea070688954572eac4c.png",
+      "snippet": "Gordon Stuart. Chief Executive Officer at AMS. AMS Strathclyde University. Virginia Water, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Gordon Stuart"
+    },
+    {
+      "position": 56,
+      "title": "Rory Sutherland - London, England, United Kingdom",
+      "link": "https://uk.linkedin.com/in/rorysutherland",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rorysutherland&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCIMCEAE",
+      "displayed_link": "124.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301111d184d769d9270afd0789d97bffe2aa6.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now ... I met him first when he gave a guest lecture to LSE's Executive ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Executive"
+      ],
+      "source": "LinkedIn · Rory Sutherland"
+    },
+    {
+      "position": 57,
+      "title": "Ismail Elezi - Principal Research Scientist / Tech Lead",
+      "link": "https://uk.linkedin.com/in/ismail-elezi-33958b32",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ismail-elezi-33958b32&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCIQCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301114d5cee5a41a93d4c9d9e31a727078b96.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to view profile · Report this profile; Close menu. About. I am a Principal Research ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Principal Research Scientist / Tech Lead",
+            "Huawei"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ismail Elezi"
+    },
+    {
+      "position": 58,
+      "title": "Simon Ainslie - Chairman - W Communications",
+      "link": "https://uk.linkedin.com/in/simon-ainslie-88782a23",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/simon-ainslie-88782a23&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJUCEAE",
+      "displayed_link": "16K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111b1fff0e4a27745a33cda809607b4c523.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Simon Ainslie's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Simon Ainslie"
+    },
+    {
+      "position": 59,
+      "title": "Harry Roberts - Consultant Front-end Architect - CSS ...",
+      "link": "https://uk.linkedin.com/in/csswizardry",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/csswizardry&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJICEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301115875758a18dbfd52a7c78680f5973b55.png",
+      "snippet": "Leeds, England, United Kingdom. 2K followers 500+ connections. See your ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Leeds, England, United Kingdom",
+            "Consultant Front-end Architect",
+            "CSS Wizardry Ltd."
+          ]
+        }
+      },
+      "source": "LinkedIn · Harry Roberts"
+    },
+    {
+      "position": 60,
+      "title": "Jacqui Read - The Ministry of Software Design",
+      "link": "https://uk.linkedin.com/in/jacquelineread",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jacquelineread&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJkCEAE",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111b73a603b8dad8acc180e1a2c15b3a0de.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... United Kingdom. Licenses & Certifications. TOGAF® Certification Program ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Winchester, England, United Kingdom",
+            "The Ministry of Software Design"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jacqui Read"
+    },
+    {
+      "position": 61,
+      "title": "Stephen King - Outgoing CEO - Luminate",
+      "link": "https://uk.linkedin.com/in/stephen-king-782a855",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stephen-king-782a855&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJoCEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111900fcce7dbba3c719d75945aa99afd9a.png",
+      "snippet": "Stephen King. Outgoing Chief Executive at Luminate. Luminate SOAS University of London. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Stephen King"
+    },
+    {
+      "position": 62,
+      "title": "Kitty Mayo - Chief Executive Officer - Project Europe",
+      "link": "https://www.linkedin.com/in/kittymm/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kittymm/&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCKwCEAE",
+      "displayed_link": "4.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011120039d980beaf97f87fa30cb2548917f.png",
+      "snippet": "Chief Executive Officer. Project Europe. Mar 2025 - Present 1 month. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Chief Executive Officer",
+            "Project Europe"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kitty Mayo"
+    },
+    {
+      "position": 63,
+      "title": "Yasmen Dehne - Senior Strategist Account Executive ...",
+      "link": "https://uk.linkedin.com/in/yasmen-dehne-56bab2104",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/yasmen-dehne-56bab2104&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCK4CEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111d101f7d820c22d31d16f89ee7c9978e7.png",
+      "snippet": "Senior Account Executive, Global Business @Google · Experience: Google · Education: King's College London · Location: United Kingdom · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior Strategist Account Executive, Global business",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Yasmen Dehne"
+    },
+    {
+      "position": 64,
+      "title": "Chris Weston - Chief Executive Officer - Thames Water",
+      "link": "https://uk.linkedin.com/in/chris-weston-94ab912a3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chris-weston-94ab912a3&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCK0CEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111bcfcb391811017bf9bc6d73018d9316e.png",
+      "snippet": "... United Kingdom · 133 connections on LinkedIn. View Chris Weston's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Chris Weston"
+    },
+    {
+      "position": 65,
+      "title": "Louise Blythe - Executive Producer- Change Management ...",
+      "link": "https://uk.linkedin.com/in/louise-blythe-8435b510",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/louise-blythe-8435b510&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCLkCEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301118144ffe2f8fe4069dc423b30a53d9f5a.png",
+      "snippet": "Executive Producer, Gen AI, transformation, Culture, Change · Currently ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Louise Blythe"
+    },
+    {
+      "position": 66,
+      "title": "Dr Sally Uren - Executive Director and Chief Acceleration ...",
+      "link": "https://uk.linkedin.com/in/dr-sally-uren-97b90624",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/dr-sally-uren-97b90624&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCMMCEAE",
+      "displayed_link": "10.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011175f3846fece5b1cc41ac985dd0cf82f8.png",
+      "snippet": "Executive Director and Chief Acceleration Officer. Forum for the Future. Jan 2025 - Present 3 months. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Executive Director and Chief Acceleration Officer",
+            "Forum for the Future"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr Sally Uren"
+    },
+    {
+      "position": 67,
+      "title": "Merlin Hyman OBE - Non Executive Director",
+      "link": "https://uk.linkedin.com/in/merlin-hyman-obe-2871a329",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/merlin-hyman-obe-2871a329&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCMICEAE",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301118eddef5c9f83758fb70f7ba7a8f65dcc.png",
+      "snippet": "Chief Executive. Regen. 2009 - Present 16 years. Exeter, United Kingdom. Responsible for ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Merlin Hyman OBE"
+    },
+    {
+      "position": 68,
+      "title": "Marjorie Ngwenya da Silva - Member, Corporate Advisory ...",
+      "link": "https://uk.linkedin.com/in/marjoriengwenya",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/marjoriengwenya&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECEkQAQ",
+      "displayed_link": "6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111636802713e991f3a1dc93e7c5fc97e99.png",
+      "snippet": "... executive roles before becoming a speaker, freelance consultant and ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "executive",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Marjorie Ngwenya da Silva"
+    },
+    {
+      "position": 69,
+      "title": "Stephanie Roberts-Bibby - Chief Executive Officer",
+      "link": "https://uk.linkedin.com/in/stephanie-roberts-bibby-29585528",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stephanie-roberts-bibby-29585528&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECEgQAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011146ccc4b1d95ea35ef05c0b84acbb169b.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Stephanie Roberts ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Chief Executive Officer",
+            "Youth Justice Board for England and Wales (YJB)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephanie Roberts-Bibby"
+    },
+    {
+      "position": 70,
+      "title": "Graham Abbey - Strategic Advisory Board Member",
+      "link": "https://uk.linkedin.com/in/graham-abbey-39190b4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/graham-abbey-39190b4&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECE4QAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111dfd26204d551dd2398061a7173508669.png",
+      "snippet": "Chief Executive, Farleigh Performance | Professor in Practice & Director of Executive ... Continue with GoogleContinue with Google. New to LinkedIn? Join ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Executive",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Graham Abbey"
+    },
+    {
+      "position": 71,
+      "title": "Claire Williams OBE - Founder",
+      "link": "https://uk.linkedin.com/in/clairewilliamsofficial",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/clairewilliamsofficial&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECGMQAQ",
+      "displayed_link": "13.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111f92a4fa1727f4fd7bad97516477b5aa5.png",
+      "snippet": "Fortescue Zero Ambassador, Drive to Survive Analyst, Former Deputy Team Principal at Williams F1 | Sports Consulting | VP of Spinal Injuries Association ...",
+      "snippet_highlighted_words": [
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Founder",
+            "Claire Williams Consulting"
+          ]
+        }
+      },
+      "source": "LinkedIn · Claire Williams OBE"
+    },
+    {
+      "position": 72,
+      "title": "Andrew Jones - Principal Engineer - GoCardless",
+      "link": "https://uk.linkedin.com/in/andrewrhysjones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrewrhysjones&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECGEQAQ",
+      "displayed_link": "6.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011163c5339595ed0429ff9a021381a3d624.png",
+      "snippet": "Principal Engineer. GoCardless. Dec 2022 - Present 2 years 4 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Andrew Jones"
+    },
+    {
+      "position": 73,
+      "title": "Ryan McDonnell - Chief Executive Officer - Lidl GB",
+      "link": "https://uk.linkedin.com/in/ryan-mcdonnell-lidlgb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ryan-mcdonnell-lidlgb&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECGAQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111a521dcfa0e7c7b7fecf567d6aec804d1.png",
+      "snippet": "Experience · Lidl GB. 9 years 7 months. Lidl GB Graphic. Chief Executive Officer. Lidl GB. Jan 2022 - Present 3 years 3 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Chief Executive Officer",
+            "Lidl GB"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan McDonnell"
+    },
+    {
+      "position": 74,
+      "title": "Ruth Phillips - Enterprise Account Executive - Digital Natives",
+      "link": "https://uk.linkedin.com/in/ruth-phillips-3252005a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ruth-phillips-3252005a&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECGUQAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111d69e3d4ff1a7d154fe9aa83d8238352a.png",
+      "snippet": "Enterprise Account Executive- Digital Natives at Google Cloud | DEI Co-Lead ... London, England, United Kingdom. 2K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Enterprise Account Executive",
+            "Digital Natives",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ruth Phillips"
+    },
+    {
+      "position": 75,
+      "title": "Jonathan Brearley - Ofgem",
+      "link": "https://uk.linkedin.com/in/jonathan-brearley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jonathan-brearley&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECG8QAQ",
+      "displayed_link": "6.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301113b876bc969214e27cc0ef6841de2c95a.png",
+      "snippet": "I am the chief executive of Ofgem, the independent energy regulator for Great Britain… · Experience: Ofgem · Location: United Kingdom · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "executive",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Ofgem"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Brearley"
+    },
+    {
+      "position": 76,
+      "title": "Arun Demeure - London, England, United Kingdom",
+      "link": "https://uk.linkedin.com/in/arun-demeure-93564144",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/arun-demeure-93564144&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECHoQAQ",
+      "displayed_link": "260+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011174c272825ea4091a65c2c1906bef41fa.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Senior Principal GPU Processor Architect. Imagination Technologies. Sep 2021 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior Principal",
+        "Architect"
+      ],
+      "source": "LinkedIn · Arun Demeure"
+    },
+    {
+      "position": 77,
+      "title": "Harish Bheemarthi - Associate Principal - Trust & Safety",
+      "link": "https://uk.linkedin.com/in/harishbheemarthi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/harishbheemarthi&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECH0QAQ",
+      "displayed_link": "5.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111f1d71e6e582072c2d14f50bd5cf735da.png",
+      "snippet": "Trust and Safety - Associate Principal at Google. Google Institute of Public Enterprise, Hyd. London Area, United Kingdom. 5K followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Associate Principal",
+            "Trust & Safety",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Harish Bheemarthi"
+    },
+    {
+      "position": 78,
+      "title": "Julia Thornton - Senior Manager Internal Communications",
+      "link": "https://uk.linkedin.com/in/juliasthornton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/juliasthornton&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCI4BEAE",
+      "displayed_link": "700+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011140a74126d3618b72b0c6e77769ccf572.png",
+      "snippet": "Google DeepMind. Aug 2021 - Present 3 years 8 months. London, England, United Kingdom. Working as ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Manager Internal Communications",
+            "Google DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julia Thornton"
+    },
+    {
+      "position": 79,
+      "title": "David Gregson - Non Executive Chairman",
+      "link": "https://uk.linkedin.com/in/david-gregson-8a24b11b2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/david-gregson-8a24b11b2&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECH4QAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301119245d8c03fca5b016b94b63130ab130a.png",
+      "snippet": "London, England, United Kingdom. 1K followers 500+ connections. See your ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · David Gregson"
+    },
+    {
+      "position": 80,
+      "title": "Thierry Garnier - CEO - Kingfisher plc",
+      "link": "https://uk.linkedin.com/in/thierry-garnier-821a742b/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/thierry-garnier-821a742b/en&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJUBEAE",
+      "displayed_link": "14.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111872ca190b9aae4935b5fbf645fc42a46.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Executive Director Growth Markets, Member of the Group Executive Board.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Executive",
+        "Executive"
+      ],
+      "source": "LinkedIn · Thierry Garnier"
+    },
+    {
+      "position": 81,
+      "title": "Mithi Ahmed-Richards - Executive Editor for Current ...",
+      "link": "https://uk.linkedin.com/in/mithiahmed",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mithiahmed&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJYBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011126fca19272baf4f407639e4328691d1f.png",
+      "snippet": "Continue with GoogleContinue with Google. New to ... Experience. Taylor &amp; Francis Group Graphic. Executive Editor for Current Medical Research & Opinion.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Executive",
+        "Current"
+      ],
+      "source": "LinkedIn · Mithi Ahmed-Richards"
+    },
+    {
+      "position": 82,
+      "title": "Archana Kiran Kumar Reddy - Google Cloud Architect - eBay",
+      "link": "https://in.linkedin.com/in/archana-kiran-kumar-reddy-4167059",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/archana-kiran-kumar-reddy-4167059&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJ4BEAE",
+      "displayed_link": "940+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011146d75582ec3b7c8fc211586c16f6b25c.png",
+      "snippet": "Google Cloud Architect @ eBay | Google Cloud Data Architect · With over a ... Dec 2017 - Dec 2021 4 years 1 month. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Architect",
+        "Google",
+        "Architect",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Archana Kiran Kumar Reddy"
+    },
+    {
+      "position": 83,
+      "title": "Kenneth Davies - Principal Architect - Agencies - Google",
+      "link": "https://uk.linkedin.com/in/kenneth-davies-a96a9822",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kenneth-davies-a96a9822&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCJgBEAE",
+      "displayed_link": "840+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301111c728e9cd3a82a0b4ec164726082204c.png",
+      "snippet": "Principal Architect - Agencies at Google Cloud · Google · Roehampton University · United Kingdom · 500+ connections on LinkedIn ... Marketing Executive. The ...",
+      "snippet_highlighted_words": [
+        "Principal Architect",
+        "Google",
+        "Google",
+        "United Kingdom",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal Architect",
+            "Agencies",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kenneth Davies"
+    },
+    {
+      "position": 84,
+      "title": "Diana Robinson - Head of Investment - J.P. Morgan Private ...",
+      "link": "https://uk.linkedin.com/in/diana-robinson-4373177",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/diana-robinson-4373177&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCK8BEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011162d153678cc891862221d2f8ee509ccd.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Diana Robinson's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Head of Investment",
+            "J.P. Morgan Private Bank"
+          ]
+        }
+      },
+      "source": "LinkedIn · Diana Robinson"
+    },
+    {
+      "position": 85,
+      "title": "Eric Schmidt - Founding Partner - Innovation Endeavors",
+      "link": "https://www.linkedin.com/in/eric-e-schmidt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/eric-e-schmidt&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCLABEAE",
+      "displayed_link": "40.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111c628c4989cd0f8ded8536555653de990.png",
+      "snippet": "Experience ; Founding Partner. Innovation Endeavors. Jan 2010 ; Executive Chairman & Technical Advisor. Alphabet Inc. 2015 ; CEO & Chairman. Google. 2001 ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Founding Partner",
+            "Innovation Endeavors"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eric Schmidt"
+    },
+    {
+      "position": 86,
+      "title": "SIMON U. - Snr Director Google, EMEA, Operational ...",
+      "link": "https://uk.linkedin.com/in/simonurry",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/simonurry&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCLEBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111aa0c473a1da428e9fd74557027c7a457.png",
+      "snippet": "Snr Director Google | Executive Leadership | Security & Resilience ... United Kingdom · 500+ connections on LinkedIn. View SIMON U.'s profile on ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Executive",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Snr Director Google, EMEA, Operational Resilience, Risk and Security",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · SIMON U."
+    },
+    {
+      "position": 87,
+      "title": "Omar Abbosh - Chief Executive Officer - Pearson",
+      "link": "https://uk.linkedin.com/in/omarabbosh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/omarabbosh&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCLMBEAE",
+      "displayed_link": "33.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111132625579f19584811d2a3bfbd1fec74.png",
+      "snippet": "Chief Executive Officer at Pearson & non executive board member at Zuora. Pearson INSEAD. London, England, United Kingdom ... Continue with GoogleContinue with ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "executive",
+        "United Kingdom",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Chief Executive Officer",
+            "Pearson"
+          ]
+        }
+      },
+      "source": "LinkedIn · Omar Abbosh"
+    },
+    {
+      "position": 88,
+      "title": "Alasdair Murdoch - Burger King",
+      "link": "https://uk.linkedin.com/in/alasdair-murdoch-4105a611",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alasdair-murdoch-4105a611&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCLoBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011179aace559f026c41b3f6fcb041abdf90.png",
+      "snippet": "Proven Chief Executive with strong leadership skills. A track record of ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Burger King®"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alasdair Murdoch"
+    },
+    {
+      "position": 89,
+      "title": "Julian Marshall - YouTube Global Head of Music & Podcast ...",
+      "link": "https://uk.linkedin.com/in/julian-marshall-7243732b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/julian-marshall-7243732b&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCM4BEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea04663011101d098e0edfb907b364be41061286c53.png",
+      "snippet": "... Google / Shazam / BBC news / Radio 1 / NME / Coaching / Mentoring · An award-winning music executive with 25 years experience in mobile, video and audio ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "executive"
+      ],
+      "source": "LinkedIn · Julian Marshall"
+    },
+    {
+      "position": 90,
+      "title": "Alison Sharp - Chief People Officer - BSI",
+      "link": "https://uk.linkedin.com/in/alison-sharp-17b3854",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alison-sharp-17b3854&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCMsBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301112c2d82d57cee61f725f78649056456a5.png",
+      "snippet": "BSI. Apr 2020 - Present 5 years. London, England, United Kingdom. Executive accountability for People ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Chief People Officer",
+            "BSI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alison Sharp"
+    },
+    {
+      "position": 91,
+      "title": "Francois Mahieu - Google",
+      "link": "https://uk.linkedin.com/in/francoismahieu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/francoismahieu&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoFCMkBEAE",
+      "displayed_link": "4.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111b143f5df26dd4e4afad70428ff5135ca.png",
+      "snippet": "Google · IMD Business School · London Area, United Kingdom · 500 ... Internal Executive mentoring across Alphabet Group. French Founders. Member. Jan ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Francois Mahieu"
+    },
+    {
+      "position": 92,
+      "title": "Geraldine Wharry - Futurist & Regenerative Futures ...",
+      "link": "https://uk.linkedin.com/in/geraldinewharry",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/geraldinewharry&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECEcQAQ",
+      "displayed_link": "5.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111065c6e1cb4df0e03b0a7bf6cec43adf0.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Geraldine Wharry's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Geraldine Wharry"
+    },
+    {
+      "position": 93,
+      "title": "Patrik Schumacher - Zaha Hadid Architects",
+      "link": "https://uk.linkedin.com/in/patrik-schumacher-49a02515",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/patrik-schumacher-49a02515&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECCcQAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301116023cd740d185a542dbfac5ecc956b4b.png",
+      "snippet": "Patrik Schumacher. Zaha Hadid Architects University Klagenfurt. Greater London, England, United Kingdom ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Zaha Hadid Architects"
+          ]
+        }
+      },
+      "source": "LinkedIn · Patrik Schumacher"
+    },
+    {
+      "position": 94,
+      "title": "Alfred Biehler - A BIEHLER LIMITED",
+      "link": "https://uk.linkedin.com/in/alfredbiehler",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alfredbiehler&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECCkQAQ",
+      "displayed_link": "6.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301116f4c41fea37a490e7c29a73a6ecdd975.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Executive Coaching · Business Consulting · Management Consulting. Show more",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Beaconsfield, England, United Kingdom",
+            "A BIEHLER LIMITED"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alfred Biehler"
+    },
+    {
+      "position": 95,
+      "title": "S. M. Ali Eslami - Google DeepMind",
+      "link": "https://uk.linkedin.com/in/smalieslami",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/smalieslami&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECCwQAQ",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111f9558294a872be2287d838fb536c95c4.png",
+      "snippet": "Director and Principal Research Scientist at Google DeepMind working on artificial… · Experience: Google DeepMind · Education: University of Oxford ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Google DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · S. M. Ali Eslami"
+    },
+    {
+      "position": 96,
+      "title": "Tariq Ahmed - Google",
+      "link": "https://uk.linkedin.com/in/tariq-ahmed2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tariq-ahmed2&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECCoQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301117db6f2db4649b101767f168a8ffaf4fe.png",
+      "snippet": "A highly ambitious and creative product support specialist at Google. Having attended… · Google · UCL · United Kingdom · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tariq Ahmed"
+    },
+    {
+      "position": 97,
+      "title": "Joshua Schulman - Burberry",
+      "link": "https://uk.linkedin.com/in/joshua-schulman-b155b85",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/joshua-schulman-b155b85&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECCsQAQ",
+      "displayed_link": "4.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111fb951593d164090702b9147d53742abe.png",
+      "snippet": "Experience: Burberry · Education: New York University · Location: United Kingdom · 500+ connections on LinkedIn ... Continue with GoogleContinue with Google. New ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Burberry"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joshua Schulman"
+    },
+    {
+      "position": 98,
+      "title": "Bruce Venter - Senior Corporate Executive Chef",
+      "link": "https://uk.linkedin.com/in/bruce-venter-b614465a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/bruce-venter-b614465a&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECC0QAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111780e0f0acdd36491f510f183f0853d8b.png",
+      "snippet": "Swindon, England, United Kingdom. 2K followers 500+ connections. See your ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Swindon, England, United Kingdom",
+            "Senior Corporate Executive Chef",
+            "Royal Caribbean International"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bruce Venter"
+    },
+    {
+      "position": 99,
+      "title": "Simon Lucas - Society: Global Executive Search",
+      "link": "https://uk.linkedin.com/in/stglucas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stglucas&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECC8QAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea046630111bc05133b3d18a82a0fe99da7188fe3f9.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to view profile · Report this profile; Close menu. About. Founder of the executive ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Chief Executive Officer",
+            "Society: Global Executive Search"
+          ]
+        }
+      },
+      "source": "LinkedIn · Simon Lucas"
+    },
+    {
+      "position": 100,
+      "title": "Michael Acton Smith - Co-Founder and Co-Executive ...",
+      "link": "https://uk.linkedin.com/in/michaelactonsmith",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/michaelactonsmith&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQFnoECC4QAQ",
+      "displayed_link": "12.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa07a84103e9f99e3388/images/e54ba0cfe342365f68331ea0466301111bcd4e11fb7f4fb6e05288cdbce467cd.png",
+      "snippet": "Experience · Calm Graphic. Co-Founder and Co-Executive Chairman. Calm. Jul 2022 - Present 2 years 9 months. London, England, United Kingdom · Calm Graphic. Co-CEO ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Co-Founder and Co-Executive Chairman",
+            "Calm"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Acton Smith"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=B_rdZ4GVMOWg5NoP3vdp&start=100&sa=N&sstk=Af40H4U0eTP_PgFfOUWUQM_AeStO-6XcwLxaLyGrybxkpBT63vnoCj8N13tMKIv1eLOQCpDvFfgeVyoNKjq0qZRTtMP4dH7GYusj4g&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQ8NMDegQICBAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=B_rdZ4GVMOWg5NoP3vdp&start=100&sa=N&sstk=Af40H4U0eTP_PgFfOUWUQM_AeStO-6XcwLxaLyGrybxkpBT63vnoCj8N13tMKIv1eLOQCpDvFfgeVyoNKjq0qZRTtMP4dH7GYusj4g&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQ8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=B_rdZ4GVMOWg5NoP3vdp&start=200&sa=N&sstk=Af40H4U0eTP_PgFfOUWUQM_AeStO-6XcwLxaLyGrybxkpBT63vnoCj8N13tMKIv1eLOQCpDvFfgeVyoNKjq0qZRTtMP4dH7GYusj4g&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQ8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=B_rdZ4GVMOWg5NoP3vdp&start=300&sa=N&sstk=Af40H4U0eTP_PgFfOUWUQM_AeStO-6XcwLxaLyGrybxkpBT63vnoCj8N13tMKIv1eLOQCpDvFfgeVyoNKjq0qZRTtMP4dH7GYusj4g&ved=2ahUKEwjBtKXDrZyMAxVlEFkFHd57GgAQ8tMDegQICBAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=300"
+    }
+  }
+}

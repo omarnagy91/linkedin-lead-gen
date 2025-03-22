@@ -1,0 +1,2365 @@
+{
+  "search_metadata": {
+    "id": "67ddfaf5b9e759f80e1355a7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5943f95fac7d1c95/67ddfaf5b9e759f80e1355a7.json",
+    "created_at": "2025-03-21 23:49:09 UTC",
+    "processed_at": "2025-03-21 23:49:09 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/5943f95fac7d1c95/67ddfaf5b9e759f80e1355a7.html",
+    "total_time_taken": 3.08
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Amazon\" AND \"Germany\" AND (current OR present) AND (\"Architect\" OR \"Senior Architect\" OR \"Principal Architect\" OR \"Solution Architect\" OR \"Principal\" OR \"Senior Principal\" OR \"Executive\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Amazon\" AND \"Germany\" AND (current OR present) AND (\"Architect\" OR \"Senior Architect\" OR \"Principal Architect\" OR \"Solution Architect\" OR \"Principal\" OR \"Senior Principal\" OR \"Executive\")",
+    "total_results": 3910000,
+    "time_taken_displayed": 1.57,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Chandana Keswarkar - Senior Solutions Architect",
+      "link": "https://www.linkedin.com/in/chandana-keswarkar-48144a8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chandana-keswarkar-48144a8&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECAkQAQ",
+      "displayed_link": "860+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce63382e41cd798866e9dd37c6432dd3f14.png",
+      "snippet": "Senior Solution Architect. adidas. Feb 2016 - Feb 2019 3 years 1 month. Herzogenaurach, Bavaria, Germany. • Spearheaded rewrite of a complex monolithic ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas-Fort Worth Metroplex",
+            "Senior Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chandana Keswarkar"
+    },
+    {
+      "position": 2,
+      "title": "Sergey Kurson - Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/sergey-kurson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sergey-kurson&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECCMQAQ",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce67fd97f14dfcf1915c485daef5508171a.png",
+      "snippet": "Principal Solutions Architect at Amazon Web Services (AWS) · With more than ... Munich, Bavaria, Germany. Amazon Web Services (AWS) Grafik. Solutions ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Amazon",
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Principal Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sergey Kurson"
+    },
+    {
+      "position": 3,
+      "title": "Steffen-Benjamin Walter – Senior Solutions Architect",
+      "link": "https://de.linkedin.com/in/steffen-benjamin-walter-49b0b08",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/steffen-benjamin-walter-49b0b08&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECBoQAQ",
+      "displayed_link": "450+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce63d38930bda5b0d8bad94330b8667dfb2.png",
+      "snippet": "Senior Solutions Architect at Amazon · I love making a positive difference ... Amazon. Jan. 2011 – Feb. 2018 7 Jahre 2 Monate. Munich Area, Germany. Every ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Senior Solutions Architect",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steffen-Benjamin Walter"
+    },
+    {
+      "position": 4,
+      "title": "Anton Kovalenko - Senior Solutions Architect – AWS",
+      "link": "https://de.linkedin.com/in/anton-a-kovalenko",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/anton-a-kovalenko&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECBcQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6f2e48b2c1bfb0240650b14acdff5a46b.png",
+      "snippet": "Amazon Web Services (AWS) Grafik. Senior Solutions Architect. Amazon Web Services (AWS). Feb. 2022 –Heute 3 Jahre 2 Monate. Munich, Bavaria, Germany ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Architect",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Senior Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anton Kovalenko"
+    },
+    {
+      "position": 5,
+      "title": "Stefan Dr. Schneider – Principal Solutions Architect ...",
+      "link": "https://de.linkedin.com/in/stefanschneiderscalingbits",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/stefanschneiderscalingbits&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECBYQAQ",
+      "displayed_link": "930+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6facf3bc1b7047a7d1ec2880b36e075cf.png",
+      "snippet": "Principal Solutions Architect Industrial ISVs bei Amazon Web Services EMEA S.A.R.L – Niederlassung Deutschland ... SAP Consultant for AWS in Germany. 1. 1 ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Wiesloch, Baden-Württemberg, Deutschland",
+            "Principal Solutions Architect Industrial ISVs",
+            "Amazon Web Services EMEA S.A.R.L – Niederlassung Deutschland"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stefan Dr. Schneider"
+    },
+    {
+      "position": 6,
+      "title": "Stefan Christoph – Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/stefanchristoph",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/stefanchristoph&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECBkQAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce650acea2ae3efa252db34cd98a073c8c3.png",
+      "snippet": "As a Principal Solutions Architect at AWS, I partner with organizations to architect and… ... Düsseldorf, North Rhine-Westphalia, Germany. -. Cologne Area ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "architect",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Düsseldorf und Umgebung",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stefan Christoph"
+    },
+    {
+      "position": 7,
+      "title": "Inaam Syed - Startups Solutions Architect - Amazon Web ...",
+      "link": "https://www.linkedin.com/in/syed-inaamul-haq",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/syed-inaamul-haq&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECCwQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6d33d3c14857aff23e4b98db9f631a5d6.png",
+      "snippet": "Startups Solutions Architect | CxO advisory | Supporting top startups in Germany | Passionate about AI/Ml. opinion are my own. · Amazon Web Services (AWS) ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Startups Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Inaam Syed"
+    },
+    {
+      "position": 8,
+      "title": "Tilman Resch – Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/tilman-resch",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/tilman-resch&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECCgQAQ",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce64bc57117b214e0bfb7aeebdc8a108563.png",
+      "snippet": "Berufserfahrung · Amazon Web Services (AWS) Grafik. Amazon Web Services (AWS). Munich, Bavaria, Germany · -. Munich · -. Munich, Bavaria, Germany · -. Greater ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tilman Resch"
+    },
+    {
+      "position": 9,
+      "title": "Dirk Fröhner - Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/dirk-froehner/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dirk-froehner/en&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCNgBEAE",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6bf8cccddc6000e4f23c14f57d5f3909e.png",
+      "snippet": "All posts… · Amazon Web Services (AWS) · Germany · 500+ connections on ... Architect to Solutions Architect and then to Senior Solutions Architect. He ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Architect",
+        "Architect",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dirk Fröhner 🇪🇺"
+    },
+    {
+      "position": 10,
+      "title": "Praveen Edem - Sr. Solutions Architect",
+      "link": "https://www.linkedin.com/in/praveenedem",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/praveenedem&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECCUQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6488eecf497da318c452a8e86621d0846.png",
+      "snippet": "Amazon Web Services (AWS) Graphic. Sr. Solutions Architect. Amazon Web Services (AWS). Jun 2020 - Present 4 years 10 months. Dallas-Fort Worth Metroplex ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Architect",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas-Fort Worth Metroplex",
+            "Sr. Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Praveen Edem"
+    },
+    {
+      "position": 11,
+      "title": "Alexander Arzhanov – Senior AI/ML Specialist Architect",
+      "link": "https://de.linkedin.com/in/aarz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/aarz&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCIQBEAE",
+      "displayed_link": "800+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6766924245ab40ee8932237b248bfb8c1.png",
+      "snippet": "Senior AI/ML Specialist Architect. Amazon Web Services (AWS). Dez. 2022 –Heute 2 Jahre 4 Monate.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hessen, Deutschland",
+            "Senior AI/ML Specialist Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexander Arzhanov"
+    },
+    {
+      "position": 12,
+      "title": "Umang Gupta - AWS employed Solutions Architect",
+      "link": "https://de.linkedin.com/in/gumang",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/gumang&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCOABEAE",
+      "displayed_link": "980+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce60ff99d6b410f26b293aa9bdcc7ac0048.png",
+      "snippet": "Info. Experience : - Solutions Architect, Amazon Web Services, Berlin (Aug'22 - Present) - ... Berlin, Germany. Amazon Grafik. Software Development Engineer.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Present",
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Umang Gupta"
+    },
+    {
+      "position": 13,
+      "title": "Malte R. - Solutions Architect - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/malte-reimann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/malte-reimann&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCIgCEAE",
+      "displayed_link": "740+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce624b100cfc8f4c02d391b7f65cc0009e0.png",
+      "snippet": "... Amazon Web Services (AWS) · Karlsruhe Institute of Technology (KIT) ... Karlsruhe, Baden-Württemberg, Germany. I build programming exercises for the ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Zurich, Zurich, Switzerland",
+            "Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Malte R."
+    },
+    {
+      "position": 14,
+      "title": "Junjie Tang – Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/junjie-tang",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/junjie-tang&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECCoQAQ",
+      "displayed_link": "13.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6980cc2189b2a0cf63d37a38b881ce1ce.png",
+      "snippet": "Munich Area, Germany ... This team demonstrates a broad collaboration between AWS Professional Services, Solution Architect, Machine Learning Lab, BD and Sales ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Junjie Tang"
+    },
+    {
+      "position": 15,
+      "title": "Julian Lang - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/julian-lang-721a54191/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/julian-lang-721a54191/&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECFwQAQ",
+      "displayed_link": "600+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce613fdc7dfc7a7d68f6b7bec94b083e69b.png",
+      "snippet": "Solutions Architect at Amazon Web Services (AWS) · Amazon Web Services (AWS) · Hochschule Hof, University of Applied Sciences · Germany · 500+ connections ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julian Lang"
+    },
+    {
+      "position": 16,
+      "title": "Gerardo Rodriguez Visus - Senior Solutions Architect ...",
+      "link": "https://uk.linkedin.com/in/gerardorodriguezvisus/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gerardorodriguezvisus/en&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCIUBEAE",
+      "displayed_link": "990+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce648e0616bc6c481ef69b2997343986cc6.png",
+      "snippet": "Solutions Architect at Amazon Pay · An experienced technical leader and solution architect, highly skilled in Web Solutions and CMS technologies, ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "solution architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Senior Solutions Architect, Amazon Pay",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gerardo Rodriguez Visus"
+    },
+    {
+      "position": 17,
+      "title": "Alan Peaty - Senior Partner Solutions Architect - Amazon ...",
+      "link": "https://uk.linkedin.com/in/alan-peaty-1326587a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alan-peaty-1326587a&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCMQBEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce63508525d7f4c0c5a8386da8236df005d.png",
+      "snippet": "Senior Partner Solutions Architect at Amazon Web Services (AWS) ... - Present technical strategies and roadmaps to executive audiences to drive value from their ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Present",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Bristol Area, United Kingdom",
+            "Senior Partner Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alan Peaty"
+    },
+    {
+      "position": 18,
+      "title": "Jonathan Weiss – Amazon",
+      "link": "https://de.linkedin.com/in/jonathan-weiss-26938622",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/jonathan-weiss-26938622&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCN8BEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce601c9bc31aaac963a562659d9d7bcc14c.png",
+      "snippet": "Excited to be part of Amazon Web Services after my… ... Berlin Area, Germany. -. Berlin Area, Germany. -. Berlin Area, Germany ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Weiss"
+    },
+    {
+      "position": 19,
+      "title": "Gregor Hohpe - Architect Elevator",
+      "link": "https://sg.linkedin.com/in/ghohpe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sg.linkedin.com/in/ghohpe&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCPoBEAE",
+      "displayed_link": "50.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce691724ce5928d4b06acf11833897a300f.png",
+      "snippet": "Munich Area, Germany. -. Munich. -. Tokyo, Japan. -. -. San Francisco Bay Area ... They combine the necessary technical, communication and organizational skill to ...",
+      "snippet_highlighted_words": [
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Singapore",
+            "Architect Elevator"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gregor Hohpe"
+    },
+    {
+      "position": 20,
+      "title": "Karthik Ragubathy - Senior Solutions Architect, Fire TV",
+      "link": "https://www.linkedin.com/in/pkarthikr/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/pkarthikr/&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCJUCEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6aa0c2110fc4133ea721fef6e16305b6d.png",
+      "snippet": "Senior Solutions Architect at Amazon · Amazon · Greater Seattle Area · 500+ connections on LinkedIn. View Karthik Ragubathy's profile on LinkedIn, ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Senior Solutions Architect, Fire TV",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Karthik Ragubathy"
+    },
+    {
+      "position": 21,
+      "title": "Anand Kumar – Solutions Architect – Amazon",
+      "link": "https://de.linkedin.com/in/s-anand-kumar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/s-anand-kumar&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCKQCEAE",
+      "displayed_link": "330+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6f6d41126c0120cd4d754b79692135de0.png",
+      "snippet": "Technical Expert. Bosch. Aug. 2021 – Sept. 2024 3 Jahre 2 Monate. Hildesheim, Lower Saxony, Germany. Senior Software Architect. Robert Bosch India Engineering ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Architect"
+      ],
+      "source": "LinkedIn · Anand Kumar"
+    },
+    {
+      "position": 22,
+      "title": "Nick Smith - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/nick-smith-66a9b75",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nick-smith-66a9b75&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECCsQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce66f15bfb4bd7ff0a09f7e7cb019184c0e.png",
+      "snippet": "Principal Solutions Architect at Amazon Web Services (AWS) · Experienced infrastructure designer with a demonstrated history of working in the ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ipswich, England, United Kingdom",
+            "Principal Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Smith"
+    },
+    {
+      "position": 23,
+      "title": "John Butler - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/jfbutler",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jfbutler&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECEMQAQ",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce60b71b751bd2aa15f4e6e0d39ce4ce2c3.png",
+      "snippet": "Currently Principal Solutions Architect at AWS building exciting things with Cloud… · Amazon Web Services (AWS) · University College Dublin · Larchmont ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Larchmont, New York, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Butler"
+    },
+    {
+      "position": 24,
+      "title": "Anna Lewandowska – Amazon",
+      "link": "https://de.linkedin.com/in/anna-lewandowska-14810861",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/anna-lewandowska-14810861&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECFsQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6c9b5c8bec26ff8a07b871aa3e8967329.png",
+      "snippet": "Amazon · Warsaw University of Technology · Münster · 500+ Kontakte auf LinkedIn ... Essen, North Rhine-Westphalia, Germany. -. Essen, North Rhine-Westphalia ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Münster, Nordrhein-Westfalen, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anna Lewandowska"
+    },
+    {
+      "position": 25,
+      "title": "Sebastian Stern – Quantum Solutions Architect",
+      "link": "https://de.linkedin.com/in/sebastianstern",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sebastianstern&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECG4QAQ",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce672fc4b542a27b787d15f4dac2dc56346.png",
+      "snippet": "Amazon Web Services (AWS). 5 Jahre 9 Monate. Amazon ... Quantum Solutions Architect. Amazon Web Services (AWS). Okt. 2022 –Heute 2 Jahre 6 Monate. Munich, Bavaria ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Quantum Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sebastian Stern"
+    },
+    {
+      "position": 26,
+      "title": "Srinivas Jonnalagedda - Sr Startup Solutions Architect",
+      "link": "https://www.linkedin.com/in/-sj",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/-sj&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCIcBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6d4e0269fe35f1831674ab40d725cb2b7.png",
+      "snippet": "Sr Solutions Architect at Amazon Web Services (AWS) - Healthcare Startups | re:Invent Speaker | AI in Healthcare · Technology, Business, Domain and Process ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Sr Startup Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Srinivas Jonnalagedda"
+    },
+    {
+      "position": 27,
+      "title": "Ralf Kleber - Amazon Germany CEO (20+y)",
+      "link": "https://de.linkedin.com/in/ralf-kleber-b1499a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ralf-kleber-b1499a&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCJ0BEAE",
+      "displayed_link": "24.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6737c9c65d11b92278e5d321fa0c47345.png",
+      "snippet": "Berufserfahrung: Ex: Amazon Germany CEO (20+y) · Ort: Metropolregion München · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von Ralf Kleber Ralf ...",
+      "snippet_highlighted_words": [
+        "Amazon Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "ex_amazon_germany_ceo_y": 20
+          },
+          "extensions": [
+            "Metropolregion München",
+            "Ex: Amazon Germany CEO (20+y)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ralf Kleber"
+    },
+    {
+      "position": 28,
+      "title": "Kathrin Renz – Amazon",
+      "link": "https://de.linkedin.com/in/kathrin-renz-6811155",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/kathrin-renz-6811155&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCLoBEAE",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce642eb76a53edddffaa75c344628c64492.png",
+      "snippet": "Kathrin Renz leads Amazon Web Services Industries business including sectors like… · Amazon · University of Cooperative Eduction, Germany · München · 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kathrin Renz"
+    },
+    {
+      "position": 29,
+      "title": "David Crescence - Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/davidcrescence/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/davidcrescence/en&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCMYBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce69bc1abffcda737e09e063b4290ae45b2.png",
+      "snippet": "Executive Leader in Enterprise Infrastructure ... These skills have been pivotal for my successes as a Principal Engagement Manager at Amazon Web Services.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Principal",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Principal Engagement Manager",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Crescence"
+    },
+    {
+      "position": 30,
+      "title": "Abdullah Gulraiz - Application Architect",
+      "link": "https://www.linkedin.com/in/abdullah-gulraiz-2bb0a914b/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/abdullah-gulraiz-2bb0a914b/&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCOsBEAE",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce61649e4f840088ef7f47d8f484e582d4f.png",
+      "snippet": "Application Architect at Amazon Web Services. Amazon Web Services (AWS) Technical University Munich. Munich, Bavaria, Germany. 903 followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Professional Services",
+            "Application Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Abdullah Gulraiz"
+    },
+    {
+      "position": 31,
+      "title": "Patrick Zink - AWS Lead Architect - PCG Germany",
+      "link": "https://de.linkedin.com/in/patrick-zink/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/patrick-zink/en&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCO4BEAE",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce619bcce309c97a2c10db4757f0313e1a4.png",
+      "snippet": "Patrick Zink from Germany, your go-to AWS Lead Architect when it comes to ... AWS Solution Architect. n_value basics. Jan 2022 - Feb 2023 1 year 2 months.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Architect",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mannheim, Baden-Württemberg, Germany",
+            "AWS Lead Architect",
+            "PCG Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Patrick Zink"
+    },
+    {
+      "position": 32,
+      "title": "Anurag T. - Senior Cloud Architect | Generative AI Specialist",
+      "link": "https://in.linkedin.com/in/anurag-t-984a4515",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/anurag-t-984a4515&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCPkBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6281441d7c0071fedfd9c7e345f86127a.png",
+      "snippet": "Senior Cloud Architect Amazon | AWS Generative AI Ambassador | Author · I am a seasoned senior technology executive with over 23 years of global leadership ...",
+      "snippet_highlighted_words": [
+        "Architect Amazon",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Senior Cloud Architect | Generative AI Specialist | Author",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anurag T."
+    },
+    {
+      "position": 33,
+      "title": "Matthew Taylor - Specialist Solutions Architect Manager",
+      "link": "https://uk.linkedin.com/in/matthewtaylorsolutionsarchitect",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matthewtaylorsolutionsarchitect&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCIoCEAE",
+      "displayed_link": "70+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce66c4a8d1deeb11f03f12eecf3a0a8a1f6.png",
+      "snippet": "Specialist Solutions Architect Manager at Amazon Web Services (AWS) · Solutions Architect · Experience: Amazon Web Services (AWS) · Location: London · 72 ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Specialist Solutions Architect Manager",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthew Taylor"
+    },
+    {
+      "position": 34,
+      "title": "Ashutosh Pateriya - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/ashutoshpateriya",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ashutoshpateriya&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCJYCEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6217c95d6ef4b092307c8c2708fc6284e.png",
+      "snippet": "AWS Certified Solution Architect - Associate Graphic. AWS Certified Solution Architect - Associate. Amazon Web Services · CCIP Graphic. CCIP. Cisco · CCNA ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Solution Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ashutosh Pateriya"
+    },
+    {
+      "position": 35,
+      "title": "Valentina Dimitrov - Principal, Program Management",
+      "link": "https://uk.linkedin.com/in/valentina-dimitrov-bb540554",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/valentina-dimitrov-bb540554&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCJkCEAE",
+      "displayed_link": "880+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce650c8171070405133e2e385f295c9207b.png",
+      "snippet": "Principal at Amazon · 10+ years leading greenfield initiatives. Expert in ... Amazon. Jan 2023 - Present 2 years 2 months. Berlin, Germany. Leading ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin Metropolitan Area",
+            "Principal, Program Management",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Valentina Dimitrov"
+    },
+    {
+      "position": 36,
+      "title": "Gaurav Kumar - Technical Program Manager at FireTV",
+      "link": "https://de.linkedin.com/in/gaurav-kumar-37508134",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/gaurav-kumar-37508134&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCKcCEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6f5b34bffb17f595ee05aaa6405a61024.png",
+      "snippet": "Berufserfahrung. Amazon Grafik. Principal Technical Program Manager at FireTV. Amazon. Aug. 2024 –Heute 8 Monaten. Berlin, Germany. Amazon Web Services (AWS) ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Principal",
+        "Amazon",
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Principal Technical Program Manager at FireTV",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gaurav Kumar"
+    },
+    {
+      "position": 37,
+      "title": "Jens Lehmann - Scientist, Artificial General Intelligence",
+      "link": "https://de.linkedin.com/in/jenslehmann82/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/jenslehmann82/en&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCLACEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce623140c40760c8cbbb6ab44b5676140e9.png",
+      "snippet": "Principal Scientist, Artificial General Intelligence at Amazon. Amazon TU Dresden. Dresden, Saxony, Germany. 2K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "source": "LinkedIn · Jens Lehmann"
+    },
+    {
+      "position": 38,
+      "title": "Vadym Voitiuk – Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/voituk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/voituk&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECC0QAQ",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6da98ab19d15a91da6c22362e48048cda.png",
+      "snippet": "Berlin, Germany. -. Berlin, Germany. -. Berlin, Germany. -. -. Berlin Area ... Amazon Web Services Solutions Architect Associate · Amazon Web Services (AWS).",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Germany",
+        "Germany",
+        "Amazon",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vadym Voitiuk"
+    },
+    {
+      "position": 39,
+      "title": "Benoit de Patoul - GenAI/AI/ML Solutions Architect",
+      "link": "https://uk.linkedin.com/in/benoit-de-patoul",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/benoit-de-patoul&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECCYQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6e5559fdd24bb83a603cfd060494a170f.png",
+      "snippet": "Benoit de Patoul. GenAI/AI/ML Solutions Architect @ AWS | AWS Certified, Machine Learning. Amazon Web Services (AWS) UCL ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "GenAI/AI/ML Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Benoit de Patoul"
+    },
+    {
+      "position": 40,
+      "title": "Markus Ziller - Senior Solutions Architect - Amazon Web ...",
+      "link": "https://www.linkedin.com/in/markus-ziller-b0410846/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/markus-ziller-b0410846/&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECEIQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6b0e008b2cdc3210423440a404f65f26c.png",
+      "snippet": "Senior Solutions Architect bei Amazon Web Services (AWS) · Experience: Amazon Web Services (AWS) · Education: Technische Universität München · Location: ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Munich Metropolitan Area",
+            "Senior Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Markus Ziller"
+    },
+    {
+      "position": 41,
+      "title": "Bharathi Srinivasan - Generative AI Data Scientist",
+      "link": "https://www.linkedin.com/in/bharathi-srinivasan-1b2312b9/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bharathi-srinivasan-1b2312b9/&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECFMQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6190a786e66406b80a8da4b977bd38100.png",
+      "snippet": "... Amazon Web Services (AWS) · Education: Humboldt University of Berlin ... AWS Certified Solutions Architect – Associate Graphic. AWS Certified Solutions ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Generative AI Data Scientist",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bharathi Srinivasan"
+    },
+    {
+      "position": 42,
+      "title": "Mark Riggins - Principal Software Engineer - Amazon",
+      "link": "https://www.linkedin.com/in/mark-riggins-58ab673a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mark-riggins-58ab673a&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECF4QAQ",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6bcc82a682ab88bc48cc41b7f23ac426e.png",
+      "snippet": "Former Principal Engineer at Amazon.com · As the lead architect for Amazon's ... Germany, France, or Japan could place orders on Amazon. We hit 5 nines our ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "architect",
+        "Amazon's",
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Lakeland, Florida, United States",
+            "Principal Software Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Riggins"
+    },
+    {
+      "position": 43,
+      "title": "Ivan Mirandolle - Manager Solutions Architecture",
+      "link": "https://de.linkedin.com/in/ivan-mirandolle/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ivan-mirandolle/en&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECGcQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6516b884e30275bbafb0280f64748b27c.png",
+      "snippet": "Ivan Mirandolle. Manager Solutions Architecture - Smart Factory. Amazon Web Services Universiteit Utrecht. Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Manager Solutions Architecture",
+            "Amazon Web Services"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ivan Mirandolle"
+    },
+    {
+      "position": 44,
+      "title": "Pedro Huerta - Amazon",
+      "link": "https://www.linkedin.com/in/pedro-huerta-6b3260",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/pedro-huerta-6b3260&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECHcQAQ",
+      "displayed_link": "10.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6998950ff4259b38bacd99da982ee988f.png",
+      "snippet": "Amazon Graphic · Amazon. Mexico. -. Seattle, Washington, United States. -. Munich Area, Germany ... He was always present, assertive, enthusiastic and very ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany",
+        "present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pedro Huerta"
+    },
+    {
+      "position": 45,
+      "title": "Claudio Rider – Principal Business Development – Amazon",
+      "link": "https://de.linkedin.com/in/claudio-rider-354b7415b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/claudio-rider-354b7415b&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECHkQAQ",
+      "displayed_link": "440+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6c5bcbc0e60e5716dd4043f9bd3b7eb4c.png",
+      "snippet": "Principal, Business Development, Amazon Devices · Berufserfahrung: Amazon ... –Heute 9 Jahre 11 Monate. Munich Area, Germany. - Responsible to develop ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "source": "LinkedIn · Claudio Rider"
+    },
+    {
+      "position": 46,
+      "title": "Andreas von der Heydt - Founder & Managing Director",
+      "link": "https://de.linkedin.com/in/andreasvonderheydt/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/andreasvonderheydt/en&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCJQBEAE",
+      "displayed_link": "520.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce63fea624c31d5a64b593daab1315bc278.png",
+      "snippet": "Executive Coach, Consultant, Advisor. · I'm the founder and managing director ... Europe and the U.S. and was a co-founder of Amazon Germany's Coaching ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon Germany's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt Rhine-Main Metropolitan Area",
+            "Founder & Managing Director",
+            "Andreas von der Heydt Coaching & Consulting"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andreas von der Heydt"
+    },
+    {
+      "position": 47,
+      "title": "Sebastian Gibbs - Senior Development Executive, Co ...",
+      "link": "https://www.linkedin.com/in/sebastian-gibbs-4902446",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sebastian-gibbs-4902446&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCJEBEAE",
+      "displayed_link": "940+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6144f02882a98d3c0f08169539769f9fd.png",
+      "snippet": "Television Creative Executive // Please note I do not accept unsolicited submissions or ideas · Prime Video & Amazon Studios · St. Paul's School · Los ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Senior Development Executive, Co-Productions",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sebastian Gibbs"
+    },
+    {
+      "position": 48,
+      "title": "Michelle Mei-Li Pfister - Associate Solutions Architect",
+      "link": "https://de.linkedin.com/in/michelle-mei-li/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/michelle-mei-li/en&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCKABEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6cb715ab361eab758b474f06916758b95.png",
+      "snippet": "Associate Solutions Architect @ Amazon Web Services. Amazon Web Services (AWS) Karlsruhe Institute of Technology (KIT). Munich, Bavaria, Germany. 1K followers ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Associate Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michelle Mei-Li Pfister"
+    },
+    {
+      "position": 49,
+      "title": "Kehinde Fawumi - Principal, Product Management Tech ...",
+      "link": "https://ca.linkedin.com/in/kehindefawumi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ca.linkedin.com/in/kehindefawumi&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCKMBEAE",
+      "displayed_link": "8.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6895874a5259057a6029c435b6cc472f1.png",
+      "snippet": "Principal Product Leader at Amazon | Scaling High-Impact Digital Products ... Germany. Advising fully remote agile teams on strategic planning and ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Vancouver Metropolitan Area",
+            "Principal, Product Management Tech, Intelligent Talent Acquisition",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kehinde Fawumi"
+    },
+    {
+      "position": 50,
+      "title": "Roland Merkle - Sr. Account Executive - ISV / Germany",
+      "link": "https://es.linkedin.com/in/roland-merkle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://es.linkedin.com/in/roland-merkle&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCLkBEAE",
+      "displayed_link": "10.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce657e8043aa5297e7fc8b0d051dde114de.png",
+      "snippet": "Account Executive - ISV / Germany. Amazon Web Services (AWS). abr 2024 ... Gráfico AWS Certified Solutions Architect - Associate. AWS Certified Solutions ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Germany",
+        "Amazon",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Madrid, Comunidad de Madrid, España",
+            "Sr. Account Executive",
+            "ISV / Germany",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Roland Merkle"
+    },
+    {
+      "position": 51,
+      "title": "Vesko Georgiev - Amazon",
+      "link": "https://www.linkedin.com/in/vesko-georgiev-1302a912",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vesko-georgiev-1302a912&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCLwBEAE",
+      "displayed_link": "360+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce627597689ffe048225777f7a526002c44.png",
+      "snippet": "Amazon · Technical University of Munich · Seattle · 360 connections on LinkedIn ... Munich Area, Germany. -. Karlsruhe Area, Germany. -. Sofia, Bulgaria / Paris ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vesko Georgiev"
+    },
+    {
+      "position": 52,
+      "title": "Rahel Abraham - Senior Executive Coach at Amazon",
+      "link": "https://www.linkedin.com/in/rahelabraham",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rahelabraham&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCNMBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce62dc82768ecdf0ada5d9bffaf19875743.png",
+      "snippet": "... Germany, UK, Spain ... Senior Executive Coach at Amazon. Amazon. Sep 2019 - Present 5 years 7 months. United States. Principal || Consultant & Executive Coach.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Executive",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "Principal",
+        "Executive"
+      ],
+      "source": "LinkedIn · Rahel Abraham"
+    },
+    {
+      "position": 53,
+      "title": "Elena Kissing - Enterprise Account Executive - Miro",
+      "link": "https://de.linkedin.com/in/elenakissing/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/elenakissing/en&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCNcBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce641663571ed426d6192473dac20d5f38a.png",
+      "snippet": "Enterprise Account Executive @ Miro | ex-Amazon | Helping companies to drive ... - Closing mid-size and large merchants across the DACH (Germany ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Enterprise Account Executive",
+            "Miro"
+          ]
+        }
+      },
+      "source": "LinkedIn · Elena Kissing"
+    },
+    {
+      "position": 54,
+      "title": "Courtney Wessel - Principal Business Development Manager",
+      "link": "https://www.linkedin.com/in/courtney-wessel-6404b445",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/courtney-wessel-6404b445&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCPABEAE",
+      "displayed_link": "650+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6f2a64df04d0021d79803b82fb3ef02e7.png",
+      "snippet": "Principal Business Development Manager - NA Returns Partnerships · Experience: Amazon · Education: Western Washington University · Location: Bellevue · 500+ ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Principal Business Development Manager",
+            "NA Returns Partnerships",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Courtney Wessel"
+    },
+    {
+      "position": 55,
+      "title": "Mohammed Nafar - Vendor Escalation Specialist - Amazon",
+      "link": "https://in.linkedin.com/in/mohammed-nafar-63ba2a17b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/mohammed-nafar-63ba2a17b&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCO8BEAE",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce699f2d51b952bd66260b6e13885a121d5.png",
+      "snippet": "Vendor Escalation Specialist, Executive Vendor Relations, SP-SEED, Amazon || IT Certified Business Analyst || Transforming Challenges into Solutions.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mumbai, Maharashtra, India",
+            "Vendor Escalation Specialist",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mohammed Nafar"
+    },
+    {
+      "position": 56,
+      "title": "SOURAV SADHU – Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/sourav-sadhu-8b027819",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sourav-sadhu-8b027819&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCPgBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce69f6fa6b9a81e7fb5d10b275ee443c87f.png",
+      "snippet": "SAP Certified BASIS,HANA Consultant | AWS, Google Certified Solution Architect with 10+… · Berufserfahrung: Amazon Web Services (AWS) · Ausbildung: National ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · SOURAV SADHU"
+    },
+    {
+      "position": 57,
+      "title": "Martin Lehmann - Principal Software Engineer at AWS",
+      "link": "https://www.linkedin.com/in/martin-lehmann-9667b154",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/martin-lehmann-9667b154&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCPcBEAE",
+      "displayed_link": "120+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6b2b7aeae46b6acdb412cadbc081af53b.png",
+      "snippet": "Architect, design, develop, and operate high performance, high volume back ... * integrated production facilities in Germany, US (2), and Taiwan, as ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mesa, Arizona, United States",
+            "Principal Software Engineer",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Martin Lehmann"
+    },
+    {
+      "position": 58,
+      "title": "Robert Jones - Senior Principal Applied Scientist - Amazon ...",
+      "link": "https://www.linkedin.com/in/robertbjones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robertbjones&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCP0BEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce63d993e11a3c556028ea29679323db24b.png",
+      "snippet": "Senior Principal Applied Scientist. Amazon Web Services (AWS). 2021 - Present 4 years. Proving the ...",
+      "snippet_highlighted_words": [
+        "Senior Principal",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Portland, Oregon, United States",
+            "Senior Principal Applied Scientist",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert Jones"
+    },
+    {
+      "position": 59,
+      "title": "Marissa Thompson - Los Angeles Metropolitan Area",
+      "link": "https://www.linkedin.com/in/marissa-thompson-unscripted-tv-producer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marissa-thompson-unscripted-tv-producer&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCIkCEAE",
+      "displayed_link": "620+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6ba5aa02e6779b7238fcea05dcc67e1de.png",
+      "snippet": "I'm a creative executive at Amazon Studios, specializing in unscripted content. I've been working in reality TV for 15 years.",
+      "snippet_highlighted_words": [
+        "executive",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Marissa Thompson"
+    },
+    {
+      "position": 60,
+      "title": "Kevin Jarzynski - Senior Development & Progamming ...",
+      "link": "https://www.linkedin.com/in/kevin-jarzynski-37a85a124",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kevin-jarzynski-37a85a124&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCIcCEAE",
+      "displayed_link": "460+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce625086dc4acb1a0e39367295c72c1316b.png",
+      "snippet": "Senior Development & Programming Executive at Amazon Studios · Experience: Amazon Studios · Education: The University of Texas at Austin · Location: Santa ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Santa Monica, California, United States",
+            "Senior Development & Progamming Executive",
+            "Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin Jarzynski"
+    },
+    {
+      "position": 61,
+      "title": "Srishti Chhabra - Specialist Product Manager - BMW Group",
+      "link": "https://www.linkedin.com/in/srishtichhabra",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/srishtichhabra&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCIYCEAE",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6dcf33cb9bae06f215fbdf9d00a31bc90.png",
+      "snippet": "Munich, Bavaria, Germany. Amazon Web Services (AWS) Graphic. Solutions Architect. Amazon Web Services (AWS). Mar 2023 - Oct 2024 1 year 8 months. Munich, ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Amazon",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Specialist Product Manager",
+            "BMW Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Srishti Chhabra"
+    },
+    {
+      "position": 62,
+      "title": "Daz Akbarov - Solutions Architect @ AWS",
+      "link": "https://uz.linkedin.com/in/daz-akbarov",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uz.linkedin.com/in/daz-akbarov&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCJcCEAE",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce66c2192dbff9cf1000dc46eb4780a787c.png",
+      "snippet": "... Amazon Web Services (AWS) · Education: Tashkent State Technical University ... Ташкент, Узбекистан. • Worked as a Solution Architect and Tech Lead for ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daz Akbarov"
+    },
+    {
+      "position": 63,
+      "title": "Tanja Suchaneck – Executive Assistant",
+      "link": "https://de.linkedin.com/in/tanja-suchaneck-60986b123",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/tanja-suchaneck-60986b123&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCJgCEAE",
+      "displayed_link": "210+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6f1d1cf7921e8a613766831fb2a9afc29.png",
+      "snippet": "Executive Assistant to Berlin Campus Lead, Amazon Development Center Germany GmbH · Berufserfahrung: Amazon Web Services (AWS) · Ausbildung: Hochschule für ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Executive Assistant",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tanja Suchaneck"
+    },
+    {
+      "position": 64,
+      "title": "Andie Green - Sr. Creative Executive, Genre Series",
+      "link": "https://www.linkedin.com/in/andie-green-30731850",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andie-green-30731850&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCKUCEAE",
+      "displayed_link": "870+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6026a5ec9057bba75c93ae47ad462d500.png",
+      "snippet": "Sr. Creative Executive, Ongoing Genre Series at Amazon Studios · Experience: Amazon Studios · Location: Culver City · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Culver City, California, United States",
+            "Sr. Creative Executive, Genre Series",
+            "Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andie Green"
+    },
+    {
+      "position": 65,
+      "title": "Austin Neureiter – Account Executive II – Amazon",
+      "link": "https://de.linkedin.com/in/austinneureiter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/austinneureiter&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCKYCEAE",
+      "displayed_link": "920+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6a3b9644426bd177e9d87b8e0009b0d34.png",
+      "snippet": "Account Executive, Amazon Ads · Berufserfahrung: Amazon · Standort: Berlin · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von Austin Neureiter auf ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Account Executive II",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Austin Neureiter"
+    },
+    {
+      "position": 66,
+      "title": "Jamie Kapili - Development Executive, Co-Productions",
+      "link": "https://www.linkedin.com/in/jamiekapili",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jamiekapili&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCLQCEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6f3520af97d0b8221ad41640fa889ec04.png",
+      "snippet": "Development Executive, Co-Productions · Unfortunately, I can't accept unsolicited submissions. Best of luck! · Experience: Prime Video & Amazon Studios ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Jamie Kapili"
+    },
+    {
+      "position": 67,
+      "title": "Wade Harris - Principal Tech Business Development ...",
+      "link": "https://www.linkedin.com/in/wadeharris5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/wadeharris5&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCLICEAE",
+      "displayed_link": "590+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce65ed1b1c4418f403905f1fd3d7bfbe1fb.png",
+      "snippet": "Principal Tech Business Development Manager, Global Fleet & Products. Amazon. Mar 2024 - Present 1 year 1 month. Bellevue, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Principal Tech Business Development Manager, Global Fleet & Products",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Wade Harris"
+    },
+    {
+      "position": 68,
+      "title": "Nick McCarthy - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/nick-mccarthy-aws",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nick-mccarthy-aws&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCLECEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce65f6217ccd627dc4b5b2502d84d8a365b.png",
+      "snippet": "Sr GenAI Solution Architect | Amazon Web Services (AWS) · Customizing GenAI models on AWS. · Experience: Amazon Web Services (AWS) · Education: UCL ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Sr Specialist Solution Architect, GenAI Model Customization",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick McCarthy"
+    },
+    {
+      "position": 69,
+      "title": "Peter Tilsen - Amazon Web Services (AWS)",
+      "link": "https://ca.linkedin.com/in/petertilsen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ca.linkedin.com/in/petertilsen&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCLMCEAE",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce61b1bee1fdf2c29eb879c5249c44a3b5e.png",
+      "snippet": "AWS Certified Solutions Architect - Professional Graphic · AWS Certified Solutions Architect - Professional · Amazon Web Services (AWS). Issued Jan 2023 Expires ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Toronto, Ontario, Canada",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Tilsen"
+    },
+    {
+      "position": 70,
+      "title": "Tobias Seidel – Solutions Architect II",
+      "link": "https://ch.linkedin.com/in/tobigs/de",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ch.linkedin.com/in/tobigs/de&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECCkQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6a4c0edc3b192bba1a90496cb80afe4d5.png",
+      "snippet": "Amazon Web Services (AWS) Grafik. Solutions Architect I. Amazon Web Services (AWS). Sept. 2022 – Sept. 2024 2 Jahre 1 Monat. Munich, Bavaria, Germany. Digital ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Architect",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Zürich, Zürich, Schweiz",
+            "Solutions Architect II",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tobias Seidel"
+    },
+    {
+      "position": 71,
+      "title": "Borja Pérez Guasch - Senior Specialist Solutions Architect",
+      "link": "https://es.linkedin.com/in/bpguasch",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://es.linkedin.com/in/bpguasch&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECCcQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce63b94a302997c41853aa0959fdd62e9b9.png",
+      "snippet": "Senior Specialist Solutions Architect at Amazon Web Services (AWS), adjunct ... Pasar al contenido principal LinkedIn · Unirse ahora Iniciar sesión. Borja ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "principal"
+      ],
+      "source": "LinkedIn · Borja Pérez Guasch"
+    },
+    {
+      "position": 72,
+      "title": "Rachel Kiner-Lucas - Senior Acquisitions Executive ...",
+      "link": "https://www.linkedin.com/in/rachelkiner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rachelkiner&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECEQQAQ",
+      "displayed_link": "960+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6e12643d88fa1d3653159b9d560f6dbf3.png",
+      "snippet": "Experience · Senior Acquisitions Executive, Amazon Original Movies · Acquisitions Executive, Amazon Original Movies · Manager, WW Acquisitions · Senior Coordinator, ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Executive",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Senior Acquisitions Executive, Amazon Original Movies",
+            "Prime Video & Amazon MGM Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rachel Kiner-Lucas"
+    },
+    {
+      "position": 73,
+      "title": "Burak İlter – Amazon",
+      "link": "https://de.linkedin.com/in/burak-ilter-8b942725",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/burak-ilter-8b942725&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECEUQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce69ab5e5b0419ff6b31e593f373eaa110a.png",
+      "snippet": "Berufserfahrung. Amazon Grafik · Amazon. Berlin, Germany. -. Hannover Area, Germany. - ... Expert Level IT Architect. IBM. Ausgestellt: Sept. 2015 Gültig bis: ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany",
+        "Germany",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Burak İlter"
+    },
+    {
+      "position": 74,
+      "title": "Gui Ruggiero - Sr. Product Manager, Technical",
+      "link": "https://de.linkedin.com/in/guiruggiero/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/guiruggiero/en&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECEAQAQ",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce69d217c60702de6b85d9d7ff85835856b.png",
+      "snippet": "Gui Ruggiero. AI Sr. PM @ Amazon AGI. Amazon University of Michigan - School of Information. Aachen, North Rhine-Westphalia, Germany. 3K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Aachen, North Rhine-Westphalia, Germany",
+            "Sr. Product Manager, Technical",
+            "Artificial General Intelligence",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gui Ruggiero"
+    },
+    {
+      "position": 75,
+      "title": "Thomas Lentini - Principal, Strategic Funding - Amazon ...",
+      "link": "https://www.linkedin.com/in/thomas-lentini-7956b412",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/thomas-lentini-7956b412&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECEEQAQ",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce67076928da10bcf463df7cf4c420b2f19.png",
+      "snippet": "Principal, Strategic Funding. Amazon Web Services (AWS). Apr 2024 ... present to executive management committee. - Create, maintain and manipulate ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "present",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Principal, Strategic Funding",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Lentini"
+    },
+    {
+      "position": 76,
+      "title": "Darko Mesaroš - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/darko-mesaros",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/darko-mesaros&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECFIQAQ",
+      "displayed_link": "12.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6b871164ad592f78d67419bb7e1a787ef.png",
+      "snippet": "As a Principal Developer Advocate at AWS, I leverage my 10+ years of experience in system… · Amazon Web Services (AWS) · Srednja Tehnicka Skola · Seattle ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Darko Mesaroš"
+    },
+    {
+      "position": 77,
+      "title": "Jaclyn Danielak Provenzano - Development Executive",
+      "link": "https://www.linkedin.com/in/jaclyn-danielak-provenzano-31a88845",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jaclyn-danielak-provenzano-31a88845&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECFQQAQ",
+      "displayed_link": "680+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6b92588ed1cedd7c42107e34a81e0965f.png",
+      "snippet": "Development Executive at Amazon Studios · Amazon Studios · University of Southern California · Los Angeles · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Development Executive",
+            "Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jaclyn Danielak Provenzano"
+    },
+    {
+      "position": 78,
+      "title": "Salman Djingueinabaye - Solutions Architect",
+      "link": "https://www.linkedin.com/in/djsalman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/djsalman&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECF0QAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce67c6def2425c3c67907c624ceadaa09d1.png",
+      "snippet": "Cloud Architect @ AWS Amazon Web Services (AWS) University of Nebraska-Lincoln About Researcher, debater and computer scientist looking to explore the tech ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Miami Beach, Florida, United States",
+            "Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Salman Djingueinabaye"
+    },
+    {
+      "position": 79,
+      "title": "Brenna Xiang - Prime Video & Amazon Studios",
+      "link": "https://www.linkedin.com/in/brenna-xiang-38a0b792",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brenna-xiang-38a0b792&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECGgQAQ",
+      "displayed_link": "840+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6ef103151737ad558004d049831c6b59a.png",
+      "snippet": "Limited Series Development Executive at Amazon Studios · Prime Video & Amazon Studios · University of Southern California · Culver City · 500+ connections ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Culver City, California, United States",
+            "Limited Series Development Executive",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brenna Xiang"
+    },
+    {
+      "position": 80,
+      "title": "Rebecca Steinke – Principal, Amazon Europe Direct ...",
+      "link": "https://de.linkedin.com/in/rebecca-steinke",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/rebecca-steinke&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECGoQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce64891cc46d309ae8f6d1d77e8c1ef4793.png",
+      "snippet": "Berufserfahrung. Amazon Grafik. Principal, Amazon Europe Direct Fulfillment. Amazon. Aug. 2024 –Heute 8 Monaten. Munich, Bavaria, Germany. Leading cost-to-serve ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Principal",
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Principal, Amazon Europe Direct Fulfillment",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rebecca Steinke"
+    },
+    {
+      "position": 81,
+      "title": "Heather Curtis - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/heather-curtis-18284253",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/heather-curtis-18284253&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECGsQAQ",
+      "displayed_link": "790+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce64f1b0aa7420c709bee7977fa803eba3a.png",
+      "snippet": "Series Executive, Pan-English Scripted Series. Amazon MGM Studios. Jan 2023 · Nov 2024 ; Vice President, Current Series. MGM International Television Productions.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Current"
+      ],
+      "source": "LinkedIn · Heather Curtis"
+    },
+    {
+      "position": 82,
+      "title": "Jules Claassen - Development & Production Executive",
+      "link": "https://www.linkedin.com/in/jules-claassen-5a190964",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jules-claassen-5a190964&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECHgQAQ",
+      "displayed_link": "570+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce69c261f33cbe0cfe409dafd10eee49121.png",
+      "snippet": "Development and Production Executive at Amazon Studios · Experienced Development and Production Executive in the motion picture industry.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Development & Production Executive",
+            "Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jules Claassen"
+    },
+    {
+      "position": 83,
+      "title": "Eamonn Killian - Principal Solutions Architect - Payments",
+      "link": "https://uk.linkedin.com/in/eamonn-killian-7310a61a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/eamonn-killian-7310a61a&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoECHYQAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce69938847697f39928b8822b667385c6e4.png",
+      "snippet": "Experience. Amazon Web Services (AWS) Graphic. Principal Solutions Architect - Payments. Amazon Web Services (AWS). Mar 2021 - Present 4 years 1 month. London ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Principal",
+        "Architect",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Solutions Architect",
+            "Payments",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eamonn Killian"
+    },
+    {
+      "position": 84,
+      "title": "Jennifer Tipecska - Senior Solutions Architect, Global ...",
+      "link": "https://www.linkedin.com/in/jennifer-tipecska/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jennifer-tipecska/&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCIIBEAE",
+      "displayed_link": "790+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6653b23f03644e51530341e8e1b67562d.png",
+      "snippet": "Senior Solutions Architect | AWS · Solution architect with a passionate for ... Amazon Web Services (AWS) · Technische Universität München · Sydney ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Solution architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sydney, New South Wales, Australia",
+            "Senior Solutions Architect, Global Media and Entertainment",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jennifer Tipecska"
+    },
+    {
+      "position": 85,
+      "title": "Alicia Graham - Amazon",
+      "link": "https://www.linkedin.com/in/alicialgraham",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alicialgraham&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCIMBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce632a596669dda9f2c003dcb67479964d0.png",
+      "snippet": "I'm an energetic, accredited leadership coach with experience in cross-functional and… · Experience: Amazon ... Stuttgart, Baden-Württemberg, Germany. -.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Stuttgart Region",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alicia Graham"
+    },
+    {
+      "position": 86,
+      "title": "lawrence epstein - Prime Video & Amazon Studios",
+      "link": "https://www.linkedin.com/in/lawrence-epstein-0620062b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lawrence-epstein-0620062b&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCJMBEAE",
+      "displayed_link": "630+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6d14cd66ac4de1617e1d048f14978e749.png",
+      "snippet": "lawrence epstein. Sr.Post Production Executive. Prime Video & Amazon Studios. Los Angeles, California, United States.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Sr.Post Production Executive",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · lawrence epstein"
+    },
+    {
+      "position": 87,
+      "title": "Daniel Schleicher – Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/danielschleicher",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/danielschleicher&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCJIBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6961d997b35bf93976684325b1fc2d5a2.png",
+      "snippet": "Daniel Schleicher, Amazon Web Services (AWS), University of Stuttgart, Germany, Info, I am a Solutions Architect with a passion for applying generative AI in ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion Hannover-Braunschweig-Göttingen-Wolfsburg",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Schleicher"
+    },
+    {
+      "position": 88,
+      "title": "Andrew Davis - AWS Senior Data Centre Design Manager",
+      "link": "https://au.linkedin.com/in/andrewwilliamdavis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://au.linkedin.com/in/andrewwilliamdavis&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCJ4BEAE",
+      "displayed_link": "920+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6c72bd8e27063ac6d3a06c8fa498734e0.png",
+      "snippet": "Senior Construction Manager. Amazon. Oct 2020 - Feb 2022 1 year 5 months. Berlin, Germany. David Chipperfield Architects Graphic. Project Manager – Architect.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Architect"
+      ],
+      "source": "LinkedIn · Andrew Davis"
+    },
+    {
+      "position": 89,
+      "title": "Hashim Williams - Unscripted Senior Creative Executive",
+      "link": "https://www.linkedin.com/in/hashim7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hashim7&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCJ8BEAE",
+      "displayed_link": "690+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce687a6017c7982e76b3e03836d553ac88f.png",
+      "snippet": "Sr Unscripted Creative Executive · After nearly 20 years producing unscripted television I've joined the Amazon Studios Prime Video team as an Unscripted ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Unscripted Senior Creative Executive",
+            "Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hashim Williams"
+    },
+    {
+      "position": 90,
+      "title": "Yuecel Karabulut, PhD – Amazon Web Services (AWS)",
+      "link": "https://ch.linkedin.com/in/yuecelkarabulut",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ch.linkedin.com/in/yuecelkarabulut&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCKEBEAE",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6080275510135f065e25245ecdbc7f63e.png",
+      "snippet": "Visionary Product Leader and Cybersecurity Executive with global, cross-cultural… · Berufserfahrung: Amazon Web Services (AWS) · Ausbildung: Duke University ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Zürich Metropolitan Area",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Yuecel Karabulut, PhD"
+    },
+    {
+      "position": 91,
+      "title": "Rosen Georgiev - Associate Solutions Architect",
+      "link": "https://uk.linkedin.com/in/rosg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rosg&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCKIBEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce68e7d19582ec51b1e2839762ea01273df.png",
+      "snippet": "Associate Solutions Architect at Amazon Web Services (AWS) · Experience: Amazon Web Services (AWS) · Education: University of Oxford · Location: London ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Associate Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rosen Georgiev"
+    },
+    {
+      "position": 92,
+      "title": "Dr. Klaus Goffart - Senior Solutions Architect - Amazon",
+      "link": "https://de.linkedin.com/in/dr-goffart/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dr-goffart/en&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCLIBEAE",
+      "displayed_link": "430+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce656986ba0dbb0f38a54dd2d0cea27946a.png",
+      "snippet": "Project Lead Software and Service Development. Amazon Rheinische Friedrich-Wilhelms-Universität Bonn. Munich, Bavaria, Germany. 434 followers 426 connections.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Senior Solutions Architect",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Klaus Goffart"
+    },
+    {
+      "position": 93,
+      "title": "Jose Oscar Olivares Ocampo - Principal Technical ...",
+      "link": "https://www.linkedin.com/in/oscar-olivares",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/oscar-olivares&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCLMBEAE",
+      "displayed_link": "930+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6de14f71b596b0431b39d2b6207ea608a.png",
+      "snippet": "Principal Technical Program Manager at Amazon · During more than 9 years of ... Germany, to mention a few). I also quickly understood the environment ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Technical Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jose Oscar Olivares Ocampo"
+    },
+    {
+      "position": 94,
+      "title": "Konstantin Hübner - Strategic Account Executive - Amazon",
+      "link": "https://de.linkedin.com/in/konstantin-h%C3%BCbner/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/konstantin-h%25C3%25BCbner/en&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCLgBEAE",
+      "displayed_link": "400+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce66fb7f976801666e54f84f1caea2dfe7b.png",
+      "snippet": "Strategic Account Executive | Amazon Business. Amazon Technische Hochschule Nürnberg Georg Simon Ohm. Nuremberg, Bavaria, Germany ... - Present 3 years 1 month ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Amazon",
+        "Germany",
+        "Present"
+      ],
+      "source": "LinkedIn · Konstantin Hübner"
+    },
+    {
+      "position": 95,
+      "title": "Sascha Möllering - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/sascha-m%C3%B6llering-4032682b/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sascha-m%25C3%25B6llering-4032682b/&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCL0BEAE",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce690957ca92ff2963013f2b5aab7f1dc12.png",
+      "snippet": "Principal Specialist Solutions Architect for Containers bei Amazon Web Services (AWS). Amazon Web Services (AWS) Universität Paderborn. Bavaria, Germany. 5K ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bavaria, Germany",
+            "Principal Specialist Solutions Architect for Containers",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sascha Möllering"
+    },
+    {
+      "position": 96,
+      "title": "Ethan Evans - Founder, Career Expert and Teacher ...",
+      "link": "https://www.linkedin.com/in/ethanevansvp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ethanevansvp&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCLsBEAE",
+      "displayed_link": "141.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce69b3b1d7b4c3adb351f2442ea66a48257.png",
+      "snippet": "The more prosaic business explanation of the role: I'm the executive liaison between twitch.tv and Amazon. ... Germany. This was a blast - it was here that ...",
+      "snippet_highlighted_words": [
+        "executive",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Founder, Career Expert and Teacher, Newsletter Author",
+            "Ethan Evans VP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ethan Evans"
+    },
+    {
+      "position": 97,
+      "title": "Andreas Mueller - Principal Research SDE - Microsoft",
+      "link": "https://www.linkedin.com/in/andreas-c-mueller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andreas-c-mueller&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCMUBEAE",
+      "displayed_link": "9.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce68305f41298cec600d4937cebe7a38550.png",
+      "snippet": "Principal Research SDE at Microsoft · I am very interested in open source and ... Amazon Development Center Germany. Oct 2013 - Oct 2014 1 year 1 month. Berlin.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Gatos, California, United States",
+            "Principal Research SDE",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andreas Mueller"
+    },
+    {
+      "position": 98,
+      "title": "Dr. Bishwajit Mohapatra - Amazon Web Services (AWS)",
+      "link": "https://in.linkedin.com/in/biswajitmohapatra",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/biswajitmohapatra&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCNUBEAE",
+      "displayed_link": "9.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6c4faafbe5e233a19fa870f0acabe8b03.png",
+      "snippet": "AWS Certified Solutions Architect - Professional · Amazon Web Services (AWS) ... IBM Certified Executive Consultant Graphic. IBM Certified Executive ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Executive",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Pune, Maharashtra, India",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Bishwajit Mohapatra"
+    },
+    {
+      "position": 99,
+      "title": "Dr. André Wagner - Head of Pan-Amazon GTM Strategy",
+      "link": "https://www.linkedin.com/in/andrewagner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrewagner&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCNQBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce679258d23764b6ff6d50189e5a2c447bc.png",
+      "snippet": "... Germany to the U.S. in 2014, he served as lead architect for high ... executive development program for innovation and growth at the Wharton School in ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "architect",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Philadelphia",
+            "Head of Pan-Amazon GTM Strategy",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. André Wagner"
+    },
+    {
+      "position": 100,
+      "title": "Sivaraman Ramachandran - Business Intelligence Engineer",
+      "link": "https://www.linkedin.com/in/sr04",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sr04&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQFnoFCNYBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf5b9e759f80e1355a7/images/7cac356a30c8a1fa2ed290482bfd8ce6da548cb3701abd02dd9b1220b46e5cfc.png",
+      "snippet": "... Amazon · Education: University of Connecticut · Location: Germany · 500 ... Executive Vice President,Graduate Finance Association. University of ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Business Intelligence Engineer -II",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sivaraman Ramachandran"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=9vrdZ6bpNs2s5NoP8cyrsAQ&start=100&sa=N&sstk=Af40H4X4H_dz3LuaPdwIfi4ug4-jij23e6Rb2f8t3JamZfyarye3wsCoM3YD83JsL3XoygfH1oe6HH_eNq1g5zdDNabdEoOpwDlSjQ&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQ8NMDegUIvQIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=9vrdZ6bpNs2s5NoP8cyrsAQ&start=100&sa=N&sstk=Af40H4X4H_dz3LuaPdwIfi4ug4-jij23e6Rb2f8t3JamZfyarye3wsCoM3YD83JsL3XoygfH1oe6HH_eNq1g5zdDNabdEoOpwDlSjQ&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQ8tMDegUIvQIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=9vrdZ6bpNs2s5NoP8cyrsAQ&start=200&sa=N&sstk=Af40H4X4H_dz3LuaPdwIfi4ug4-jij23e6Rb2f8t3JamZfyarye3wsCoM3YD83JsL3XoygfH1oe6HH_eNq1g5zdDNabdEoOpwDlSjQ&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQ8tMDegUIvQIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=9vrdZ6bpNs2s5NoP8cyrsAQ&start=300&sa=N&sstk=Af40H4X4H_dz3LuaPdwIfi4ug4-jij23e6Rb2f8t3JamZfyarye3wsCoM3YD83JsL3XoygfH1oe6HH_eNq1g5zdDNabdEoOpwDlSjQ&ved=2ahUKEwimvKe1rpyMAxVNFlkFHXHmCkYQ8tMDegUIvQIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=300"
+    }
+  }
+}

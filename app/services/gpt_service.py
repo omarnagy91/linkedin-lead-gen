@@ -1,11 +1,13 @@
 import json
 import logging
+import random
 from typing import Dict, List
 
 import openai
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 from app.utils.config import settings
+from app.utils.mock import MockUtils
 
 logger = logging.getLogger(__name__)
 
@@ -36,6 +38,41 @@ class GPTService:
         """
         logger.info(f"Generating search strategies for {len(company_urls)} companies in {len(countries)} countries")
         
+        # Check if mock mode is enabled
+        if settings.MOCK_MODE:
+            logger.info("Using mock search strategies")
+            
+            # Generate mock strategies for each company and country
+            strategies = []
+            
+            for company_url in company_urls:
+                # Extract company name from URL
+                company_name = company_url.split('company/')[1].split('/')[0].replace('-', ' ').title()
+                
+                for country in countries:
+                    # Generate 2 strategies per company-country combination
+                    for i in range(2):
+                        job_titles = ["Director", "VP", "Chief", "Manager", "Partner", "Owner", "President"]
+                        departments = ["Marketing", "Sales", "Engineering", "Product", "Operations", "Finance"]
+                        
+                        if i == 0:
+                            title = random.choice(job_titles)
+                            query = f"site:linkedin.com/in/ {company_name} {title} {country} profile"
+                        else:
+                            title = random.choice(job_titles)
+                            dept = random.choice(departments)
+                            query = f"site:linkedin.com/in/ {company_name} {title} of {dept} {country} profile"
+                        
+                        strategies.append({
+                            "company": company_name,
+                            "company_url": company_url,
+                            "country": country,
+                            "query": query
+                        })
+            
+            return strategies
+        
+        # Real API call
         try:
             # Create company context for better prompting
             company_info = []

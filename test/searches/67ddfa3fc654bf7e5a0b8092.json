@@ -1,0 +1,2134 @@
+{
+  "search_metadata": {
+    "id": "67ddfa3fc654bf7e5a0b8092",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c46b84e8af973490/67ddfa3fc654bf7e5a0b8092.json",
+    "created_at": "2025-03-21 23:46:07 UTC",
+    "processed_at": "2025-03-21 23:46:07 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/c46b84e8af973490/67ddfa3fc654bf7e5a0b8092.html",
+    "total_time_taken": 2.51
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"Germany\" AND (current OR present) AND (\"10+ years\" OR \"15+ years\" OR \"20+ years\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"Germany\" AND (current OR present) AND (\"10+ years\" OR \"15+ years\" OR \"20+ years\")",
+    "total_results": 21800000,
+    "time_taken_displayed": 1.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Gerrit Kazmaier - Workday",
+      "link": "https://www.linkedin.com/in/gerrit-kazmaier",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gerrit-kazmaier&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECBUQAQ",
+      "displayed_link": "15.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c2058bd886ce9ebea4fc82f9fa90b380041.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Germany. -. Germany. -. Vancouver, British Columbia, Canada. -. Vancouver ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Workday"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gerrit Kazmaier"
+    },
+    {
+      "position": 2,
+      "title": "Holger Luedorf - Google",
+      "link": "https://www.linkedin.com/in/hluedorf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hluedorf&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECBoQAQ",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c2077f7c901890be4c1f7d425504d554f69.png",
+      "snippet": "Experience. Google Graphic. Google. San Francisco Bay Area. -. Berlin, Germany. -. Boston, Massachusetts, United States. -. -. Berlin. -. San ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Google Columbia Business...",
+            "link": "https://www.linkedin.com/in/hluedorf#:~:text=Google%20Columbia%20Business%20School"
+          },
+          {
+            "title": "Experience",
+            "link": "https://www.linkedin.com/in/hluedorf#:~:text=activity-,Experience"
+          },
+          {
+            "title": "Publications",
+            "link": "https://www.linkedin.com/in/hluedorf#:~:text=Publications"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Holger Luedorf"
+    },
+    {
+      "position": 3,
+      "title": "Manuel Greisinger – Google",
+      "link": "https://de.linkedin.com/in/mgreisinger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/mgreisinger&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECBQQAQ",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20cd589e4c5a46bb4b042fb8c81f2d30da.png",
+      "snippet": "With 20+ years of experience in technology and leadership, I am a Director of Global… · Berufserfahrung: Google ... Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Google",
+            "link": "https://de.linkedin.com/in/mgreisinger#:~:text=Google,-M%C3%BCnchen%2C%20Bayern%2C%20Deutschland"
+          },
+          {
+            "title": "Info",
+            "link": "https://de.linkedin.com/in/mgreisinger#:~:text=Info,-With%2020%2B%20years%20of"
+          },
+          {
+            "title": "Beiträge",
+            "link": "https://de.linkedin.com/in/mgreisinger#:~:text=Beitr%C3%A4ge,-You%27re%20an%20executive%20manager"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Manuel Greisinger"
+    },
+    {
+      "position": 4,
+      "title": "Andrea Rexer - Munich, Bavaria, Germany",
+      "link": "https://de.linkedin.com/in/andrearexer/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/andrearexer/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECBsQAQ",
+      "displayed_link": "6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c209e5ebc28039cc7f15bbd330a5cc22856.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Nov 2014 - Present 10 years 5 months. Civil Rights and Social Action. Honors ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present 10 years"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "About",
+            "link": "https://de.linkedin.com/in/andrearexer/en#:~:text=About,-Success%20is%20built%20on%20powerful"
+          },
+          {
+            "title": "Experience",
+            "link": "https://de.linkedin.com/in/andrearexer/en#:~:text=Experience,-Mitglied%20des%20Stiftungsrats"
+          },
+          {
+            "title": "Education",
+            "link": "https://de.linkedin.com/in/andrearexer/en#:~:text=Cross-,Education"
+          }
+        ]
+      },
+      "source": "LinkedIn · Andrea Rexer"
+    },
+    {
+      "position": 5,
+      "title": "Dr. Alexander Hoffmann – Google",
+      "link": "https://de.linkedin.com/in/alexanderhoffmann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/alexanderhoffmann&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECBYQAQ",
+      "displayed_link": "30.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20e9b1763bd8ee8b370f51939062c898c7.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied ... Germany) in 2017: https://www.thinkwithgoogle.com/intl/de-de/marketingkan%C3 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Berufserfahrung",
+            "link": "https://de.linkedin.com/in/alexanderhoffmann#:~:text=Berufserfahrung"
+          },
+          {
+            "title": "Ausbildung",
+            "link": "https://de.linkedin.com/in/alexanderhoffmann#:~:text=Ausbildung"
+          },
+          {
+            "title": "Auszeichnungen/preise",
+            "link": "https://de.linkedin.com/in/alexanderhoffmann#:~:text=Auszeichnungen%2FPreise"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Alexander Hoffmann"
+    },
+    {
+      "position": 6,
+      "title": "Madhurya P. - Google",
+      "link": "https://in.linkedin.com/in/madhuprakash",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/madhuprakash&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECC0QAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20d2291fc3d76fe85f096038d28351df9b.png",
+      "snippet": "Google Graphic. Google. Bengaluru, Karnataka, India. Volunteer Experience. Google Graphic. Google ERG Volunteer. Google. Aug 2014 - Present 10 years 8 months ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Present 10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Madhurya P."
+    },
+    {
+      "position": 7,
+      "title": "David Pereira - Munich, Bavaria, Germany",
+      "link": "https://de.linkedin.com/in/davidavpereira/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/davidavpereira/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCOEBEAE",
+      "displayed_link": "84.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20bdc82a94a46d81a5a566e9b1406d82f6.png",
+      "snippet": "David Pereira. Munich, Bavaria, Germany. 84K followers 500+ connections ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · David Pereira"
+    },
+    {
+      "position": 8,
+      "title": "Bohdan Pryshchenko – Google",
+      "link": "https://de.linkedin.com/in/bohdan-pryshchenko-37939ba9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/bohdan-pryshchenko-37939ba9&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECC4QAQ",
+      "displayed_link": "530+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20c4325cf7ed3b18a088a04ce1b40aeedc.png",
+      "snippet": "Google Grafik · Google. Munich, Bavaria, Germany. -. Munich Area, Germany. -. Munich Area, Germany. Ausbildung. Ivan Franko National University of Lviv Grafik ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bayern, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bohdan Pryshchenko"
+    },
+    {
+      "position": 9,
+      "title": "Philipp Schilling – Google",
+      "link": "https://de.linkedin.com/in/philipp-pass",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/philipp-pass&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJUBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20eb7cfaf04657fb14abf2a38f37a92539.png",
+      "snippet": "Berufserfahrung. Google Grafik · Google. Hamburg, Germany. -. Hamburg, Germany. -. Hamburg, Germany. -. Hamburg, Germany. -. Berlin, Germany. -. Frankfurt am ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hamburg, Hamburg, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Philipp Schilling"
+    },
+    {
+      "position": 10,
+      "title": "Ranja Reda Kouba – Google",
+      "link": "https://de.linkedin.com/in/ranja-reda-kouba-b9647a21",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ranja-reda-kouba-b9647a21&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCOYBEAE",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c204e24b5137330cb79775b51f2738aeede.png",
+      "snippet": "I am Head of Customer Engineering, Financial Services Industries at Google Cloud Germany,…",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ranja Reda Kouba"
+    },
+    {
+      "position": 11,
+      "title": "Werner Baumann - RWTH Aachen University",
+      "link": "https://de.linkedin.com/in/werner-baumann/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/werner-baumann/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJQCEAE",
+      "displayed_link": "68.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c2002bd63022d58f07f384279b32e35a914.png",
+      "snippet": "Continue with GoogleContinue with Google ... Volunteer Experience. Treasury Manager. Kulturkreis der deutschen Wirtschaft im BDI e. V. 2015 - Present 10 years.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present 10 years"
+      ],
+      "source": "LinkedIn · Werner Baumann"
+    },
+    {
+      "position": 12,
+      "title": "Lisa Schunck - New Business Sales Principal - Google",
+      "link": "https://de.linkedin.com/in/lisaschunck/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/lisaschunck/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECCsQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20861b7d7fed894730508704d2f97ccac2.png",
+      "snippet": "Google. 10 years. Google Graphic. New Business Sales Principal. Google. Sep 2021 - Present 3 years 7 months. Hamburg, Germany. In my current job at Google ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "10 years",
+        "Google",
+        "Google",
+        "Present",
+        "Germany",
+        "current",
+        "Google"
+      ],
+      "source": "LinkedIn · Lisa Stirnal"
+    },
+    {
+      "position": 13,
+      "title": "Michael Geisler - Head of Political Section / Mission ...",
+      "link": "https://www.linkedin.com/in/michael-geisler-418190260",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-geisler-418190260&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECGcQAQ",
+      "displayed_link": "450+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20454dad98d7866f61316739c69dee0714.png",
+      "snippet": "... Germany · Education: Ludwig-Maximilians-Universität München · Location ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Head of Political Section / Mission of Germany to the UN",
+            "Auswärtiges Amt (Federal Foreign Office) Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Geisler"
+    },
+    {
+      "position": 14,
+      "title": "Anna Naether – Google | LinkedIn",
+      "link": "https://de.linkedin.com/in/anna-naether-98788721",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/anna-naether-98788721&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJIBEAE",
+      "displayed_link": "5.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c208c016cc7640a8d1f5b52b8634d75bedb.png",
+      "snippet": "Anna is an AI leader at Google where she heads up AI Policy for Germany. She ... current transatlantic issues and to build both professional and personal bridges ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany",
+        "current"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anna Naether"
+    },
+    {
+      "position": 15,
+      "title": "Felix Hentzen – Google",
+      "link": "https://de.linkedin.com/in/felixhentzen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/felixhentzen&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCMQBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c202b4d4f4bf1683d46ee6ac898001b780f.png",
+      "snippet": "Over the past 14 years I held several positions in the IT / internet industry ranging… Berufserfahrung. Google Grafik · Google. Hamburg, Germany ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hamburg und Umgebung",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Felix Hentzen"
+    },
+    {
+      "position": 16,
+      "title": "Tina Pers-Brede - Google Germany",
+      "link": "https://de.linkedin.com/in/tinapers/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/tinapers/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCOUBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c200201978a483a2ff8064de71e331c4d34.png",
+      "snippet": "Tina Pers-Brede. Google Germany Lunds universitet. Greater Hamburg Area. 1K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Google Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Hamburg Area",
+            "Google Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tina Pers-Brede"
+    },
+    {
+      "position": 17,
+      "title": "Christof Leng – Google",
+      "link": "https://de.linkedin.com/in/christofleng",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/christofleng&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCP4BEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c208b772a29eedeb23fa02e6a81d13f1bc4.png",
+      "snippet": "Head of the founding convention of the Pirate Party Germany, co-author of platform and bylaws. ... Continue with GoogleContinue with Google. Neu bei ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Darmstadt, Hessen, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christof Leng"
+    },
+    {
+      "position": 18,
+      "title": "Manuel Klimek – Google Germany GmbH",
+      "link": "https://de.linkedin.com/in/manuelklimek",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/manuelklimek&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJ0CEAE",
+      "displayed_link": "890+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20323affce5a343c0ba81a5cf7a3f15091.png",
+      "snippet": "Software Engineer with experience in architecture, design and implementation of object… · Berufserfahrung: Google Germany GmbH · Ausbildung: Universität ...",
+      "snippet_highlighted_words": [
+        "Google Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Google Germany GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Manuel Klimek"
+    },
+    {
+      "position": 19,
+      "title": "David Weiner – Google",
+      "link": "https://de.linkedin.com/in/weinerd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/weinerd&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCK8CEAE",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20a15559c932d20e8be0ac9fcd959b4070.png",
+      "snippet": "Mitglied werden und folgen · Dieses Profil melden; Menü schließen. Berufserfahrung. Google Grafik · Google. Berlin, Germany. -. Berlin, Germany. -. Munich, ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Weiner"
+    },
+    {
+      "position": 20,
+      "title": "Aruna V. - Account Executive, New Business Partnerships",
+      "link": "https://www.linkedin.com/in/aruna-v-798238143",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aruna-v-798238143&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECCgQAQ",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c202e625dc4db6b630c355428759260fc6c.png",
+      "snippet": "New Business Partnerships @Google | Helping businesses transform with Google ... • Maintained relationships with Media Ambassadors from Germany and India",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Account Executive, New Business Partnerships",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aruna V."
+    },
+    {
+      "position": 21,
+      "title": "Axel Voss - Member of the European Parliament",
+      "link": "https://de.linkedin.com/in/axel-voss-a1744969/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/axel-voss-a1744969/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECEIQAQ",
+      "displayed_link": "16.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c2086c6799ff95dafe9aa41b8c69856fc1b.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or ... Jul 2009 - Present 15 years 9 months. 2009 - 2014 Member of the committee on ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present 15 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bonn, North Rhine-Westphalia, Germany",
+            "Member of the European Parliament",
+            "European Parliament"
+          ]
+        }
+      },
+      "source": "LinkedIn · Axel Voss"
+    },
+    {
+      "position": 22,
+      "title": "Almudena de Cabo - Freelance journalist for the Spanish ...",
+      "link": "https://de.linkedin.com/in/almudena-de-cabo-49273519/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/almudena-de-cabo-49273519/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECGgQAQ",
+      "displayed_link": "380+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c200c5d84bd3cf500d2e21e4effdd61799a.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... For more than 10 years I was correspondent for Germany. I worked for the ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "10 years",
+        "Germany"
+      ],
+      "source": "LinkedIn · Almudena de Cabo"
+    },
+    {
+      "position": 23,
+      "title": "Wolfgang Kneer - President and Member of the Board",
+      "link": "https://www.linkedin.com/in/wolfgang-kneer-50499469",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/wolfgang-kneer-50499469&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECHoQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20edd11e469a03c888a4dceb0736be78a1.png",
+      "snippet": "President and Member of the Board. SWJ-Breilmann US. Oct 2014 - Present 10 years 6 months ; Boardmember. Alabama Germany Partnership AGP. Nov 2009 - Present 15 ...",
+      "snippet_highlighted_words": [
+        "Present 10 years",
+        "Germany",
+        "Present 15"
+      ],
+      "source": "LinkedIn · Wolfgang Kneer"
+    },
+    {
+      "position": 24,
+      "title": "Constanze Stelzenmüller - Director Center on the US and ...",
+      "link": "https://www.linkedin.com/in/constanze-stelzenm%C3%BCller-74948922",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/constanze-stelzenm%25C3%25BCller-74948922&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJEBEAE",
+      "displayed_link": "6.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20edba2edd2649d9b7904e880488deaf76.png",
+      "snippet": "The Brookings Institution. Nov 2014 - Present 10 years 5 months. Washington, DC. Speak, write, and convene around Germany, Europe, and transatlantic relations ...",
+      "snippet_highlighted_words": [
+        "Present 10 years",
+        "Germany"
+      ],
+      "source": "LinkedIn · Constanze Stelzenmüller"
+    },
+    {
+      "position": 25,
+      "title": "Monika Arnold – Industry Manager – Google Germany GmbH",
+      "link": "https://de.linkedin.com/in/monika-arnold-b38b3b140",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/monika-arnold-b38b3b140&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCKkBEAE",
+      "displayed_link": "490+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20705b12b5f7c974f5a2832e4ace53dbd1.png",
+      "snippet": "Monika Arnold. Industry Manager bei Google Germany GmbH. Google Germany GmbH Universität Kassel. Hamburg, Hamburg, Deutschland. 498 Follower:innen 498 Kontakte.",
+      "snippet_highlighted_words": [
+        "Google Germany",
+        "Google Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hamburg, Hamburg, Deutschland",
+            "Industry Manager",
+            "Google Germany GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Monika Arnold"
+    },
+    {
+      "position": 26,
+      "title": "Adarsh kumar – Google",
+      "link": "https://de.linkedin.com/in/adk-me",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/adk-me&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCMwBEAE",
+      "displayed_link": "980+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20c64bd980cb2dcc95e87c6584b5a47f0e.png",
+      "snippet": "Berufserfahrung. Google Grafik · Google. -. -. Munich Area, Germany. -. Pune Area, India. Ausbildung. Indian Institute of Technology, Roorkee Grafik ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adarsh kumar"
+    },
+    {
+      "position": 27,
+      "title": "Lennise Germany - Founder & CEO - Livy O's Catering Co.",
+      "link": "https://www.linkedin.com/in/lennise-germany-594461a7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lennise-germany-594461a7&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCN4BEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20c6779cb110e28154f2e48ce73a9c7bc3.png",
+      "snippet": "Experience · Livy O's Catering Co. 10 years 6 months. Founder & CEO · Couples Building Business Graphic. Co-Founder & Owner. Couples Building Business · Germany ...",
+      "snippet_highlighted_words": [
+        "10 years",
+        "Germany"
+      ],
+      "source": "LinkedIn · Lennise Germany"
+    },
+    {
+      "position": 28,
+      "title": "Dr. Sebastian Stange - Unterhaching, Bavaria, Germany",
+      "link": "https://www.linkedin.com/in/sebastianstange/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sebastianstange/&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCOQBEAE",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20650e03747890d36c31ac6b789e59df34.png",
+      "snippet": "Sebastian Stange. Unterhaching, Bavaria, Germany. 3K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Dr. Sebastian Stange"
+    },
+    {
+      "position": 29,
+      "title": "Wencke Schmidt – Director Automotive Google Cloud",
+      "link": "https://de.linkedin.com/in/wenckeschmidt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/wenckeschmidt&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCPkBEAE",
+      "displayed_link": "4.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20447e8ea2ad1b6c9dd8cd51878769d959.png",
+      "snippet": "Director Automotive Google Cloud - Germany · Director Manufacturing & Mittelstand Google Cloud (interim) · Head of Retail and Digital Natives - Google Cloud · Head ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Wencke Schmidt"
+    },
+    {
+      "position": 30,
+      "title": "Brad Germany - Vice President - Croft & Bender",
+      "link": "https://www.linkedin.com/in/brad-germany-2027172b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brad-germany-2027172b&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCIACEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c2063e7a0160884181514eab4a838e39307.png",
+      "snippet": "... Germany's profile on LinkedIn, a professional community of 1 billion members ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Germany's",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta Metropolitan Area",
+            "Vice President",
+            "Croft & Bender"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brad Germany"
+    },
+    {
+      "position": 31,
+      "title": "Wojciech Ptak - Berlin, Berlin, Germany | Professional Profile",
+      "link": "https://www.linkedin.com/in/ptakwojciech",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ptakwojciech&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCIYCEAE",
+      "displayed_link": "90+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c204cd61cf5071d21ccb51b5a7bdaf0119f.png",
+      "snippet": "Wojciech Ptak. Sustainable Software Development. Google University of Warsaw. Berlin, Berlin, Germany ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Wojciech Ptak"
+    },
+    {
+      "position": 32,
+      "title": "Adrian Kendall - Honorary Consul - Federal Republic of ...",
+      "link": "https://www.linkedin.com/in/adriankendall",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/adriankendall&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJsCEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20ad5b9fed0158df3b61bb5d9263122dc1.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn ... Co-Chairman. International Law Section, Maine State Bar Association. 2010 - Present 15 years ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present 15 years"
+      ],
+      "source": "LinkedIn · Adrian Kendall"
+    },
+    {
+      "position": 33,
+      "title": "Steven James - Google",
+      "link": "https://www.linkedin.com/in/steven-james-a183489",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/steven-james-a183489&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJ4CEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20acd71028ee45a5d4137a4508b5dc060b.png",
+      "snippet": "Continue with GoogleContinue with Google ... Volunteer Experience. Board Member Willow Glen Little League. willow glen little league. Jan 2015 - Present 10 years ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present 10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Jose, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steven James"
+    },
+    {
+      "position": 34,
+      "title": "Matthew Kaminski - Editor at Large - POLITICO",
+      "link": "https://www.linkedin.com/in/matthew-kaminski-89743814",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matthew-kaminski-89743814&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCLACEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c204e3ff9ffac636b20c197619e5be27a34.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Germany's Axel Springer in 2021 * Oversaw efforts to integrate E&E News ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany's"
+      ],
+      "source": "LinkedIn · Matthew Kaminski"
+    },
+    {
+      "position": 35,
+      "title": "Lutz Diederichs - CEO Germany - BNP Paribas",
+      "link": "https://de.linkedin.com/in/lutz-diederichs/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/lutz-diederichs/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCLkCEAE",
+      "displayed_link": "5.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c205be3def4c5f088c850253e21f28fb2cb.png",
+      "snippet": "CEO BNP Paribas Germany · In a world undergoing profound change, I am ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hesse, Germany",
+            "CEO Germany",
+            "BNP Paribas"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lutz Diederichs"
+    },
+    {
+      "position": 36,
+      "title": "Julia Schuermann - Google Germany GmbH",
+      "link": "https://de.linkedin.com/in/julia-schuermann-400695b1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/julia-schuermann-400695b1&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECEQQAQ",
+      "displayed_link": "870+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c2045a2db5d63f9b3d3e9046d1c9095ee15.png",
+      "snippet": "Senior Legal Counsel bei Google Germany GmbH. Google Germany GmbH Referendariat in Hamburg. Hamburg, Hamburg, Deutschland. 873 Follower:innen 500+ Kontakte.",
+      "snippet_highlighted_words": [
+        "Google Germany",
+        "Google Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hamburg, Hamburg, Deutschland",
+            "Senior Legal Counsel",
+            "Google Germany GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julia Schuermann"
+    },
+    {
+      "position": 37,
+      "title": "Dennis Trautwein - Managing Director Germany & France",
+      "link": "https://de.linkedin.com/in/dennis-trautwein-671a851a/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dennis-trautwein-671a851a/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECEgQAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c208f547364f1e856c207d2f81f229f62c5.png",
+      "snippet": "Managing Director Germany & France · Octagon · Frankfurt · 500 ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hesse, Germany",
+            "Managing Director Germany & France",
+            "Octagon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dennis Trautwein"
+    },
+    {
+      "position": 38,
+      "title": "Lars Auerbach 💻 Skill Transformation Solutions",
+      "link": "https://de.linkedin.com/in/larsauerbach/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/larsauerbach/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECEwQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c206a5f69d6fb132847c1bec08365debcbc.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Sep 2014 - Present 10 years 7 months. Education. Courses. Business in Society.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present 10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Director Academy Germany",
+            "Akkodis"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lars Auerbach 💻 Skill Transformation Solutions"
+    },
+    {
+      "position": 39,
+      "title": "Tina Bellon - Google",
+      "link": "https://www.linkedin.com/in/tinabellon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tinabellon&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECF0QAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20f2996bd84269a5eff49277f4b02b80f5.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now ... Frankfurt Am Main Area, Germany. -. London, UK / Berlin, Germany ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tina Bellon"
+    },
+    {
+      "position": 40,
+      "title": "Annette Kroeber-Riel – Google",
+      "link": "https://de.linkedin.com/in/annette-kroeber-riel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/annette-kroeber-riel&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECG0QAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20422bce2f28ded4da1646f0b511c28780.png",
+      "snippet": "Annette Kroeber Riel has been with Google since 2007 and currently is the Senior Director… · ... Frankfurt Am Main Area, Germany. Ausbildung. Goethe-Universität ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion Berlin/Brandenburg",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Annette Kroeber-Riel"
+    },
+    {
+      "position": 41,
+      "title": "Daniel Schall - Germany | Professional Profile",
+      "link": "https://de.linkedin.com/in/daniel-schall-416983142/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/daniel-schall-416983142/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECHgQAQ",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c204364f1e607ded4523c3da80a6788caa7.png",
+      "snippet": "Germany · 500+ connections on LinkedIn. View Daniel Schall's profile on ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Daniel Schall"
+    },
+    {
+      "position": 42,
+      "title": "Irina Sigler – Google",
+      "link": "https://ch.linkedin.com/in/irina-sigler-298a59b1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ch.linkedin.com/in/irina-sigler-298a59b1&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCIEBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20cce659ccb0be8a7e5d5ab3900fb80d31.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied ... Berufserfahrung. Google Grafik · Google. -. Berlin, Germany. -. -. Ausbildung. HEC ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Zürich, Zürich, Schweiz",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Irina Sigler"
+    },
+    {
+      "position": 43,
+      "title": "Sabine Sparwasser - Ambassador of the Federal Republic ...",
+      "link": "https://ca.linkedin.com/in/sabine-sparwasser-41359698",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ca.linkedin.com/in/sabine-sparwasser-41359698&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCI0BEAE",
+      "displayed_link": "920+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c200a628811f40261342fc83acc727797d3.png",
+      "snippet": "Former Ambassador of Germany to Canada · Experience: Auswärtiges Amt (Federal Foreign Office) Germany · Education: Sciences Po · Location: Canada · 500+ ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Canada",
+            "Ambassador of the Federal Republic of Germany to Canada",
+            "Auswärtiges Amt (Federal Foreign Office) Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sabine Sparwasser"
+    },
+    {
+      "position": 44,
+      "title": "Isabelle Sonnenfeld – Maastricht University – Deutschland",
+      "link": "https://de.linkedin.com/in/isabellesonnenfeld",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/isabellesonnenfeld&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJoBEAE",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c202e79c161ff9e25f05cb6af60447de266.png",
+      "snippet": "... 15 years of international experience at the intersection of tech ... Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden.",
+      "snippet_highlighted_words": [
+        "15 years",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Isabelle Sonnenfeld"
+    },
+    {
+      "position": 45,
+      "title": "Stefanie Schieber – Google",
+      "link": "https://de.linkedin.com/in/stefanie-schieber-907b8450",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/stefanie-schieber-907b8450&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCKsBEAE",
+      "displayed_link": "7.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c206e83435965f38ccc2659d32cd3923c78.png",
+      "snippet": "I'm a passionate life lover, world traveller with… · Berufserfahrung: Google ... Berufserfahrung. Google Grafik · Google. -. Hamburg Area, Germany. -. Hamburg ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stefanie Schieber"
+    },
+    {
+      "position": 46,
+      "title": "Clara R. - Tour Director Germany & Europa",
+      "link": "https://de.linkedin.com/in/claramanuelaramos/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/claramanuelaramos/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCK0BEAE",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c201a694335f622ae0f0a3179c0393ca71f.png",
+      "snippet": "... Germany with the purpose of learning the language. The first two years I ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Clara M B."
+    },
+    {
+      "position": 47,
+      "title": "Hein Schumacher - CEO - Unilever",
+      "link": "https://uk.linkedin.com/in/hein-schumacher",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hein-schumacher&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCLABEAE",
+      "displayed_link": "115.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20424821a7c081926f389b8053e0a4f020.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... 10 years 10 months · HJ Heinz Graphic. Zone President - Asia Pacific. HJ ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "CEO",
+            "Unilever"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hein Schumacher"
+    },
+    {
+      "position": 48,
+      "title": "Xavier Goddaer - CEO - Central & East Europe",
+      "link": "https://be.linkedin.com/in/xaviergoddaer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://be.linkedin.com/in/xaviergoddaer&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCM0BEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c200fb2026cdf402d3f810de3465e5b89b5.png",
+      "snippet": "... Germany GmbH · Location: Ghent Metropolitan Area · 500+ connections on ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Xavier Goddaer"
+    },
+    {
+      "position": 49,
+      "title": "Philipp Kövener - Director Trend- & Innovation Scouting",
+      "link": "https://de.linkedin.com/in/philipp-koevener/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/philipp-koevener/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCMsBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c208e7a0635857a088b23e0e7fddd39d221.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to view profile · Report this profile; Close menu. About. Germany Trade & Invest is ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Director Trend- & Innovation Scouting",
+            "Germany Trade & Invest"
+          ]
+        }
+      },
+      "source": "LinkedIn · Philipp Kövener"
+    },
+    {
+      "position": 50,
+      "title": "Paulina Jeleszuk - Tchibo",
+      "link": "https://de.linkedin.com/in/paulina-jeleszuk-b6428714b/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/paulina-jeleszuk-b6428714b/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCN8BEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c206a147e9dd83936c3dd93d285d22c5fa7.png",
+      "snippet": "I am a Senior Manager (E-Commerce, Project Management) with over 10 years of experience… · ... Google Germany. Languages. English. Native or bilingual proficiency ...",
+      "snippet_highlighted_words": [
+        "10 years",
+        "Google Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hamburg, Hamburg, Germany",
+            "Tchibo"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paulina Jeleszuk"
+    },
+    {
+      "position": 51,
+      "title": "Bruno Haerens - Managing Director AECOM Germany",
+      "link": "https://be.linkedin.com/in/brunohaerens",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://be.linkedin.com/in/brunohaerens&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCOABEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c201517fc40c8b4c8868afda0fc71aca806.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... 10 years 3 months. AECOM Graphic. Managing Director AECOM Germany. AECOM.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "10 years",
+        "Germany"
+      ],
+      "source": "LinkedIn · Bruno Haerens"
+    },
+    {
+      "position": 52,
+      "title": "Jason Klotzer - Google",
+      "link": "https://www.linkedin.com/in/jasonklotzer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jasonklotzer&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCO4BEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20465ee0f6e659262bdb48e6ac4fa2eaca.png",
+      "snippet": "Hands-on technical leader at Google Cloud with over 20 years of experience developing in… · Experience: Google · Location: Austin, Texas Metropolitan Area ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "20 years",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas Metropolitan Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jason Klotzer"
+    },
+    {
+      "position": 53,
+      "title": "Florian Foerster - Head of Financial Services Germany",
+      "link": "https://de.linkedin.com/in/florian-foerster-4a134728/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/florian-foerster-4a134728/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCO0BEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20083d6552cea7e06acf78d397aa475c30.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... 10 years · Roland Berger Graphic. Principal. Roland Berger. Jan 2017 - Dec ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "10 years"
+      ],
+      "source": "LinkedIn · Florian Foerster"
+    },
+    {
+      "position": 54,
+      "title": "Amani Ali - Product Strategist - Chef Sarah Germany ...",
+      "link": "https://www.linkedin.com/in/amanialimsw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amanialimsw&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCPoBEAE",
+      "displayed_link": "250+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20d908e77e865957f997ff3259083adeda.png",
+      "snippet": "... 10 years of experience within the nonprofit sector; seeking to further ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "10 years",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Vallejo, California, United States",
+            "Product Strategist",
+            "Chef Sarah Germany Productions"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amani Ali"
+    },
+    {
+      "position": 55,
+      "title": "April McClain Delaney - Congresswoman-Elect, Maryland's ...",
+      "link": "https://www.linkedin.com/in/april-mcclain-delaney",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/april-mcclain-delaney&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCP0BEAE",
+      "displayed_link": "930+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c209c233c4a623c5a2dd7548fabf23444b5.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... - Present 10 years 4 months. Washington D.C. Metro Area. US Department of ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present 10 years"
+      ],
+      "source": "LinkedIn · April McClain Delaney"
+    },
+    {
+      "position": 56,
+      "title": "Céline Flores Willers - Munich, Bavaria, Germany",
+      "link": "https://de.linkedin.com/in/c%C3%A9line-flores-willers/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/c%25C3%25A9line-flores-willers/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCP8BEAE",
+      "displayed_link": "199.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c207d9f83bc8e0e27909a74e3470395d41f.png",
+      "snippet": "Founder of Germany's No. 1 company for Personal & Corporate Branding on ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany's",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Céline Flores Willers"
+    },
+    {
+      "position": 57,
+      "title": "Felicitas Ludwig – Google",
+      "link": "https://de.linkedin.com/in/felicitas-ludwig-838562146",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/felicitas-ludwig-838562146&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCIQCEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c205e0967081e4982505dc7256ec9d86a4a.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn ... - Helping the family with questions about living in Germany such as car insurance, etc.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Felicitas Ludwig"
+    },
+    {
+      "position": 58,
+      "title": "Astrid Dose - Stadt Hamburg, Hamburg, Germany",
+      "link": "https://www.linkedin.com/in/astrid-dose/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/astrid-dose/&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCIMCEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c201e329f72b519464e63b77690e2d31118.png",
+      "snippet": "Astrid Dose. Stadt Hamburg, Hamburg, Germany. 2K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Astrid Dose"
+    },
+    {
+      "position": 59,
+      "title": "Axel Deniz - Berlin, Berlin, Germany | Professional Profile",
+      "link": "https://de.linkedin.com/in/axeldeniz/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/axeldeniz/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJUCEAE",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c203c35e880926db08f2937a0eec214b02c.png",
+      "snippet": "Axel Deniz. Berlin, Berlin, Germany. 4K followers 500+ connections. See ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Axel Deniz"
+    },
+    {
+      "position": 60,
+      "title": "Martin Ziemer - Germany – Google Cloud Public Sector",
+      "link": "https://de.linkedin.com/in/martin-ziemer-08139414",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/martin-ziemer-08139414&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJwCEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20f23c867fdc13d022b4acd2bbcd676c08.png",
+      "snippet": "Berufserfahrung · Head of Regional Risk & Compliance, Public Sector - Germany · Strategic Trust Lead, Office of the CISO, Google Cloud · Business Control Manager ( ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hessen, Deutschland",
+            "Head of Regional Risk & Compliance, Public Sector",
+            "Germany",
+            "Google Cloud Public Sector",
+            "Deutschland GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Martin Ziemer"
+    },
+    {
+      "position": 61,
+      "title": "Darlin Wahl - Munich, Bavaria, Germany | Professional Profile",
+      "link": "https://de.linkedin.com/in/darlin-wahl/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/darlin-wahl/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJoCEAE",
+      "displayed_link": "540+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c2036d9bd0f8ae1e0c732f23e7e25de1c52.png",
+      "snippet": "Darlin Wahl. Platforms & Ecosystems Marketing @ Google. Munich, Bavaria, Germany ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Darlin Wahl"
+    },
+    {
+      "position": 62,
+      "title": "Dr. Jan Linsin - Head of Research Germany at CBRE",
+      "link": "https://de.linkedin.com/in/dr-jan-linsin-3a166215/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dr-jan-linsin-3a166215/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJ8CEAE",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20d805062b7e326570311d127609129359.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Mar 2008 - Mar 2018 10 years 1 month. Frankfurt am Main und Umgebung ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hesse, Germany",
+            "Head of Research Germany",
+            "CBRE Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Jan Linsin"
+    },
+    {
+      "position": 63,
+      "title": "Marlanie Kresyl Piano-Raschke - Münster, North Rhine- ...",
+      "link": "https://sg.linkedin.com/in/laniepiano",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sg.linkedin.com/in/laniepiano&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCKoCEAE",
+      "displayed_link": "520+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c208f3e5839f466e89ff40f0c6e798d9e5a.png",
+      "snippet": "Operations & Governance Leader | Ex-Google | CPA · Effective leader with ~15 years of professional experience delivering impact in various functions: ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "15 years"
+      ],
+      "source": "LinkedIn · Marlanie Kresyl Piano-Raschke"
+    },
+    {
+      "position": 64,
+      "title": "Johannes Weber - Berlin, Berlin, Germany",
+      "link": "https://www.linkedin.com/in/johannes-weber-/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/johannes-weber-/&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCLYCEAE",
+      "displayed_link": "7.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20a90571c75463cf4f2c735f220a37c18a.png",
+      "snippet": "Johannes Weber. Berlin, Berlin, Germany. 7K followers 500+ connections. See ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Johannes Weber"
+    },
+    {
+      "position": 65,
+      "title": "Rachel Dyke - Berlin, Berlin, Germany | Professional Profile",
+      "link": "https://www.linkedin.com/in/rachel-dyke",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rachel-dyke&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCLgCEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c204bf465725f3d98f605090b68f09f4615.png",
+      "snippet": "Rachel Dyke. Berlin, Berlin, Germany. 2K followers 500+ connections. See ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Rachel Dyke"
+    },
+    {
+      "position": 66,
+      "title": "Katie Germany, CMP - Harvard Business School",
+      "link": "https://www.linkedin.com/in/katiegermany",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katiegermany&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCL8CEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c207c33f82bc6af9370513f9223288f2913.png",
+      "snippet": "Team Leadership | Corporate Events | L&D · Adaptable, organized, and people-focused project manager with over 10 years of experience working in corporate ...",
+      "snippet_highlighted_words": [
+        "10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Boston",
+            "Program Manager, Executive Education",
+            "Harvard Business School"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katie Germany, CMP"
+    },
+    {
+      "position": 67,
+      "title": "Guillaume Durand - Trade Counsellor - Representation in ...",
+      "link": "https://www.linkedin.com/in/guillaume-durand-64789a28",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/guillaume-durand-64789a28&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCMACEAE",
+      "displayed_link": "640+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c200111de003b009697ee48165377603011.png",
+      "snippet": "Trade Counsellor at the Representation of the European Commission in Germany · European Commission · Berlin · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Trade Counsellor",
+            "Representation in Germany",
+            "European Commission"
+          ]
+        }
+      },
+      "source": "LinkedIn · Guillaume Durand"
+    },
+    {
+      "position": 68,
+      "title": "Nikki Germany - Moringa School",
+      "link": "https://ke.linkedin.com/in/nikkigermany",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ke.linkedin.com/in/nikkigermany&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECEUQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c204ede4f91a769664caf608749afb3b702.png",
+      "snippet": "... Germany's profile on LinkedIn, a professional community of 1 billion members ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany's",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kenya",
+            "Moringa School"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nikki Germany"
+    },
+    {
+      "position": 69,
+      "title": "Ben Faw - AdVon Commerce",
+      "link": "https://www.linkedin.com/in/benfaw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/benfaw&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECEMQAQ",
+      "displayed_link": "10.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c206b23d486f2412f23afb9193bae440b2a.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join ... 2015 - Present 10 years. Education. -HBS Fund Council (Vice Chair) from 2022 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present 10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "AdVon Commerce"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Faw"
+    },
+    {
+      "position": 70,
+      "title": "Michael Conradt – Google Germany GmbH",
+      "link": "https://de.linkedin.com/in/michael-conradt-1b12871b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/michael-conradt-1b12871b&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECEcQAQ",
+      "displayed_link": "430+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20f7aca55535141a7fb833a129b3063b5d.png",
+      "snippet": "Berufserfahrung: Google Germany GmbH · Ort: Metropolregion München · 438 Kontakte auf LinkedIn. Sehen Sie sich das Profil von Michael Conradt Michael ...",
+      "snippet_highlighted_words": [
+        "Google Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Google Germany GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Conradt"
+    },
+    {
+      "position": 71,
+      "title": "Joshua Marcuse - Google",
+      "link": "https://www.linkedin.com/in/joshuamarcuse",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joshuamarcuse&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECEYQAQ",
+      "displayed_link": "12.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c209451181fd0ed13e72fee1643a8142260.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn ... Founder & Chairman. Young Professionals in Foreign Policy. Nov 2004 - Present 20 years 5 months.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present 20 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington DC-Baltimore Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joshua Marcuse"
+    },
+    {
+      "position": 72,
+      "title": "Alexander Kulesa - Bielefeld, North Rhine-Westphalia ...",
+      "link": "https://www.linkedin.com/in/alexander-kulesa-8a325b239",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alexander-kulesa-8a325b239&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECEsQAQ",
+      "displayed_link": "670+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c204b2fa353ac227ba087e9d63c05db5d8d.png",
+      "snippet": "Alexander Kulesa. Bielefeld, North Rhine-Westphalia, Germany. 671 ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Alexander Kulesa"
+    },
+    {
+      "position": 73,
+      "title": "Aditya Alok - Working Student - IT supply Management - RWE",
+      "link": "https://in.linkedin.com/in/aditya-alok-9a331a106",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/aditya-alok-9a331a106&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECF4QAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c2057daf298c178f5a57ae016fa1b15824b.png",
+      "snippet": "Working Student- RWE Global || MSc. in International Business, Germany - Present || Ex- Sr.Business Manager at ESDS ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Present",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dortmund, North Rhine-Westphalia, Germany",
+            "Working Student",
+            "IT supply Management",
+            "RWE"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aditya Alok"
+    },
+    {
+      "position": 74,
+      "title": "Dr. Christian Werthmüller - Rechtsanwalt - Willkie Farr & ...",
+      "link": "https://de.linkedin.com/in/christian-werthmueller/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/christian-werthmueller/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECF8QAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c204c8666eab4db992f1fa55c8cb2b9856e.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or ... Lecturer. Universität Mannheim. 2015 - Present 10 years. Lecturer for rhetoric ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present 10 years"
+      ],
+      "source": "LinkedIn · Dr. Christian Werthmüller"
+    },
+    {
+      "position": 75,
+      "title": "Chance Coughenour - Google Arts & Culture",
+      "link": "https://uk.linkedin.com/in/ccoughenour55",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ccoughenour55&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECGAQAQ",
+      "displayed_link": "520+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c206bffb21b0f82134777b7a7dd86c99e07.png",
+      "snippet": "Mar 2015 - Present 10 years 1 month. Institute for Photogrammetry, University ... Stuttgart Area, Germany. Project title: Automated 3D/4D Data Collection ...",
+      "snippet_highlighted_words": [
+        "Present 10 years",
+        "Germany"
+      ],
+      "source": "LinkedIn · Chance Coughenour"
+    },
+    {
+      "position": 76,
+      "title": "Stoyan Nikolov – Google",
+      "link": "https://de.linkedin.com/in/stoyannikolov",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/stoyannikolov&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECGsQAQ",
+      "displayed_link": "960+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20767d4bfe0d3401d7fe715f8bd8a663a1.png",
+      "snippet": "Software Engineering Manager and Lead Engineer. I work on developer tools - specifically… · Berufserfahrung: Google ... Munich, Bavaria, Germany. -. -. Sofia. - ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stoyan Nikolov"
+    },
+    {
+      "position": 77,
+      "title": "A. Aldo Faisal - Professor in AI & Neuroscience",
+      "link": "https://uk.linkedin.com/in/a-aldo-faisal-057b704b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/a-aldo-faisal-057b704b&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECGoQAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c200f3cf1396d93608b044d378f6ba8c389.png",
+      "snippet": "Faisal Lab. Aug 2009 - Present 15 years 8 months. London, UK and Bayreuth, Germany. The Faisal Lab is the research laboratory of Prof. Dr. Aldo Faisal that ...",
+      "snippet_highlighted_words": [
+        "Present 15 years",
+        "Germany"
+      ],
+      "source": "LinkedIn · A. Aldo Faisal"
+    },
+    {
+      "position": 78,
+      "title": "Tim Germany - President - Q Development",
+      "link": "https://www.linkedin.com/in/tim-germany-3178b35",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tim-germany-3178b35&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECHkQAQ",
+      "displayed_link": "7 followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c201e48bac5cabae9c99c0a628f2865c55a.png",
+      "snippet": "Tim Germany. President at Q Development. Q Development Hardin-Simmons ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Colleyville, Texas, United States",
+            "President",
+            "Q Development"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tim Germany"
+    },
+    {
+      "position": 79,
+      "title": "Eva Santorini - Graphic Designer - Embassy of the Federal ...",
+      "link": "https://www.linkedin.com/in/eva-santorini-8086804",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/eva-santorini-8086804&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECHsQAQ",
+      "displayed_link": "270+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c200da3e6d34a64fb877c5056be1dd9fd22.png",
+      "snippet": "... Google Analytics. Administrative experience. · Experience: Embassy of the Federal Republic of Germany · Location: Silver Spring · 271 connections on ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany"
+      ],
+      "source": "LinkedIn · Eva Santorini"
+    },
+    {
+      "position": 80,
+      "title": "Rebecca Meier - Munich, Bavaria, Germany",
+      "link": "https://de.linkedin.com/in/meierrebecca/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/meierrebecca/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCIABEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c206af7303d0cc066ee6055220aae6acca6.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Competitiveness of green hydrogen import pathways for Germany in 2025.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "source": "LinkedIn · Rebecca Meier"
+    },
+    {
+      "position": 81,
+      "title": "Robert Fenstermacher - American Council on Germany",
+      "link": "https://www.linkedin.com/in/robert-fenstermacher-00a3631",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robert-fenstermacher-00a3631&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCIIBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20d7025d19a43ec124a560c18c80ffa9b6.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... “Working with Rob for over 10 years at CDS and Cultural Vistas was a real ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Chief Content Officer",
+            "American Council on Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert Fenstermacher"
+    },
+    {
+      "position": 82,
+      "title": "Rhonda Germany Ballintyn",
+      "link": "https://www.linkedin.com/in/rhonda-germany-ballintyn-01805514",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rhonda-germany-ballintyn-01805514&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCI4BEAE",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c2088c659a0f1542dfc4f2185c16bbb39de.png",
+      "snippet": "Experienced public and private company Board Member and C-Level Executive with… · Germany ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Traverse City, Michigan, United States",
+            "Germany Ballintyn Education Foundation (GBEF)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rhonda Germany Ballintyn"
+    },
+    {
+      "position": 83,
+      "title": "Heike Glaser - Counsel (Knowledge) - Linklaters Germany",
+      "link": "https://de.linkedin.com/in/heike-glaser-093296310/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/heike-glaser-093296310/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJQBEAE",
+      "displayed_link": "100+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20899d11b31f5ab2550425a50f0b49c0a3.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... - Apr 2024 10 years. Munich, Bavaria, Germany. Linklaters Germany Graphic ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "10 years",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Counsel (Knowledge)",
+            "Linklaters Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Heike Glaser"
+    },
+    {
+      "position": 84,
+      "title": "Stefan Joos – Trading and Commercialization Lead Germany",
+      "link": "https://de.linkedin.com/in/stefan-joos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/stefan-joos&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJkBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20e41f693f9be9dbb2c1e17bd67b88b46b.png",
+      "snippet": "Trading and Commercialization Lead Germany bei Google · Google · Ostasien Institut · Hamburg · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hamburg, Hamburg, Deutschland",
+            "Trading and Commercialization Lead Germany",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stefan Joos"
+    },
+    {
+      "position": 85,
+      "title": "Joann Halpern - External Advisory Board - Campana & ...",
+      "link": "https://www.linkedin.com/in/joann-halpern-4334991b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joann-halpern-4334991b&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCJsBEAE",
+      "displayed_link": "8.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20da2887657764e6a1878f5ac9b2c6618f.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Sep 2014 - Present 10 years 7 months. Greater New York City Area. Hasso ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present 10 years"
+      ],
+      "source": "LinkedIn · Joann Halpern"
+    },
+    {
+      "position": 86,
+      "title": "Saurabh Singla - Google",
+      "link": "https://www.linkedin.com/in/saurabhsingla",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/saurabhsingla&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCKoBEAE",
+      "displayed_link": "680+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c201a1147331fa0d02732aec92b717abbe6.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join ... Erlangen Area, Germany. Education. Indian Institute of Technology, Kharagpur ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Saurabh Singla"
+    },
+    {
+      "position": 87,
+      "title": "Adam Rodman - Beth Israel Deaconess Medical Center",
+      "link": "https://www.linkedin.com/in/adamrodman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/adamrodman&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCKgBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c2090a4ec86e3294f7c3638053b91f60e5d.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Aug 2014 - Present 10 years 8 months. - Host of Bedside Rounds, a tiny ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present 10 years"
+      ],
+      "source": "LinkedIn · Adam Rodman"
+    },
+    {
+      "position": 88,
+      "title": "Jana Weidig - White & Case LLP",
+      "link": "https://de.linkedin.com/in/jana-weidig-965115100/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/jana-weidig-965115100/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCKwBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c204d54d14a54f40249378a91a3eed88fdb.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... 20 years 11 months · White &amp; Case LLP Graphic. Associate Director ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "20 years"
+      ],
+      "source": "LinkedIn · Jana Weidig"
+    },
+    {
+      "position": 89,
+      "title": "Patrick Löcken – Video Sales Lead, Large Customer ...",
+      "link": "https://de.linkedin.com/in/patrick-l%C3%B6cken-19870916",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/patrick-l%25C3%25B6cken-19870916&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCLEBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20b37e23cbbb86ff674b67876d3a6fe942.png",
+      "snippet": "Video Sales Lead, Large Customer Sales, Germany. Google. März 2021 –Heute 4 Jahre 1 Monat. Hamburg, Germany.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hamburg, Hamburg, Deutschland",
+            "Video Sales Lead, Large Customer Sales, Germany",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Patrick Löcken"
+    },
+    {
+      "position": 90,
+      "title": "Mahdi Mohaveri - Berlin, Berlin, Germany",
+      "link": "https://www.linkedin.com/in/mahdi-mohaveri-23a85365/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mahdi-mohaveri-23a85365/&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCLIBEAE",
+      "displayed_link": "620+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c204e698b691b6cf4b291126c090a689db1.png",
+      "snippet": "Senior Software Engineer with 10 years experience with in Backend ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "10 years",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Mahdi Mohaveri"
+    },
+    {
+      "position": 91,
+      "title": "Thomas Hundt - Senior Manager Thailand, Malaysia ...",
+      "link": "https://de.linkedin.com/in/thomas-hundt-12230b26/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/thomas-hundt-12230b26/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCMMBEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20a0c9934f35266e243c0c2066a95f112e.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Experience. Germany Trade & Invest. 20 years 3 months.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "20 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bonn, North Rhine-Westphalia, Germany",
+            "Senior Manager Thailand, Malaysia, Myanmar, Kambodscha, Laos bei Germany Trade & Invest",
+            "Germany Trade & Invest"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Hundt"
+    },
+    {
+      "position": 92,
+      "title": "Timo Plutschinski - Global Strategy Forum FTA Gießen",
+      "link": "https://de.linkedin.com/in/timo-plutschinski-46045151/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/timo-plutschinski-46045151/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCMYBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c209ecb75c847947245262e15b675a25774.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Oct 2014 - Present 10 years 6 months. Großraum New York City und Umgebung ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present 10 years"
+      ],
+      "source": "LinkedIn · Timo Plutschinski"
+    },
+    {
+      "position": 93,
+      "title": "Susan Hölling – Co-CEO, Market Lead Germany – Burson",
+      "link": "https://de.linkedin.com/in/susan-h%C3%B6lling-28396b165",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/susan-h%25C3%25B6lling-28396b165&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCMUBEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20d86361572d8671a1485bf173fc3b1f26.png",
+      "snippet": "Based in Hamburg, Susan oversees Finance, Operations, and Human Resources of Burson Germany, while driving business growth. With nearly 20 years in the global ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "20 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hamburg und Umgebung",
+            "Co-CEO, Market Lead Germany",
+            "Burson"
+          ]
+        }
+      },
+      "source": "LinkedIn · Susan Hölling"
+    },
+    {
+      "position": 94,
+      "title": "Ulrike Banning - IQVIA Germany",
+      "link": "https://de.linkedin.com/in/ulrike-banning-iqvia/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ulrike-banning-iqvia/en&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCMoBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20e62240f446a7a8c38d32e1a9826f07c6.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Experience. IQVIA Germany. 10 years 9 months. IQVIA Germany ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "10 years",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt Rhine-Main Metropolitan Area",
+            "Head of OneKey and Marketing Services, Germany",
+            "IQVIA Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ulrike Banning"
+    },
+    {
+      "position": 95,
+      "title": "Joydeep Bhattacharya - Professor of Psychology",
+      "link": "https://uk.linkedin.com/in/joydeep-bhattacharya-531563131",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/joydeep-bhattacharya-531563131&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoFCMkBEAE",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c2022564e85ab3fb89b2239deb46dc659d5.png",
+      "snippet": "... 15 years, London is my home. I was earlier associated with Max Planck Institute in Germany, Austrian Academy of Sciences in Austria, and California ...",
+      "snippet_highlighted_words": [
+        "15 years",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Professor of Psychology",
+            "Goldsmiths, University of London"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joydeep Bhattacharya"
+    },
+    {
+      "position": 96,
+      "title": "Kevin Xu - Interconnected Capital",
+      "link": "https://www.linkedin.com/in/kevinsxu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kevinsxu&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECC8QAQ",
+      "displayed_link": "6.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c207e3efbe111b0cf0fd73d93603c5d5864.png",
+      "snippet": "When expanded it provides a list of search options that will switch the search inputs to match the current selection. ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "current",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Nashville, Tennessee, United States",
+            "Interconnected Capital"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin Xu"
+    },
+    {
+      "position": 97,
+      "title": "Schadrack Brix - Administrative Assistant",
+      "link": "https://gh.linkedin.com/in/schadrack-brix-b23762121",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://gh.linkedin.com/in/schadrack-brix-b23762121&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECCcQAQ",
+      "displayed_link": "100+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c209f9f082160d5ad323986a72de76cc297.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Auswärtiges Amt (Federal Foreign Office) Germany Graphic. Administrative ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Accra, Greater Accra Region, Ghana",
+            "Administrative Assistant",
+            "Auswärtiges Amt (Federal Foreign Office) Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Schadrack Brix"
+    },
+    {
+      "position": 98,
+      "title": "Nikita Naidenov - Google",
+      "link": "https://www.linkedin.com/in/nikita-naidenov-82079868",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nikita-naidenov-82079868&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECCwQAQ",
+      "displayed_link": "290+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c20273cf8061de336811cdc25dbfea5f676.png",
+      "snippet": "Experience: Google · Education: Lomonosov Moscow State University (MSU) · Location: Switzerland · 282 connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Switzerland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nikita Naidenov"
+    },
+    {
+      "position": 99,
+      "title": "Gary Horlick - Partner - Law Offices of Gary N. ...",
+      "link": "https://www.linkedin.com/in/gary-horlick-2717aa12",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gary-horlick-2717aa12&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECCoQAQ",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c2080edf153df5fa72f6e2982d5517a2293.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... lecturer. World Trade Institute. 2000 - 2015 15 years. World Trade ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "15 years"
+      ],
+      "source": "LinkedIn · Gary Horlick"
+    },
+    {
+      "position": 100,
+      "title": "Damien Pieretti - Head of Innovation Banking, Germany & ...",
+      "link": "https://www.linkedin.com/in/damien-pieretti-01791915",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/damien-pieretti-01791915&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQFnoECCkQAQ",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3fc654bf7e5a0b8092/images/dae27402c5a5bfc0223bb0509aed4c205767c335ee1bdfb1ddae56816b5b5bad.png",
+      "snippet": "... Germany · 500+ connections on LinkedIn. View Damien Pieretti's profile ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Head of Innovation Banking, Germany & Austria",
+            "HSBC Innovation Banking"
+          ]
+        }
+      },
+      "source": "LinkedIn · Damien Pieretti"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=QPrdZ4eiEuGj5NoPmcH6gAw&start=100&sa=N&sstk=Af40H4VxCerb6epcsRdJ7vgSt67uhxaMSq_TdnuiBFa_mBSeFW3yP6ZIDAKaVgxLJD0PbV0N-aJV-wH0xH2i2ny7jFNll972mVQgUQ&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQ8NMDegQIBxAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=QPrdZ4eiEuGj5NoPmcH6gAw&start=100&sa=N&sstk=Af40H4VxCerb6epcsRdJ7vgSt67uhxaMSq_TdnuiBFa_mBSeFW3yP6ZIDAKaVgxLJD0PbV0N-aJV-wH0xH2i2ny7jFNll972mVQgUQ&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=QPrdZ4eiEuGj5NoPmcH6gAw&start=200&sa=N&sstk=Af40H4VxCerb6epcsRdJ7vgSt67uhxaMSq_TdnuiBFa_mBSeFW3yP6ZIDAKaVgxLJD0PbV0N-aJV-wH0xH2i2ny7jFNll972mVQgUQ&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=QPrdZ4eiEuGj5NoPmcH6gAw&start=300&sa=N&sstk=Af40H4VxCerb6epcsRdJ7vgSt67uhxaMSq_TdnuiBFa_mBSeFW3yP6ZIDAKaVgxLJD0PbV0N-aJV-wH0xH2i2ny7jFNll972mVQgUQ&ved=2ahUKEwiHwp7erZyMAxXhEVkFHZmgHsAQ8tMDegQIBxAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&start=300"
+    }
+  }
+}

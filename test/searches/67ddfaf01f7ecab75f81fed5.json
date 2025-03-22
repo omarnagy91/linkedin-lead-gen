@@ -1,0 +1,2338 @@
+{
+  "search_metadata": {
+    "id": "67ddfaf01f7ecab75f81fed5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e21c49204c78fb46/67ddfaf01f7ecab75f81fed5.json",
+    "created_at": "2025-03-21 23:49:04 UTC",
+    "processed_at": "2025-03-21 23:49:04 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/e21c49204c78fb46/67ddfaf01f7ecab75f81fed5.html",
+    "total_time_taken": 2.36
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Amazon\" AND \"Germany\" AND (current OR present) AND (\"President\" OR \"Chairman\" OR \"Chief Executive\" OR \"Principal Owner\" OR \"Managing Member\" OR \"Fellow\" OR \"Senior Fellow\" OR \"Distinguished Engineer\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Amazon\" AND \"Germany\" AND (current OR present) AND (\"President\" OR \"Chairman\" OR \"Chief Executive\" OR \"Principal Owner\" OR \"Managing Member\" OR \"Fellow\" OR \"Senior Fellow\" OR \"Distinguished Engineer\")",
+    "total_results": 3300000,
+    "time_taken_displayed": 1.21,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.linkedin.com/in/david-wagner-psu",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnOc7VIQFCDH4P-SsfxlK1MgRvKYHPTpg-bJ2zqkYRsJzSoruD0RXFCnU&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4D03AQECmhvr2KccAQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726134166307?e=2147483647&v=beta&t=8baZvJ2HlW0wAn-l5n997pCesQ-GrmQp52_7TbMXADE",
+      "title": "David Wagner - Account Manager - Amazon | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://de.linkedin.com/in/analauraroldan/es",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtDABjcLA3WAn1rN3u8wecBGhiN8--VXjidFzHN3mrF_DRTfH5dZCACk4&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E22AQFxj0GFB0wSZA/feedshare-shrink_800/B4EZTVwgMgG0Ao-/0/1738753049861?e=2147483647&v=beta&t=Sk9RVgtVERj8Kw_Yexo5VCQprt7mp2kj4HlkhhAjRYA",
+      "title": "Ana Laura R. - Recruiter - Amazon | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/dan-scharf-533129a",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReSk-xYJdSzjQK5K6C0G-Yll8N2CYfoY5SGEEPNpMM9J8E7roAn16O5_w&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5603AQGCk0SQ3scImQ/profile-displayphoto-shrink_200_200/B56ZOz7YdIGkAY-/0/1733890509812?e=2147483647&v=beta&t=AsVhVMaaCNxXq2-mXc-iAFBaX1FpzZQPS0jjzylVHVk",
+      "title": "Dan Scharf - VP, Head of Global Business Operations - Amazon ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://de.linkedin.com/in/jenslehmann82/en",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi3aKDdGYxjkMpIiaHWKpOsVyqnP1zth_KNiQM5gdb9MY4--zpd89ffaw&s",
+      "original": "https://media.licdn.com/dms/image/v2/C5603AQHTf094aQ1CGQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516580163917?e=2147483647&v=beta&t=lnPwoy3mJI3XVhLUz-6u-Io8SFKZTF8HlE1k4NEkji8",
+      "title": "Jens Lehmann - Principal Scientist, Artificial General ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/ethanevansvp",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_npO3H-v2CugPqItW0p7O3cAzWarRo6Gpk4VG9q2xluwSoxTb-KBQZHk&s",
+      "original": "https://media.licdn.com/dms/image/D4E03AQF9WU33EAYb0A/profile-displayphoto-shrink_200_200/0/1706828336443?e=2147483647&v=beta&t=GCtZoPuBL4wWysI5t4d44PLTVlpOw7d0sfvJ8oL-j0k",
+      "title": "Ethan Evans - Founder, Career Expert and Teacher, Newsletter ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://de.linkedin.com/in/guiruggiero/en",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1OhKykZjwNtsbQK9P6Si2lPE_qURCJAb494tzgFtF9fMan_uiQIaCw38&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4D03AQGPf5xya_eJJg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1535889039402?e=2147483647&v=beta&t=FyVOCIS6qQhq071HyEfK_Pio0GihznCBoK-c0Z-FAmQ",
+      "title": "Gui Ruggiero - Sr. Product Manager, Technical - Artificial ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/emanuel-germany",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo-e3vCxWMSUKkVf94AQphxGTIqZP1d5_YlWIDONGFgw3YC7-R9rpJag4&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E03AQE92wP2h-MxqQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715014287138?e=2147483647&v=beta&t=XrMtoG_STkoEnsggSci27lmc4JB5OwyDUEz3fOxQdWk",
+      "title": "Emanuel Germany - Procurement Specialist II - SDI - Amazon ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/zhangtc",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlu-I0JPbCtLABOx8HCj0FDB9G2AHG6dkg5QFF4RVHyyZkbpzAvJQKH3E&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5603AQFdR4SL5KYWiQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1703052438736?e=2147483647&v=beta&t=96pbilITZm6oih5MkKsKrOyCW3UIvdODtG6OpHwtvVA",
+      "title": "TC Z. - Amazon | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://de.linkedin.com/in/malteboensch/en",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbYLR-yKgSMvG5R1Kp0A1nLyCCObCGCmYYhYoMm6BXVqNbduDthMIDV-o&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4D03AQGCcPtvO921gQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516865307356?e=2147483647&v=beta&t=gUNQGPIvJnZ68fWtC8FWA5Zl9l0p15MWmmTBwLu7TXI",
+      "title": "Malte Boensch - Senior Program Manager - Amazon | LinkedIn",
+      "source_name": "LinkedIn"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Kathrin Renz – Amazon",
+      "link": "https://de.linkedin.com/in/kathrin-renz-6811155",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/kathrin-renz-6811155&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECAkQAQ",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6f993757f19a24a5e74f5efdcf852b348.png",
+      "snippet": "University of Cooperative Eduction, Germany Info Kathrin Renz leads Amazon Web Services Industries business including sectors like...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kathrin Renz"
+    },
+    {
+      "position": 2,
+      "title": "Marco Reissig - Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/marco-reissig-b9539345/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/marco-reissig-b9539345/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECCgQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a645bce13ce0a211b089545c396fe7ccbe.png",
+      "snippet": "Experience: Amazon Web Services (AWS) · Education: Dublin City University ... Munich, Bavaria, Germany. -. Greater Munich Metropolitan Area. -. Munich Area ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Munich Metropolitan Area",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marco Reissig"
+    },
+    {
+      "position": 3,
+      "title": "Steve Downer - Chairman, Executive Board Member",
+      "link": "https://www.linkedin.com/in/stephen-downer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephen-downer&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECB0QAQ",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a67b5d77fad75ce8bcd03a1a02dcf9a3c0.png",
+      "snippet": "Vice President, Amazon · As Vice President, I lead multiple organizations ... Chairman, Executive Board Member. Consumer Technology Association. Jan 2025 ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "President",
+        "Chairman"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "About",
+            "link": "https://www.linkedin.com/in/stephen-downer#:~:text=About,-As%20Vice%20President%2C%20I"
+          },
+          {
+            "title": "Experience",
+            "link": "https://www.linkedin.com/in/stephen-downer#:~:text=activity-,Experience"
+          },
+          {
+            "title": "Organizations",
+            "link": "https://www.linkedin.com/in/stephen-downer#:~:text=Organizations,-Consumer%20Technology%20Association"
+          }
+        ]
+      },
+      "source": "LinkedIn · Steve Downer"
+    },
+    {
+      "position": 4,
+      "title": "Arjun Ajith - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/arjun-ajith-6a344b134/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/arjun-ajith-6a344b134/&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECBsQAQ",
+      "displayed_link": "500+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6966e8d53335d107734880ca00e257ce0.png",
+      "snippet": "Arjun Ajith. Amazon Web Services (AWS) National Institute of Technology Calicut. Berlin, Berlin, Germany.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Arjun Ajith"
+    },
+    {
+      "position": 5,
+      "title": "Andreas von der Heydt - Founder & Managing Director",
+      "link": "https://de.linkedin.com/in/andreasvonderheydt/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/andreasvonderheydt/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECCUQAQ",
+      "displayed_link": "520.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6ba4e49f07b51bc98624b4c5726c9d23e.png",
+      "snippet": "Europe and the U.S. and was a co-founder of Amazon Germany's Coaching Program as well as a founding member of L'Oréal's Mentoring Program. I'm a Fellow ...",
+      "snippet_highlighted_words": [
+        "Amazon Germany's",
+        "Fellow"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Contributions",
+            "link": "https://de.linkedin.com/in/andreasvonderheydt/en#:~:text=Contributions,-You%27re%20facing%20resistance%20from"
+          },
+          {
+            "title": "Experience",
+            "link": "https://de.linkedin.com/in/andreasvonderheydt/en#:~:text=activity-,Experience"
+          },
+          {
+            "title": "Publications",
+            "link": "https://de.linkedin.com/in/andreasvonderheydt/en#:~:text=Publications"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt Rhine-Main Metropolitan Area",
+            "Founder & Managing Director",
+            "Andreas von der Heydt Coaching & Consulting"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andreas von der Heydt"
+    },
+    {
+      "position": 6,
+      "title": "Andreas Eschbach - CEO and President",
+      "link": "https://www.linkedin.com/in/andreas-eschbach",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andreas-eschbach&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECBwQAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a66404c5aad872b4bf40ce037f07de99ff.png",
+      "snippet": "Shiftconnector® - CEO and Founder of eschbach Germany and US · Founder and CEO of a German-American company. eschbach provides enterprise software solutions ...",
+      "snippet_highlighted_words": [
+        "Germany"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Articles By Andreas",
+            "link": "https://www.linkedin.com/in/andreas-eschbach#:~:text=Articles%20by%20Andreas"
+          },
+          {
+            "title": "Experience",
+            "link": "https://www.linkedin.com/in/andreas-eschbach#:~:text=activity-,Experience"
+          },
+          {
+            "title": "Education",
+            "link": "https://www.linkedin.com/in/andreas-eschbach#:~:text=Education"
+          }
+        ]
+      },
+      "source": "LinkedIn · Andreas Eschbach"
+    },
+    {
+      "position": 7,
+      "title": "Michael Punke - Amazon",
+      "link": "https://www.linkedin.com/in/michael-punke-974446101",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-punke-974446101&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECDMQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a69e45886b57488b40870d9b9e8feb2cc5.png",
+      "snippet": "Amazon · Cornell Law School · Missoula · 500+ connections on LinkedIn. View Michael Punke's profile on LinkedIn, a professional community of 1 billion ...",
+      "snippet_highlighted_words": [
+        "Amazon"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Amazon Cornell Law School",
+            "link": "https://www.linkedin.com/in/michael-punke-974446101#:~:text=Amazon%20Cornell%20Law%20School"
+          },
+          {
+            "title": "Experience",
+            "link": "https://www.linkedin.com/in/michael-punke-974446101#:~:text=Experience,-Amazon"
+          },
+          {
+            "title": "Publications",
+            "link": "https://www.linkedin.com/in/michael-punke-974446101#:~:text=Publications"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Missoula, Montana, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Punke"
+    },
+    {
+      "position": 8,
+      "title": "Ralf Groene - Vice President, Amazon Devices & Services",
+      "link": "https://www.linkedin.com/in/ralf-groene-33114b1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ralf-groene-33114b1&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCKABEAE",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a67a94e6e68630edbed3aa0b880be99d8f.png",
+      "snippet": "Vice President, Amazon Devices & Services. Amazon. Jan 2025 - Present 3 months ... Interform Design. 1988 - 1990 2 years. Wolfsburg, Germany. Education ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Vice President, Amazon Devices & Services",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ralf Groene"
+    },
+    {
+      "position": 9,
+      "title": "Anes Hodžić - Amazon",
+      "link": "https://www.linkedin.com/in/aneshodzic",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aneshodzic&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCP8BEAE",
+      "displayed_link": "10.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a682e09c635570490a1be3fdad4ebdefbc.png",
+      "snippet": "Anes Hodžić, Vice President at Amazon Devices and Services, leads the Amazon Smart… · Experience: Amazon · Location: Seattle · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anes Hodžić"
+    },
+    {
+      "position": 10,
+      "title": "Martin Andersen – Country Director AMZL MEU – Amazon",
+      "link": "https://de.linkedin.com/in/martin-andersen-1276849",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/martin-andersen-1276849&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECDAQAQ",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6566c55d641a287fddea44039d50c22d9.png",
+      "snippet": "Berufserfahrung. Amazon. 7 Jahre 11 Monate. Amazon Grafik. Country Director AMZL MEU. Amazon. März 2021 –Heute 4 Jahre 1 Monat. Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bayern, Deutschland",
+            "Country Director AMZL MEU",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Martin Andersen"
+    },
+    {
+      "position": 11,
+      "title": "Abdul Fatir Ansari – Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/abdulfatir",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/abdulfatir&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCMEBEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a67cb620d1ccaf9742fc935d807ccee1c6.png",
+      "snippet": "Hi! I am an Applied Scientist at AWS AI in Berlin. I graduated with a PhD in Computer… · Amazon Web ... Berlin, Germany. -. Berlin, Germany. -.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Abdul Fatir Ansari"
+    },
+    {
+      "position": 12,
+      "title": "Dr. André Wagner - Head of Pan-Amazon GTM Strategy",
+      "link": "https://www.linkedin.com/in/andrewagner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrewagner&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCPkBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a65663117447b4e03b237c9f384a320f23.png",
+      "snippet": "... Germany to the U.S. in 2014, he served as lead architect for high ... fellow) lead to the second (as a direct report). To say it was a pleasure to work ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Philadelphia",
+            "Head of Pan-Amazon GTM Strategy",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. André Wagner"
+    },
+    {
+      "position": 13,
+      "title": "Dan Scharf - VP, Head of Global Business Operations",
+      "link": "https://www.linkedin.com/in/dan-scharf-533129a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dan-scharf-533129a&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCJcCEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a69be5ae03b329ce9a7e115d8825b4bac6.png",
+      "snippet": "Oversee business operations for Amazon Studios. Specialties: Entertainment, Digital Media, Intellectual Property, Television Production Legal, Clearances, ...",
+      "snippet_highlighted_words": [
+        "Amazon"
+      ],
+      "source": "LinkedIn · Dan Scharf"
+    },
+    {
+      "position": 14,
+      "title": "Leslie Meyer – Amazon",
+      "link": "https://de.linkedin.com/in/meyerleslie",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/meyerleslie&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECC4QAQ",
+      "displayed_link": "480+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6aa8fafca18b3c45c93021620a45c9f7b.png",
+      "snippet": "Berlin, Berlin, Germany. -. Berlin Area, Germany. -. Dahlewitz, Germany. -. 345 E ... President's Award 2015 - Outstanding Commitment to Quality. Rolls-Royce ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Germany",
+        "Germany",
+        "President's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Leslie Meyer"
+    },
+    {
+      "position": 15,
+      "title": "Mert Dogu – Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/mert-dogu-a578b415",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/mert-dogu-a578b415&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECG8QAQ",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a607a4d70299452a6b8c5b28f081895cea.png",
+      "snippet": "Amazon Web Services (AWS) · Berlin · 500+ Kontakte auf LinkedIn ... Proceedings of IHW99 Workshop on Information Hiding, 9/29/1999, Dresden, Germany.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mert Dogu"
+    },
+    {
+      "position": 16,
+      "title": "Daniel Kälicke – Director Communications DACH, Central ...",
+      "link": "https://de.linkedin.com/in/daniel-k%C3%A4licke-54287711a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/daniel-k%25C3%25A4licke-54287711a&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCJ8BEAE",
+      "displayed_link": "13.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a650b37151d69f33e848fa172d23285120.png",
+      "snippet": "Right now, I am working as Director Communications at Amazon being responsible for Amazon's ... Head of Corporate Communications Germany. Amazon. Nov. 2014 – Okt.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon's",
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Director Communications DACH, Central & East Europe and Nordics",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Kälicke"
+    },
+    {
+      "position": 17,
+      "title": "Sivaraman Ramachandran - Business Intelligence Engineer",
+      "link": "https://www.linkedin.com/in/sr04",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sr04&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCN0BEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6b509dc053da9259b8abdbfef542d5d8a.png",
+      "snippet": "... Amazon · Education: University of Connecticut · Location: Germany · 500 ... Executive Vice President,Graduate Finance Association. University of ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Business Intelligence Engineer -II",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sivaraman Ramachandran"
+    },
+    {
+      "position": 18,
+      "title": "Cameron MacQueen - Amazon",
+      "link": "https://www.linkedin.com/in/cameronmacqueen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cameronmacqueen&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCNYBEAE",
+      "displayed_link": "5.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6f3d1ab1623b6c52ba2b4f77ca40e718b.png",
+      "snippet": "Amazon Graphic. Amazon. San Diego, California, United States. -. -. Seattle ... Berlin Area, Germany. -. Berlin Area, Germany. -. Berlin Area, Germany ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Diego, California, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Cameron MacQueen"
+    },
+    {
+      "position": 19,
+      "title": "Sascha Dieh - Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/saschadieh/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/saschadieh/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCI0CEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6fa4d51095c01b481f1ebd5c48e5752d5.png",
+      "snippet": "Sascha Dieh. Amazon Web Services (AWS). Hannover, Lower Saxony, Germany. 2K followers 500 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hannover, Lower Saxony, Germany",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sascha Dieh"
+    },
+    {
+      "position": 20,
+      "title": "Aaron Martin - Amazon",
+      "link": "https://www.linkedin.com/in/aaronmartinfc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aaronmartinfc&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCJ0CEAE",
+      "displayed_link": "31K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a60921f1051ca9e493d280f3eca290a2cd.png",
+      "snippet": "Aaron is currently Vice President of Healthcare at Amazon where he works closely with… · Amazon · Greater Seattle Area · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aaron Martin"
+    },
+    {
+      "position": 21,
+      "title": "Brigitte Ricou-Bellan - General Manager, Prime Video EU",
+      "link": "https://uk.linkedin.com/in/brigittericoubellan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/brigittericoubellan&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCLMCEAE",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6b8de3ac53bb654d996258ecd6c1c8a41.png",
+      "snippet": "Amazon. 5 years 9 months. President, Prime Video France. Amazon. Oct 2021 ... 2004 – 2006 Former Vice-Chairman of ACSEL, French Association for Digital Economy, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "Amazon",
+        "Chairman"
+      ],
+      "source": "LinkedIn · Brigitte Ricou-Bellan"
+    },
+    {
+      "position": 22,
+      "title": "Carlos Almeida - Sr. Operations Manager - Amazon",
+      "link": "https://www.linkedin.com/in/almeidach/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/almeidach/&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECEgQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6beb7fdc12562db521c242e13e15251a7.png",
+      "snippet": "Experience ; Sr. Operations Manager. Amazon. Jul 2021 ; Managing Director & Plant Manager. Skeleton Technologies. Oct 2019 ; Vice President Blade Engineering (R&D).",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Coblenz, Rhineland-Palatinate, Germany",
+            "Sr. Operations Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carlos Almeida"
+    },
+    {
+      "position": 23,
+      "title": "Bracken Darrell - Chief Executive Officer - VF Corporation",
+      "link": "https://www.linkedin.com/in/bracken-darrell-81ba255",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bracken-darrell-81ba255&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECFUQAQ",
+      "displayed_link": "99.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6fafe1062ebbb7e3000ed2c295303b3fb.png",
+      "snippet": "President, EMEA. Whirlpool Corporation. May 2008 - May 2012 4 years 1 month ... 2002 - 2008 6 years. Kronberg, Germany. Ran global $1.7 Billion Braun business out ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Germany"
+      ],
+      "source": "LinkedIn · Bracken Darrell"
+    },
+    {
+      "position": 24,
+      "title": "Florian Tinnus - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/floriantinnus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/floriantinnus&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECG0QAQ",
+      "displayed_link": "17.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a64481c557c60d05d8f4ccdd96ebae0054.png",
+      "snippet": "Amazon Web Services (AWS) · IESE Business School - University of ... Frankfurt Am Main Area, Germany. Education. IESE Business School Graphic · IESE ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Boston",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Florian Tinnus"
+    },
+    {
+      "position": 25,
+      "title": "Tanvir Kaur - AWS Direct Connect",
+      "link": "https://www.linkedin.com/in/tanvirkaur40",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tanvirkaur40&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCIYBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6305be50a3c4c446662927e100ec1fcfe.png",
+      "snippet": "Tanvir Kaur · Leader, Product at Amazon Web Services (AWS) Direct Connect (DX) || Advanced Cloud Engineering Expert || Product Management Mentor || Fellow at BCS ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Herndon, Virginia, United States",
+            "Manager III, Product Management",
+            "AWS Direct Connect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tanvir Kaur"
+    },
+    {
+      "position": 26,
+      "title": "Shaun Noronha - Administrative Clerk - Amazon",
+      "link": "https://in.linkedin.com/in/shaun-noronha-703942254",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/shaun-noronha-703942254&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCKEBEAE",
+      "displayed_link": "60+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6282f8b87bacb430a7ab16dfecb2f1af4.png",
+      "snippet": "Experience. Amazon Graphic. Administrative Clerk. Amazon. Feb 2023 - Present 2 years 2 months. Berlin, Germany. Education. Don Bosco College of Engineering ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Administrative Clerk",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shaun Noronha"
+    },
+    {
+      "position": 27,
+      "title": "Meggie Choi - Drama Series Executive - Prime Video & ...",
+      "link": "https://www.linkedin.com/in/meggiechoi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/meggiechoi&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCL4BEAE",
+      "displayed_link": "200+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a679e77cef0b38c36ee2a7b75191ebedf5.png",
+      "snippet": "Drama Series Executive · Prime Video & Amazon Studios · University of ... Vice President, Current Programming. Paramount Television Studios. Sep 2020 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "Current"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Drama Series Executive",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Meggie Choi"
+    },
+    {
+      "position": 28,
+      "title": "Beatrice Bracklo – Director Public Policy DACH – Amazon",
+      "link": "https://de.linkedin.com/in/beatrice-bracklo-16b383123",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/beatrice-bracklo-16b383123&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCL8BEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6202978b06a103d6b6dc882ee08cdfe7e.png",
+      "snippet": "Director Public Policy DACH at Amazon · Berufserfahrung: Amazon · Ausbildung ... Director International Corporate Communications - Germany, Austria, Switzerland.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Director Public Policy DACH",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Beatrice Bracklo"
+    },
+    {
+      "position": 29,
+      "title": "Mukesh Singh - Manager Product Management - Amazon",
+      "link": "https://uk.linkedin.com/in/mukeshs1ngh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mukeshs1ngh&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCNsBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6f79c0359e3fe97a85717028ede811aa9.png",
+      "snippet": "... Germany BI Analyst (Jan 2014- Mar 2015) SUM UP GmBh, Berlin, Germany Team ... Amazon · Education: ESMT European School of Management and Technology ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Manager Product Management",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mukesh Singh"
+    },
+    {
+      "position": 30,
+      "title": "Ethan Evans - Founder, Career Expert and Teacher ...",
+      "link": "https://www.linkedin.com/in/ethanevansvp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ethanevansvp&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCNUBEAE",
+      "displayed_link": "141.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6eff96a72f26528d83f9e541089e47401.png",
+      "snippet": "Executive Vice President, Twitch Prime, Commerce, & Developer Experience. Amazon. Oct 2016 - Apr 2019 2 years 7 months. Greater Seattle Area.",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Founder, Career Expert and Teacher, Newsletter Author",
+            "Ethan Evans VP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ethan Evans"
+    },
+    {
+      "position": 31,
+      "title": "Malte Boensch - Senior Program Manager - Amazon",
+      "link": "https://de.linkedin.com/in/malteboensch/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/malteboensch/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCPIBEAE",
+      "displayed_link": "660+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6a991f08b978bdf0541f1c5f188435b80.png",
+      "snippet": "Amazon. May 2021 - Aug 2022 1 year 4 months. EU. Amazon Graphic. Operations Manager. Amazon. Oct 2016 - Apr 2021 4 years 7 months. Rheinberg, Germany. Lidl ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Düsseldorf, North Rhine-Westphalia, Germany",
+            "Senior Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Malte Bönsch"
+    },
+    {
+      "position": 32,
+      "title": "Björn N. Siebert – Amazon",
+      "link": "https://de.linkedin.com/in/bjsiebert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/bjsiebert&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCP4BEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a678535f9d3559b180e883d9e4efb3548c.png",
+      "snippet": "Latin America Strategy: Latin America - Germany and Europe: Partnership for the 21st Century ... Chairman of the group at that time was the Foreign Policy ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Chairman"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Björn N. Siebert"
+    },
+    {
+      "position": 33,
+      "title": "Markus Fueller – Vice President Marketing – apo.com Group",
+      "link": "https://de.linkedin.com/in/markusfueller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/markusfueller&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCIsCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6a6d469e40d20f0dee788f7975818307d.png",
+      "snippet": "Vice President Marketing @ apo.com Group · Driving Scalable ... Full 9-figure P&L ownership for business from new suppliers for Amazon in Germany.",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Leipzig und Umgebung",
+            "Vice President Marketing",
+            "apo.com Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Markus Fueller"
+    },
+    {
+      "position": 34,
+      "title": "Phyllis Harris - Amazon",
+      "link": "https://www.linkedin.com/in/phyllispharris",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/phyllispharris&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCJgCEAE",
+      "displayed_link": "4.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6656249d48e441e5d5fb94d834fd86604.png",
+      "snippet": "As the Global Director of Environmental Assurance and Protection at Amazon, I lead a team… · ... Presidential Rank Award for Meritorious Service. President George ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Phyllis Harris"
+    },
+    {
+      "position": 35,
+      "title": "Sergio Sanabria Prado - Area Manager - Amazon",
+      "link": "https://de.linkedin.com/in/sergio-sanabria-prado/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sergio-sanabria-prado/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCKICEAE",
+      "displayed_link": "740+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a626475becb4efb7a9f82e89447a23ddd9.png",
+      "snippet": "Area Manager @ Amazon Germany · Mexican industrial engineer with a deep appreciation for interculturality ... President of the Baccalaureate's Student ...",
+      "snippet_highlighted_words": [
+        "Amazon Germany",
+        "President"
+      ],
+      "source": "LinkedIn · Sergio Sanabria Prado"
+    },
+    {
+      "position": 36,
+      "title": "Raul Martinez – Director Fulfillment and Supply Chain DACH",
+      "link": "https://de.linkedin.com/in/raul-martinez-cabiedes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/raul-martinez-cabiedes&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCLsCEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a66d1265278b6c66a5274f084b0c8d8e42.png",
+      "snippet": "Vice President Operations. zooplus. März 2023 – Apr. 2024 1 Jahr 2 Monate. Munich, Bavaria, Germany. Amazon. 5 Jahre 2 Monate. Amazon Grafik. Global Head of ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Germany",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Director Fulfillment and Supply Chain DACH",
+            "Franke Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Raul Martinez"
+    },
+    {
+      "position": 37,
+      "title": "Moiz Hussain - Area Manager II – Operations - Amazon",
+      "link": "https://www.linkedin.com/in/moiz-hussain-a9175979",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/moiz-hussain-a9175979&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCLYCEAE",
+      "displayed_link": "160+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a63f23d2127e331ab63de9e3e5a51bd028.png",
+      "snippet": "... Amazon · Education: Texas A&M University · Location: Southgate · 153 ... President's List. -. Fall 2009 - Spring 2010. Languages. English. Native or ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Southgate, Michigan, United States",
+            "Area Manager II – Operations",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Moiz Hussain"
+    },
+    {
+      "position": 38,
+      "title": "Arturo Interian - Executive Vice President, Current Scripted ...",
+      "link": "https://www.linkedin.com/in/arturo-interian-8689047",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/arturo-interian-8689047&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECEcQAQ",
+      "displayed_link": "290+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a612bd19bd5eb1ab604f28c4b3b9fa5012.png",
+      "snippet": "Executive Vice President, Current Scripted Programming. MGM. Apr 2019 - Present 6 years. Beverly Hills, CA. Senior Vice President, Scripted Programming, HISTORY.",
+      "snippet_highlighted_words": [
+        "President",
+        "Current",
+        "Present",
+        "President"
+      ],
+      "source": "LinkedIn · Arturo Interian"
+    },
+    {
+      "position": 39,
+      "title": "Rafael Jankowski - Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/rafaeljankowski/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/rafaeljankowski/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECEkQAQ",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6c1af7c6fd8a2f642f7a0f3c2dad39946.png",
+      "snippet": "Red Cross Germany. Civil Servant and Paramedic. Aug 2008 - Present. • Working ... Vice President External Relations. Sep 2010 - Aug 2011. • Executive Board ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Present",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hesse, Germany",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rafael Jankowski"
+    },
+    {
+      "position": 40,
+      "title": "Timothy French, RBLP-T – Senior Talent Partner",
+      "link": "https://de.linkedin.com/in/timjfrench-pm-cm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/timjfrench-pm-cm&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECGIQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a668dcd3b6909d202f7b4817822bac0252.png",
+      "snippet": "Amazon ... President of Warriors Germany Affinity Group. Lead country-wide projects, oversee board proceedings, facilitate local, national and international ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Weiden in der Oberpfalz, Bayern, Deutschland",
+            "Senior Talent Partner",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Timothy French, RBLP-T"
+    },
+    {
+      "position": 41,
+      "title": "Hadar Greinsmark - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/hadargreinsmark/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hadargreinsmark/&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECGAQAQ",
+      "displayed_link": "570+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a60868b900d2153c10b14d73f401937aa3.png",
+      "snippet": "Berlin Area, Germany. - ... 2017. Activities and Societies: Chapter of Computer Science (Vice President), Excitera Entrepreneurship Society (Chairman).",
+      "snippet_highlighted_words": [
+        "Germany",
+        "President",
+        "Chairman"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin Metropolitan Area",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hadar Greinsmark"
+    },
+    {
+      "position": 42,
+      "title": "Nick Ellis - Amazon",
+      "link": "https://www.linkedin.com/in/nickellis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nickellis&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECHkQAQ",
+      "displayed_link": "7.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6140726425413c5e4bcdffa0b863648bc.png",
+      "snippet": "Specialties: Entrepreneurship, blue-collar work, climate, robotics, labor markets… · Amazon ... Dresden, Saxony, Germany. -. San Francisco Bay Area. -. San ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Alameda, California, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Ellis"
+    },
+    {
+      "position": 43,
+      "title": "Eric Topp - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/erictopp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/erictopp&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECHoQAQ",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a65f12963a1eb2937f5f16e00ce21ac5cb.png",
+      "snippet": "With over 33 years of global experience in Supply Chain, Transportation & Logistics… · Experience: Amazon ... Virtual. -. Stuttgart Area, Germany. -. Williamsburg ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Richmond Region",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eric Topp"
+    },
+    {
+      "position": 44,
+      "title": "Camille von Arnim - Amazon",
+      "link": "https://de.linkedin.com/in/camille-von-arnim-a7293411/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/camille-von-arnim-a7293411/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCIgBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a61400ffd6c5f29dc7c7001b060fa6f8f8.png",
+      "snippet": "Camille von Arnim. Amazon ESSEC Business School. Munich, Bavaria, Germany. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Camille von Arnim"
+    },
+    {
+      "position": 45,
+      "title": "Ben Pahnke - Software Engineer - Amazon",
+      "link": "https://www.linkedin.com/in/ben-pahnke-807221113",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ben-pahnke-807221113&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCJMBEAE",
+      "displayed_link": "320+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a621558ac24fc394a315a44cb59f0f373a.png",
+      "snippet": "... Amazon · Education: Imperial College London · Location: Germany · 296 ... Experience. Amazon Graphic. Software Engineer. Amazon. Oct 2022 - Present 2 years 6 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Amazon",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Software Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Pahnke"
+    },
+    {
+      "position": 46,
+      "title": "Bill Pritchard - Office of Vice President & Associate General ...",
+      "link": "https://www.linkedin.com/in/billpritchard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/billpritchard&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCKMBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6d358267b49b621f94036db655c9b297f.png",
+      "snippet": "Office of Vice President & Associate General Counsel, World Wide Operations. Amazon. Jun 2019 - Present 5 years 10 months. Greater Seattle Area.",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Office of Vice President & Associate General Counsel, World Wide Operations",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bill Pritchard"
+    },
+    {
+      "position": 47,
+      "title": "Ashley Milsted - Quantum Research Scientist",
+      "link": "https://www.linkedin.com/in/ashley-milsted-b12519a8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ashley-milsted-b12519a8&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCKoBEAE",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6d0c1e8c4742601c58b67cefea10e83bf.png",
+      "snippet": "Quantum Research Scientist at Amazon Web Services (AWS). Amazon Web Services (AWS) Leibniz Universität Hannover, Germany ... Postdoctoral Fellow. Perimeter ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany",
+        "Fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Pasadena, California, United States",
+            "Quantum Research Scientist",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ashley Milsted"
+    },
+    {
+      "position": 48,
+      "title": "Dawn Robertson - Senior Advisor, Belmont Village",
+      "link": "https://www.linkedin.com/in/dawn-robertson-ceo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dawn-robertson-ceo&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCL0BEAE",
+      "displayed_link": "6.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6648cad7bd26424547a25681fbec61380.png",
+      "snippet": "Dawn Robertson. CEO & Board Chairman | Public & Private Company Director | 2025 Retail Voice. The Bicester Collection Auburn University ...",
+      "snippet_highlighted_words": [
+        "Chairman"
+      ],
+      "source": "LinkedIn · Dawn Robertson"
+    },
+    {
+      "position": 49,
+      "title": "Timo Bauer - Amazon",
+      "link": "https://www.linkedin.com/in/timobauer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/timobauer&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCLoBEAE",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a673eb6d7ad7b6b095f6873e5521bcdc0a.png",
+      "snippet": "As the Global Head of Commercial Partner Channels at Project Kuiper, I lead the strategic… · Amazon ... Education. International School of Management, Germany ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Timo Bauer"
+    },
+    {
+      "position": 50,
+      "title": "Katie Leahy - Head of Production, International Originals",
+      "link": "https://www.linkedin.com/in/katie-leahy-19403a5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katie-leahy-19403a5&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCNkBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a64affe3e7a427ccba068688109703ee3e.png",
+      "snippet": "Head of Production, International Originals - Europe at Amazon MGM Studios · Experience: Prime Video & Amazon ... Jan 2025 - Present 3 months. Culver City ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Head of Production, International Originals",
+            "Europe",
+            "Prime Video & Amazon MGM Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katie Leahy"
+    },
+    {
+      "position": 51,
+      "title": "Nina Kurth - Amazon",
+      "link": "https://www.linkedin.com/in/ninakurth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ninakurth&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCNwBEAE",
+      "displayed_link": "11.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a60b645f019c272fd9ea4051911f41b974.png",
+      "snippet": "Nina is a global advisor in Amazon Web Services, advising C-level executives and global… ... Chairman, President and Chief Executive Officer. Insurance Insights ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Chairman",
+        "President",
+        "Chief Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nina Kurth"
+    },
+    {
+      "position": 52,
+      "title": "Mark Riggins - Principal Software Engineer - Amazon",
+      "link": "https://www.linkedin.com/in/mark-riggins-58ab673a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mark-riggins-58ab673a&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECC0QAQ",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a62f7964f14046a9d6f13a65e6c4850012.png",
+      "snippet": "Amazon. Jul 2017 - Present 7 years 9 months. Greater Seattle Area. Shipping ... Germany, France, or Japan could place orders on Amazon. We hit 5 nines our ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Lakeland, Florida, United States",
+            "Principal Software Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Riggins"
+    },
+    {
+      "position": 53,
+      "title": "Christopher Willie - Logistics Officer - Amazon",
+      "link": "https://www.linkedin.com/in/christopher-willie-163332172",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christopher-willie-163332172&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCNcBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6518c350db6a63302d975d4608392bf79.png",
+      "snippet": "Volunteer | Agripreneur l Climate Activist | Social Activist | YALI Fellow | Youth Developer | Leadership Coach · Amazon · Germany · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Fellow",
+        "Amazon",
+        "Germany"
+      ],
+      "source": "LinkedIn · Christopher Willie"
+    },
+    {
+      "position": 54,
+      "title": "Daniel Kuehl - Amazon",
+      "link": "https://www.linkedin.com/in/danielkuehl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danielkuehl&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCNgBEAE",
+      "displayed_link": "720+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6f5a91912755f98b298336ce23798503e.png",
+      "snippet": "Amazon Graphic. Amazon. San Francisco, California, United States · -. Richmond, California, United States · -. Nuremberg, Bavaria, Germany · -. Pittsburgh · -. San ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Kuehl"
+    },
+    {
+      "position": 55,
+      "title": "Tiffany Bloomquist - Amazon Web Services (AWS)",
+      "link": "https://nz.linkedin.com/in/tianypa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nz.linkedin.com/in/tianypa&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCPEBEAE",
+      "displayed_link": "8.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6d9ffdb828dc4badd241a64819890e57c.png",
+      "snippet": "Amazon Web Services (AWS) · Auckland · 500+ connections on LinkedIn. View ... Munich Area, Germany. -. -. Munich Area, Germany. -. Greater Seattle Area ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Auckland, New Zealand",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tiffany Bloomquist"
+    },
+    {
+      "position": 56,
+      "title": "Sergiy Sushalskyy - Amazon",
+      "link": "https://www.linkedin.com/in/sergiy-sushalskyy-37a64722",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sergiy-sushalskyy-37a64722&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCPMBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6f59e289f3746d30b82ab53ca78737461.png",
+      "snippet": "Amazon · IESE Business School - University of Navarra · Medford · 500 ... Holzminden, Germany. -. Kiev, Ukraine. -. Kiev, Ukraine. Education. IESE Business ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Medford, Massachusetts, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sergiy Sushalskyy"
+    },
+    {
+      "position": 57,
+      "title": "NIRAJ PATHAK - Chief Executive Officer",
+      "link": "https://www.linkedin.com/in/niraj-pathak-20242a1a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/niraj-pathak-20242a1a&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCPABEAE",
+      "displayed_link": "80+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6455622e4a8afc9ff3da272eeccc5aa3c.png",
+      "snippet": "... Amazon Web Services (AWS) · Education: Boston heart Association · Location ... Germany. State Farm Agent Graphic. Registered Nurse. State Farm Agent. Feb ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "source": "LinkedIn · NIRAJ PATHAK"
+    },
+    {
+      "position": 58,
+      "title": "Gantavya Malviya – Amazon",
+      "link": "https://de.linkedin.com/in/gantavyamalviya",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/gantavyamalviya&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCPgBEAE",
+      "displayed_link": "18.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a61e45c9a762f434e9bf24582a39035b8c.png",
+      "snippet": "I am a dedicated, hardworking, and proactive coder with a strong background in ... Berufserfahrung ... Amazon Grafik ... Amazon ... Munich, Bavaria, Germany ... Remote ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gantavya Malviya"
+    },
+    {
+      "position": 59,
+      "title": "Angela Mieher - Executive Assistant - Amazon Web ...",
+      "link": "https://www.linkedin.com/in/angelamieher",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/angelamieher&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCIACEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6fd4714656b9bce03fa3450347059a98a.png",
+      "snippet": "... Amazon Web Services (AWS) · Education: Grand Canyon ... Organizations. Delta Delta Delta. Assistant Vice President of Membership; Philanthropy Chairman.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "Chairman"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Executive Assistant",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Angela Mieher"
+    },
+    {
+      "position": 60,
+      "title": "Hao Hu – Software Development Manager – Amazon",
+      "link": "https://de.linkedin.com/in/haohu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/haohu&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCI4CEAE",
+      "displayed_link": "500+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6c2b76ab5669da3bb0c7488436083f0ac.png",
+      "snippet": "SAP. Apr. 2020 – Okt. 2022 2 Jahre 7 Monate. Walldorf, Baden-Württemberg, Germany ... As a visiting fellow, an iOS App, \"SAP Campus\" was developed together with ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Software Development Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hao Hu"
+    },
+    {
+      "position": 61,
+      "title": "Iulia Diana Pop – Amazon",
+      "link": "https://de.linkedin.com/in/iuliadianapop",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/iuliadianapop&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCJ4CEAE",
+      "displayed_link": "21.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a601b6f64eb8f18c7193e60e31d5e2ca5e.png",
+      "snippet": "Enthusiastic and resourceful recruiter with experience in sourcing, selecting and hiring… · Amazon ... Munich, Bavaria, Germany. -. Munich, Bavière, Allemagne. -.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bayern, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Iulia Diana Pop"
+    },
+    {
+      "position": 62,
+      "title": "Kirdis Postelle - Global Head of Content - Amazon Music",
+      "link": "https://www.linkedin.com/in/kirdis-postelle-936a944",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kirdis-postelle-936a944&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCKECEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6c4de1153849f6cca20a6ff48ca570a5d.png",
+      "snippet": "Global Head of Content. Amazon Music. Mar 2020 ; EVP/General Manager. Hitco Entertainment. Mar 2018 ; Senior Vice President. Warner Bros. Records. May 2015 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Global Head of Content",
+            "Amazon Music"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kirdis Postelle"
+    },
+    {
+      "position": 63,
+      "title": "Jamie Medhaug - Amazon",
+      "link": "https://www.linkedin.com/in/jamiemedhaug",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jamiemedhaug&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCJ8CEAE",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a66dab24acbb93c36784aeb5d131223510.png",
+      "snippet": "Our mission is to be Earth's most customer-centric company. This is what unites… · Amazon ... Jun 2014 - Present. Kappa Delta Sorority. Alumni Member, New ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jamie Medhaug"
+    },
+    {
+      "position": 64,
+      "title": "David Hu - Vice President of Technology - Amazon",
+      "link": "https://www.linkedin.com/in/david-hu-a8260b246",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-hu-a8260b246&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCKACEAE",
+      "displayed_link": "60+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a69454c5f26174781c245da564363aec5b.png",
+      "snippet": "Vice President of Technology · Experience: Amazon · Education: Stanford ... Canada, UK, Germany and France. Built \"Groupon Getaway with… Show more.",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Vice President of Technology",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Hu"
+    },
+    {
+      "position": 65,
+      "title": "Ralf Herbrich – SAP",
+      "link": "https://de.linkedin.com/in/ralf-herbrich-28a8324",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ralf-herbrich-28a8324&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCKUCEAE",
+      "displayed_link": "10K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6ed0cc6b4ad46907c03676bc9edcd5541.png",
+      "snippet": "In general, I want my work to have a positive impact to many people's lives. I… · SAP · Research Fellow ... Potsdam, Brandenburg, Germany. -. Potsdam ...",
+      "snippet_highlighted_words": [
+        "Fellow",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Potsdam, Brandenburg, Deutschland",
+            "SAP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ralf Herbrich"
+    },
+    {
+      "position": 66,
+      "title": "Joshua Noble - Pathways Operations Manager - Amazon",
+      "link": "https://www.linkedin.com/in/joshuaynoble",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joshuaynoble&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCLoCEAE",
+      "displayed_link": "780+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a680faf5cd13797cb799f648d0e0c84627.png",
+      "snippet": "Fellow ... Supervises the operations of thirty-five units composed of 1,300 personnel and forty aircraft located in Germany and in thirteen countries in Africa.",
+      "snippet_highlighted_words": [
+        "Fellow",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Memphis Metropolitan Area",
+            "Pathways Operations Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joshua Noble"
+    },
+    {
+      "position": 67,
+      "title": "Heather Curtis - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/heather-curtis-18284253",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/heather-curtis-18284253&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCL0CEAE",
+      "displayed_link": "790+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a670fbf7c706b43848a3fbc8b8ea7f8725.png",
+      "snippet": "... Amazon MGM Studios · Education: University of Southern California ... Vice President, Current Series. MGM International Television Productions. May ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "Current"
+      ],
+      "source": "LinkedIn · Heather Curtis"
+    },
+    {
+      "position": 68,
+      "title": "Peter Würtenberger - Executive Vice President",
+      "link": "https://de.linkedin.com/in/pwuerten/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/pwuerten/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCLcCEAE",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6868e3eb79dbe046f235cded037ad3722.png",
+      "snippet": "Executive Vice President @ Axel Springer SE · Axel Springer SE · University of Cologne, Germany · Berlin · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "President",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Executive Vice President",
+            "Axel Springer SE"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Würtenberger"
+    },
+    {
+      "position": 69,
+      "title": "Peter Oillataguerre - Head Of Film Production - Amazon MGM",
+      "link": "https://www.linkedin.com/in/peter-oillataguerre-78aa4420",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/peter-oillataguerre-78aa4420&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCMYCEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a61bb97e067598665016dc0edcc729b879.png",
+      "snippet": "Amazon MGM. Sep 2023 - Present 1 year 7 months. Spyglass Media Group Graphic. President Of Production. Spyglass Media Group. Apr 2020 - Present 5 years. MGM ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "President",
+        "Present"
+      ],
+      "source": "LinkedIn · Peter Oillataguerre"
+    },
+    {
+      "position": 70,
+      "title": "Gonçalo Matos - Pan-EU Vendor Manager - Amazon",
+      "link": "https://www.linkedin.com/in/goncalomatos1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/goncalomatos1&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECEYQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a63826b73b046f5aec793c0d95246f8698.png",
+      "snippet": "Vendor Manager @ Amazon · Experience: Amazon · Education: University of Warwick - Warwick Business School · Location: Germany · 500+ connections on LinkedIn ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Pan-EU Vendor Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gonçalo Matos"
+    },
+    {
+      "position": 71,
+      "title": "Emanuel Germany - Procurement Specialist II - SDI - Amazon",
+      "link": "https://www.linkedin.com/in/emanuel-germany",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/emanuel-germany&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECEUQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6dcd05c1dd995df66f589182951c48451.png",
+      "snippet": "... Amazon · Education: Morehouse College · Location: Snellville · 500 ... Germany's profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Snellville, Georgia, United States",
+            "Procurement Specialist II",
+            "SDI",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emanuel Germany"
+    },
+    {
+      "position": 72,
+      "title": "Nick Clegg - Meta",
+      "link": "https://www.linkedin.com/in/nickclegg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nickclegg&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECFYQAQ",
+      "displayed_link": "41.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6edd1889ba7f8e52b1f12ece11dd0d506.png",
+      "snippet": "Nick Clegg joined Facebook in October 2018 as Vice President of Global Affairs and… · Experience: Meta · Location: United States · 29 connections on ...",
+      "snippet_highlighted_words": [
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Meta"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Clegg"
+    },
+    {
+      "position": 73,
+      "title": "TC Z. - Amazon",
+      "link": "https://www.linkedin.com/in/zhangtc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/zhangtc&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECFcQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a63d3cd4726e5d5807177d7c81aa17d075.png",
+      "snippet": "Experience: Amazon · Education: University of Washington · Location: Greater ... Germany. -. -. Greater Seattle Area. -. Education. University of Washington ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · TC Z."
+    },
+    {
+      "position": 74,
+      "title": "Yiran Zhang – Amazon",
+      "link": "https://de.linkedin.com/in/yiran-zhang-000",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/yiran-zhang-000&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECF8QAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a604e17a5e0c4aa5d8140bae9e59d12d96.png",
+      "snippet": "Munich Area, Germany. Ausbildung. The University of ... Activities and Societies: - President of lliterature Club - Classe president - Student Chor. - ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "President",
+        "president"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Yiran Zhang"
+    },
+    {
+      "position": 75,
+      "title": "Firat Akarsu - Advertising Strategic Account Manager",
+      "link": "https://de.linkedin.com/in/firat-akarsu-2868b263/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/firat-akarsu-2868b263/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECGEQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a629038bf7c57b426bb8470dfba44428b0.png",
+      "snippet": "EU Advertising Strategic Account Manager, Amazon Online Germany GmbH · Experience: Amazon · Education: Munich Business School · Location: Bavaria · 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bavaria, Germany",
+            "Advertising Strategic Account Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Firat Akarsu"
+    },
+    {
+      "position": 76,
+      "title": "Shane Wang - Software Development Engineer II & Tech ...",
+      "link": "https://www.linkedin.com/in/shanewang09",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shanewang09&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECGwQAQ",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a63de95067516e57bcbdf83915f941f88c.png",
+      "snippet": "... Amazon Web Services and Cloud Computing - Java, C/C++ Software Development ... Germany, addressing the largest PV user dissatisfaction concern in June 2022",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Software Development Engineer II & Tech Lead",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shane Wang"
+    },
+    {
+      "position": 77,
+      "title": "Sebastian Gibbs - Senior Development Executive, Co ...",
+      "link": "https://www.linkedin.com/in/sebastian-gibbs-4902446",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sebastian-gibbs-4902446&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECG4QAQ",
+      "displayed_link": "940+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a68df2b5dbe3f5c988a46546d945392133.png",
+      "snippet": "Prime Video & Amazon Studios. Jul 2022 - Present 2 years 9 months. Los ... Senior Vice President, Current Programming. MRC Studios. Jan 2019 - Feb 2020 1 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "President",
+        "Current"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Senior Development Executive, Co-Productions",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sebastian Gibbs"
+    },
+    {
+      "position": 78,
+      "title": "Thomas Blood – Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/thomasblood",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/thomasblood&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECHgQAQ",
+      "displayed_link": "7.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6d0067aaafbe314759a44e2c41482499a.png",
+      "snippet": "Germany. -. Luxembourg. -. -. Orange County, California Area. -. Orange County ... Thomas and a few of his fellow counterparts masterminded the move to the ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Königswinter, Nordrhein-Westfalen, Deutschland",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Blood"
+    },
+    {
+      "position": 79,
+      "title": "Mark Kleine - CS Manager - Amazon",
+      "link": "https://de.linkedin.com/in/mark-kleine-273b9849/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/mark-kleine-273b9849/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECHsQAQ",
+      "displayed_link": "260+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6be4b0d2a01bb0b8c45db312da12f20e7.png",
+      "snippet": "... Amazon · Berlin · 268 connections on LinkedIn. View Mark Kleine's profile on ... Nov 2016 - Present 8 years 5 months. Berlin Area, Germany. Blizzard ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "CS Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Kleine"
+    },
+    {
+      "position": 80,
+      "title": "Aman Chadha - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/amanc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amanc&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCIQBEAE",
+      "displayed_link": "114.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6430473ad4bf397c5dffd893fd6408472.png",
+      "snippet": "Personal profile: www.aman.info; AI portfolio: www.aman.ai • Seasoned leader in… · Amazon ... LAMBERT Academic Publishing (Germany) July 4, 2012. ISBN-13: 978-3- ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cupertino, California, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aman Chadha"
+    },
+    {
+      "position": 81,
+      "title": "Katrin Kleiser – Amazon",
+      "link": "https://de.linkedin.com/in/katrinkleiser",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/katrinkleiser&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCIUBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a615b112414fd7fba528f82609ec0e3774.png",
+      "snippet": "Well rounded finance executive with 15 years of financial and business leadership… · Berufserfahrung: Amazon ... Munich, Bavaria, Germany. -. Geneva Area, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bayern, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katrin Kleiser"
+    },
+    {
+      "position": 82,
+      "title": "Andre Carli – Amazon",
+      "link": "https://de.linkedin.com/in/andrecarli",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/andrecarli&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCIcBEAE",
+      "displayed_link": "23.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a60214ee4dc3d8b321d1becbb757327415.png",
+      "snippet": "Munich, Bavaria, Germany ... Auszeichnungen/Preise. Silver Club Member - Million Dollar Milestone program. -. Feb. 2015. Robert Half President's Club Award - 2013 ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "President's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andre Carli"
+    },
+    {
+      "position": 83,
+      "title": "Glenn Gainor - Head of Physical Production Amazon ...",
+      "link": "https://www.linkedin.com/in/glenngainor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/glenngainor&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCJUBEAE",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6cb62405dba3b4898fb89bd424fafe34f.png",
+      "snippet": "Head of Physical Production Amazon Original Movies at Amazon Studios ... - Present 7 years 10 months. Sony Pictures Studios. Head. Sony Innovation Studios.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present"
+      ],
+      "source": "LinkedIn · Glenn Gainor"
+    },
+    {
+      "position": 84,
+      "title": "Alice Shobe - Amazon",
+      "link": "https://www.linkedin.com/in/alice-shobe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alice-shobe&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCJYBEAE",
+      "displayed_link": "7.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a686aa8a094445fe74719df2184fe6d2d1.png",
+      "snippet": "Alice is a global social impact (CSR/ESG) leader. She was hired to start Amazon's… · Amazon · Greater Seattle Area · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Amazon's",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alice Shobe"
+    },
+    {
+      "position": 85,
+      "title": "Xinyue Feng - Senior Media BI Manager - EU Retail & Prime",
+      "link": "https://de.linkedin.com/in/xinyuefeng/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/xinyuefeng/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCJQBEAE",
+      "displayed_link": "370+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6371e6f68a5a5d1a4e9441bdf6068ab5b.png",
+      "snippet": "EU Media Manager @Amazon I LSE I FU Berlin · Experience: Amazon · Education: London School of Economics and Political Science (LSE) · Location: Germany ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "source": "LinkedIn · Xinyue Feng"
+    },
+    {
+      "position": 86,
+      "title": "Aykut Aydın, MBA - Manager - Amazon",
+      "link": "https://de.linkedin.com/in/aykutaydin/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/aykutaydin/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCKIBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6306590c1985d3b9c7ff44245a14bd2a7.png",
+      "snippet": "Manager / Retail Vendor Management · Experience: Amazon ... Youth Services Center. Jul 2011 - Present 13 years 9 months. Arts and Culture. Location: Dresden / ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aykut Aydın, MBA"
+    },
+    {
+      "position": 87,
+      "title": "Lateef Q, CEng - Engineering Manager, TVM - Amazon",
+      "link": "https://uk.linkedin.com/in/lquadry",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lquadry&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCKgBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a642fd8a945c991d1581121e9b1dac4ef2.png",
+      "snippet": "Lateef Q, CEng. CAPEX Portfolio Management | Engineering Manager | Strategy Development | Chartered Engineer | ex-Ford & JLR. Amazon Kingston University ...",
+      "snippet_highlighted_words": [
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Engineering Manager, TVM",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lateef Q, CEng"
+    },
+    {
+      "position": 88,
+      "title": "Kevin Frey - Amazon",
+      "link": "https://www.linkedin.com/in/kevinafrey",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kevinafrey&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCKsBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a62e0dab3ec2cf7427630219e915be2e6c.png",
+      "snippet": "Transformative executive leader and turnaround specialist with over 20 years of… · Experience: Amazon ... Baumholder, Rhineland-Palatinate, Germany. Education.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Nashville, Tennessee, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin Frey"
+    },
+    {
+      "position": 89,
+      "title": "shravya INDURI - ACES Manager - Amazon",
+      "link": "https://in.linkedin.com/in/shravya-induri-64828a34",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/shravya-induri-64828a34&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCKkBEAE",
+      "displayed_link": "380+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a69ebc5802ce46e8d8cc4dba2580102981.png",
+      "snippet": "... Amazon · Education: Jawaharlal Nehru Technological University ... Hamburg, Germany. Amazon Graphic. Program Manager. Amazon. Sep 2022 - Nov 2023 1 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hyderabad, Telangana, India",
+            "ACES Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · shravya INDURI"
+    },
+    {
+      "position": 90,
+      "title": "Michael Brunner - Amazon",
+      "link": "https://www.linkedin.com/in/michael-brunner-3a1ba3b8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-brunner-3a1ba3b8&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCLsBEAE",
+      "displayed_link": "340+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6483543060a9f5641528f16671e15f78f.png",
+      "snippet": "Self-motivated, passionate, analytical, global project leader with 13+ years of technical… · Experience: Amazon ... Munich Area, Germany. -. Bremen Area, Germany ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Brunner"
+    },
+    {
+      "position": 91,
+      "title": "Mark Boccia, Ed.D - Amazon",
+      "link": "https://www.linkedin.com/in/markboccia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/markboccia&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCLwBEAE",
+      "displayed_link": "4.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6935d91a71f18ac537f645ac3a05d0ba6.png",
+      "snippet": "LEADING INNOVATIVE LEARNING SOLUTIONS AND DELIVERY THAT CLOSES GAPS AND OPTIMIZES… · Amazon · ... Jan 2008 - Present. CHART - Council of Hotel and ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Tampa Bay Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Boccia, Ed.D"
+    },
+    {
+      "position": 92,
+      "title": "Azamat Abdullaev - Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/azamat-abdullaev",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/azamat-abdullaev&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCMIBEAE",
+      "displayed_link": "490+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6ec278217691ca526f44a46b1986774a8.png",
+      "snippet": "... Amazon Web Services (AWS) · Ausbildung: INHA University in Tashkent ... Berlin, Germany. - Enhancing the consistency & coverage of resources for AWS ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Software Engineer II at AWS Resource Management",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Azamat Abdullaev"
+    },
+    {
+      "position": 93,
+      "title": "Jun-Kyu Park - Operational Account Manager - Amazon",
+      "link": "https://de.linkedin.com/in/jun-kyu-park-abb324274/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/jun-kyu-park-abb324274/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCMABEAE",
+      "displayed_link": "50+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a64bf62a5b30c9d4032adfc708b0389d02.png",
+      "snippet": "Jun-Kyu Park. Master's Student at Technical University of Munich. Amazon Technische Universität München. Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Operational Account Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jun-Kyu Park"
+    },
+    {
+      "position": 94,
+      "title": "Jean-Charles Croix - Senior Applied Scientist - Amazon",
+      "link": "https://www.linkedin.com/in/jean-charles-croix-88778850/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jean-charles-croix-88778850/en&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCNoBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6b217f0187776bd766055b3e734df0fac.png",
+      "snippet": "Research Fellow in Mathematics chez University of Sussex · Experience: Amazon · Education: Université de Lyon · Location: United States · 500+ connections ...",
+      "snippet_highlighted_words": [
+        "Fellow",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Jean-Charles Croix"
+    },
+    {
+      "position": 95,
+      "title": "Sumit Goyal – Amazon",
+      "link": "https://de.linkedin.com/in/sumitgoyalunc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sumitgoyalunc&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoFCIwCEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a626d89c2c47b8ed5127a308ed611300a5.png",
+      "snippet": "Technology focused and customer-obsessed General Manager with over 20 years of… · Berufserfahrung: Amazon ... Munich, Bavaria, Germany. -. Munich, Bavaria, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sumit Goyal"
+    },
+    {
+      "position": 96,
+      "title": "Arjun S - Vice President - Ergode",
+      "link": "https://in.linkedin.com/in/arjun-s-0522936a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/arjun-s-0522936a&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECCwQAQ",
+      "displayed_link": "7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6a8252da16a649e684a746ff463014685.png",
+      "snippet": "Vice President at ErgodE | Expert in Amazon Cross-Border Trade | E-commerce ... Germany, Japan), ensuring optimal performance across multiple regions.",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Vice President",
+            "Ergode"
+          ]
+        }
+      },
+      "source": "LinkedIn · Arjun S"
+    },
+    {
+      "position": 97,
+      "title": "Joe Mathews - Fellow, The Future of Democracy",
+      "link": "https://www.linkedin.com/in/joe-mathews-2239aa3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joe-mathews-2239aa3&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECCsQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6c821be2686f46bd6967fae4d9697bd5a.png",
+      "snippet": "... president of the Global Forum on Modern Direct Democracy, and was a ... senior fellow at the New America Foundation, a think tank, for five years ...",
+      "snippet_highlighted_words": [
+        "president",
+        "senior fellow"
+      ],
+      "source": "LinkedIn · Joe Mathews"
+    },
+    {
+      "position": 98,
+      "title": "Sivaramakrishnan Siva - Principal Tech Program Manager",
+      "link": "https://www.linkedin.com/in/sivaa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sivaa&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECDIQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a669bac7c20e35d4463ea203edec4750b6.png",
+      "snippet": "Amazon Graphic. Principal Tech Program Manager. Amazon. Aug 2017 - Present 7 years 8 months. Seattle. Recommendations received. Click here to view 조종훈's ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Tech Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sivaramakrishnan Siva"
+    },
+    {
+      "position": 99,
+      "title": "Bob Bowen - Worldwide Head of Music at Amazon MGM ...",
+      "link": "https://www.linkedin.com/in/bob-bowen-8047739",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bob-bowen-8047739&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQFnoECDEQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaf01f7ecab75f81fed5/images/b4b7ea468be1e5e45536821c970981a6c3ef32c8dfc4d6bf1f79ce21f85489b6.png",
+      "snippet": "... Amazon Video. Prior to Amazon MGM Studios, Bowen was President of Music at Relativity Media, in which he was responsible for the overall creative direction ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Worldwide Head of Music at Amazon MGM Studios",
+            "Prime Video & Amazon MGM Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bob Bowen"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?num=100&sca_esv=b275642f2649e319&gl=us&q=site:linkedin.com/in/+%22Amazon%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&udm=2&source=univ&fir=HkGrag1_0Y5o2M%252CofOmGFCKpxrxeM%252C_%253BYLkl68Q3W1bbMM%252C-USvhmL-LmobVM%252C_%253BJcrOh5awYAsc9M%252Ccl-M_rHfFslYtM%252C_%253Bi-LrL4nulHB8UM%252C8jJ28gmwiTsFSM%252C_%253Bh2uQ8eKbH93r3M%252C8BQy65QvMMBnEM%252C_%253BVc-zgP87p2m_HM%252Cp7DPh2jfq2eqjM%252C_%253BIkn0iuzqlFuvcM%252CS9Dux86M-NSSTM%252C_%253BGGaiarEg9b3_kM%252CvDF31zhQDCf-kM%252C_%253B7XaH3iTsmGbXIM%252CdOxCt9c3VKO0zM%252C_&usg=AI4_-kQSLsYT-gMs2zfQ3yHHfvFYWKSbOg&sa=X&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQ7Al6BAhrEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29",
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=8frdZ_fHDP6MnesP9dKCyAo&start=100&sa=N&sstk=Af40H4XQPO9NzqhEL8_mCmCV_RrMzzOJn3JT7LC3wQVjRKqSk9T5i6AYWRBJDiMkyRN3YypoIBqbzZ2QhR0LSBXO0ix10Ce1w8GCSw&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQ8NMDegUIsgIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=8frdZ_fHDP6MnesP9dKCyAo&start=100&sa=N&sstk=Af40H4XQPO9NzqhEL8_mCmCV_RrMzzOJn3JT7LC3wQVjRKqSk9T5i6AYWRBJDiMkyRN3YypoIBqbzZ2QhR0LSBXO0ix10Ce1w8GCSw&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQ8tMDegUIsgIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=8frdZ_fHDP6MnesP9dKCyAo&start=200&sa=N&sstk=Af40H4XQPO9NzqhEL8_mCmCV_RrMzzOJn3JT7LC3wQVjRKqSk9T5i6AYWRBJDiMkyRN3YypoIBqbzZ2QhR0LSBXO0ix10Ce1w8GCSw&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQ8tMDegUIsgIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=8frdZ_fHDP6MnesP9dKCyAo&start=300&sa=N&sstk=Af40H4XQPO9NzqhEL8_mCmCV_RrMzzOJn3JT7LC3wQVjRKqSk9T5i6AYWRBJDiMkyRN3YypoIBqbzZ2QhR0LSBXO0ix10Ce1w8GCSw&ved=2ahUKEwi3hMyyrpyMAxV-RmcHHXWpAKkQ8tMDegUIsgIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=300"
+    }
+  }
+}

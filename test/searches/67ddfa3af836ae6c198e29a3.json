@@ -1,0 +1,2232 @@
+{
+  "search_metadata": {
+    "id": "67ddfa3af836ae6c198e29a3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/982d6ba366252bb1/67ddfa3af836ae6c198e29a3.json",
+    "created_at": "2025-03-21 23:46:02 UTC",
+    "processed_at": "2025-03-21 23:46:02 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/982d6ba366252bb1/67ddfa3af836ae6c198e29a3.html",
+    "total_time_taken": 2.28
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"Germany\" AND (current OR present) AND (\"senior\" OR \"leader\" OR \"executive\" OR \"experienced\") AND \"years experience\"",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"Germany\" AND (current OR present) AND (\"senior\" OR \"leader\" OR \"executive\" OR \"experienced\") AND \"years experience\"",
+    "total_results": 169000,
+    "time_taken_displayed": 0.8,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://ie.linkedin.com/in/pbaeyaert",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl5DvYp3VD1YqlfIehZXTc4RS7a3uKDmR-wfiqXQVjt6knJuy52PgaUAM&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4D03AQHGyjy6Z77Iog/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1601900023191?e=2147483647&v=beta&t=TD1977Sv5MqmSFuSZFTVCF4bCBDFEqhGpt39A-eHK9Q",
+      "title": "Pieter Baeyaert - Director, Google Customer Solutions ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/walkerannkimberly",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREraWkgJIeszBUPekVtjw6Jur1v4Y4k1LIYv2Or-WHa_q2_kwJKME8oUc&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E03AQG9b_8pY9PBOg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726433304785?e=2147483647&v=beta&t=t8Au_jv7DgUPAp1cUs2WrwUOOqng8l7o033dQvdAw1A",
+      "title": "Kimberly Walker - Senior Marketing and Communications ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://uk.linkedin.com/in/katyabaeva",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR12AT1YuQG7B3tFa3QUj7er1UGNNp6s-f_v7CGrXCOKWZZXLDQgXKRd-o&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E03AQFVyOQrDY52hA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1685276278740?e=2147483647&v=beta&t=tAus-NzG8Wcfr-1Xi_UrwDfabuAuI_g06jca6jHVoYw",
+      "title": "Katya Baeva - Senior Software Engineer - Google | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/chaitra-urs-94227577",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCGMcMj3yY6I5sWfsviYvgWHKPh3mfoGjpnjVuEsJljJWvg6hJrXIA1IA&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4D03AQFPk1U0oE7wuQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707502436509?e=2147483647&v=beta&t=M1RBFvQvyIi_eF1OsbAGUb8Wa0GCiQLCNxm4tEvXj90",
+      "title": "Chaitra Urs - Software Engineering Consultant - ALTEN ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://uk.linkedin.com/in/anne-gerstle-a097a842",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUNTUp_xZ5mdkkX_856M6RiZXZPx0CVPXigDAyABZgqo75R329TsLBxg&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E03AQHFQw8gFAHnKg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718286513076?e=2147483647&v=beta&t=bQWfvf_rVkRW1eFAFZM-LY34IRVgnJ332h4bRUQ4c2Y",
+      "title": "Anne Gerstle - Freelance Executive Assistant - Freelance ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/dieu-ly-tran-b660b3133/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtQiELm2ZJIFSqsBU_h3GrL99YQAhciAkyI81JemK4j5qeypgS9N5CyKw&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E22AQFjRex16tMS8g/feedshare-shrink_800/B4EZTR4rd8G0B8-/0/1738688084608?e=2147483647&v=beta&t=n8Yn3RMt2U1cF5N7fDpENkmme1qYh3h7-h0xESlI-F4",
+      "title": "Dieu Ly Tran - Analytical Consultant, Travel - Google | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://in.linkedin.com/in/anubhav-srivastava-aa47386",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrYTSFEkV5u1oRlDhEI7VN04w_X9cJlFRRRNsq8w9ioxNyV-ltoyTJ7G8&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5603AQE1GNdVgKnVgQ/profile-displayphoto-shrink_200_200/B56ZQd3IhQG8Ac-/0/1735667780714?e=2147483647&v=beta&t=hqpNvzC3TDeKhgECIX6wtODsB05Nf2tjvY0sternYbc",
+      "title": "Anubhav Srivastava - Engineering Leader - Google | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://in.linkedin.com/in/varunvermaqa",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ_MNfpTGvwqDfDnfZ-n1FOrp8C9MfSJ6Ra3AuFHKIzP8I4wCzNwpxhCY&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4D03AQGedUtm1t6IJA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1675535991756?e=2147483647&v=beta&t=yoOtwf2Ag8XN_oCwk5m8CvzO669vTllP4VJRvL3OSHc",
+      "title": "Varun Verma - Senior Networking Test Engineer - Google ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://uk.linkedin.com/in/attiliozani",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0HuaxUAIqgRbaRbSQpPlxHsexPqHZf8u0N8ogo1DLeXMcVTbr2RnfJCo&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E10AQGm6WZb_r_Q5A/image-shrink_800/B4EZVlbbDIGgAc-/0/1741163443139?e=2147483647&v=beta&t=bD-JUCGoWHz9mP73NBzKsbRfrzafzWdaRIdrnyzenqI",
+      "title": "Attilio Zani - Head of PSO GTM EMEA & Head of TME GCC EMEA ...",
+      "source_name": "LinkedIn"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Pieter Baeyaert - Director, Google Customer Solutions",
+      "link": "https://ie.linkedin.com/in/pbaeyaert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/pbaeyaert&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECAkQAQ",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98f4acf516cff07ed3621b3c3758f56543.png",
+      "snippet": "Director @ Google Customer Solutions - Germany SMB. Google Ashridge Executive Education, Hult International Business School ... Cloud Digital Leader ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany",
+        "Google",
+        "Executive",
+        "Leader"
+      ],
+      "source": "LinkedIn · Pieter Baeyaert"
+    },
+    {
+      "position": 2,
+      "title": "Riki Stadeler – Global Director – Google",
+      "link": "https://de.linkedin.com/in/riki-stadeler-b25993a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/riki-stadeler-b25993a&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECB0QAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98dccea96f2a8d0fcdd6329725fd1b8be3.png",
+      "snippet": "Director at Google · Executive Business Leader with +18 years experience in managing digital transformation for various top Fortune 500 Brands across ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Executive",
+        "Leader",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hamburg und Umgebung",
+            "Global Director",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Riki Stadeler"
+    },
+    {
+      "position": 3,
+      "title": "Mario Maglione – Regional Partner Marketing Manager ...",
+      "link": "https://de.linkedin.com/in/mmaglione",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/mmaglione&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECBwQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9803abacc76c06aa37c319e6f0c88f9053.png",
+      "snippet": "Regional Partner Marketing Manager EMEA at Google Cloud · ▻ Over 15 years experience in B2B and B2C products and online services in Germany, England, Italy.",
+      "snippet_highlighted_words": [
+        "Google",
+        "years experience",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Regional Partner Marketing Manager EMEA",
+            "Google Cloud",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mario Maglione"
+    },
+    {
+      "position": 4,
+      "title": "John Gerosa – Hamburg und Umgebung | Berufliches Profil",
+      "link": "https://de.linkedin.com/in/johngerosa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/johngerosa&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECBkQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98c58bb24b1bb2ac26b9f8f7a10089e829.png",
+      "snippet": "Former member of Google Central Europe's executive management team. I'm ... Google Germany Grafik. Industry Leader, Technology Markets. Google Germany.",
+      "snippet_highlighted_words": [
+        "Google",
+        "executive",
+        "Google Germany",
+        "Leader",
+        "Google Germany"
+      ],
+      "source": "LinkedIn · John Gerosa"
+    },
+    {
+      "position": 5,
+      "title": "Boza Kolenovic – Google",
+      "link": "https://de.linkedin.com/in/boza-kolenovic-39b07119",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/boza-kolenovic-39b07119&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECBsQAQ",
+      "displayed_link": "6.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98545939234cf043c0ce2ab00a63fe11c7.png",
+      "snippet": "As a Senior Staffing Specialist at Google, I have over eight years of experience in… · ... Munich, Bavaria, Germany. Ausbildung. Faculty of Economics and ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Boza Kolenovic"
+    },
+    {
+      "position": 6,
+      "title": "Attilio Zani - Head of PSO GTM EMEA & ...",
+      "link": "https://uk.linkedin.com/in/attiliozani",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/attiliozani&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECBoQAQ",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98dc320c9ac5f954c3f9570be2018c032a.png",
+      "snippet": "Google · Global business leader with vast experience of advising large ... years experience of successfully deploying technical solutions, creating ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "leader",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Camberley, England, United Kingdom",
+            "Head of PSO GTM EMEA & Head of TME GCC EMEA",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Attilio Zani"
+    },
+    {
+      "position": 7,
+      "title": "Max Saile - Senior Sales Manager - Google",
+      "link": "https://ie.linkedin.com/in/max-saile",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/max-saile&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECCgQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c980f7006c38747459af490964ef0696896.png",
+      "snippet": "Head of E-Commerce Mid-Market Germany at Google · Experience: Google ... Account Executive. Google. Jan 2014 - Dec 2018 5 years. Toronto, Canada Area.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google",
+        "Executive",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "County Dublin, Ireland",
+            "Senior Sales Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Max Saile"
+    },
+    {
+      "position": 8,
+      "title": "Ashley Friedman - Google",
+      "link": "https://www.linkedin.com/in/ashley-friedman-39427b2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ashley-friedman-39427b2&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCJEBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c982422114f77bbc65345765942236b38ea.png",
+      "snippet": "Passionate, results-driven leader with over 15 years experience in government and… · Experience: Google · Education: The George Washington University ...",
+      "snippet_highlighted_words": [
+        "leader",
+        "years experience",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ashley Friedman"
+    },
+    {
+      "position": 9,
+      "title": "Daniela Putz - APAC Head International Growth Strategies ...",
+      "link": "https://sg.linkedin.com/in/danielaputz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sg.linkedin.com/in/danielaputz&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCPkBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98f44cbefef71a5965e3fc84e4a0af596e.png",
+      "snippet": "International leader with 20 years experience in tech, marketing and sales across APAC and Europe spanning multiple industries.",
+      "snippet_highlighted_words": [
+        "leader",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Singapore",
+            "APAC Head International Growth Strategies SMBs",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniela Putz"
+    },
+    {
+      "position": 10,
+      "title": "Sarah Kutscher - Senior Key Account Manager at Google",
+      "link": "https://ie.linkedin.com/in/sarahkutscher",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/sarahkutscher&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECC4QAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98db064fb88b35adbd3134f7ec12a69661.png",
+      "snippet": "Senior Key Account Manager at Google · Senior marketeer with 8+ years experience working in sports/ fashion, software and e-commerce.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Google",
+        "Senior",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dublin, County Dublin, Ireland",
+            "Senior Key Account Manager Beauty & Sports Brands",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Kutscher"
+    },
+    {
+      "position": 11,
+      "title": "Bettina Jakobsen - Sr. Product Marketing Lead, EMEA Ads ...",
+      "link": "https://ie.linkedin.com/in/bettinavarga",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/bettinavarga&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCMUBEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c989f50c3d59de7a51af2a7af6c6c00000d.png",
+      "snippet": "Sr. Marketing Lead at Google | CMO at Women@Google | ex-trivago | ex-P&G · Seasoned marketing leader with 15+ years experience owning $50m+ budgets across ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "leader",
+        "years experience"
+      ],
+      "source": "LinkedIn · Bettina Jakobsen"
+    },
+    {
+      "position": 12,
+      "title": "Julius Koroll - User Experience Lead - Google",
+      "link": "https://de.linkedin.com/in/julius-l%C3%B6we-39980340/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/julius-l%25C3%25B6we-39980340/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCPsBEAE",
+      "displayed_link": "510+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c982b555a27b088a20bac78d527f773dde6.png",
+      "snippet": "Google. Apr 2022 - Present 3 years. Working at Google Nest. Google Graphic. Freelance Senior UX Designer (Staffed by Adecco). Google. Sep 2020 - Present 4 years ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Present",
+        "Google",
+        "Google",
+        "Senior",
+        "Google",
+        "Present"
+      ],
+      "source": "LinkedIn · Julius Koroll"
+    },
+    {
+      "position": 13,
+      "title": "Sara Levy - Senior Marketing Research & Insights Manager",
+      "link": "https://uk.linkedin.com/in/levysara",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/levysara&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCJcCEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c982ebacfa0a0d0c346a3ae6b3b1065c1f9.png",
+      "snippet": "Insights @ Google · Insights-led strategic partner with 15 years experience ... Short course on Environmental Communication for Behavior Change Executive ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "years experience",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Marketing Research & Insights Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sara Levy"
+    },
+    {
+      "position": 14,
+      "title": "Clara de Soto - Google",
+      "link": "https://www.linkedin.com/in/claradesoto",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/claradesoto&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECC8QAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9840950277e10a5772af9d141d7d4ee22d.png",
+      "snippet": "Clara de Soto, Google, Boston College, About, Award-winning creative leader with over 10 years experience developing products &...",
+      "snippet_highlighted_words": [
+        "Google",
+        "leader",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Clara de Soto"
+    },
+    {
+      "position": 15,
+      "title": "Dieu Ly Tran - Analytical Consultant, Travel - Google",
+      "link": "https://www.linkedin.com/in/dieu-ly-tran-b660b3133/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dieu-ly-tran-b660b3133/&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECGIQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9805c9a9c3e82f82fc3b9294a3e0f8dfbe.png",
+      "snippet": "Experience. Google Graphic. Analytical Consultant, Travel. Google. Oct 2022 - Present 2 years 6 months. Berlin, Germany. Research+Attitude Graphic. Research ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present",
+        "Germany"
+      ],
+      "source": "LinkedIn · Dieu Ly Tran"
+    },
+    {
+      "position": 16,
+      "title": "Bipin sasi - Merck KGaA, Darmstadt, Germany",
+      "link": "https://in.linkedin.com/in/bipinsasi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/bipinsasi&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCJgBEAE",
+      "displayed_link": "8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9842a11c6aa150dbad5df3f605c79f7f60.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... As a leader at Merck, KGaA, Darmstadt, Germany, I am proud to be part of a ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "leader",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Head of Infrastructure Automation",
+            "Merck KGaA, Darmstadt, Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bipin sasi"
+    },
+    {
+      "position": 17,
+      "title": "Stephen Ratcliffe - Product Manager - Google",
+      "link": "https://uk.linkedin.com/in/stephen-ratcliffe-1833935",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stephen-ratcliffe-1833935&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCNIBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c987dc4a8f56e7c9f37eff7b24f5de4b188.png",
+      "snippet": "Product Manager at Google · Product Manager with 7 years experience and a proven track record of consistently exceeding goals to deliver, launch and grow ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "years experience"
+      ],
+      "source": "LinkedIn · Stephen Ratcliffe"
+    },
+    {
+      "position": 18,
+      "title": "Christophe Jacquet - Site Reliabilty Engineer at Google",
+      "link": "https://ch.linkedin.com/in/jacquetc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ch.linkedin.com/in/jacquetc&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCN8BEAE",
+      "displayed_link": "730+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9834a1a58a52fd7e06706611924b2a0687.png",
+      "snippet": "With 9+ years of experience in Site Reliability Engineering (SRE) at Google and 11 years experience in the academia, I am a seasoned Senior Software ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "years experience",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Freiburg, Freiburg, Schweiz",
+            "Software Engineer, Site Reliability Engineering",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christophe Jacquet"
+    },
+    {
+      "position": 19,
+      "title": "Sreekant Narayan - Senior Product Manager - Google",
+      "link": "https://uk.linkedin.com/in/sreekant-narayan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sreekant-narayan&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCIkCEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98b31e1188e7e3a638ef8379a47f3d9f72.png",
+      "snippet": "Senior Product Manager @ Google | Author · Senior Product Manager with experience in cloud technologies and telecom domain. •Gold Medal Winner - Executive ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Google",
+        "Senior",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ipswich, England, United Kingdom",
+            "Senior Product Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sreekant Narayan"
+    },
+    {
+      "position": 20,
+      "title": "Andreas Buerki - Leadership & Executive Coach / Director",
+      "link": "https://cy.linkedin.com/in/andreburki",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cy.linkedin.com/in/andreburki&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCJUCEAE",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c984795328aaf026aa038289de406ff3bba.png",
+      "snippet": "... years' experience in coaching, team development and work on ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "years' experience",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Andreas Buerki"
+    },
+    {
+      "position": 21,
+      "title": "Chaitra Urs - Software Engineering Consultant",
+      "link": "https://www.linkedin.com/in/chaitra-urs-94227577",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chaitra-urs-94227577&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCK0CEAE",
+      "displayed_link": "220+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98f4234f03edcb5d633e6505dd9dda827a.png",
+      "snippet": "Senior Software Engineer · Experience: ALTEN Germany · Education: Global Academy Of Technology · Location: Germany · 223 connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Software Engineering Consultant",
+            "ALTEN Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chaitra Urs"
+    },
+    {
+      "position": 22,
+      "title": "Richard A. Bretschneider - Head of Experience Strategy & ...",
+      "link": "https://de.linkedin.com/in/rbretschneider/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/rbretschneider/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECEEQAQ",
+      "displayed_link": "860+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9843486562758f96854e2348f562b4c853.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Besonders beeindruckend war es, Richard in seiner Entwicklung vom Senior UX ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior"
+      ],
+      "source": "LinkedIn · Richard A. Bretschneider"
+    },
+    {
+      "position": 23,
+      "title": "Vanessa Zeiler - Career & Leadership Coach (Co-Active ...",
+      "link": "https://www.linkedin.com/in/vanessa-zeiler",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vanessa-zeiler&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECEcQAQ",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98469c4be922c5a8396dba73962bc40885.png",
+      "snippet": "Global Product & Growth Marketing Leader, Ex-Google, Life & Career Coach · I ... The Wharton School. Executive education (Google Marketing Academy). 2019 ...",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Google",
+        "Executive",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Career & Leadership Coach (Co-Active Trained)",
+            "Self-employed"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vanessa Zeiler"
+    },
+    {
+      "position": 24,
+      "title": "Sherllon Alves - Software Engineer - Google",
+      "link": "https://www.linkedin.com/in/sherllon/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sherllon/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECGEQAQ",
+      "displayed_link": "610+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c988d5d43f1e2046526d02ac79f021a183d.png",
+      "snippet": "Software Engineer at Google · Front-end developer with 9+ years experience on delivering the best product for clients. Having worked with several different ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Jose, California, United States",
+            "Software Engineer",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sherllon Alves"
+    },
+    {
+      "position": 25,
+      "title": "Nishant Sharma - Chief Executive Officer",
+      "link": "https://in.linkedin.com/in/nishant-sharma-819513200",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/nishant-sharma-819513200&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECHsQAQ",
+      "displayed_link": "5 followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9837ac8d4712ba9efa742adc360d9f3474.png",
+      "snippet": "Chief Executive Officer at Google Developers · Experience: Google Developers · Education: Indian Institute of Technology, Bombay · Location: Indore · 2 ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Indore, Madhya Pradesh, India",
+            "Chief Executive Officer",
+            "Google Developers"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nishant Sharma"
+    },
+    {
+      "position": 26,
+      "title": "Andrew Senior - London, England, United Kingdom",
+      "link": "https://uk.linkedin.com/in/andrewsenior",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrewsenior&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCJUBEAE",
+      "displayed_link": "800+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c981e5e6d275a41ae54311431508e9b894e.png",
+      "snippet": "Andrew Senior, About, Machine learning for science. For job opportunities at Google DeepMind, including...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Google"
+      ],
+      "source": "LinkedIn · Andrew Senior"
+    },
+    {
+      "position": 27,
+      "title": "Soumya Bhimakkanavar – Founder's Associate",
+      "link": "https://de.linkedin.com/in/soumya-bhimakkanavar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/soumya-bhimakkanavar&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCKwBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9892ec06eb9e15c08df6453bce43fe5b32.png",
+      "snippet": "Seeking Full-Time Roles | Data & Marketing Analyst | Growth Strategy | Project Management | SQL • Python • Tableau · Experienced ... Continue with GoogleContinue ...",
+      "snippet_highlighted_words": [
+        "Experienced",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Founder’s Associate",
+            "Repair Circle"
+          ]
+        }
+      },
+      "source": "LinkedIn · Soumya Bhimakkanavar"
+    },
+    {
+      "position": 28,
+      "title": "Kimberly Walker - Senior Marketing and Communications ...",
+      "link": "https://www.linkedin.com/in/walkerannkimberly",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/walkerannkimberly&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCMkBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c989ad4cccb5d5f6d8c9e69632083abd8a9.png",
+      "snippet": "Senior Marketing Manager @ CEEZER | Brand Builder | B2B | Climate Tech | Start-Ups · B2B marketing and branding enthusiast with 10+ years experience ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Senior Marketing and Communications Manager",
+            "CEEZER"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kimberly Walker"
+    },
+    {
+      "position": 29,
+      "title": "Christina Huang - Director, Enterprise, Large Customer ...",
+      "link": "https://www.linkedin.com/in/christina-huang-726b4712",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christina-huang-726b4712&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCN4BEAE",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98f0ef1f476f04a1135846fab45f7aa850.png",
+      "snippet": "Experience. Google Graphic. Director, Enterprise, Large Customer Sales (Germany). Google. Dec 2022 - Present 2 years 4 months. Dublin, County ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany",
+        "Google",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dublin, County Dublin, Ireland",
+            "Director, Enterprise, Large Customer Sales (Germany)",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christina Huang"
+    },
+    {
+      "position": 30,
+      "title": "Andreas Jansen - Senior Vice President Global Human ...",
+      "link": "https://de.linkedin.com/in/andreas-jansen-8737b444/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/andreas-jansen-8737b444/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCOABEAE",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98a9170941d513fa180ccb8fbde5e2f487.png",
+      "snippet": "Continue with GoogleContinue with Google. New to ... Hands on and pragmatic HR Executive with 25+ years experience in international HR Management positions.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Executive",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hamburg, Hamburg, Germany",
+            "Senior Vice President Global Human Resources",
+            "Jungheinrich AG"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andreas Jansen"
+    },
+    {
+      "position": 31,
+      "title": "Collin Chan - Director - Supplier Development Engineer ...",
+      "link": "https://www.linkedin.com/in/collin-chan-google",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/collin-chan-google&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCO8BEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9897291f5c8229b2ebe20556e4346aa4c9.png",
+      "snippet": "Director - Google Hardware Operations · 24+ years experience ... Provided monthly updates to core enclosure manufacturing executive team including senior ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "years experience",
+        "executive",
+        "senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Director",
+            "Supplier Development Engineer, Mechanical Operations",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Collin Chan"
+    },
+    {
+      "position": 32,
+      "title": "Christian Dohr - Business Owner",
+      "link": "https://de.linkedin.com/in/christiandohr/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/christiandohr/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCPgBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98fed6d10e1e6cdce3c51be36f46694ffc.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... About. Senior Executive with more than 20 years experience. Specialized in ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior Executive",
+        "years experience"
+      ],
+      "source": "LinkedIn · Christian Dohr"
+    },
+    {
+      "position": 33,
+      "title": "Anubhav Srivastava - Engineering Leader - Google",
+      "link": "https://in.linkedin.com/in/anubhav-srivastava-aa47386",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/anubhav-srivastava-aa47386&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCIwCEAE",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c983245e95e444d37d928af373684eaa62d.png",
+      "snippet": "Engineering Leader at Google India · Google · Bengaluru · 461 connections on LinkedIn ... Senior Technical Manager. Nokia. Jul 2021 - Nov 2024 3 years 5 ...",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Google",
+        "Google",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Engineering Leader",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anubhav Srivastava"
+    },
+    {
+      "position": 34,
+      "title": "Ruchi Sharma - Senior Executive HR - YES Germany",
+      "link": "https://in.linkedin.com/in/ruchi-sharma-65b97914b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/ruchi-sharma-65b97914b&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCJYCEAE",
+      "displayed_link": "23.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98c90155dc8b27e29278d693b748a1523b.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By clicking ... Senior Executive HR. YES Germany. May 2024 - Present 11 months. IDC ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior Executive",
+        "Germany",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Faridabad, Haryana, India",
+            "Senior Executive HR",
+            "YES Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ruchi Sharma"
+    },
+    {
+      "position": 35,
+      "title": "Maria Snell - Industry Manager, Retail - Google",
+      "link": "https://au.linkedin.com/in/maria-snell-2709ba49",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://au.linkedin.com/in/maria-snell-2709ba49&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCKYCEAE",
+      "displayed_link": "400+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98f84313257a677231ab083a6059a1aebf.png",
+      "snippet": "Munich, Bavaria, Germany. Google Graphic. Senior Account Manager, Media and Entertainment. Google. Jun 2016 - Jan 2019 2 years 8 months. Munich, Bavaria, ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Senior",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Australia",
+            "Industry Manager, Retail",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Maria Snell"
+    },
+    {
+      "position": 36,
+      "title": "Edwin Jankovits - Senior Services Manager Malware ...",
+      "link": "https://de.linkedin.com/in/edwinjankovits/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/edwinjankovits/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCKoCEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98a35fc7b851021222f030834a0fd447ce.png",
+      "snippet": "Interim Manager (CIO, Head of IT, IT Director) | Experienced multi-national IT Leader & Manager | 30+ years in business ... Continue with GoogleContinue with ...",
+      "snippet_highlighted_words": [
+        "Experienced",
+        "Leader",
+        "Google"
+      ],
+      "source": "LinkedIn · Edwin Jankovits"
+    },
+    {
+      "position": 37,
+      "title": "Cedric Wilmotte - Investor - vveave",
+      "link": "https://www.linkedin.com/in/cedric-wilmotte-a00847204",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cedric-wilmotte-a00847204&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCLwCEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98c1d4e5bc83040f08696b77846433ab7b.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join ... Purpose driven executive with 25 years' experience in multichannel product ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "executive",
+        "years' experience"
+      ],
+      "source": "LinkedIn · Cedric Wilmotte"
+    },
+    {
+      "position": 38,
+      "title": "Véronique Brinkmann - Executive Business Administrator",
+      "link": "https://www.linkedin.com/in/v%C3%A9ronique-brinkmann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/v%25C3%25A9ronique-brinkmann&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECEQQAQ",
+      "displayed_link": "260+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c989ffa27752cca323b6a8c70a0acee8e88.png",
+      "snippet": "2nd Senior Executive Assistant to the CEO. DEHOGA NRW. Jan 2015 ... Global Leader in Water, Hygiene and Energy Technologies and Services /Germany and USA",
+      "snippet_highlighted_words": [
+        "Senior Executive",
+        "Leader",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Executive Business Administrator",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Véronique Brinkmann"
+    },
+    {
+      "position": 39,
+      "title": "Thomas Gerstmann - Data Clarity for excellent B2B User ...",
+      "link": "https://de.linkedin.com/in/thomasgerstmann/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/thomasgerstmann/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECEYQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98329e1ebe7666558baf2556851ac2c0c5.png",
+      "snippet": "... Germany · 500+ connections on LinkedIn. View Thomas Gerstmann's profile ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Data Clarity for excellent B2B User Experiences",
+            "Thomas Gerstmann"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Gerstmann"
+    },
+    {
+      "position": 40,
+      "title": "Hillary Roche - Senior Vice President Marketing - STIHL",
+      "link": "https://de.linkedin.com/in/hillaryroche/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/hillaryroche/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECFsQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9838ab906e443788c81c529888c572ec5e.png",
+      "snippet": "Vice President Marketing · Multilingual Marketing Manager (DE, EN, FR, ES) with 10+ years experience ... Continue with GoogleContinue with Google. New to LinkedIn ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Senior Vice President Marketing",
+            "STIHL"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hillary Roche"
+    },
+    {
+      "position": 41,
+      "title": "Hanan Morsy - Deputy Executive Secretary and Chief ...",
+      "link": "https://uk.linkedin.com/in/hanan-morsy-531b507",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hanan-morsy-531b507&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECF4QAQ",
+      "displayed_link": "13.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c983875afc8adff3197a11be9b169feac9a.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to follow · Report this profile; Close menu. About. A dynamic Senior Executive with ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Deputy Executive Secretary and Chief Economist",
+            "United Nations Economic Commission for Africa"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hanan Morsy"
+    },
+    {
+      "position": 42,
+      "title": "Kelly James – Senior Data Analyst/Scientist – Ulsliv Power",
+      "link": "https://de.linkedin.com/in/kelly-james-080754266",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/kelly-james-080754266&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECHcQAQ",
+      "displayed_link": "240+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9816a3bd75de6473d7a0a760576894288f.png",
+      "snippet": "... Years experience in Data and Business Analysis in Excel 5 years of ... Google data studio Lets connect to build something amazing... · Berufserfahrung ...",
+      "snippet_highlighted_words": [
+        "Years experience",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "Senior Data Analyst/Scientist",
+            "Ulsliv Power"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kelly James"
+    },
+    {
+      "position": 43,
+      "title": "Anne Gerstle - Freelance Executive Assistant",
+      "link": "https://uk.linkedin.com/in/anne-gerstle-a097a842",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/anne-gerstle-a097a842&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECHgQAQ",
+      "displayed_link": "10+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98a90aabf7ad75fcf8160a736f9f915721.png",
+      "snippet": "It is an independent school accredited and supported by the Federal Republic of Germany. I joined the organisation as Assistant to the Commercial Director and ...",
+      "snippet_highlighted_words": [
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Freelance Executive Assistant",
+            "Freelance"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anne Gerstle"
+    },
+    {
+      "position": 44,
+      "title": "Marc O. Maybauer - Professor, Chief & Executive Director ...",
+      "link": "https://www.linkedin.com/in/marc-o-maybauer-869b4850",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marc-o-maybauer-869b4850&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECHoQAQ",
+      "displayed_link": "11.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98f9822d0365e3b6e87850e69074a40753.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... - Honorary Senior Lecturer, Manchester University - CALS Faculty.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior"
+      ],
+      "source": "LinkedIn · Marc O. Maybauer"
+    },
+    {
+      "position": 45,
+      "title": "Sebastian Schulte - Boston Consulting Group (BCG) IMD",
+      "link": "https://www.linkedin.com/in/a-sebastian-schulte/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/a-sebastian-schulte/&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCI8BEAE",
+      "displayed_link": "860+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c983f5394a0e0da68964a4107919a044871.png",
+      "snippet": "Project Leader @Boston Consulting Group (BCG) | MBA 2024 Candidate at IMD ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Zurich, Zurich, Switzerland",
+            "Project Leader",
+            "Boston Consulting Group (BCG)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sebastian Schulte"
+    },
+    {
+      "position": 46,
+      "title": "Sarathkumar Gnanasekaran - Senior Business ...",
+      "link": "https://www.linkedin.com/in/sarathkmr-gsk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarathkmr-gsk&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCJYBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9860881903016bedcaadd07472630437e9.png",
+      "snippet": "Senior Business Development Executive @ Sventl Asia Pacific | Driving Sales ... Google Analytics, with the certifications from Google and HubSpot Academy.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Executive",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bangalore Urban, Karnataka, India",
+            "Senior Business Development Executive (Semiconductor Industry)",
+            "Sventl Asia Pacific"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarathkumar Gnanasekaran"
+    },
+    {
+      "position": 47,
+      "title": "Angelika Love - Executive Coach & Leadership Advisor",
+      "link": "https://be.linkedin.com/in/angelika-love",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://be.linkedin.com/in/angelika-love&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCKoBEAE",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98c56cd46bacc5f8265c6875f27ce2618a.png",
+      "snippet": "Executive Coach & Leadership Advisor · Leadership Consultant · Senior Leadership Specialist · Leadership Specialist · Associate · Resident Social Psychologist.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brussels, Brussels Region, Belgium",
+            "Executive Coach & Leadership Advisor",
+            "Self-employed"
+          ]
+        }
+      },
+      "source": "LinkedIn · Angelika Love"
+    },
+    {
+      "position": 48,
+      "title": "Ashish Kaul - Admissions Executive - YES Germany",
+      "link": "https://in.linkedin.com/in/ashish-kaul",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/ashish-kaul&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCLUBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98f99510fa598ce189cd040f9e4aaf8600.png",
+      "snippet": "Admissions Executive at YES Germany · I graduated with a degree in ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Faridabad, Haryana, India",
+            "Admissions Executive",
+            "YES Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ashish Kaul"
+    },
+    {
+      "position": 49,
+      "title": "Arun Yogeshwaran - Senior Mobile Engineer - Zenjob",
+      "link": "https://www.linkedin.com/in/arun-yogeshwaran-32134097/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/arun-yogeshwaran-32134097/&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCMQBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98321bafa47029c3e2231e6afdabc078f2.png",
+      "snippet": "Zenjob Graphic. Senior Mobile Engineer. Zenjob. Oct 2022 - Present 2 years 6 months. Berlin, Germany. - Optimized gradle build performance by 31% (from 47s to ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Present",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Senior Mobile Engineer",
+            "Zenjob"
+          ]
+        }
+      },
+      "source": "LinkedIn · Arun Yogeshwaran"
+    },
+    {
+      "position": 50,
+      "title": "Mayank Ahuja - Senior Business Specialist - Dell ...",
+      "link": "https://in.linkedin.com/in/mayank-ahuja-7b0788188?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/mayank-ahuja-7b0788188%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCMwBEAE",
+      "displayed_link": "540+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9894afbb4d5673e79ae4a9c38cd92a2b4f.png",
+      "snippet": "Senior Business Specialist| German language expert| Quality Analyst | ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "West Delhi, Delhi, India",
+            "Senior Business Specialist",
+            "Dell Technologies"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mayank Ahuja"
+    },
+    {
+      "position": 51,
+      "title": "Helen Giza - Chief Executive Officer and Chair of the ...",
+      "link": "https://www.linkedin.com/in/helen-giza",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/helen-giza&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCNEBEAE",
+      "displayed_link": "15.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98829546bb8d5b75cc5454139db29db60b.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Experience. Fresenius Medical Care Graphic. Chief Executive Officer and Chair of ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Waltham, Massachusetts, United States",
+            "Chief Executive Officer and Chair of the Management Board",
+            "Fresenius Medical Care"
+          ]
+        }
+      },
+      "source": "LinkedIn · Helen Giza"
+    },
+    {
+      "position": 52,
+      "title": "Anita Monné - German online coach - TalkGerman",
+      "link": "https://in.linkedin.com/in/anita-monn%C3%A9-43a29339",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/anita-monn%25C3%25A9-43a29339&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECC0QAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c984a053cdfcb48af110623211cc33bb6c0.png",
+      "snippet": "... years experience in Senior Management in the Automobile , Hospitality & Travel Industry. TalkGerman Luise von Duisberg Gymnasium, Kempen, Germany. Panaji, Goa ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Senior",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Panaji, Goa, India",
+            "German online coach",
+            "TalkGerman"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anita Monné"
+    },
+    {
+      "position": 53,
+      "title": "Nick DeMeuse - Product Strategy Lead, Google Maps ...",
+      "link": "https://www.linkedin.com/in/nick-demeuse-83a38613",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nick-demeuse-83a38613&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCN0BEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9889f3513841d18d7d60055cdd02a3ab65.png",
+      "snippet": "Product Strategy Lead, Google Maps Platform. Google. May 2016 - Present 8 years 11 months. San Francisco Bay Area.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Product Strategy Lead, Google Maps Platform",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick DeMeuse"
+    },
+    {
+      "position": 54,
+      "title": "Kelsey Alpaio - Executive Editor, The Digital Project Manager",
+      "link": "https://www.linkedin.com/in/kelseyalpaio",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kelseyalpaio&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCOMBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9830adb717c7c078aed353775e3db3fc8b.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Kelsey will be a clear void at Innovation Leader, but I am excited to ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Providence, Rhode Island, United States",
+            "Executive Editor, The Digital Project Manager",
+            "Black & White Zebra"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kelsey Alpaio"
+    },
+    {
+      "position": 55,
+      "title": "Nikita Terekhin - Senior Product Designer - join.com",
+      "link": "https://www.linkedin.com/in/nikita-terekhin-9a8791142",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nikita-terekhin-9a8791142&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCOkBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c989827a20390e403c46c0418dfd11595f7.png",
+      "snippet": "Senior Product Designer @ Join.com, Berlin | ex-Avito. join.com Higher School of Economics. Berlin, Berlin, Germany ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Nikita Terekhin"
+    },
+    {
+      "position": 56,
+      "title": "Lilach Shafir - Director, Leaders Program",
+      "link": "https://www.linkedin.com/in/lilach-shafir",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lilach-shafir&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCO0BEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c988db2a8752f40212c4d3decf446a85f0b.png",
+      "snippet": "Global Learning and Development Expert | Leader, Facilitator and Coach · •15+ years experience managing, coaching and facilitating across four continents.",
+      "snippet_highlighted_words": [
+        "Leader",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brooklyn, New York, United States",
+            "Director, Leaders Program",
+            "Obama Foundation"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lilach Shafir"
+    },
+    {
+      "position": 57,
+      "title": "Ronika Jain - Assistant Manager - YES GERMANY",
+      "link": "https://in.linkedin.com/in/ronika-jain-4b16b6178",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/ronika-jain-4b16b6178&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCOsBEAE",
+      "displayed_link": "160+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98d3737f950b5bface9d6ab8ae2c4120c8.png",
+      "snippet": "Assistant manager at YES GERMANY · Experienced Senior Executive with a demonstrated history of working ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "GERMANY",
+        "Experienced Senior Executive",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Faridabad, Haryana, India",
+            "Assistant Manager",
+            "YES GERMANY"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ronika Jain"
+    },
+    {
+      "position": 58,
+      "title": "Mark Bye - Chief Executive Officer - The Bye Group",
+      "link": "https://www.linkedin.com/in/markbye",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/markbye&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCPoBEAE",
+      "displayed_link": "770+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98e3f873a12e4429b0821637db2f565c0f.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to view profile · Report this profile; Close menu. About. Forty+ years experience ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "years experience"
+      ],
+      "source": "LinkedIn · Mark Bye"
+    },
+    {
+      "position": 59,
+      "title": "Beth Foster - Diversity, Equity and Inclusion Lead, Google ...",
+      "link": "https://uk.linkedin.com/in/bethhfoster",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/bethhfoster&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCPwBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9850adbc7623a0ba22a0700aa344c1b535.png",
+      "snippet": "Diversity, Equity and Inclusion Lead, Cloud EMEA at Google · Google · London · 500+ connections on LinkedIn ... Senior Account Strategist. Google. May 2011 - Jan ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior",
+        "Google"
+      ],
+      "source": "LinkedIn · Beth Foster"
+    },
+    {
+      "position": 60,
+      "title": "Katherine Moos - Founder and Chief Executive Officer",
+      "link": "https://uk.linkedin.com/in/katherine-moos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/katherine-moos&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCIgCEAE",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98b86988144789489b3faedfea8b23ec5b.png",
+      "snippet": "Continue with GoogleContinue with Google. New ... Over 20 years' experience in senior executive and board recruitment as a Senior Partner at Spencer Stuart.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "years' experience",
+        "senior executive",
+        "Senior"
+      ],
+      "source": "LinkedIn · Katherine Moos"
+    },
+    {
+      "position": 61,
+      "title": "Kyle Cuthbert - Google",
+      "link": "https://www.linkedin.com/in/kyle-cuthbert-0ba45a25",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kyle-cuthbert-0ba45a25&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCJQCEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c988690f0aa56f1ebc3661fa44b225bba5c.png",
+      "snippet": "Profile: Global Marketing leader at Google with 16 years experience and proven success in… · Experience: Google · Education: ESADE Business & Law School ...",
+      "snippet_highlighted_words": [
+        "leader",
+        "Google",
+        "years experience",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Jose, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kyle Cuthbert"
+    },
+    {
+      "position": 62,
+      "title": "Simon J. Hollingsworth - VP, Global Franchise Head",
+      "link": "https://uk.linkedin.com/in/simon-j-hollingsworth-b4452670",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/simon-j-hollingsworth-b4452670&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCJMCEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c986bcb061feda7defadab2986e698bf07d.png",
+      "snippet": "As a portfolio-level leader with >25 years' experience in oncology drug and ... Senior Biomarker & Experimental Medicine Leader. Roche Pharmaceuticals.",
+      "snippet_highlighted_words": [
+        "leader",
+        "years' experience",
+        "Senior",
+        "Leader"
+      ],
+      "source": "LinkedIn · Simon J. Hollingsworth"
+    },
+    {
+      "position": 63,
+      "title": "Dr. Torsten Pieschnick - Executive Vice President Pharma ...",
+      "link": "https://de.linkedin.com/in/dr-torsten-pieschnick-70906833/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dr-torsten-pieschnick-70906833/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCJsCEAE",
+      "displayed_link": "580+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c980a70ac517a5a387cd2e7b32458abc3de.png",
+      "snippet": "Chief Executive Officer Europe at Barentz · More than 20 years experience in Developing and ... Continue with GoogleContinue with Google. New to LinkedIn ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "years experience",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Dr. Torsten Pieschnick"
+    },
+    {
+      "position": 64,
+      "title": "Tom Danon - Executive Vice President - Lionsgate",
+      "link": "https://www.linkedin.com/in/tom-danon-50645a6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tom-danon-50645a6&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCKUCEAE",
+      "displayed_link": "600+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98f3d23f36cfbe1fcc4a53e50959e83622.png",
+      "snippet": "Executive Vice President, Current Programming, Lionsgate Alternative · Emmy-nominated Show Runner & Executive with 25 years experience in television & film ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Current",
+        "Executive",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Executive Vice President",
+            "Lionsgate"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tom Danon"
+    },
+    {
+      "position": 65,
+      "title": "Kara Haupt - Director of Art and Photography",
+      "link": "https://www.linkedin.com/in/karahaupt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/karahaupt&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCKcCEAE",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98587bc4b38114ebd0f1b23248a443dcfa.png",
+      "snippet": "... Senior Director of Art and Photography at NBC News Digital, where I run ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "Senior Director of Art and Photography, Digital (NBC News, TODAY, and MSNBC)",
+            "NBC News"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kara Haupt"
+    },
+    {
+      "position": 66,
+      "title": "Carolyn Horne - Snr VP EMEA Strategic Customer ...",
+      "link": "https://uk.linkedin.com/in/carolyn-horne",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/carolyn-horne&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCLACEAE",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c981aad55d4f263cd53a8f777f4162066f2.png",
+      "snippet": "SVP EMEA Strategic Customer Engagements - Workday. Non Executive Director - Malt · As EMEA Senior Vice President Strategic Customer Engagements at Workday, ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Senior"
+      ],
+      "source": "LinkedIn · Carolyn Horne"
+    },
+    {
+      "position": 67,
+      "title": "Himangi Sharma - Visa Manager - YES Germany",
+      "link": "https://in.linkedin.com/in/himangi-sharma-072095192",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/himangi-sharma-072095192&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCLUCEAE",
+      "displayed_link": "570+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c986693894ac8a50928753276542bb73bea.png",
+      "snippet": "Senior Executive- VISA. YES Germany. Jul 2021 - May 2023 1 year 11 months ... I hired himangi as an executive for yes Germany after going through her linked in ...",
+      "snippet_highlighted_words": [
+        "Senior Executive",
+        "Germany",
+        "executive",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Faridabad, Haryana, India",
+            "Visa Manager",
+            "YES Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Himangi Sharma"
+    },
+    {
+      "position": 68,
+      "title": "Gennaro Esposito - Senior CG Asset Creator - Superduper",
+      "link": "https://it.linkedin.com/in/gennaro-esposito-b7b55126/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://it.linkedin.com/in/gennaro-esposito-b7b55126/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCL0CEAE",
+      "displayed_link": "6.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98875ecb3ad5c6419ad8f7cea9db6a82f1.png",
+      "snippet": "PIXOMONDO Graphic. Lead Asset. PIXOMONDO. Aug 2019 - Dec 2021 2 years 5 months. Stuttgart, Baden-Württemberg, Germany · PIXOMONDO Graphic. Senior 3D Artist.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Senior"
+      ],
+      "source": "LinkedIn · Gennaro Esposito"
+    },
+    {
+      "position": 69,
+      "title": "Madeleine Landin - Senior Manager, People Partner",
+      "link": "https://uk.linkedin.com/in/madeleinesteer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/madeleinesteer&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCMICEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98277160bfa35cd40beee43ac78c731ad0.png",
+      "snippet": "Senior Manager, People Partner - Aerodynamics at McLaren Racing · I have over seven years experience ... Continue with GoogleContinue with Google. New to LinkedIn ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "years experience",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Senior Manager, People Partner",
+            "Aerodynamics",
+            "McLaren Racing"
+          ]
+        }
+      },
+      "source": "LinkedIn · Madeleine Landin"
+    },
+    {
+      "position": 70,
+      "title": "Elizabeth Weingarten - Udemy",
+      "link": "https://www.linkedin.com/in/elizabeth-weingarten",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/elizabeth-weingarten&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECEMQAQ",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9849e5e087040e6bb02f93d6f7695dcc82.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Young Leader. American Council on Germany. Jul 2016. I was selected to ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Leader",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Udemy"
+          ]
+        }
+      },
+      "source": "LinkedIn · Elizabeth Weingarten"
+    },
+    {
+      "position": 71,
+      "title": "David Johnson - Senior Recruiter - AMM Group",
+      "link": "https://www.linkedin.com/in/david-johnson-7204083457",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-johnson-7204083457&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECEUQAQ",
+      "displayed_link": "5.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c980849494eab3c711cf250dc4c706d8a25.png",
+      "snippet": "Dreaming of working in Germany or Europe? Let's make it happen! Connect with me or DM | Senior Aerospace Recruiter · An inclusive recruiter with an ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Hamburg Area",
+            "Senior Recruiter",
+            "AMM Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Johnson"
+    },
+    {
+      "position": 72,
+      "title": "Toby Young - Managing Partner - Bailey Fisher Executive ...",
+      "link": "https://uk.linkedin.com/in/tobyyoung1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tobyyoung1&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECEgQAQ",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9848191c6eeb994c419a0bf9ee9a878f53.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join ... Toby is a co-owner of Bailey Fisher with over 20 years' experience in executive search.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "years' experience",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Managing Partner",
+            "Bailey Fisher Executive Search"
+          ]
+        }
+      },
+      "source": "LinkedIn · Toby Young"
+    },
+    {
+      "position": 73,
+      "title": "Gazali Warsi - Germany | Professional Profile",
+      "link": "https://in.linkedin.com/in/gazali-warsi-b1765b166",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/gazali-warsi-b1765b166&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECEIQAQ",
+      "displayed_link": "370+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9877d1b9a75ea10d86e643b08deff6437c.png",
+      "snippet": "... Germany · 381 connections on LinkedIn. View Gazali Warsi's profile on ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Gazali Warsi"
+    },
+    {
+      "position": 74,
+      "title": "Aljohn Inigo Jaganathan - Technology Architect - Infosys",
+      "link": "https://www.linkedin.com/in/aljohn-inigo-j",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aljohn-inigo-j&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECF8QAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9840a7698e58e5214aaf2f0cd066ed0f5b.png",
+      "snippet": "SAP Technology Architect | 14+ Years Experience in SAP | SAP Certified & Google PCA | Proven Leader in SAP HANA Migration, Project Management, and Agile ...",
+      "snippet_highlighted_words": [
+        "Years Experience",
+        "Google",
+        "Leader"
+      ],
+      "source": "LinkedIn · Aljohn Inigo Jaganathan"
+    },
+    {
+      "position": 75,
+      "title": "Nick Workman - Executive Search Leaders",
+      "link": "https://uk.linkedin.com/in/nickworkman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nickworkman&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECF0QAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9813d07568ed661d5bd98fcff973ebea1a.png",
+      "snippet": "Backed by an exceptional research and execution team with deep expertise in the global… · Experience: Executive Search Leaders · Education: The King's ...",
+      "snippet_highlighted_words": [
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Executive Search Leaders"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Workman"
+    },
+    {
+      "position": 76,
+      "title": "Mahdi Mohaveri - Berlin, Berlin, Germany",
+      "link": "https://www.linkedin.com/in/mahdi-mohaveri-23a85365/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mahdi-mohaveri-23a85365/&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECFoQAQ",
+      "displayed_link": "620+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98814105e7e72810370bd6455c9b484bf3.png",
+      "snippet": "Senior Software Engineer with 10 years experience with in Backend (Python ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "years experience",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Mahdi Mohaveri"
+    },
+    {
+      "position": 77,
+      "title": "Renee Connolly - Merck KGaA, Darmstadt, Germany",
+      "link": "https://www.linkedin.com/in/renee-connolly-74a260111",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/renee-connolly-74a260111&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECFwQAQ",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98dc879bc5e07f5dc56b59e99e57d87060.png",
+      "snippet": "As Chief Diversity, Equity and Inclusion Officer at Merck KGaA, Darmstadt, Germany, I… · ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Boston",
+            "Merck KGaA, Darmstadt, Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Renee Connolly"
+    },
+    {
+      "position": 78,
+      "title": "Gerald Germany - Licensed Associate Real Estate Broker",
+      "link": "https://www.linkedin.com/in/geraldgermany",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/geraldgermany&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECHUQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c988f85bc85d7b2df3df5a18b19956ea346.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to view profile · Report this profile; Close menu. About. Experienced ... Senior ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Experienced",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Licensed Associate Real Estate Broker",
+            "Compass"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gerald Germany"
+    },
+    {
+      "position": 79,
+      "title": "Daniel Ruggiero - Senior Director, Global Brand Lead ...",
+      "link": "https://de.linkedin.com/in/daniel-ruggiero-98a19458/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/daniel-ruggiero-98a19458/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECHYQAQ",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c986d97f51b28f6e9408db00e732e17a384.png",
+      "snippet": "Medical (MD) and scientific background (PhD) completed with Executive MBA (Ashridge Business School, UK) More than 20 years experience in the pharmaceutical ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt Rhine-Main Metropolitan Area",
+            "Senior Director, Global Brand Lead Diabetes",
+            "Merck Healthcare"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Ruggiero"
+    },
+    {
+      "position": 80,
+      "title": "Jennifer Rainey Marquez - Senior Director of Content ...",
+      "link": "https://www.linkedin.com/in/jenniferraineymarquez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jenniferraineymarquez&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECHQQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98d079edb42d5daeb0a1ba4ea0eead7f84.png",
+      "snippet": "Experience · Senior Director of Content Strategy, GoodRx · Freelance Writer, Editor, and Content Strategist · Communications Director, Research · Executive Editor.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Executive"
+      ],
+      "source": "LinkedIn · Jennifer Rainey Marquez"
+    },
+    {
+      "position": 81,
+      "title": "Ana Beatriz Amorim - Business Executive - Google",
+      "link": "https://br.linkedin.com/in/abamorim88/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://br.linkedin.com/in/abamorim88/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECHkQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98dc315e96526aea24e7b8ffb2f685fac3.png",
+      "snippet": "Business Executive at Google · • 10 years experience in digital & marketing • Key activities: Marketing and communication, digital acceleration, ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "São Paulo, São Paulo, Brazil",
+            "Business Executive",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ana Beatriz Amorim Machado"
+    },
+    {
+      "position": 82,
+      "title": "Nayyera Haq - Adjunct Professor - Syracuse University",
+      "link": "https://www.linkedin.com/in/nayyera",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nayyera&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCJABEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98f6b7f30b943cc9f38174fad172c67c05.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Senior Director, Cabinet Affairs. The White House. Jan 2014 - Jan 2015 1 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior"
+      ],
+      "source": "LinkedIn · Nayyera Haq"
+    },
+    {
+      "position": 83,
+      "title": "Florina Prisecaru – Head of EMEA Carrier Engineering",
+      "link": "https://de.linkedin.com/in/florina-prisecaru-a3ba4bb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/florina-prisecaru-a3ba4bb&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCIwBEAE",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98be7ed5c782bbab11798bdad9a1663c4b.png",
+      "snippet": "... Experienced mobile ... Dynamic and engaged lead engineer with 10 years' experience with a telecom global market leader in 3GPP technologies.",
+      "snippet_highlighted_words": [
+        "Experienced",
+        "years' experience",
+        "leader"
+      ],
+      "source": "LinkedIn · Florina Prisecaru"
+    },
+    {
+      "position": 84,
+      "title": "Dr. Philipp Weiner - stv. General Counsel - Praemia REIM ...",
+      "link": "https://de.linkedin.com/in/philipphkweiner/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/philipphkweiner/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCI0BEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c983aa9b82ca611e08ef9bc3fe1026300d7.png",
+      "snippet": "Senior Legal Counsel at Primonial REIM Germany · - Experienced professional and manager with 10+ years experience in (international) real estate legal, ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Germany",
+        "Experienced",
+        "years experience"
+      ],
+      "source": "LinkedIn · Dr. Philipp Weiner"
+    },
+    {
+      "position": 85,
+      "title": "Linh Bergen-Peters – Vice President, Product, Partnerships ...",
+      "link": "https://de.linkedin.com/in/linhbp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/linhbp&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCI4BEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c984bd4aff2e67644ff890d9f1beb9f1f7a.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn ... • Senior marketer with 20 years' experience in building and marketing High Tech brands",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior",
+        "years' experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hessen, Deutschland",
+            "Vice President, Product, Partnerships & Corporate, International Card Services",
+            "American Express"
+          ]
+        }
+      },
+      "source": "LinkedIn · Linh Bergen-Peters"
+    },
+    {
+      "position": 86,
+      "title": "Brandy Parker - Senior Design Director - Health Portfolio",
+      "link": "https://www.linkedin.com/in/brandy-parker-163b4a23",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brandy-parker-163b4a23&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCKcBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9884ebfebd7e927cc6e7b70712e6328bec.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or ... I am a Health Design & Strategy leader, with 14 years experience in product ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "leader",
+        "years experience"
+      ],
+      "source": "LinkedIn · Brandy Parker"
+    },
+    {
+      "position": 87,
+      "title": "Robert Labas – Senior Director – FTI Consulting",
+      "link": "https://de.linkedin.com/in/robert-labas-a668265",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/robert-labas-a668265&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCKgBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c980ac392c814c644a5a399b5a199601fd1.png",
+      "snippet": "Senior Director. FTI Consulting. Nov. 2024 ; Executive Director. Edelman Smithfield. Jan. 2022 ; Director. GAULY. Jan. 2020 ; Manager. GAULY ADVISORS. Apr. 2012 ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt/Rhein-Main",
+            "Senior Director",
+            "FTI Consulting"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert Labas"
+    },
+    {
+      "position": 88,
+      "title": "Marissa Newhall - Head of HR Policy Content Strategy & ...",
+      "link": "https://www.linkedin.com/in/thisismarissa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/thisismarissa&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCKkBEAE",
+      "displayed_link": "850+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9816aaa6253d187fe303d864995afff009.png",
+      "snippet": "Google · Founder & Digital Strategy Consultant. Marissa Newhall LLC · U.S. Department of Energy Graphic. Director of Digital Strategy & Communications, Senior ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Head of HR Policy Content Strategy & Operations",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marissa Newhall"
+    },
+    {
+      "position": 89,
+      "title": "Rohit Mittal - Google",
+      "link": "https://www.linkedin.com/in/romittal",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/romittal&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCKsBEAE",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98d80650bb8afe8a97242eb92930da8686.png",
+      "snippet": "20+ years experience in Datacenter, HPC, AI interconnect systems and silicon | 2x Founder… · Experience: Google · Education: Carnegie Mellon University ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rohit Mittal"
+    },
+    {
+      "position": 90,
+      "title": "Julia Wegl - HR at Activision Blizzard",
+      "link": "https://www.linkedin.com/in/julia-wegl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/julia-wegl&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCLYBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9820a24b5c760057bf8339ebcfa615e52c.png",
+      "snippet": "HR at Activision Blizzard · Passionate, empathetic and determined HR professional with 8+ years experience ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hermosa Beach, California, United States",
+            "Senior Manager HR (HR for HR)",
+            "Activision Blizzard"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julia Wegl"
+    },
+    {
+      "position": 91,
+      "title": "Pavlo Khyzhniak - Technical Recruiter / Customer Success ...",
+      "link": "https://www.linkedin.com/in/pavlo-khyzhniak/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/pavlo-khyzhniak/&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCLkBEAE",
+      "displayed_link": "50.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98c2010fcb2e0e82277add9779449bcb1d.png",
+      "snippet": "Technical Recruiter at Find a Job in Germany || insta FAJIG.BERLIN || New post every Monday · Hey ... Continue with GoogleContinue with Google. New to LinkedIn?",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Technical Recruiter / Customer Success Manager",
+            "Find a Job in Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pavlo Khyzhniak"
+    },
+    {
+      "position": 92,
+      "title": "DEEPTI JOSHI - Sr Anlayst Accounts Payable Germany",
+      "link": "https://in.linkedin.com/in/deepti-joshi-7109545b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/deepti-joshi-7109545b&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCMIBEAE",
+      "displayed_link": "40+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c986552ca5d70f92c4342e0d14d0b44b50d.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Experience. Vodafone Graphic. Sr Anlayst Accounts Payable Germany. Vodafone.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "source": "LinkedIn · DEEPTI JOSHI"
+    },
+    {
+      "position": 93,
+      "title": "Zauresh Zhumayeva – Senior Technical Project Manager",
+      "link": "https://de.linkedin.com/in/zauresh-zhumayeva-6a828583",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/zauresh-zhumayeva-6a828583&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCMMBEAE",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98e76e6f75b1d1da6edb5a0b04b5e8bf09.png",
+      "snippet": "... Germany, Switzerland, Kazakhstan, Australia. · Berufserfahrung ... Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Senior Technical Project Manager",
+            "Ops Data and Analytics",
+            "HelloFresh"
+          ]
+        }
+      },
+      "source": "LinkedIn · Zauresh Zhumayeva"
+    },
+    {
+      "position": 94,
+      "title": "Ralf Wappler – Senior Project Manager",
+      "link": "https://de.linkedin.com/in/ralf-wappler-3048bb79",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ralf-wappler-3048bb79&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCNABEAE",
+      "displayed_link": "400+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98e0d06097ea54115718157dab8150614c.png",
+      "snippet": "Senior Project Manager at Eviden Germany ... 19 years experience in project management and 2 years experience as an executive with disciplinary responsibility ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Germany",
+        "years experience",
+        "years experience",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "Senior Project Manager",
+            "Eviden Germany GmbH",
+            "an Atos Business"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ralf Wappler"
+    },
+    {
+      "position": 95,
+      "title": "Sakshi Anand - Team Lead - YES Germany",
+      "link": "https://in.linkedin.com/in/sakshi-anand-8a981a46",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/sakshi-anand-8a981a46&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoFCIcCEAE",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c989baffc9bba7ae1a7e7c1f6fd192c661c.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join ... Senior Operations Executive. YES Germany. Nov 2022 - Jun 2024 1 year 8 months.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior",
+        "Executive",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Faridabad, Haryana, India",
+            "Team Lead",
+            "YES Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sakshi Anand"
+    },
+    {
+      "position": 96,
+      "title": "Jerome Pellerin - Directeur I Executive Coach & Outplacer",
+      "link": "https://fr.linkedin.com/in/jeromepellerin/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fr.linkedin.com/in/jeromepellerin/en&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECCkQAQ",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c9842f262fb6c423aa8b8f637a2d06a5cef.png",
+      "snippet": "... years' experience in change management, having sat on several management ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "years' experience",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Jérôme Pellerin"
+    },
+    {
+      "position": 97,
+      "title": "Robert Kingman - Executive Chef - Ace Hotel and Swim Club",
+      "link": "https://www.linkedin.com/in/robert-kingman-75605749",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robert-kingman-75605749&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECCsQAQ",
+      "displayed_link": "990+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98bf4c1be922f26630f76b847ade4a345b.png",
+      "snippet": "Executive Chef 20+ years experience · I am a Executive Chef, with extensive ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "years experience",
+        "Executive",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Palm Springs, California, United States",
+            "Executive Chef",
+            "Ace Hotel and Swim Club"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert Kingman"
+    },
+    {
+      "position": 98,
+      "title": "Tiffany G. Williams - Executive Team Leader-General ...",
+      "link": "https://www.linkedin.com/in/tiffany-g-williams-9b990468",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tiffany-g-williams-9b990468&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECCoQAQ",
+      "displayed_link": "450+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98a82a9b655e2f67abe299004507f284f4.png",
+      "snippet": "Executive Team Leader-General Merchandise at Target · I am a dynamic and innovative leader with 9+ years experience in driving productivity, ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Leader",
+        "leader",
+        "years experience"
+      ],
+      "source": "LinkedIn · Tiffany G. Williams"
+    },
+    {
+      "position": 99,
+      "title": "Anastasiya Popova - Senior CRM manager - ahead",
+      "link": "https://www.linkedin.com/in/anastasiya-popova-ukraine",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/anastasiya-popova-ukraine&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQFnoECCwQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa3af836ae6c198e29a3/images/55b58944584191463fe4b6a5ebf96c98a75d165d8b058bf71334e7030cfe5513.png",
+      "snippet": "Senior CRM marketing expert I 12 years experience I ex Rossmann corp. (A.S. ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "years experience",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bremen, Bremen, Germany",
+            "Senior CRM manager",
+            "ahead®"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anastasiya Popova"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?num=100&sca_esv=b275642f2649e319&gl=us&q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&udm=2&source=univ&fir=a1lkgWCMssvcnM%252CkUZtgOlHdiliqM%252C_%253BYXPNsWElQ1qPvM%252CwbrkfvMBUW2GqM%252C_%253BFUvqPtcv1GH9OM%252C-vE2CSrHnXV6SM%252C_%253BsK_w5ejrJjCPkM%252CQMJPrtkVb-m4kM%252C_%253BlUcna6Ulzw_ZBM%252CtaFgvn090cF44M%252C_%253BB6EbKq1e4opSXM%252CUbor2fRZBOmL0M%252C_%253BOvXqFaK2ghfxQM%252Cdx54CPsdR8mywM%252C_%253BIVJBrpLUCRD6OM%252C0OB2WN54Sy4y7M%252C_%253BqtqWAlxLjbHsIM%252CZxJ1dL4K9oBb7M%252C_&usg=AI4_-kTFKRRThuvXwRLugt44frBySMFB2g&sa=X&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQ7Al6BAhzEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22",
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=O_rdZ5HdIeHi1e8P4678uAE&start=100&sa=N&sstk=Af40H4XFCaHlHrOBdLnELQqT3u25-YSO44JTD3tdtMulfqF4Ua5UpZ5kO-5fTNJajV2QM6AcfZDA79o-X-OaTgoItJ92KNd36ruWGg&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQ8NMDegUIuAIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=O_rdZ5HdIeHi1e8P4678uAE&start=100&sa=N&sstk=Af40H4XFCaHlHrOBdLnELQqT3u25-YSO44JTD3tdtMulfqF4Ua5UpZ5kO-5fTNJajV2QM6AcfZDA79o-X-OaTgoItJ92KNd36ruWGg&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQ8tMDegUIuAIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=O_rdZ5HdIeHi1e8P4678uAE&start=200&sa=N&sstk=Af40H4XFCaHlHrOBdLnELQqT3u25-YSO44JTD3tdtMulfqF4Ua5UpZ5kO-5fTNJajV2QM6AcfZDA79o-X-OaTgoItJ92KNd36ruWGg&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQ8tMDegUIuAIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=O_rdZ5HdIeHi1e8P4678uAE&start=300&sa=N&sstk=Af40H4XFCaHlHrOBdLnELQqT3u25-YSO44JTD3tdtMulfqF4Ua5UpZ5kO-5fTNJajV2QM6AcfZDA79o-X-OaTgoItJ92KNd36ruWGg&ved=2ahUKEwjR5vzbrZyMAxVhcfUHHWMXHxcQ8tMDegUIuAIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=300"
+    }
+  }
+}

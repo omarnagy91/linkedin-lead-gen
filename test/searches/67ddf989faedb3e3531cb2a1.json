@@ -1,0 +1,2418 @@
+{
+  "search_metadata": {
+    "id": "67ddf989faedb3e3531cb2a1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8675dc5fc4d9b09e/67ddf989faedb3e3531cb2a1.json",
+    "created_at": "2025-03-21 23:43:05 UTC",
+    "processed_at": "2025-03-21 23:43:05 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8675dc5fc4d9b09e/67ddf989faedb3e3531cb2a1.html",
+    "total_time_taken": 1.65
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"Germany\" AND (current OR present) AND (\"Architect\" OR \"Senior Architect\" OR \"Principal Architect\" OR \"Solution Architect\" OR \"Principal\" OR \"Senior Principal\" OR \"Executive\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"Germany\" AND (current OR present) AND (\"Architect\" OR \"Senior Architect\" OR \"Principal Architect\" OR \"Solution Architect\" OR \"Principal\" OR \"Senior Principal\" OR \"Executive\")",
+    "total_results": 3700000,
+    "time_taken_displayed": 0.82,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Heinz Kröwing – Principal Architect - Microsoft",
+      "link": "https://de.linkedin.com/in/heinz-kr%C3%B6wing-3a019916a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/heinz-kr%25C3%25B6wing-3a019916a&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECCAQAQ",
+      "displayed_link": "590+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897f06b43eb913917bc2916a45428b94419.png",
+      "snippet": "Senior Architect by Microsoft · A senior technology leader with over 24 ... Principal Architect - Industry Solutions Germany. Microsoft. Juli 2022 –Heute ...",
+      "snippet_highlighted_words": [
+        "Senior Architect",
+        "Microsoft",
+        "Principal Architect",
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Köln, Nordrhein-Westfalen, Deutschland",
+            "Principal Architect",
+            "Industry Solutions Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Heinz Kröwing"
+    },
+    {
+      "position": 2,
+      "title": "Damian Márquez - Sr. Cloud Solutions Architect @ Microsoft",
+      "link": "https://de.linkedin.com/in/damianmarqueziv/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/damianmarqueziv/en&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECB8QAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897f6b541f5492e4576c7e330d3c7c1aa71.png",
+      "snippet": "Damian Márquez. Sr. Cloud Solutions Architect @ Microsoft. Microsoft Universidad del Rosario. Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Senior Cloud Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Damian Márquez"
+    },
+    {
+      "position": 3,
+      "title": "Andreas Albert - Microsoft",
+      "link": "https://www.linkedin.com/in/andreas-albert?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAABHmdmwB5_TM7vJQP3RFVVY5oXwYAkUAAww",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andreas-albert%3FminiProfileUrn%3Durn%253Ali%253Afs_miniProfile%253AACoAABHmdmwB5_TM7vJQP3RFVVY5oXwYAkUAAww&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECCQQAQ",
+      "displayed_link": "880+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897334898a4b72437c330813553cbfdac8a.png",
+      "snippet": "Licenses & Certifications ; AZ-301 Microsoft Azure Architect Design · Jan 2020 ; Microsoft Certified: Power Platform Fundamentals · Dec 2019 ; AZ-300 Microsoft Azure ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Architect",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Zurich, Zurich, Switzerland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andreas Albert"
+    },
+    {
+      "position": 4,
+      "title": "Steffen Mueller - Senior Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/steffen-mueller-054ba455",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/steffen-mueller-054ba455&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECB4QAQ",
+      "displayed_link": "270+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89748e3d13848f55a829faf143d58ceefc2.png",
+      "snippet": "Senior Architect at Microsoft Azure ... Primary technology focus of SAP HANA on Microsoft Azure for technical consulting as SAP Azure Solution Architect.",
+      "snippet_highlighted_words": [
+        "Senior Architect",
+        "Microsoft",
+        "Microsoft",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Chicago Area",
+            "Senior Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steffen Mueller"
+    },
+    {
+      "position": 5,
+      "title": "Ulrich Homann - Microsoft",
+      "link": "https://www.linkedin.com/in/ulrichhomann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ulrichhomann&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECBYQAQ",
+      "displayed_link": "12.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89743553c6db3d7656548b13822b346cc47.png",
+      "snippet": "Microsoft Certified Architect. Microsoft Corp. Issued Apr 2008. Patents ... The Microsoft executive briefing center (EBC) is the engagement center for ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Architect",
+        "Microsoft",
+        "Microsoft executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ulrich Homann"
+    },
+    {
+      "position": 6,
+      "title": "Christoph Berlin - Microsoft",
+      "link": "https://www.linkedin.com/in/christophberlin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christophberlin&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECBUQAQ",
+      "displayed_link": "4.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8971ab22d024011ff50120d8e846045afca.png",
+      "snippet": "Christoph Berlin, Microsoft, Fachhochschule Darmstadt, About, Influential leader, collaborative executive, and respected industry technology expert.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christoph Berlin"
+    },
+    {
+      "position": 7,
+      "title": "Marcel Keller – Senior Cloud Solution Architect - Microsoft",
+      "link": "https://de.linkedin.com/in/kellerma",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/kellerma&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECDsQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8976a29ee8079939636d24eabb406babc8e.png",
+      "snippet": "Senior Cloud Solution Architect · Berufserfahrung: Microsoft · Standort: Nürnberg · 500+ Kontakte auf LinkedIn ... Principal Consultant - World Wide Cloud ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Nürnberg, Bayern, Deutschland",
+            "Senior Cloud Solution Architect",
+            "internal Customer Success Unit",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marcel Keller"
+    },
+    {
+      "position": 8,
+      "title": "Michael Norden - Architect - Security Service Line",
+      "link": "https://www.linkedin.com/in/michael-norden-87632524",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-norden-87632524&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCOwBEAE",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8973628ac4865d69c6bd19a3f1a2c947ff7.png",
+      "snippet": "Michael Norden. Architekt bei Microsoft | Cybersicherheitsexperte. Microsoft. Germany. 918 followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Architect",
+            "Security Service Line – Modernization & Transformation",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Norden"
+    },
+    {
+      "position": 9,
+      "title": "Kevin Gabler - Solutions Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/kevin-gabler-78978b5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kevin-gabler-78978b5&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECCwQAQ",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897409135ef47ea936ad60180d54155eee3.png",
+      "snippet": "Experience ; Solutions Architect. Microsoft. Dec 2021 ; Principle Information Assurance Engineer (Interim Postion). NCI Information Systems. Oct 2007 ; Senior ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Surrey, England, United Kingdom",
+            "Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin Gabler"
+    },
+    {
+      "position": 10,
+      "title": "Laura Radach - Security Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/lauraradach",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lauraradach&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCJ4BEAE",
+      "displayed_link": "980+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89790196db536f4cf1f893c9710ccc2b65b.png",
+      "snippet": "Microsoft Graphic. Security Cloud Solution Architect. Microsoft. Sep 2024 - Present 7 months. Munich, Bavaria, Germany · Microsoft Graphic. Account Executive.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "Present",
+        "Germany",
+        "Microsoft",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Security Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Laura Radach"
+    },
+    {
+      "position": 11,
+      "title": "Saurabh Bharti - SR. R&D Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/saurabhbharati",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/saurabhbharati&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCOsBEAE",
+      "displayed_link": "10.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8974dd9eaecc54538826390d8b700f13487.png",
+      "snippet": "With more than a decade of experience as a Microsoft Dynamics 365 Solution Architect, I am a former Microsoft Most Valuable Professional (MVP), Microsoft ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "SR. R&D Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Saurabh Bharti"
+    },
+    {
+      "position": 12,
+      "title": "Codrin Nicoara – Senior Cloud Solution Architect – Microsoft",
+      "link": "https://de.linkedin.com/in/codrinn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/codrinn&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCIoCEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8977a4f721a859b0fc79227065a32bae941.png",
+      "snippet": "Senior Cloud Solution Architect for Modern Work (Exchange/EXO and Microsoft Teams) at Microsoft ... http://www.microsoft.com/germany.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "microsoft",
+        "germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Senior Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Codrin Nicoara"
+    },
+    {
+      "position": 13,
+      "title": "Peter Krause - Microsoft",
+      "link": "https://de.linkedin.com/in/ms-peterkrause/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ms-peterkrause/en&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECEkQAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897339e5678444ea0c6cd6468e1ed861fba.png",
+      "snippet": "Experience. Microsoft Graphic · Microsoft. Köln, Nordrhein-Westfalen, Deutschland. -. Germany. - ... Microsoft Power Platform & Dynamics 365 Solution Architect ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany",
+        "Microsoft",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cologne Bonn Region",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Krause"
+    },
+    {
+      "position": 14,
+      "title": "Juan Llovet de Casso - Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/juanll",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/juanll&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECGcQAQ",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897c747a1ce5ee17d0aedd5615983c0504c.png",
+      "snippet": "Cloud Solution Architect at Microsoft in the GPSUS team. Empowering partners to leverage Azure's Analytics offerings to improve customer and business value.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chicago, Illinois, United States",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Juan Llovet de Casso"
+    },
+    {
+      "position": 15,
+      "title": "Razvan Calcan - Senior Cloud Solution Architect",
+      "link": "https://uk.linkedin.com/in/razvancalcan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/razvancalcan&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCJkBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8976303506b80a25ba405885ee34d5d43a8.png",
+      "snippet": "Senior Adoption & Change Management Architect @ Microsoft · I am a highly motivated Adoption and Change Management Cloud Solution Architect ... Munich, Germany.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Solution Architect",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Reading Area",
+            "Senior Cloud Solution Architect",
+            "Adoption & Change Management",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Razvan Calcan"
+    },
+    {
+      "position": 16,
+      "title": "Andreas Maiwald – Cloud Solution Architect – Microsoft",
+      "link": "https://de.linkedin.com/in/andreas-maiwald-87694419",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/andreas-maiwald-87694419&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCNQBEAE",
+      "displayed_link": "440+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897dec6f0553541135ec164015080386a88.png",
+      "snippet": "Microsoft. 17 Jahre. Microsoft Grafik. Cloud Solution Architect. Microsoft. Juli 2023 –Heute 1 Jahr 9 Monate. Munich, Bavaria, Germany. Microsoft Grafik ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andreas Maiwald"
+    },
+    {
+      "position": 17,
+      "title": "Marc Schier - Principal Software Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/marc-schier-0741b85",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marc-schier-0741b85&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCO4BEAE",
+      "displayed_link": "600+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89714e5a846bc6eeed8e076015326e577be.png",
+      "snippet": "Marc Schier. Principal Software Engineer at Microsoft Germany. Microsoft University of Augsburg. Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft Germany",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Principal Software Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marc Schier"
+    },
+    {
+      "position": 18,
+      "title": "Florian Deter – Managing Director Germany & EMEA ...",
+      "link": "https://de.linkedin.com/in/florian-deter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/florian-deter&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCIcCEAE",
+      "displayed_link": "10.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897a83f2f0abdb482657b8c681d1f85b79b.png",
+      "snippet": "As Managing Director Germany and General Manager Enterprise Commercial at Microsoft ... Executive Vice President Nordcloud & Executive Partner IBM Consulting.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft",
+        "Executive",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Managing Director Germany & EMEA General Manager Enterprise Partner Sales",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Florian Deter"
+    },
+    {
+      "position": 19,
+      "title": "Magdalena Nelson - Cloud Solution Architect at Microsoft",
+      "link": "https://de.linkedin.com/in/magdalena-nelson-8454954?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/magdalena-nelson-8454954%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCIgCEAE",
+      "displayed_link": "940+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89746416483b1f26be0bf2a35bdd25631f7.png",
+      "snippet": "Microsoft Grafik. Senior Cloud Solution Architect. Microsoft. Mai 2022 –Heute 2 Jahre 11 Monate. Munich, Bavaria, Germany. Google Grafik. Big Data and Analytics ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "Senior Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Magdalena Nelson"
+    },
+    {
+      "position": 20,
+      "title": "Juergen Thomas - Partner Architect Lead - Microsoft",
+      "link": "https://www.linkedin.com/in/juergen-thomas-ba38b53",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/juergen-thomas-ba38b53&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCKQCEAE",
+      "displayed_link": "830+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89799792c11b38cec0dd93a470932962c57.png",
+      "snippet": "Partner Architect at Microsoft · Experience: Microsoft · Education ... Microsoft team which was placed in the SAP HQ in Walldorf, Germany. Worked ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Partner Architect Lead",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Juergen Thomas"
+    },
+    {
+      "position": 21,
+      "title": "Sven Maier - Senior Cross-Solutions Architect",
+      "link": "https://de.linkedin.com/in/svenmaiermicrosoft/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/svenmaiermicrosoft/en&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECEoQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897ad446bb03c8f45a06039e61b653b84e4.png",
+      "snippet": "Microsoft. Nov 2023 - Present 1 year 5 months. Munich, Bavaria, Germany. Microsoft Graphic. Member of the CTO Office. Microsoft. Feb 2022 - Jul 2024 2 years 6 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "Germany",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Munich Metropolitan Area",
+            "Senior Cross-Solutions Architect",
+            "Business Applications",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sven Maier"
+    },
+    {
+      "position": 22,
+      "title": "Raihan Alam - Principal Software Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/ra1han",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ra1han&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECGUQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8977e1c1eb224a828eb04479109cfd2d511.png",
+      "snippet": "Raihan Alam. Principal Data Engineer at Microsoft. Microsoft Bangladesh ... Cloud Solution Architect - Data & AI. Microsoft. Nov 2020 - Dec 2021 1 year 2 ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Sydney Area",
+            "Principal Software Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Raihan Alam"
+    },
+    {
+      "position": 23,
+      "title": "Christian Becker - Global Partner Solutions – Microsoft",
+      "link": "https://de.linkedin.com/in/christian-becker-46178b94",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/christian-becker-46178b94&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECGYQAQ",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8977e4eda9ac6d822a83488e0c116fec276.png",
+      "snippet": "Technology Lead Germany bei Microsoft Global Partner Solutions · Microsoft ... Chief Architect Microsft Services Deutschland. Microsoft. Aug. 2013 – Juli ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft",
+        "Microsoft",
+        "Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+            "Technology Lead Germany",
+            "Global Partner Solutions",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christian Becker"
+    },
+    {
+      "position": 24,
+      "title": "Renate Winslow – Cloud Solution Architect at Microsoft",
+      "link": "https://de.linkedin.com/in/renate-winslow-a293ba51",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/renate-winslow-a293ba51&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECHwQAQ",
+      "displayed_link": "610+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897783341e603b5ed236a92e6d1f0cffeac.png",
+      "snippet": "Cloud Solution Architect at Microsoft Customer Success Unit at Microsoft ... Munich, Bavaria, Germany. Working with Microsoft's Premier Customers to get the ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "Germany",
+        "Microsoft's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Unterschleissheim, Bayern, Deutschland",
+            "Cloud Solution Architect at Microsoft",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Renate Winslow"
+    },
+    {
+      "position": 25,
+      "title": "Sanchit Alekh – Microsoft",
+      "link": "https://de.linkedin.com/in/sanchitalekh/de",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sanchitalekh/de&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCJ0BEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8973a2220a570d0c11e3938de94897ed0c2.png",
+      "snippet": "In my current role as a Cloud Solution Architect at Microsoft, I support clients all over… · ... Stuttgart Area, Germany. -. Kreisfreie Stadt Aachen Area ...",
+      "snippet_highlighted_words": [
+        "current",
+        "Solution Architect",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sanchit Alekh"
+    },
+    {
+      "position": 26,
+      "title": "Ambesh Singh - Microsoft",
+      "link": "https://www.linkedin.com/in/ambesh-singh?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAaQlrwBklkKD4cJ6urCOlB6Vzdczs_j2h4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ambesh-singh%3FminiProfileUrn%3Durn%253Ali%253Afs_miniProfile%253AACoAAAaQlrwBklkKD4cJ6urCOlB6Vzdczs_j2h4&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCLYBEAE",
+      "displayed_link": "8.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89740854147f6f8b167ffba3063bb39e5dd.png",
+      "snippet": "Microsoft · Manipal University · Germany · 500+ connections on LinkedIn ... Dec 2018 - Sep 2022. Solution Architect/Technical Manager in Microsoft Business Domain ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "Solution Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ambesh Singh"
+    },
+    {
+      "position": 27,
+      "title": "Sean Jones – Microsoft",
+      "link": "https://de.linkedin.com/in/sean-jones-2a8a934",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sean-jones-2a8a934&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCM0BEAE",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8974971645b27194cbeac512070c5b0909b.png",
+      "snippet": "Ludwigshafen, Germany - Iselin, New Jersey. -. Oakland, California. -. Pleasanton ... Executive Data Science Specialization · Coursera Course Certificates.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brühl, Baden-Württemberg, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sean Jones"
+    },
+    {
+      "position": 28,
+      "title": "Demir Senturk – Cloud Solutions Architect – Microsoft",
+      "link": "https://de.linkedin.com/in/demirsenturk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/demirsenturk&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCNIBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897bf185f85a0ab9ae426f51a980dbb8664.png",
+      "snippet": "Cloud Solutions Architect @ Microsoft · Our team at Microsoft empowers automotive clients with tailored Azure solutions ... Microsoft Germany. Ausgestellt: Juni ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Cloud Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Demir Senturk"
+    },
+    {
+      "position": 29,
+      "title": "Nagesh M. - Principal Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/nagesh-m-a90997a?trk=public_post_main-feed-card-text",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nagesh-m-a90997a%3Ftrk%3Dpublic_post_main-feed-card-text&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCOcBEAE",
+      "displayed_link": "8.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8971aa850b20015339abbb66175cab03b4d.png",
+      "snippet": "Experience. Microsoft Graphic. Principal Architect. Microsoft. Jan 2019 - Present 6 years 3 months. Dallas, Texas, United States. Driving Cloud consumption all- ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal Architect",
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas-Fort Worth Metroplex",
+            "Principal Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nagesh M."
+    },
+    {
+      "position": 30,
+      "title": "Chandana Keswarkar - Senior Solutions Architect",
+      "link": "https://www.linkedin.com/in/chandana-keswarkar-48144a8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chandana-keswarkar-48144a8&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCOkBEAE",
+      "displayed_link": "860+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8975618bef712890b357188091576a61772.png",
+      "snippet": "Senior Solution Architect. adidas. Feb 2016 - Feb 2019 3 years 1 month. Herzogenaurach, Bavaria, Germany. • Spearheaded rewrite of a complex monolithic ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas-Fort Worth Metroplex",
+            "Senior Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chandana Keswarkar"
+    },
+    {
+      "position": 31,
+      "title": "Anna K. – Solution Architect Manager | Automotive Industry",
+      "link": "https://de.linkedin.com/in/anna-krause1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/anna-krause1&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCIUCEAE",
+      "displayed_link": "950+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897860d49165c6389935feeb5bafb1597d0.png",
+      "snippet": "As a Solution Architect Manager for the automotive industry at Microsoft, I'm responsible for leading a team of domain solution architects who develop all the ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hessen, Deutschland",
+            "Solution Architect Manager | Automotive Industry",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anna K."
+    },
+    {
+      "position": 32,
+      "title": "Sefer Peshku - Microsoft Germany",
+      "link": "https://de.linkedin.com/in/sefer-peshku-0281b365",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sefer-peshku-0281b365&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCIICEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897c4e982563328813a49375e4dd41bc0e3.png",
+      "snippet": "Microsoft Executive Vice President. Juli 2019. Sefer Peshku Congratulations on winning the FY19 Microsoft Top Sub Award for D7 Germany. The distinguished Top ...",
+      "snippet_highlighted_words": [
+        "Microsoft Executive",
+        "Microsoft",
+        "Germany"
+      ],
+      "source": "LinkedIn · Sefer Peshku"
+    },
+    {
+      "position": 33,
+      "title": "Wilfried Schadenboeck - Chief Architect for Azure Infra",
+      "link": "https://bh.linkedin.com/in/wilfried-schadenboeck-1ba87116",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://bh.linkedin.com/in/wilfried-schadenboeck-1ba87116&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCJ0CEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89760c96f62fb07539a15db551ed4ef539f.png",
+      "snippet": "Chief Architect for Azure Infra at Microsoft‏ · ‏Specialties: Architecture, Azure, Private cloud, Public Cloud, Hybrid Cloud, Datacenter, Virtualization, ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "المحافظة الشمالية سار البحرين",
+            "Chief Architect for Azure Infra",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Wilfried Schadenboeck"
+    },
+    {
+      "position": 34,
+      "title": "Andreas Mueller - Principal Research SDE - Microsoft",
+      "link": "https://www.linkedin.com/in/andreas-c-mueller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andreas-c-mueller&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCJ8CEAE",
+      "displayed_link": "9.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897fb283cb96ace85e095276ca8d05c60ee.png",
+      "snippet": "Principal Research SDE at Microsoft · I am very interested in open source and ... Amazon Development Center Germany. Oct 2013 - Oct 2014 1 year 1 month.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Gatos, California, United States",
+            "Principal Research SDE",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andreas Mueller"
+    },
+    {
+      "position": 35,
+      "title": "Christiaan Brinkhoff - Microsoft",
+      "link": "https://www.linkedin.com/in/christiaanbrinkhoff",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christiaanbrinkhoff&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCKMCEAE",
+      "displayed_link": "25.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89774b69c560ea706f5acdef029c1565be2.png",
+      "snippet": "Performing the migration of 15 sites of Vion Foods in Europe (from England, Germany ... Redmond Studio executive sessions about Vision and Leadership. -. Sep 2024 ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christiaan Brinkhoff"
+    },
+    {
+      "position": 36,
+      "title": "Sachin Chauhan – Azure Technology Specialist (Data & AI)",
+      "link": "https://de.linkedin.com/in/sachinchauhandai",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sachinchauhandai&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCMACEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8970e679ffcdc604b3916c3506df54433fe.png",
+      "snippet": "Azure Technology Specialist (Data & AI). Microsoft. Juli 2023 –Heute 1 Jahr 9 Monate. Munich, Bavaria, Germany ... Being a Cloud Solution Architect (Data & AI) I ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Azure Technology Specialist (Data & AI)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sachin Chauhan"
+    },
+    {
+      "position": 37,
+      "title": "Thomas Detzner – Principal Program Manager – Microsoft",
+      "link": "https://de.linkedin.com/in/thomasdetzner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/thomasdetzner&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECEgQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897e5453eeddfc0a37dff58e52fdd4265ce.png",
+      "snippet": "Principal Program Manager. Microsoft. Sept. 2021 –Heute 3 Jahre 7 Monate. Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Principal Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Detzner"
+    },
+    {
+      "position": 38,
+      "title": "Stephan Grell - Microsoft Search, Assistant and Intelligence",
+      "link": "https://de.linkedin.com/in/stephan-grell-893bb160",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/stephan-grell-893bb160&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECEUQAQ",
+      "displayed_link": "500+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89758952fef75edbfad8c35802f132b25f6.png",
+      "snippet": "Microsoft Search, Assistant and Intelligence. Jan. 2021 – Juni 2023 2 Jahre 6 Monate. Munich, Bavaria, Germany. Principal Software Developer - Office. Microsoft ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Principal Software Engineer",
+            "Microsoft Search, Assistant and Intelligence"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephan Grell"
+    },
+    {
+      "position": 39,
+      "title": "Reinhard Nissl – Microsoft",
+      "link": "https://de.linkedin.com/in/reinhardnissl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/reinhardnissl&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECGAQAQ",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897aa50b0cf6e3e763e7517f928a7753ad3.png",
+      "snippet": "Learning-to-go Event Speaker Certificate · Microsoft Germany · Okt. 2024 ; FY24 Microsoft EC-EMEA Executive Partner Award Winner · Microsoft · Juli 2024.",
+      "snippet_highlighted_words": [
+        "Microsoft Germany",
+        "Microsoft",
+        "Executive",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Reinhard Nissl"
+    },
+    {
+      "position": 40,
+      "title": "Danny F. - Solutions Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/danny-f-3507196",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danny-f-3507196&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECGEQAQ",
+      "displayed_link": "830+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8976e0958b848b13b1cd7eb1820278465b6.png",
+      "snippet": "Solution Architect - Microsoft Dynamics 365 · Solution architect with a demonstrated history of working in the information technology and services industry.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Solution architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Alpharetta, Georgia, United States",
+            "Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Danny F."
+    },
+    {
+      "position": 41,
+      "title": "Oliver Buckie – Principal IT Manager – Microsoft",
+      "link": "https://de.linkedin.com/in/oliver-buckie/de",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/oliver-buckie/de&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECH8QAQ",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897ea0bed442814a15ed709b0ae35cda196.png",
+      "snippet": "IT Leader at Microsoft Germany | Digital Transformation advocate | IT ... Executive Briefing Centre Weniger anzeigen. Actix Grafik. IT-Manager. Actix. Sept ...",
+      "snippet_highlighted_words": [
+        "Microsoft Germany",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Principal IT Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Oliver Buckie"
+    },
+    {
+      "position": 42,
+      "title": "Jessica H. – Cloud Solution Architect",
+      "link": "https://de.linkedin.com/in/jessica-h-2a8537110",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/jessica-h-2a8537110&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCIIBEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8979a6df7cd57e55958111a3bda4fe47e92.png",
+      "snippet": "Cloud Solution Architect - Customer Architecture and Engineering · Global CSA · Microsoft · Technical University of Applied Sciences Wildau (Germany) ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Cloud Solution Architect",
+            "Customer Architecture and Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jessica H."
+    },
+    {
+      "position": 43,
+      "title": "Astrid Aupperle - AI National Skills Director - Microsoft ...",
+      "link": "https://de.linkedin.com/in/astridaupperle/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/astridaupperle/en&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCIABEAE",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89713e99d876a0f9583f52aedc3bdfa777c.png",
+      "snippet": "... executive with management experience, leading teams and agencies within ... Philanthropies Lead Microsoft Germany, Switzerland, Austria and the Netherlands.",
+      "snippet_highlighted_words": [
+        "executive",
+        "Microsoft Germany"
+      ],
+      "source": "LinkedIn · Astrid Aupperle"
+    },
+    {
+      "position": 44,
+      "title": "Reynold D'Sa - Microsoft",
+      "link": "https://www.linkedin.com/in/reynolddsa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/reynolddsa&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCJcBEAE",
+      "displayed_link": "5.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89722983b65ed8aa2284cae76f6f125ab0c.png",
+      "snippet": "Senior technology executive with 25+ years of experience in building and nurturing global… · Microsoft · Stanford University · Redmond · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "executive",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Reynold D'Sa"
+    },
+    {
+      "position": 45,
+      "title": "Apurva Saurabh - Solutions Architect - Microsoft",
+      "link": "https://in.linkedin.com/in/apurvasaurabh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/apurvasaurabh&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCJgBEAE",
+      "displayed_link": "600+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897e94e95faa0fa2b9c32cac48a2433c666.png",
+      "snippet": "Solution Architect at Microsoft · I am M365 Solution Architect having over 18 years of experience with specialized skillset in implementing various ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Apurva Saurabh"
+    },
+    {
+      "position": 46,
+      "title": "Julia Denman - Chief Audit and Risk Executive - Microsoft",
+      "link": "https://www.linkedin.com/in/julia-denman-93b42514",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/julia-denman-93b42514&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCLEBEAE",
+      "displayed_link": "960+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8979892135f047140ea3f4899bce3790bf8.png",
+      "snippet": "Chief Audit and Risk Executive at Microsoft; member of the Board of Directors at The Clorox ... Germany, Switzerland, and North America. She is recognized ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "Germany"
+      ],
+      "source": "LinkedIn · Julia Denman"
+    },
+    {
+      "position": 47,
+      "title": "Christopher Anton - Microsoft",
+      "link": "https://de.linkedin.com/in/christopher-anton-781038a4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/christopher-anton-781038a4&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCLkBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897f03ba68e1919cc14e4c0fb6c196135c6.png",
+      "snippet": "Executive Engagement Program Manager, Microsoft Experience Center EMEA · Microsoft · Johann Wolfgang Goethe-Universität Frankfurt am Main · Deutschland ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "Executive Engagement Program Manager, Microsoft Experience Center EMEA",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christopher Anton"
+    },
+    {
+      "position": 48,
+      "title": "Hannes Schulz – Principal Researcher – Microsoft",
+      "link": "https://de.linkedin.com/in/hannes-schulz-795baa10",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/hannes-schulz-795baa10&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCLIBEAE",
+      "displayed_link": "590+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89779449411e40e99fc8434b35418e6b78f.png",
+      "snippet": "Principal Researcher at Microsoft · Microsoft · The University of Bonn · Karlsruhe · 500+ Kontakte auf LinkedIn. Sehen Sie sich das Profil von Hannes Schulz ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Karlsruhe, Baden-Württemberg, Deutschland",
+            "Principal Researcher",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hannes Schulz"
+    },
+    {
+      "position": 49,
+      "title": "Katja Hofmann - Microsoft",
+      "link": "https://uk.linkedin.com/in/katjahofmann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/katjahofmann&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCM8BEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8977a8c029e114f16d4b99f5e0b054e490d.png",
+      "snippet": "Dr Katja Hofmann leads the Game Intelligence team at Microsoft Research. She and her team… · Microsoft · University of Amsterdam · Greater Cambridge Area ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Cambridge Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katja Hofmann"
+    },
+    {
+      "position": 50,
+      "title": "Joana Reicherts - Government Affairs Manager",
+      "link": "https://de.linkedin.com/in/joana-reicherts/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/joana-reicherts/en&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCMwBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897661763783a653d37553cff361b69bd5f.png",
+      "snippet": "Internship at the Government Affairs department of Microsoft Germany, Berlin. Tasks included issue management and executive support, corporate and executive ...",
+      "snippet_highlighted_words": [
+        "Microsoft Germany",
+        "executive",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "EMEA Data Centre Government Affairs Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joana Reicherts"
+    },
+    {
+      "position": 51,
+      "title": "Véronique Brinkmann - Executive Business Administrator",
+      "link": "https://www.linkedin.com/in/v%C3%A9ronique-brinkmann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/v%25C3%25A9ronique-brinkmann&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCNMBEAE",
+      "displayed_link": "260+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897763c0fba9ca2b7d6db8421e6e135973e.png",
+      "snippet": "Executive Business Administrator at Microsoft · Highly organized Executive ... Microsoft Robert-Schuman-College (Germany/Essen). Greater Seattle Area. 267 ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "Executive",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Executive Business Administrator",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Véronique Brinkmann"
+    },
+    {
+      "position": 52,
+      "title": "Freek Bos - Senior Solution Architect Production - Lilium",
+      "link": "https://www.linkedin.com/in/freek-bos-19084a4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/freek-bos-19084a4&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCM4BEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897a09c1ef1752cddcb741373b2839f7d28.png",
+      "snippet": "Senior Solution Architect for Production at Lilium specializing in Production Automation. Lilium Microsoft certification. Germany. 1K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Senior Solution Architect Production",
+            "Lilium"
+          ]
+        }
+      },
+      "source": "LinkedIn · Freek Bos"
+    },
+    {
+      "position": 53,
+      "title": "Frank Plawetzki – Cloud Solution Architect at Microsoft",
+      "link": "https://de.linkedin.com/in/frank-plawetzki-12892b19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/frank-plawetzki-12892b19&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCO0BEAE",
+      "displayed_link": "340+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8975df5279ee3de6f3f3575d0fa998ba2b6.png",
+      "snippet": "Cloud Solution Architect at Microsoft. Microsoft. Juli 2024 –Heute 9 Monaten. Stuttgart, Baden-Württemberg, Germany.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "source": "LinkedIn · Frank Plawetzki"
+    },
+    {
+      "position": 54,
+      "title": "Florian Boeck - Chief Architect Microsoft Practice - Atos",
+      "link": "https://at.linkedin.com/in/fboeck/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://at.linkedin.com/in/fboeck/en&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCOgBEAE",
+      "displayed_link": "220+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897c18a834a295c22db59af6dced9e8a213.png",
+      "snippet": "Chief Architect Microsoft Practice · My experience in both, IT and business, enable me to bridge business strategies to product design and architecture to ...",
+      "snippet_highlighted_words": [
+        "Architect Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austria",
+            "Chief Architect Microsoft Practice",
+            "Atos"
+          ]
+        }
+      },
+      "source": "LinkedIn · Florian Boeck"
+    },
+    {
+      "position": 55,
+      "title": "Dr. Andrew C. L. - Customer Success Account Manager",
+      "link": "https://www.linkedin.com/in/dr-andrew-c-l-954130125?trk=public_profile_samename-profile",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dr-andrew-c-l-954130125%3Ftrk%3Dpublic_profile_samename-profile&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCO8BEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897b6c0b06581d75dea7e02645bf9c15194.png",
+      "snippet": "Microsoft Principal Customer Success Account Manager | Adjunct Professor at ... Executive Customer Engagements, Maintenance & Service Support ...",
+      "snippet_highlighted_words": [
+        "Microsoft Principal",
+        "Executive"
+      ],
+      "source": "LinkedIn · Dr. Andrew C. L."
+    },
+    {
+      "position": 56,
+      "title": "Rachel Profitt - Microsoft",
+      "link": "https://www.linkedin.com/in/rachelprofitt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rachelprofitt&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCOoBEAE",
+      "displayed_link": "9.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8970b5f80f574af3e342f3889c977c658d4.png",
+      "snippet": "I am a Principal Program Manager at Microsoft, leading the Business Process Excellence… · Microsoft · Concord High School · Denver · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Denver, Colorado, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rachel Profitt"
+    },
+    {
+      "position": 57,
+      "title": "Apoorav Trehan - Principal Product Manager, Microsoft ...",
+      "link": "https://www.linkedin.com/in/apoorav-trehan?trk=public_post_main-feed-card-text",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/apoorav-trehan%3Ftrk%3Dpublic_post_main-feed-card-text&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCIYCEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897b90d15b2326643589480cd93aa31e43b.png",
+      "snippet": "Principal Product Manager @ Microsoft | AI, Supply Chain Strategy, Product ... Executive Presentations and Speaking Graphic. Executive Presentations and ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Executive",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Principal Product Manager, Microsoft Cloud Supply Chain",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Apoorav Trehan"
+    },
+    {
+      "position": 58,
+      "title": "Hillary Batchelder - Account Executive - Transparity",
+      "link": "https://uk.linkedin.com/in/hillary-batchelder-66430117",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hillary-batchelder-66430117&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCIMCEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8970ee671979e05fb225a7374cc7a496984.png",
+      "snippet": "Account Executive · Account Executive · Product Marketing Manager, Business Applications, Microsoft UK · Business Manager, Microsoft Germany · MBA Consultant.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Executive",
+        "Microsoft",
+        "Microsoft Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Account Executive",
+            "Transparity"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hillary Batchelder"
+    },
+    {
+      "position": 59,
+      "title": "Min Liu - Principal Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/min-liu-9ba2b95b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/min-liu-9ba2b95b&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCIQCEAE",
+      "displayed_link": "370+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897147a4c71b99d4e3c6ad332c46b6142b3.png",
+      "snippet": "He leads the Hardware Fleet Management Architecture in the Azure Hardware Systems & Infrastructure group. Prior to joining Microsoft, Min was a Senior Principal ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Senior Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hillsboro, Oregon, United States",
+            "Principal Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Min Liu"
+    },
+    {
+      "position": 60,
+      "title": "Shivang Vora - Sr. Cloud Solution Architect",
+      "link": "https://www.linkedin.com/in/shivangvora",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shivangvora&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCIkCEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897d5eb5cd1e22cb1944e53ef33a37e036e.png",
+      "snippet": "Experience ; Sr. Cloud Solution Architect - Health and Life Sciences. Microsoft. Jun 2022 ; Executive Director. Data Intelligence Lab. Jan 2015 ; Solution ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Executive",
+        "Solution"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frisco, Texas, United States",
+            "Sr. Cloud Solution Architect",
+            "Health and Life Sciences",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shivang Vora"
+    },
+    {
+      "position": 61,
+      "title": "Michal Moskal - Principal Research Software Development ...",
+      "link": "https://www.linkedin.com/in/mmoskal",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mmoskal&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCKACEAE",
+      "displayed_link": "360+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897c9974c34b80cd321dabd8aab7f415113.png",
+      "snippet": "Experience. Microsoft Graphic. Principal Research Software Development Engineer ... European Microsoft Innovation Center, Aachen, Germany. Jan 2008 - Oct 2009 1 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Research Software Development Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michal Moskal"
+    },
+    {
+      "position": 62,
+      "title": "Honey Krishnan P. - Principal Product Manager - Microsoft",
+      "link": "https://in.linkedin.com/in/honeykrishnan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/honeykrishnan&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCJ4CEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89751a6adfbbb973058271445ea43e84812.png",
+      "snippet": "Principal Product Manager @ Microsoft | Seller and Customer Experiences · My career journey began ... In my current role as a Principal Product Manager in ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "current",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hyderabad, Telangana, India",
+            "Principal Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Honey Krishnan P."
+    },
+    {
+      "position": 63,
+      "title": "Andy Jenkins - Account Technology Strategist & Tech Lead ...",
+      "link": "https://www.linkedin.com/in/andyjenkins76",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andyjenkins76&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCKICEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897ab8d1f29d7525c006ecf9e45d1157216.png",
+      "snippet": "Experience ; Account Technology Strategist & Tech Lead for Digital Natives. Microsoft. Jan 2023 ; Cloud Solution Architect. Microsoft. Jan 2016 ; Solution ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "Solution"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Stoke-on-Trent Area",
+            "Account Technology Strategist & Tech Lead for Digital Natives",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andy Jenkins"
+    },
+    {
+      "position": 64,
+      "title": "Anja Eberhart - Cloud Solution Architect bei Microsoft",
+      "link": "https://de.linkedin.com/in/anja-eberhart-9260a5ba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/anja-eberhart-9260a5ba&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCKECEAE",
+      "displayed_link": "480+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897032cc18a273b3a062eb6d32271a73c9f.png",
+      "snippet": "Cloud Solution Architect bei Microsoft · Microsoft · Metropolregion München · 463 Kontakte auf LinkedIn. Sehen Sie sich das Profil von Anja Eberhart Anja ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anja Eberhart"
+    },
+    {
+      "position": 65,
+      "title": "Omar Gamali - Account Executive - Digital Natives - Germany",
+      "link": "https://ie.linkedin.com/in/omar-gamali-90b5ba137",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/omar-gamali-90b5ba137&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCKUCEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8973b7cae3932bba087194a49ef20910053.png",
+      "snippet": "Account Executive - Digital Natives - Germany ... Microsoft's corporate clients in Germany ensuring long-term customer success with Microsoft technologies.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Germany",
+        "Microsoft's",
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dublin, County Dublin, Ireland",
+            "Account Executive",
+            "Digital Natives",
+            "Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Omar Gamali"
+    },
+    {
+      "position": 66,
+      "title": "Darren Hubert - Regional Business Director - Microsoft",
+      "link": "https://www.linkedin.com/in/darrenhubert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/darrenhubert&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCL0CEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897a6273fb24b6fa6045fc3ce1ed8227a4e.png",
+      "snippet": "Solutions Architect, Enterprise Services, Microsoft Business Applications - Americas. ... executive alignment and communication allowed him to accelerate ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Regional Business Director",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Darren Hubert"
+    },
+    {
+      "position": 67,
+      "title": "Vassilis Plachouras - Principal Applied Scientist - Microsoft",
+      "link": "https://uk.linkedin.com/in/vassilis-plachouras-2223992",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/vassilis-plachouras-2223992&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCMECEAE",
+      "displayed_link": "530+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8971af9a51c4831042407086ad8d74c5697.png",
+      "snippet": "Principal Applied Scientist at Microsoft. Microsoft University of Glasgow ... Executive Director, Applied AI ML Director. JPMorgan Chase & Co. Nov 2023 ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Principal Applied Scientist",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vassilis Plachouras"
+    },
+    {
+      "position": 68,
+      "title": "Klaus Pinhack – Cloud Solution Architect",
+      "link": "https://de.linkedin.com/in/klaus-pinhack-875a96a3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/klaus-pinhack-875a96a3&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCLsCEAE",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897f2ae42d2768ac3c3459dc514193fe13d.png",
+      "snippet": "Cloud Solution Architect bei Microsoft Germany · Microsoft Germany · Region Köln/Bonn · 419 Kontakte auf LinkedIn. Sehen Sie sich das Profil von Klaus ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft Germany",
+        "Microsoft Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Region Köln/Bonn",
+            "Cloud Solution Architect",
+            "Microsoft Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Klaus Pinhack"
+    },
+    {
+      "position": 69,
+      "title": "Kozeta Garrett - General Manager - Security Services",
+      "link": "https://www.linkedin.com/in/kozeta-garrett",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kozeta-garrett&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECEYQAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8971e6bc2df13010d4275ff245b56f90201.png",
+      "snippet": "... Solution Architect Expert * GIAC Certified Intrusion Analyst * GIAC ... AZ-300 Microsoft Azure Architect Technologies · Microsoft. Issued Aug 2019. See ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Architect",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Kozeta Garrett"
+    },
+    {
+      "position": 70,
+      "title": "Saswat Mohanty - Microsoft",
+      "link": "https://www.linkedin.com/in/saswat-mohanty-97511315a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/saswat-mohanty-97511315a&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECEsQAQ",
+      "displayed_link": "770+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8971c16e232a645765e0edd867ffe3c3c55.png",
+      "snippet": "I am a Principal Cloud Solution Architect at Microsoft, where I have been working since… · ... Bangalore Area, India , Walldorf, Germany. -. Bangalore and ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Solution Architect",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta Metropolitan Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Saswat Mohanty"
+    },
+    {
+      "position": 71,
+      "title": "Poorna Gaddehosur - Principal Group Engineering Manager",
+      "link": "https://www.linkedin.com/in/poorna-gaddehosur-25a68b3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/poorna-gaddehosur-25a68b3&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECFYQAQ",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897592190e2dd3bc7ef686649aa5f494068.png",
+      "snippet": "Principal Group Engineering Manager at Microsoft · I am privileged be part ... Algorithms - ESA 2008, 16th Annual European Symposium, Karlsruhe, Germany Sep 2008.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Principal Group Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Poorna Gaddehosur"
+    },
+    {
+      "position": 72,
+      "title": "Karen Semyan - Principal Product Manager, Windows ...",
+      "link": "https://www.linkedin.com/in/karensemyan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/karensemyan&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECFcQAQ",
+      "displayed_link": "650+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897ae17475c79ea2afa406ec3013cd635bf.png",
+      "snippet": "Microsoft Graphic. Principal Product Manager, Windows Responsible AI & Data. Microsoft. Mar 2021 - Present 4 years. Seattle, Washington, United States ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Product Manager, Windows Responsible AI & Data",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Karen Semyan"
+    },
+    {
+      "position": 73,
+      "title": "Carsten Thiel - Customer Success Account Manager (CSAM)",
+      "link": "https://de.linkedin.com/in/carstenthielmicrosoft/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/carstenthielmicrosoft/en&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECGMQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897d84527c8d7e6b9c47ee18e91b12e940a.png",
+      "snippet": "Customer Success Account Manager (CSAM) for German customers @Microsoft Germany with more than 40 years of experience in IT ... INSEAD Executive Education.",
+      "snippet_highlighted_words": [
+        "Microsoft Germany",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cologne, North Rhine-Westphalia, Germany",
+            "Customer Success Account Manager (CSAM)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carsten Thiel"
+    },
+    {
+      "position": 74,
+      "title": "Tomáš Viatr - Solutions Architect - Microsoft",
+      "link": "https://de.linkedin.com/in/tom%C3%A1%C5%A1-viatr/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/tom%25C3%25A1%25C5%25A1-viatr/en&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECGgQAQ",
+      "displayed_link": "790+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897c905fd390c3e1bacb449e95aa0eeb1e6.png",
+      "snippet": "Tomáš Viatr. Solutions Architect at Microsoft. Microsoft Technical University of Ostrava. Berlin, Berlin, Germany. 792 followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tomáš Viatr"
+    },
+    {
+      "position": 75,
+      "title": "Sydne-Aline Strasser - Microsoft",
+      "link": "https://www.linkedin.com/in/sydnestrasser/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sydnestrasser/&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECGQQAQ",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89790bffab6dde0f6902a663bc8b7c9bfb0.png",
+      "snippet": "Sydne-Aline Strasser. Microsoft IE Business School. Munich, Bavaria, Germany ... INSEAD Executive Education. Issued Jan 2016. See credential · Microsoft-INSEAD ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "Executive",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sydne-Aline Strasser"
+    },
+    {
+      "position": 76,
+      "title": "Ansley Yeo - Microsoft",
+      "link": "https://www.linkedin.com/in/ansleyyeo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ansleyyeo&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECGIQAQ",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8976551aa2c7cc8e3b39908a3b212ed46f9.png",
+      "snippet": "Microsoft Certified: Azure Solutions Architect Expert · Microsoft. Issued Apr ... Jan 2020 - Present 5 years 3 months. Education. GMI provides mentoring ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Architect",
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ansley Yeo"
+    },
+    {
+      "position": 77,
+      "title": "Shawn Rand – Cloud Solution Architect - Microsoft",
+      "link": "https://de.linkedin.com/in/shawn-rand-aa870993",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/shawn-rand-aa870993&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCIMBEAE",
+      "displayed_link": "520+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897c6e2e77eab5a3083250a2924df0012c6.png",
+      "snippet": "Shawn Rand. Principal Cloud Solution Architect at Microsoft. Microsoft ... –Heute 2 Jahre 9 Monate. Rauenberg, Baden-Württemberg, Germany. Microsoft Grafik ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Rauenberg, Baden-Württemberg, Deutschland",
+            "Cloud Solution Architect",
+            "Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shawn Rand"
+    },
+    {
+      "position": 78,
+      "title": "Kavitha Lingamoorthy - Principal Group Product Manager",
+      "link": "https://www.linkedin.com/in/lkavitha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lkavitha&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECH0QAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8972ac63028f10252c507e790a49571e33a.png",
+      "snippet": "Principal Group Product Manager. Microsoft. Jun 2022 ; Sr Software Developer. SBC. Oct 2004 ; Technical Delivery Manager. Siemens. Jul 2003 ; IT Consultant.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Principal Group Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kavitha Lingamoorthy"
+    },
+    {
+      "position": 79,
+      "title": "Abhijat Singh - Principal Program Manager Lead - Microsoft",
+      "link": "https://www.linkedin.com/in/abhijat-singh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/abhijat-singh&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECHsQAQ",
+      "displayed_link": "790+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8979b094a61e7f5f85dd69fb10bd673cbd9.png",
+      "snippet": "Principal Program Manager Lead at Microsoft · Strategic and customer-focused technology strategist with 22 years of technology experience ranging from ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Principal Program Manager Lead",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Abhijat Singh"
+    },
+    {
+      "position": 80,
+      "title": "Tomas Letko - Principal Industry Architect at Microsoft",
+      "link": "https://de.linkedin.com/in/tomasletko",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/tomasletko&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCIEBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897503b24dac2a82161d71d65352e9f0f9f.png",
+      "snippet": "Principal Industry Architect at Microsoft · As Principal Industry Architect ... Manufacturing Solution Architect. Intel Corporation. Dez. 2015 – Sept ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Microsoft",
+        "Principal",
+        "Architect",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+            "Principal Industry Architect for Manufacturing and Industrial",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tomas Letko"
+    },
+    {
+      "position": 81,
+      "title": "Tiago Macarios - Principal Software Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/tiagomacarios",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tiagomacarios&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECH4QAQ",
+      "displayed_link": "500+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897fa540d5aa3bdaab2276916b14612cdb9.png",
+      "snippet": "Principal Software Engineer at Microsoft · I have been shipping CAE ... Hannover Area, Germany. Helped collect and develop data about acoustic fields ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Principal Software Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tiago Macarios"
+    },
+    {
+      "position": 82,
+      "title": "Andrey Antipov - Principal Research Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/aeantipov",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aeantipov&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCJYBEAE",
+      "displayed_link": "380+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897abfb0574e290e6352109bc5eb92ca433.png",
+      "snippet": "Principal Research Manager at Microsoft Quantum · Researching hardware for # ... 2 years 1 month. Dresden Area, Germany. Researched Kondo ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Santa Barbara, California, United States",
+            "Principal Research Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrey Antipov"
+    },
+    {
+      "position": 83,
+      "title": "Maik Luu Bach - Solutions Engineer - Databricks",
+      "link": "https://de.linkedin.com/in/luubach/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/luubach/en&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCJsBEAE",
+      "displayed_link": "940+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8971b3107e699c3ee405584f09cbac62d14.png",
+      "snippet": "Microsoft. 1 year 2 months · Microsoft Graphic. Cloud Solution Architect - Engineer. Microsoft. May 2022 - Dec 2022 8 months. Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Solutions Engineer",
+            "Databricks"
+          ]
+        }
+      },
+      "source": "LinkedIn · Maik Luu Bach"
+    },
+    {
+      "position": 84,
+      "title": "Joao Paulo Sevegnani – Microsoft",
+      "link": "https://de.linkedin.com/in/joao-sevegnani",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/joao-sevegnani&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCJoBEAE",
+      "displayed_link": "41.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897f707ab46ddcfd76f04f5ca7340e88067.png",
+      "snippet": "I'm an accomplished cybersecurity and cloud solutions architect with a passion for… · Microsoft · Centro Universitário Leonardo da Vinci - UNIASSELVI ...",
+      "snippet_highlighted_words": [
+        "architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Düsseldorf und Umgebung",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joao Paulo Sevegnani"
+    },
+    {
+      "position": 85,
+      "title": "Sam Lester - Principal Group Engineering Manager",
+      "link": "https://www.linkedin.com/in/samuellester",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/samuellester&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCJwBEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8976727f280fcbefab2cda7ff4ccb869740.png",
+      "snippet": "Principal Director of Engineering - Microsoft Azure Data Platform · Azure ... Architect, I currently lead a software engineering organization within ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Group Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sam Lester"
+    },
+    {
+      "position": 86,
+      "title": "Ignacio García - Sales Engineer - Solutions Architect",
+      "link": "https://es.linkedin.com/in/igngar/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://es.linkedin.com/in/igngar/en&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCLcBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897f9fdd744334124052dc300fb631277f8.png",
+      "snippet": "Ignacio García. Customer Engineer @ Google Cloud | Google | ex-AWS | ex-Microsoft | IESE Executive MBA ... AWS Solution Architect Associate Graphic. AWS ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Executive",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Madrid Metropolitan Area",
+            "Sales Engineer",
+            "Solutions Architect",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ignacio García"
+    },
+    {
+      "position": 87,
+      "title": "Fjona Kopani – Cloud Solution Architect – Microsoft",
+      "link": "https://de.linkedin.com/in/fjona-kopani-167809197",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/fjona-kopani-167809197&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCLMBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897f968fd5287a0474cb58ed870bca32dc7.png",
+      "snippet": "Cloud Solution Architect @Microsoft | TUM Blockchain Club | M.Sc. Management ... AIESEC in Germany. Juni 2021 – Feb. 2022 9 Monaten. Together with my ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Fjona Kopani"
+    },
+    {
+      "position": 88,
+      "title": "Mark Simos - Microsoft",
+      "link": "https://www.linkedin.com/in/marksimos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marksimos&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCLUBEAE",
+      "displayed_link": "24.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897c7048c176a553edd525b0a1160455cdb.png",
+      "snippet": "\"Every poem is a momentary stay against the confusion of the world.\" - Robert… · Microsoft · University of Phoenix · Tampa · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Tampa, Florida, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Simos"
+    },
+    {
+      "position": 89,
+      "title": "Ted Kempf - Honorary Consul - Federal Republic of Germany",
+      "link": "https://www.linkedin.com/in/ted-kempf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ted-kempf&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCLQBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897062ac33cbef2c490a7312cbea16c30a1.png",
+      "snippet": "... Microsoft · Successful, results focused marketing and sales executive with ... Principal Analyst. Gartner. 1998 - 2003 5 years. Education. New York ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "executive",
+        "Principal"
+      ],
+      "source": "LinkedIn · Ted Kempf"
+    },
+    {
+      "position": 90,
+      "title": "Safeena Begum - Principal PM Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/safeena-begum-550a5740",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/safeena-begum-550a5740&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCLgBEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897c355168213b21c28d587824d85708b81.png",
+      "snippet": "Principal PM Manager @ Microsoft · Experience: Microsoft · Education ... Microsoft Certified: Azure Solutions Architect Expert Graphic · Microsoft ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Principal PM Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Safeena Begum"
+    },
+    {
+      "position": 91,
+      "title": "Nathan Green - Principal Software Engineering Manager",
+      "link": "https://www.linkedin.com/in/nathansgreen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nathansgreen&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCNABEAE",
+      "displayed_link": "600+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897d2b4078bf59811b3f9f320709b2140eb.png",
+      "snippet": "Principal Software Engineering Manager at Microsoft · • Object Oriented ... I spent two weeks in Bonn, Germany working directly with the UN-SPIDER team ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Software Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nathan Green"
+    },
+    {
+      "position": 92,
+      "title": "Marius Strom - Principal Program Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/mariusstrom",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mariusstrom&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoFCNEBEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897c879f4c8ff63e32e93ed4ff92c5a21a4.png",
+      "snippet": "Principal Program Manager at Microsoft · Experienced and passionate information security leader with strong background in offensive security operations (red ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Principal Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marius Strom"
+    },
+    {
+      "position": 93,
+      "title": "Florian Meyer - Microsoft",
+      "link": "https://www.linkedin.com/in/mrflorianmeyer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mrflorianmeyer&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECEcQAQ",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897123999cc228982e82361ffef06f911d7.png",
+      "snippet": "Bachelor of Science (B.Sc.) Graduation with Honors. University of Applied Sciences Luebeck, Germany ... Executive team at Microsoft. Florian impressed straight ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Executive",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Florian Meyer"
+    },
+    {
+      "position": 94,
+      "title": "T.J. Ross - Principal Software Engineer at Microsoft",
+      "link": "https://www.linkedin.com/in/thross",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/thross&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECDEQAQ",
+      "displayed_link": "150+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8977983aa68c1d8ea3d70883a8ce429ee22.png",
+      "snippet": "T.J. Ross. Principal Software Engineer at Microsoft. Microsoft. Seattle ... Microsoft Germany Graphic. Senior Software Engineering Lead. Microsoft Germany.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft Germany",
+        "Microsoft Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Software Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · T.J. Ross"
+    },
+    {
+      "position": 95,
+      "title": "Matej Ciesko - Principal Software Engineering Manager",
+      "link": "https://www.linkedin.com/in/matejciesko",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matejciesko&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECC8QAQ",
+      "displayed_link": "350+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897fd46873dc89e6da1b4cdc4f4bc805ce7.png",
+      "snippet": "Principal Software Engineering Manager at Microsoft · My background is in ... - Consultant and solution architect for HPC in academia. Microsoft Graphic ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "solution architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Software Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matej Ciesko"
+    },
+    {
+      "position": 96,
+      "title": "Evgeniya Beba-Akulova – Executive Coach",
+      "link": "https://de.linkedin.com/in/evgeniyabeba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/evgeniyabeba&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECCsQAQ",
+      "displayed_link": "6.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897fcb72d4e53363dd5caa8975aab863313.png",
+      "snippet": "As a host of a TV show on careers in Germany, I bring current insights and ... Microsoft Academy: Kellogg on Marketing. Kellogg Executive Education.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "current",
+        "Microsoft",
+        "Executive"
+      ],
+      "source": "LinkedIn · Evgeniya Beba-Akulova"
+    },
+    {
+      "position": 97,
+      "title": "Lisa Pham - Customer Solution Architect - Microsoft",
+      "link": "https://de.linkedin.com/in/lispham/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/lispham/en&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECC0QAQ",
+      "displayed_link": "580+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897522262947743ac03157895c0712317c1.png",
+      "snippet": "Customer Solution Architect @ Microsoft | Ex- eBay · Currently working at Microsoft as Customer Solution Architect ... Berlin,Germany. eBay Ads empowers ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "Solution Architect",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin Metropolitan Area",
+            "Customer Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lisa Pham"
+    },
+    {
+      "position": 98,
+      "title": "Molly Schachter - Director, Executive Communications & ...",
+      "link": "https://www.linkedin.com/in/mollyschachter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mollyschachter&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECC4QAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e8975cb4607e0e71e2d3d7a3706c4ce19300.png",
+      "snippet": "Microsoft. 4 years 7 months. Microsoft Graphic. Director, Executive Communications & Planning, Consumer Sales Organization. Microsoft. Oct 2022 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Executive",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Director, Executive Communications & Planning, Consumer Sales Organization",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Molly Schachter"
+    },
+    {
+      "position": 99,
+      "title": "Sabrina Rohenroth - Deal Manager (formerly Licensing ...",
+      "link": "https://de.linkedin.com/in/sabrinarohenroth/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sabrinarohenroth/en&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECDAQAQ",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e89775aa252dafb38095cc328d00c76b7cb4.png",
+      "snippet": "Deal Manager (formerly Licensing Executive). Microsoft. Aug 2019 ; Team Manager Specialised Sales Microsoft. COMPAREX AG - A SoftwareOne Company. Jul 2017 ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Deal Manager (formerly Licensing Executive)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sabrina Rohenroth"
+    },
+    {
+      "position": 100,
+      "title": "Frank Oltmanns-Mack - Microsoft",
+      "link": "https://de.linkedin.com/in/frankoltmannsmack/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/frankoltmannsmack/en&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQFnoECCoQAQ",
+      "displayed_link": "940+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf989faedb3e3531cb2a1/images/11fa31ba59e8eb70472eca472da7e897a3dc5179df49af6b5001647f111c4d31.png",
+      "snippet": "Azure Solutions Architect Expert, Cloud Computing, Public Cloud, Consulting · Experience: Microsoft · Education: University of Bonn · Location: Bonn · 500+ ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bonn, North Rhine-Westphalia, Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Frank Oltmanns-Mack"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=ivndZ9SmEfmYwbkPkazlwA4&start=100&sa=N&sstk=Af40H4WaGr2KfqXL_Xld5V_vMig9ZguBSxOYIsXnshsdus3AhtMQ-P6Xz3rH00tqMz19j5AiMKQ-mT3I3zSbDl6dESYsv4XhE9-HQA&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQ8NMDegQIDRAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=ivndZ9SmEfmYwbkPkazlwA4&start=100&sa=N&sstk=Af40H4WaGr2KfqXL_Xld5V_vMig9ZguBSxOYIsXnshsdus3AhtMQ-P6Xz3rH00tqMz19j5AiMKQ-mT3I3zSbDl6dESYsv4XhE9-HQA&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQ8tMDegQIDRAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=ivndZ9SmEfmYwbkPkazlwA4&start=200&sa=N&sstk=Af40H4WaGr2KfqXL_Xld5V_vMig9ZguBSxOYIsXnshsdus3AhtMQ-P6Xz3rH00tqMz19j5AiMKQ-mT3I3zSbDl6dESYsv4XhE9-HQA&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQ8tMDegQIDRAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=ivndZ9SmEfmYwbkPkazlwA4&start=300&sa=N&sstk=Af40H4WaGr2KfqXL_Xld5V_vMig9ZguBSxOYIsXnshsdus3AhtMQ-P6Xz3rH00tqMz19j5AiMKQ-mT3I3zSbDl6dESYsv4XhE9-HQA&ved=2ahUKEwjUk7mHrZyMAxV5TDABHRFWGegQ8tMDegQIDRAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=300"
+    }
+  }
+}

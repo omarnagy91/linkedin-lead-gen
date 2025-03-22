@@ -1,0 +1,2107 @@
+{
+  "search_metadata": {
+    "id": "67ddf99a4b6778e75d1ea3f1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0f92fc1bc7765a45/67ddf99a4b6778e75d1ea3f1.json",
+    "created_at": "2025-03-21 23:43:22 UTC",
+    "processed_at": "2025-03-21 23:43:22 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0f92fc1bc7765a45/67ddf99a4b6778e75d1ea3f1.html",
+    "total_time_taken": 0.92
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"United States\" AND (current OR present) AND (\"CIO\" OR \"Chief Information Officer\" OR \"CISO\" OR \"Chief Information Security Officer\" OR \"CMO\" OR \"Chief Marketing Officer\" OR \"CPO\" OR \"Chief Product Officer\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"United States\" AND (current OR present) AND (\"CIO\" OR \"Chief Information Officer\" OR \"CISO\" OR \"Chief Information Security Officer\" OR \"CMO\" OR \"Chief Marketing Officer\" OR \"CPO\" OR \"Chief Product Officer\")",
+    "total_results": 11300000,
+    "time_taken_displayed": 0.75,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Phil Venables - Google",
+      "link": "https://www.linkedin.com/in/philvenables",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/philvenables&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECAkQAQ",
+      "displayed_link": "66.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60713996bc491448244cb501f354e7585c.png",
+      "snippet": "Phil Venables. Google University of Oxford. New York, New York, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Phil Venables"
+    },
+    {
+      "position": 2,
+      "title": "Chris DeRusha - Google",
+      "link": "https://www.linkedin.com/in/chris-derusha-6325805",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chris-derusha-6325805&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECBcQAQ",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60600decc702cd0cde4b320457807dabc3.png",
+      "snippet": "Chris DeRusha. Google Columbia | SIPA. Washington, District of Columbia, United States. 4K followers ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris DeRusha"
+    },
+    {
+      "position": 3,
+      "title": "Lorraine Twohill - Google",
+      "link": "https://www.linkedin.com/in/lorraine-twohill-ba3a56185",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lorraine-twohill-ba3a56185&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECCEQAQ",
+      "displayed_link": "73.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60d09641ea374132f8eb169d7573642fed.png",
+      "snippet": "Lorraine Twohill is an influencer. Google Dublin City University About CMO at Google. Passionate about building brand love for Google.",
+      "snippet_highlighted_words": [
+        "Google",
+        "CMO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lorraine Twohill"
+    },
+    {
+      "position": 4,
+      "title": "zorif seth - Chief Information Officer - Google",
+      "link": "https://www.linkedin.com/in/zorif-seth-83897616",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/zorif-seth-83897616&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECB4QAQ",
+      "displayed_link": "50+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6082fff709297f175cbe2143b2c1f97125.png",
+      "snippet": "zorif seth. chief information officer at Google. Google ETH Zürich. New York, New York, United States.",
+      "snippet_highlighted_words": [
+        "chief information officer",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Chief Information Officer",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · zorif seth"
+    },
+    {
+      "position": 5,
+      "title": "Chris Roosenraad - Google Fiber",
+      "link": "https://www.linkedin.com/in/chrisroosenraad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chrisroosenraad&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECBkQAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6077584789f774f1cb2d81a88de0de7a0b.png",
+      "snippet": "Chris Roosenraad. Google Fiber Williams College. Vienna, Virginia, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Vienna, Virginia, United States",
+            "Google Fiber"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Roosenraad"
+    },
+    {
+      "position": 6,
+      "title": "Alison Wagonfeld - Google",
+      "link": "https://www.linkedin.com/in/alisonwagonfeld",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alisonwagonfeld&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECBYQAQ",
+      "displayed_link": "16.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc600d94b8fa8a4853c4c52b6633d17826a3.png",
+      "snippet": "Experience. Google Graphic. Google. Mountain View, CA. -. San Jose, California, United States. -. San Mateo, California. -. Greater Seattle Area. -. Greater New ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "source": "LinkedIn · Alison Wagonfeld"
+    },
+    {
+      "position": 7,
+      "title": "Anton Chuvakin - Google",
+      "link": "https://www.linkedin.com/in/chuvakin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chuvakin&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECC0QAQ",
+      "displayed_link": "28K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60f7c2f025da6c42ce7b5412eabae91328.png",
+      "snippet": "Anton Chuvakin. Google SUNY Stony Brook. Sunnyvale, California, United States. 28K followers 500 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sunnyvale, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anton Chuvakin"
+    },
+    {
+      "position": 8,
+      "title": "Ty Nelson - Information Security - Google",
+      "link": "https://www.linkedin.com/in/nelsonty",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nelsonty&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECCsQAQ",
+      "displayed_link": "33.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60c1cbe098a5e34f50fc583413b2cfb2ec.png",
+      "snippet": "Ty Nelson. Head of Information Security | MS Cybersecurity, MBA, CIPP, CISSP, CRISC, C|CISO, CISM. Google Cornell University. United States.",
+      "snippet_highlighted_words": [
+        "CISO",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Information Security",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ty Nelson"
+    },
+    {
+      "position": 9,
+      "title": "Sarah Kennedy Ellis - Google",
+      "link": "https://www.linkedin.com/in/saykay",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/saykay&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCOQBEAE",
+      "displayed_link": "9.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6062180ece9a3fe550e62881a50b1faaa6.png",
+      "snippet": "Sarah Kennedy Ellis. Google Baylor University - Hankamer School of Business. Denver, Colorado, United States. 10K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Denver, Colorado, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Kennedy Ellis"
+    },
+    {
+      "position": 10,
+      "title": "Alexander Schuchman - Basking Ridge, New Jersey ...",
+      "link": "https://www.linkedin.com/in/alexander-schuchman-90152",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alexander-schuchman-90152&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECCwQAQ",
+      "displayed_link": "4.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60fd2d77777a7a74d3da6a7883b84b7d7c.png",
+      "snippet": "Alexander Schuchman. Basking Ridge, New Jersey, United States. 5K ... Google Cloud CISO Customer Advisory Board. Member. Jan 2021 - Present. Retail ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "CISO",
+        "Present"
+      ],
+      "source": "LinkedIn · Alexander Schuchman"
+    },
+    {
+      "position": 11,
+      "title": "Lena Smart - SecurityPal",
+      "link": "https://www.linkedin.com/in/lena-smart-04709b143",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lena-smart-04709b143&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCJIBEAE",
+      "displayed_link": "8.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60089f34873f2c69799f6a91b967a70239.png",
+      "snippet": "Lena Smart, CISO, wins honor · Lena Smart, CIO, wins KITE award - CIO of the year.",
+      "snippet_highlighted_words": [
+        "CISO",
+        "CIO",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "SecurityPal"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lena Smart"
+    },
+    {
+      "position": 12,
+      "title": "John Dickson - Chief Information Security Officer",
+      "link": "https://www.linkedin.com/in/john-e-dickson-ciso",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-e-dickson-ciso&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCOUBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60b38ec5a8fd889cef422f5c3d45faaf2e.png",
+      "snippet": "Chief Information Security Officer · As CISO, John is responsible for ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Alpharetta, Georgia, United States",
+            "Vice President, Chief Information Security Officer",
+            "Colonial Pipeline Company"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Dickson"
+    },
+    {
+      "position": 13,
+      "title": "Virginia Sharma - Head of Brand and Product Marketing ...",
+      "link": "https://www.linkedin.com/in/virginiasharma",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/virginiasharma&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCIICEAE",
+      "displayed_link": "60K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60d426173cb1065dba3fe8bd81333e70ea.png",
+      "snippet": "Head of Brand and Product Marketing, Google Public Sector. Google. Jan 2024 - Present 1 year 3 months. Reston, Virginia, United States.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Virginia Sharma"
+    },
+    {
+      "position": 14,
+      "title": "Dave Estlick - Seattle, Washington, United States",
+      "link": "https://www.linkedin.com/in/destlick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/destlick&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECCcQAQ",
+      "displayed_link": "8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc605075453fbf65eec8cf2c68f35bc744e9.png",
+      "snippet": "The C100 promises to be one of the most valuable and credible CISO recognition with transparent criteria and the Distinguished CISO Board members making the ...",
+      "snippet_highlighted_words": [
+        "CISO",
+        "CISO"
+      ],
+      "source": "LinkedIn · Dave Estlick"
+    },
+    {
+      "position": 15,
+      "title": "Alexis Wales - Chief Information Security Officer - GitHub",
+      "link": "https://www.linkedin.com/in/alexis-wales-github-security",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alexis-wales-github-security&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECGAQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6007f24af541d4149256e90431958025d0.png",
+      "snippet": "Alexis Wales. CISO, GitHub. GitHub The George Washington University. Alexandria, Virginia, United States.",
+      "snippet_highlighted_words": [
+        "CISO",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Alexandria, Virginia, United States",
+            "Chief Information Security Officer",
+            "GitHub"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexis Wales"
+    },
+    {
+      "position": 16,
+      "title": "Francois Ajenstat - Seattle, Washington, United States",
+      "link": "https://www.linkedin.com/in/francoisajenstat",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/francoisajenstat&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCJEBEAE",
+      "displayed_link": "11.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60e80c6d142efc47b68ef5c0ea58a64ac6.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... “Best damn Product Manager (and CPO) on the planet! Full stop. Tough job ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CPO"
+      ],
+      "source": "LinkedIn · Francois Ajenstat"
+    },
+    {
+      "position": 17,
+      "title": "Graeme Thompson - San Jose, California, United States",
+      "link": "https://www.linkedin.com/in/graeme-thompson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/graeme-thompson&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCLgBEAE",
+      "displayed_link": "4.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6014ddf9586fca540275dbdcf78cb1aa4b.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... The CIO Reading List... Execution: The… 38. 4 Comments. See all articles ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CIO"
+      ],
+      "source": "LinkedIn · Graeme Thompson"
+    },
+    {
+      "position": 18,
+      "title": "Drew Panayiotou - Chief Marketing Officer - Keurig Dr ...",
+      "link": "https://www.linkedin.com/in/drewpanayiotou",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/drewpanayiotou&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCOMBEAE",
+      "displayed_link": "17.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6053840e8b7a27db1ad86ba0f4fac1d683.png",
+      "snippet": "2022 - Oct 2024 2 years. Boulder, Colorado, United States. Swire Coca-Cola ... Verily / Google Life Sciences - Chief Marketing Officer. Google. Nov 2020 ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Chief Marketing Officer",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Denver Metropolitan Area",
+            "Chief Marketing Officer",
+            "Keurig Dr Pepper Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Drew Panayiotou"
+    },
+    {
+      "position": 19,
+      "title": "Jesse Whaley - Chief Information Security Officer - Amtrak",
+      "link": "https://www.linkedin.com/in/cisojesse",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cisojesse&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCP4BEAE",
+      "displayed_link": "9.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc601e06ad82438f41c0019bcfb56cf0d8e0.png",
+      "snippet": "Chief Information Security Officer @ Amtrak | Board Advisor | ORBIE CISO ... Director, IT (CIO/CISO Equivalent). United States Department of Defense. Jan ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "CIO",
+        "CISO",
+        "United States"
+      ],
+      "source": "LinkedIn · Jesse Whaley"
+    },
+    {
+      "position": 20,
+      "title": "Katie C. - Global Chief Information Security Officer (CISO)",
+      "link": "https://www.linkedin.com/in/katie-c-8027521",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katie-c-8027521&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCIkCEAE",
+      "displayed_link": "4.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc608e758f9d0b3c133b2728e9874d87995e.png",
+      "snippet": "Global Chief Information Security Officer (CISO). Boston Consulting Group (BCG). Jul 2024 - Present 9 months. Washington, District of Columbia, United States.",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Global Chief Information Security Officer (CISO)",
+            "Boston Consulting Group (BCG)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katie C."
+    },
+    {
+      "position": 21,
+      "title": "John Maddison - Sunnyvale, California, United States",
+      "link": "https://www.linkedin.com/in/jomaddison",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jomaddison&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCKACEAE",
+      "displayed_link": "14.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc602188091e2a320ffbe92dd3c8a110a6cf.png",
+      "snippet": "John Maddison. Sunnyvale, California, United States. 14K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · John Maddison"
+    },
+    {
+      "position": 22,
+      "title": "Michael McNeil - Irving, Texas, United States",
+      "link": "https://www.linkedin.com/in/mcneilmichael",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mcneilmichael&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECCoQAQ",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc600df40f74ed8818cf49cae4ba5c85956b.png",
+      "snippet": "Michael McNeil. Irving, Texas, United States. 5K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Michael McNeil"
+    },
+    {
+      "position": 23,
+      "title": "daniel perez - Chief Information Officer - Alphabet Inc.",
+      "link": "https://www.linkedin.com/in/daniel-perez-7294191b3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/daniel-perez-7294191b3&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECEUQAQ",
+      "displayed_link": "20+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc603f4511930c82b28b67ecaac1674446fa.png",
+      "snippet": "Chief Information Officer at Alphabet Inc. Alphabet Inc. Kissimmee, Florida, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Chief Information Officer",
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kissimmee, Florida, United States",
+            "Chief Information Officer",
+            "Alphabet Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · daniel perez"
+    },
+    {
+      "position": 24,
+      "title": "Jamil Farshchi - EVP, Chief Information Security Officer & ...",
+      "link": "https://www.linkedin.com/in/jamilfarshchi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jamilfarshchi&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECF4QAQ",
+      "displayed_link": "41.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60a44f822a41e048597c4dff1a7c80c7c1.png",
+      "snippet": "Jamil Farshchi is an influencer. Equifax CISO & CTO | UKG Board Member | FBI Advisor. Equifax. Atlanta, Georgia, United States.",
+      "snippet_highlighted_words": [
+        "CISO",
+        "United States"
+      ],
+      "source": "LinkedIn · Jamil Farshchi"
+    },
+    {
+      "position": 25,
+      "title": "Wafaa Mamilli - Roche",
+      "link": "https://www.linkedin.com/in/wafaamamilli",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/wafaamamilli&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECHgQAQ",
+      "displayed_link": "10.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6067b7ecae4a810185cd515a43434a5783.png",
+      "snippet": "Forbes CIO Next. ... By clicking Continue to join or sign in, you agree to LinkedIn's User Agreement, Privacy Policy, and Cookie Policy. Continue with Google ...",
+      "snippet_highlighted_words": [
+        "CIO",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Parsippany, New Jersey, United States",
+            "Roche"
+          ]
+        }
+      },
+      "source": "LinkedIn · Wafaa Mamilli"
+    },
+    {
+      "position": 26,
+      "title": "Gary Hayslip - SoftBank Investment Advisers",
+      "link": "https://www.linkedin.com/in/ghayslip",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ghayslip&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCJcBEAE",
+      "displayed_link": "197K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc600512bd090a8701fbc46eef163b2c43fe.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... The FBI Chief Information Security Officer (CISO) Academy is a unique ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Information Security Officer",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "SoftBank Investment Advisers"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gary Hayslip"
+    },
+    {
+      "position": 27,
+      "title": "Carolann Shields, CISSP, CISO - Houston, Texas, United ...",
+      "link": "https://www.linkedin.com/in/carolannshields",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/carolannshields&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCK0BEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc607951e8b9c52d979d804936095e935744.png",
+      "snippet": "Carolann Shields, CISSP, CISO. Houston, Texas, United States. 2K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "CISO",
+        "United States"
+      ],
+      "source": "LinkedIn · Carolann Shields, CISSP, CISO"
+    },
+    {
+      "position": 28,
+      "title": "Aruna Ravichandran (she/her) - Cisco",
+      "link": "https://www.linkedin.com/in/aruna2u",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aruna2u&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCMMBEAE",
+      "displayed_link": "25.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60f5c4d8a50d3b9eb211a1831f0196b6b1.png",
+      "snippet": "A results-driven Global CMO with a strong background in digital and product marketing… · ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "CMO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Cisco"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aruna Ravichandran (she/her)"
+    },
+    {
+      "position": 29,
+      "title": "Tim Crothers - UnitedHealth Group",
+      "link": "https://www.linkedin.com/in/timcrothers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/timcrothers&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCNMBEAE",
+      "displayed_link": "11.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc606ff5b0a87d094055e5556d9b2c963184.png",
+      "snippet": "Tim Crothers. UnitedHealth Group Bethel College. Sarasota, Florida, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sarasota, Florida, United States",
+            "UnitedHealth Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tim Crothers"
+    },
+    {
+      "position": 30,
+      "title": "Mandy Andress - CISO - Elastic",
+      "link": "https://www.linkedin.com/in/mandyandress",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mandyandress&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCOIBEAE",
+      "displayed_link": "6.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60c27bf0b3679bad3bd9f2e013fc8b94db.png",
+      "snippet": "In her current role as Chief Information Security Officer at Elastic, Mandy ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or.",
+      "snippet_highlighted_words": [
+        "current",
+        "Chief Information Security Officer",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Mandy Andress"
+    },
+    {
+      "position": 31,
+      "title": "Neville Letzerich - Talkdesk",
+      "link": "https://www.linkedin.com/in/nevilleletzerich",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nevilleletzerich&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCPABEAE",
+      "displayed_link": "8.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60c84b3a06e99b83bad94be7776a8e60db.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... As the Chief Marketing Officer at Talkdesk, I lead the global marketing ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Marketing Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Talkdesk"
+          ]
+        }
+      },
+      "source": "LinkedIn · Neville Letzerich"
+    },
+    {
+      "position": 32,
+      "title": "Timothy Goodwin - Chief Information Security Officer",
+      "link": "https://www.linkedin.com/in/timothy-goodwin-722011279",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/timothy-goodwin-722011279&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCP0BEAE",
+      "displayed_link": "530+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60d1942c25304a8b500cd42bd275fe4cfc.png",
+      "snippet": "... CIO's Office of Organizational Policy and Governance. Not only did I help ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "CIO's",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Alexandria, Virginia, United States",
+            "Chief Information Security Officer",
+            "USPTO"
+          ]
+        }
+      },
+      "source": "LinkedIn · Timothy Goodwin"
+    },
+    {
+      "position": 33,
+      "title": "Kyle Coleman - Chief Marketing Officer - Copy.ai",
+      "link": "https://www.linkedin.com/in/kyletcoleman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kyletcoleman&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCIcCEAE",
+      "displayed_link": "132.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6035c4d685e3e496babaf8676f612552c4.png",
+      "snippet": "CMO @ Copy.ai || Helping companies eliminate GTM Bloat. Copy.ai William & Mary – Raymond A. Mason School of Business. Denver, Colorado, United States. 132K ...",
+      "snippet_highlighted_words": [
+        "CMO",
+        "United States"
+      ],
+      "source": "LinkedIn · Kyle Coleman"
+    },
+    {
+      "position": 34,
+      "title": "Rich Agostino - Target",
+      "link": "https://www.linkedin.com/in/rich-agostino",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rich-agostino&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCJgCEAE",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60711c8b9c1b27a6adaf4ee8ea64a61754.png",
+      "snippet": "CSO Hall of Fame. CSO · EWF Catalyst Award 2021. Executive Women's Forum on information security, risk management & privacy · RH-ISAC CISO of the Year 2021.",
+      "snippet_highlighted_words": [
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Minneapolis, Minnesota, United States",
+            "Target"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rich Agostino"
+    },
+    {
+      "position": 35,
+      "title": "Margarita Rivera - Global Chief Information Security Officer",
+      "link": "https://www.linkedin.com/in/margarita-rivera-c-ciso-cissp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/margarita-rivera-c-ciso-cissp&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCJ4CEAE",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60a56e74de9a5762b3b95dead356b435ac.png",
+      "snippet": "Continue with GoogleContinue with Google ... As a member of the Governing Body, I provide thought leadership and assist in setting the agenda for the CIO and CISO ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CIO",
+        "CISO"
+      ],
+      "source": "LinkedIn · Margarita Rivera"
+    },
+    {
+      "position": 36,
+      "title": "Tomer Cohen",
+      "link": "https://www.linkedin.com/in/tomercohen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tomercohen&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCKICEAE",
+      "displayed_link": "98.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60667404b22b04f5c2e81c631cd71e2027.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... As the chief product officer at LinkedIn, I oversee all teams responsible for ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "chief product officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "LinkedIn"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tomer Cohen"
+    },
+    {
+      "position": 37,
+      "title": "Marian Lee - Chief Marketing Officer - Netflix",
+      "link": "https://www.linkedin.com/in/marian-lee-bb27843",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marian-lee-bb27843&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCLMCEAE",
+      "displayed_link": "15.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc607356f4e4e27df0a7a3fa00644cbc4617.png",
+      "snippet": "Lee is the CMO for the world's largest streaming services company and one of the most culturally influential.",
+      "snippet_highlighted_words": [
+        "CMO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Chief Marketing Officer",
+            "Netflix"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marian Lee"
+    },
+    {
+      "position": 38,
+      "title": "Jonathan Mildenhall - Rocket",
+      "link": "https://www.linkedin.com/in/mildenhall",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mildenhall&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECCYQAQ",
+      "displayed_link": "38.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6050973628250478cbdbdf86e2a33f3ef9.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... United States. -. Philadelphia, Pennsylvania, United States. -. San ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "West Hollywood, California, United States",
+            "Rocket"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Mildenhall"
+    },
+    {
+      "position": 39,
+      "title": "Chris Capossela - Member of the Board of Directors",
+      "link": "https://www.linkedin.com/in/chriscapossela",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chriscapossela&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECEEQAQ",
+      "displayed_link": "181.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60c57ce5c0aa06456c34e296a1a21e7c5d.png",
+      "snippet": "Board Member at Lumen Technologies, Formlabs, and the USTA, Former Executive Vice President and Chief Marketing Officer ... Continue with GoogleContinue with ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "Google"
+      ],
+      "source": "LinkedIn · Chris Capossela"
+    },
+    {
+      "position": 40,
+      "title": "Motti Finkelstein - Intel Corporation",
+      "link": "https://www.linkedin.com/in/mottifinkelstein",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mottifinkelstein&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECEYQAQ",
+      "displayed_link": "7.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6083d1654c4831ba8cef3bcc12efdf0583.png",
+      "snippet": "Motti Finkelstein is the Corporate Vice President - Chief Information Officer (CIO)… · ... Continue with GoogleContinue with Google. New to LinkedIn? Join ...",
+      "snippet_highlighted_words": [
+        "Chief Information Officer",
+        "CIO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "Intel Corporation"
+          ]
+        }
+      },
+      "source": "LinkedIn · Motti Finkelstein"
+    },
+    {
+      "position": 41,
+      "title": "Parimala Rao - Deputy Chief Information Security Officer ...",
+      "link": "https://www.linkedin.com/in/parimala-rao-deputy-chief-information-security-officer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/parimala-rao-deputy-chief-information-security-officer&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECF0QAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6068bc8d72765bc27053c153d559e4fc11.png",
+      "snippet": "Deputy Chief Information Security Officer (CISO). United States Federal Government. 2023 - Present 2 years. Our vision is to ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "United States",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Deputy Chief Information Security Officer (CISO)",
+            "United States Federal Government"
+          ]
+        }
+      },
+      "source": "LinkedIn · Parimala Rao"
+    },
+    {
+      "position": 42,
+      "title": "David B. Cross - Chief Information Security Officer - Atlassian",
+      "link": "https://www.linkedin.com/in/david-b-cross-b856657",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-b-cross-b856657&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECF8QAQ",
+      "displayed_link": "10.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc607e7476b5364d95c2292818941e6d2eeb.png",
+      "snippet": "Chief Information Security Officer (CISO), cloud security executive and cyber security startup advisor. · ... Continue with GoogleContinue with Google. New ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · David B. Cross"
+    },
+    {
+      "position": 43,
+      "title": "Greg Barnes - Highmark Inc.",
+      "link": "https://www.linkedin.com/in/defender",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/defender&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECG8QAQ",
+      "displayed_link": "880+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60c8f8ac32dbf1cab3a97edcd309d24d00.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join ... CIO or CISO role in the Fortune 500 world. I'm thankful to count him as a ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CIO",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Highmark Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Greg Barnes"
+    },
+    {
+      "position": 44,
+      "title": "Marco Maiurano - First Citizens Bank",
+      "link": "https://www.linkedin.com/in/marcomaiurano",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marcomaiurano&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECHoQAQ",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60187231042654b8e891031d16db6b32a7.png",
+      "snippet": "... United States · 500+ connections on LinkedIn. View Marco Maiurano's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "First Citizens Bank"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marco Maiurano"
+    },
+    {
+      "position": 45,
+      "title": "Lee Parrish - Vice President, Chief Information Security ...",
+      "link": "https://www.linkedin.com/in/lee-parrish",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lee-parrish&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECH8QAQ",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60571e939b4fd8c0639bc64b3273075379.png",
+      "snippet": "Estero, Florida, United States. Vice President, Chief Information Security Officer + Chief Security Officer + Interim CIO. Blucora. Apr 2017 - Apr 2020 3 years ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Chief Information Security Officer",
+        "CIO"
+      ],
+      "source": "LinkedIn · Lee Parrish"
+    },
+    {
+      "position": 46,
+      "title": "Ravi Naik - Chief Information Officer & CISO - Altera, an ...",
+      "link": "https://www.linkedin.com/in/sv-ravi-naik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sv-ravi-naik&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCJMBEAE",
+      "displayed_link": "4.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60787428440e48f9eb9f9692eafc969eec.png",
+      "snippet": "Chief Information Officer & CISO · Pfeiffer & Ridge, Strategy Advisor · Member Board of Directors · EVP & CIO · Executive Vice President & GM Lyve Cloud Storage ...",
+      "snippet_highlighted_words": [
+        "Chief Information Officer",
+        "CISO",
+        "CIO"
+      ],
+      "source": "LinkedIn · Ravi Naik"
+    },
+    {
+      "position": 47,
+      "title": "Tomás Maldonado - Chief Information Security Officer (CISO)",
+      "link": "https://www.linkedin.com/in/tmaldonado",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tmaldonado&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCJUBEAE",
+      "displayed_link": "23.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc603f4cd464e3464fa6a655e4b333cbc616.png",
+      "snippet": "Chief Information Security Officer (CISO) - Corporate Technology & Risk ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Tomás Maldonado"
+    },
+    {
+      "position": 48,
+      "title": "Kevin Serafin - VP, Chief Information Security Officer - Ecolab",
+      "link": "https://www.linkedin.com/in/-kevinserafin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/-kevinserafin&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCKwBEAE",
+      "displayed_link": "840+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60ba1024fd766ffe6c184d732841489433.png",
+      "snippet": "Chief Information Security Officer. Ecolab. Minneapolis, Minnesota, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Minneapolis, Minnesota, United States",
+            "VP, Chief Information Security Officer",
+            "Ecolab"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin Serafin"
+    },
+    {
+      "position": 49,
+      "title": "Todd Kaplan - Chief Marketing Officer, North America",
+      "link": "https://www.linkedin.com/in/toddkaplan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/toddkaplan&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCLABEAE",
+      "displayed_link": "98.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6080f814f287fb9e12992c2356677342cb.png",
+      "snippet": "Chief Marketing Officer, North America at The Kraft Heinz Company · : CMO of Kraft Heinz North America. Former CMO ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "CMO",
+        "CMO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "Chief Marketing Officer, North America",
+            "Kraft Heinz"
+          ]
+        }
+      },
+      "source": "LinkedIn · Todd Kaplan"
+    },
+    {
+      "position": 50,
+      "title": "Jerri DeVard - Founder & CEO - Black Executive CMO ...",
+      "link": "https://www.linkedin.com/in/jerridevard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jerridevard&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCMgBEAE",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60345447e7e2b76f6371014a487de8b49a.png",
+      "snippet": "CEO at Black Executive CMO Alliance | CMO, Founder, Board Director · Accomplished Chief Marketing Officer ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "CMO",
+        "CMO",
+        "Chief Marketing Officer",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Jerri DeVard"
+    },
+    {
+      "position": 51,
+      "title": "Michael Hanley - Vice President, Chief Information Security ...",
+      "link": "https://www.linkedin.com/in/michaelphanley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michaelphanley&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCMoBEAE",
+      "displayed_link": "7.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60311db088f9c5e3d4aa582b62e8472ed5.png",
+      "snippet": "General Motors · Mike Hanley is Vice President and Chief Information Security Officer at General Motors ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ann Arbor, Michigan, United States",
+            "Vice President, Chief Information Security Officer",
+            "General Motors"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Hanley"
+    },
+    {
+      "position": 52,
+      "title": "Marc Berson - Palo Alto, California, United States",
+      "link": "https://www.linkedin.com/in/marcberson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marcberson&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCNkBEAE",
+      "displayed_link": "9.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60a6581a80b0e8cf802505f54d55ebcffd.png",
+      "snippet": "... CIO at Gilead Sciences. Marc was selected as an esteemed finalist through an ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "CIO",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Marc Berson"
+    },
+    {
+      "position": 53,
+      "title": "Jose Martinez - Chief Information Officer and Managing ...",
+      "link": "https://www.linkedin.com/in/martinezjosev",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/martinezjosev&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCNgBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc609148971970a825f6b83d0dbf50569cd3.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... CIO, CTO and CISO roles. With a team of elite Partners, Fortium excels in ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CIO",
+        "CISO"
+      ],
+      "source": "LinkedIn · Jose Martinez"
+    },
+    {
+      "position": 54,
+      "title": "Linda Tai - Chief Information Officer - M&T Bank",
+      "link": "https://www.linkedin.com/in/lindatai-tech",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lindatai-tech&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCOYBEAE",
+      "displayed_link": "7.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc607978461d1653a1ebc2437b51fa33698e.png",
+      "snippet": "Chief Information Officer (CIO), M&T Bank | Digital Transformation Pioneer ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join ...",
+      "snippet_highlighted_words": [
+        "Chief Information Officer",
+        "CIO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Chief Information Officer",
+            "M&T Bank"
+          ]
+        }
+      },
+      "source": "LinkedIn · Linda Tai"
+    },
+    {
+      "position": 55,
+      "title": "Doug L. - Abnormal Security",
+      "link": "https://www.linkedin.com/in/douglaslaird",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/douglaslaird&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCOcBEAE",
+      "displayed_link": "7.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc607cd78cd4c1ce0a06b98f9bb1b914dfe4.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... United States. -. -. -. -. -. -. - ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Abnormal Security"
+          ]
+        }
+      },
+      "source": "LinkedIn · Doug L."
+    },
+    {
+      "position": 56,
+      "title": "Jason Birnbaum - United Airlines",
+      "link": "https://www.linkedin.com/in/jebirnbaum",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jebirnbaum&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCO0BEAE",
+      "displayed_link": "4.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60d025cb39287e656cc83782e1ec9d3669.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... All IT liked Jason when he was EMEA CIO.” 1 person has recommended Jason.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Chicago Area",
+            "United Airlines"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jason Birnbaum"
+    },
+    {
+      "position": 57,
+      "title": "William Perry - Chief Information Security Officer",
+      "link": "https://www.linkedin.com/in/williamtperry",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/williamtperry&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCO4BEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc608c4e63d9b7d113abe411c3b2db05317b.png",
+      "snippet": "Chief Information Security Officer (CISO) | Expert in Enterprise Security ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Long Beach, California, United States",
+            "Chief Information Security Officer",
+            "The Marthom Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · William Perry"
+    },
+    {
+      "position": 58,
+      "title": "Larry Whiteside Jr. - Tampa, Florida, United States",
+      "link": "https://www.linkedin.com/in/larrywhitesidejr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/larrywhitesidejr&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCIYCEAE",
+      "displayed_link": "14.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60f7d6618f93fbd4f95d25148e656a647e.png",
+      "snippet": "Larry Whiteside Jr. Tampa, Florida, United States. 15K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Larry Whiteside Jr."
+    },
+    {
+      "position": 59,
+      "title": "Daniel Shapero",
+      "link": "https://www.linkedin.com/in/dshapero",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dshapero&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCIgCEAE",
+      "displayed_link": "163.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc608a8f34d9ede4caa8bf54cbe327457e2c.png",
+      "snippet": "Daniel Shapero. LinkedIn Harvard Business School. Mountain View, California, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "LinkedIn"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Shapero"
+    },
+    {
+      "position": 60,
+      "title": "April Anslinger - GLOBAL CMO GROWTH COUNCIL",
+      "link": "https://www.linkedin.com/in/april-anslinger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/april-anslinger&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCIMCEAE",
+      "displayed_link": "4.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60ded1bbad91955dc96cb79cb24f5b9fd2.png",
+      "snippet": "April Anslinger, Global Chief Marketing Officer at Self Esteem Brands - parent company of… · Experience: GLOBAL CMO GROWTH COUNCIL · Education: Indiana ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "CMO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Minneapolis-St. Paul Area",
+            "GLOBAL CMO GROWTH COUNCIL"
+          ]
+        }
+      },
+      "source": "LinkedIn · April Anslinger"
+    },
+    {
+      "position": 61,
+      "title": "Ryan Knisley - Lightwave Precision",
+      "link": "https://www.linkedin.com/in/ryanknisley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ryanknisley&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCIECEAE",
+      "displayed_link": "10.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60cb0bd2a66fb52ca20925fbedb8b47687.png",
+      "snippet": "Experience: Lightwave Precision · Location: United States · 500+ connections on LinkedIn ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Lightwave Precision"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Knisley"
+    },
+    {
+      "position": 62,
+      "title": "Matthew Williams - Deputy CISO and Executive Director of ...",
+      "link": "https://www.linkedin.com/in/matthewtwilliamssec",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matthewtwilliamssec&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCJkCEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc602a46194d7a9d9ec8874814036b8a5c70.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Interim Assistant Vice President and CISO (Chief Information Security Officer).",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CISO",
+        "Chief Information Security Officer"
+      ],
+      "source": "LinkedIn · Matthew Williams"
+    },
+    {
+      "position": 63,
+      "title": "Tim King - Chief Information Security Officer",
+      "link": "https://www.linkedin.com/in/tim-king-msem",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tim-king-msem&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCJ8CEAE",
+      "displayed_link": "4.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60eadac0878328ff7d709753c799d8ce89.png",
+      "snippet": "... United States Marine and was discharged honorably after four years of ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington DC-Baltimore Area",
+            "Chief Information Security Officer",
+            "U.S. Department of Energy (DOE)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tim King"
+    },
+    {
+      "position": 64,
+      "title": "Adam Zoller - CrowdStrike",
+      "link": "https://www.linkedin.com/in/adam-zoller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/adam-zoller&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCKECEAE",
+      "displayed_link": "5.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60e819b85a2d321637ba2a05cd2e78bd94.png",
+      "snippet": "Experienced Chief Information Security Officer with a demonstrated history of delivering… Experience. CrowdStrike Graphic. CrowdStrike. United States ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "CrowdStrike"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Zoller"
+    },
+    {
+      "position": 65,
+      "title": "Robyn (Gieske) Clark - Glenview, Illinois, United States",
+      "link": "https://www.linkedin.com/in/robyn-gieske-clark-a723153",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robyn-gieske-clark-a723153&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCKcCEAE",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60f9c858e501d126e45350096965e99b58.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Evanta Chicago CISO Community. Governing Body Member. Recommendations ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CISO"
+      ],
+      "source": "LinkedIn · Robyn (Gieske) Clark"
+    },
+    {
+      "position": 66,
+      "title": "Jeremy Smith - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/jbsmithox",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jbsmithox&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCKwCEAE",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6006079043abe6ef7b863b6d1d715b4c2e.png",
+      "snippet": "Jeremy Smith, Vice President and Global Information Security Officer at Avery Dennison… · Location: United States. 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Jeremy Smith"
+    },
+    {
+      "position": 67,
+      "title": "Sameer Samat - Google",
+      "link": "https://www.linkedin.com/in/sameersamat",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sameersamat&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCLQCEAE",
+      "displayed_link": "118.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60513ba555f01beb41cfb7f6c5a27e5412.png",
+      "snippet": "Sameer Samat. Google. Oakland, California, United States. 118K followers 500+ connections. See your mutual connections. View mutual connections with Sameer.",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Oakland, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sameer Samat"
+    },
+    {
+      "position": 68,
+      "title": "Bryan Law - Chief Marketing Officer - SentinelOne",
+      "link": "https://www.linkedin.com/in/bryanbasdenlaw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bryanbasdenlaw&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCLsCEAE",
+      "displayed_link": "19.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60f39306526e8a896fb9b1976821cfa5f6.png",
+      "snippet": "CMO at SentinelOne | ex-Google, Salesforce, Tableau, ZoomInfo & Monitor ... Seattle, Washington, United States. 19K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "CMO",
+        "Google",
+        "United States"
+      ],
+      "source": "LinkedIn · Bryan Law"
+    },
+    {
+      "position": 69,
+      "title": "Hemanta Swain - HP",
+      "link": "https://www.linkedin.com/in/hemanta-swain",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hemanta-swain&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCL4CEAE",
+      "displayed_link": "4.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc605d46374eee5705cf857a1f6e416697c8.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... “Hemanta has been recognized as a CISO Finalist by the 2023 Bay Area ORBIE ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "HP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hemanta Swain"
+    },
+    {
+      "position": 70,
+      "title": "Sabina Ewing - Abbott",
+      "link": "https://www.linkedin.com/in/sabina-ewing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sabina-ewing&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECEAQAQ",
+      "displayed_link": "5.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6046628991a3b74aa85232b8bb143a6e60.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... CIO, VP Business & Technology Services, at Abbott. Sabina is ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Abbott"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sabina Ewing"
+    },
+    {
+      "position": 71,
+      "title": "Alex Asnovich - Docebo",
+      "link": "https://www.linkedin.com/in/alex-asnovich-3484812",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alex-asnovich-3484812&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECEMQAQ",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60522bc8407046f4de61772c562c5847b7.png",
+      "snippet": "Chief Marketing Officer and growth advisor, recognized by Forbes Magazine as one of the… · ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Docebo"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alex Asnovich"
+    },
+    {
+      "position": 72,
+      "title": "Kurt John - Con Edison",
+      "link": "https://www.linkedin.com/in/kurtmjohn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kurtmjohn&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECEIQAQ",
+      "displayed_link": "8.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60e7a469ae98d05e8b8730903652d44641.png",
+      "snippet": "... United States · 500+ connections on LinkedIn. View Kurt John's profile ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Con Edison"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kurt John"
+    },
+    {
+      "position": 73,
+      "title": "Marcel Marcondes - AB InBev",
+      "link": "https://www.linkedin.com/in/marcel-marcondes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marcel-marcondes&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECEQQAQ",
+      "displayed_link": "33.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60234e3abab7c07baacbaa462e255de7ae.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... United States. -. New York, United States. -. Greater New York City Area ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "AB InBev"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marcel Marcondes"
+    },
+    {
+      "position": 74,
+      "title": "Thomas Ranese - Intuit",
+      "link": "https://www.linkedin.com/in/thomasranese",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/thomasranese&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECEcQAQ",
+      "displayed_link": "6.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc602b62cc9e697b0f0bd7e910a2ac73f533.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... “I worked closely with Thomas Ranese during his time as Chief Marketing Officer ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Marketing Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Intuit"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Ranese"
+    },
+    {
+      "position": 75,
+      "title": "Wayne Sadin - PriceSmart",
+      "link": "https://www.linkedin.com/in/waynesadin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/waynesadin&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECE4QAQ",
+      "displayed_link": "34.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60977da4c8d9b2629345e64b659bae72d6.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Presented 'real-world' CIO/CISO/Board governance cases and situations to MBA ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CIO",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frisco, Texas, United States",
+            "PriceSmart"
+          ]
+        }
+      },
+      "source": "LinkedIn · Wayne Sadin"
+    },
+    {
+      "position": 76,
+      "title": "Frank Cooper III - Chief Marketing Officer - Visa",
+      "link": "https://www.linkedin.com/in/frank-cooper-iii",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/frank-cooper-iii&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECFsQAQ",
+      "displayed_link": "38.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6092e6d1f87cd682eeff991696b04533dc.png",
+      "snippet": "Chief Marketing Officer, Visa · CMO of Visa. Purpose-driven leader moving ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "CMO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Chief Marketing Officer",
+            "Visa"
+          ]
+        }
+      },
+      "source": "LinkedIn · Frank Cooper III"
+    },
+    {
+      "position": 77,
+      "title": "Seth Matlins - Managing Director, Forbes CMO Network",
+      "link": "https://www.linkedin.com/in/seth-matlins",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/seth-matlins&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECFwQAQ",
+      "displayed_link": "12.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc602f0f4ac751f31cb634b0e1437b2dea23.png",
+      "snippet": "Los Angeles, California, United States. 12K followers 500+ connections ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Seth Matlins"
+    },
+    {
+      "position": 78,
+      "title": "Hardebeck, Michael - Chief Information Officer",
+      "link": "https://www.linkedin.com/in/hardebeck-michael",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hardebeck-michael&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECGgQAQ",
+      "displayed_link": "150+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60e57fc0896caa6a3f2bcbfbbe714f9f96.png",
+      "snippet": "Chief Information Officer (CIO) DoD POW/MIA Accounting Agency · United ... Chief Information Security Officer (CISO)/Information Systems Security ...",
+      "snippet_highlighted_words": [
+        "Chief Information Officer",
+        "CIO",
+        "United",
+        "Chief Information Security Officer",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Arlington, Virginia, United States",
+            "Chief Information Officer",
+            "United States Department of Defense"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hardebeck, Michael"
+    },
+    {
+      "position": 79,
+      "title": "Tom Spencer - Toyota North America",
+      "link": "https://www.linkedin.com/in/tomspencer403",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tomspencer403&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECGcQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60e7fe5a2deec65fd9815fab1a29cae8d6.png",
+      "snippet": "Tom Spencer. Toyota North America UC San Diego. San Diego, California, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Diego, California, United States",
+            "Toyota North America"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tom Spencer"
+    },
+    {
+      "position": 80,
+      "title": "M. K. Palmore - Apogee Global RMS",
+      "link": "https://www.linkedin.com/in/mkpalmore",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mkpalmore&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECHcQAQ",
+      "displayed_link": "15.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6020a6a4b337050fab07ccfef6f2aeb7b4.png",
+      "snippet": "Chief Information Security Officer (CISO) Certificate Program Graphic. Chief ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or.",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "Chief",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · M. K. Palmore"
+    },
+    {
+      "position": 81,
+      "title": "Micky Onvural - Chief Marketing Officer",
+      "link": "https://www.linkedin.com/in/mickyonvural",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mickyonvural&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECHYQAQ",
+      "displayed_link": "86.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60625a8b1c5fa25bf36083ac9b9b1309ae.png",
+      "snippet": "Chief Marketing Officer. TIAA University of Cambridge. New York, New York, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "SEVP, Chief Marketing & Communications Officer",
+            "TIAA"
+          ]
+        }
+      },
+      "source": "LinkedIn · Micky Onvural"
+    },
+    {
+      "position": 82,
+      "title": "Michael S. Oberlaender - PREMIER CISO - Author",
+      "link": "https://www.linkedin.com/in/mymso",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mymso&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECHkQAQ",
+      "displayed_link": "17.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60fddd206f4d7d79f99410a2e258303298.png",
+      "snippet": "Guest Speaker / Industry Leader / CISO / CSO / CIO / CTO. CIO Professional ... Great pleasure and honor to speak and present to the CIO community at CIO ...",
+      "snippet_highlighted_words": [
+        "CISO",
+        "CIO",
+        "CIO",
+        "present",
+        "CIO",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Houston",
+            "Author",
+            "Michael S. Oberlaender"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael S. Oberlaender - PREMIER CISO"
+    },
+    {
+      "position": 83,
+      "title": "Jay Rhykerd - Chief Information Security Officer - Sheetz",
+      "link": "https://www.linkedin.com/in/jasonrhykerd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jasonrhykerd&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCIEBEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60e955464232091518ad3fb0b7529a84ab.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or ... CHIEF INFORMATION SECURITY OFFICER (CISO) CERTIFICATE. 2019 - 2020. Led by the ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CHIEF INFORMATION SECURITY OFFICER",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Roaring Spring, Pennsylvania, United States",
+            "Chief Information Security Officer",
+            "Sheetz"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jay Rhykerd"
+    },
+    {
+      "position": 84,
+      "title": "Bridget Perry - Seattle, Washington, United States",
+      "link": "https://www.linkedin.com/in/perrybridget",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/perrybridget&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCIABEAE",
+      "displayed_link": "7.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc608a35522d338cdb54e8f502d4d1ed7a1b.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... CMO at Contentful. Bridget is a remarkable leader - strategically minded ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CMO"
+      ],
+      "source": "LinkedIn · Bridget Perry"
+    },
+    {
+      "position": 85,
+      "title": "Raja Rajamannar - Chief Marketing & Communications ...",
+      "link": "https://www.linkedin.com/in/mvrajamannar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mvrajamannar&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCI4BEAE",
+      "displayed_link": "70.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc602bfba3b854f33496468d7e2a42873fb1.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Inducted into the CMO Hall of Fame at the 2018 CMO Awards ceremony. https ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CMO",
+        "CMO"
+      ],
+      "source": "LinkedIn · Raja Rajamannar"
+    },
+    {
+      "position": 86,
+      "title": "Lora Vaughn - MoneyGram",
+      "link": "https://www.linkedin.com/in/loravaughn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/loravaughn&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCJQBEAE",
+      "displayed_link": "9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60323cb1a9dd7ca1dc9099d3a357190d73.png",
+      "snippet": "Accomplished Chief Information Security Officer (CISO) with over 20 years of experience… · ... Continue with GoogleContinue with Google. New to LinkedIn ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Birmingham, Alabama Area",
+            "MoneyGram"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lora Vaughn"
+    },
+    {
+      "position": 87,
+      "title": "Shannon Lawson - Chief Information Security Officer",
+      "link": "https://www.linkedin.com/in/shannon-lawson-iwo1815",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shannon-lawson-iwo1815&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCJYBEAE",
+      "displayed_link": "6.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6027711720f8ee6adc41b36d58bf044f9e.png",
+      "snippet": "Oct 2024 - Present 6 months. Woodinville, Washington, United States. City of Phoenix Graphic. Chief Information Security Officer (CISO). City of Phoenix. Apr ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United States",
+        "Chief Information Security Officer",
+        "CISO"
+      ],
+      "source": "LinkedIn · Shannon Lawson"
+    },
+    {
+      "position": 88,
+      "title": "Joe Topinka - CIO Mentor",
+      "link": "https://www.linkedin.com/in/joetopinka",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joetopinka&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCJoBEAE",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60d5f6c9fc51df2e96a17c0ff5b7b924ac.png",
+      "snippet": "Chief Information Officer with success across multiple industries leading and elevating… · CIO ... Continue with GoogleContinue with Google. New to LinkedIn ...",
+      "snippet_highlighted_words": [
+        "Chief Information Officer",
+        "CIO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Charlotte, North Carolina, United States",
+            "CIO Mentor"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joe Topinka"
+    },
+    {
+      "position": 89,
+      "title": "David Cass - GSR",
+      "link": "https://www.linkedin.com/in/dcass001",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dcass001&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCKkBEAE",
+      "displayed_link": "19.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc601de2a0cf0b311a927c991ac4aa511db3.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... chief information security officer (CISO) for publishing firm Elsevier.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "chief information security officer",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "GSR"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Cass"
+    },
+    {
+      "position": 90,
+      "title": "Mike Kelley - Cincinnati, Ohio, United States",
+      "link": "https://www.linkedin.com/in/mikekelleyciso",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mikekelleyciso&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCK4BEAE",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60e5440dcdb2eb84bd3c6087ea603acdc1.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Security Current features CISO insights, peer-driven research, analysis ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Current",
+        "CISO"
+      ],
+      "source": "LinkedIn · Mike Kelley"
+    },
+    {
+      "position": 91,
+      "title": "Barbara Holzapfel - Blackline Safety",
+      "link": "https://www.linkedin.com/in/barbaraholzapfel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/barbaraholzapfel&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCK8BEAE",
+      "displayed_link": "6.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60f4556bac104f8f638417e1b8235e0610.png",
+      "snippet": "Barbara Holzapfel is a global board member, tech executive, General Manger, COO, and CMO… · ... Continue with GoogleContinue with Google. New to LinkedIn? Join ...",
+      "snippet_highlighted_words": [
+        "CMO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Blackline Safety"
+          ]
+        }
+      },
+      "source": "LinkedIn · Barbara Holzapfel"
+    },
+    {
+      "position": 92,
+      "title": "Aditi Javeri Gokhale - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/aditi-gokhale",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aditi-gokhale&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCLEBEAE",
+      "displayed_link": "11.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6051f9e207d346c2dbdcce9d0b03a954f2.png",
+      "snippet": "Fortune 100 President | Chief Strategy Officer | Chief Commercial Officer | Chief Marketing Officer | Business Transformation ... Continue with GoogleContinue ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "Google"
+      ],
+      "source": "LinkedIn · Aditi Javeri Gokhale"
+    },
+    {
+      "position": 93,
+      "title": "Jason Clinton - Chief Information Security Officer - Anthropic",
+      "link": "https://www.linkedin.com/in/jason-d-clinton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jason-d-clinton&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCLkBEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc6089e70d8c0d974a0dc7f5b70ab174a005.png",
+      "snippet": "Experience. Anthropic Graphic. Chief Information Security Officer. Anthropic. Apr 2023 - Present 2 years. San Francisco Bay Area. Google. 11 years 8 months.",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "Present",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Chief Information Security Officer",
+            "Anthropic"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jason Clinton"
+    },
+    {
+      "position": 94,
+      "title": "Trina Ford - Senior Vice President & Chief Information ...",
+      "link": "https://www.linkedin.com/in/trinaford",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/trinaford&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCMcBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc607bcfe09d38c8bc69c18fcfd646efce41.png",
+      "snippet": "Experience · Senior Vice President & Chief Information Security Officer · Co-Chair / Governing Body Member · CISO Advisory Board Member · Leadership Board Member.",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO"
+      ],
+      "source": "LinkedIn · Trina Ford"
+    },
+    {
+      "position": 95,
+      "title": "Vikrant Arora - Burlington Stores, Inc.",
+      "link": "https://www.linkedin.com/in/vikrant-arora-ciso",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vikrant-arora-ciso&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCMkBEAE",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60df3b8c8dcd3d503bfa0710020af9de0c.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Two-Time Becker's Healthcare CISO to Know. Becker. 2023. This list shines a ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Burlington Stores, Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Vikrant Arora"
+    },
+    {
+      "position": 96,
+      "title": "Tyron Fitzgerald - Chief Information Security Officer",
+      "link": "https://www.linkedin.com/in/tyronfitzciso",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tyronfitzciso&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCMwBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc605e5a75bb61527ef7bfc87e14a739ea40.png",
+      "snippet": "Tyron Fitzgerald. Chief Information Security Officer. Montrose Environmental Group Christian Brothers University. Allen, Texas, United States.",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Allen, Texas, United States",
+            "Chief Information Security Officer",
+            "Montrose Environmental Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tyron Fitzgerald"
+    },
+    {
+      "position": 97,
+      "title": "Jacqueline Woods - Stamford, Connecticut, United States",
+      "link": "https://www.linkedin.com/in/jacqueline-woods-361477",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jacqueline-woods-361477&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoFCMsBEAE",
+      "displayed_link": "10.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60c1b3a673423c7dc30c72d284b1d482aa.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... As a CMO, I find product marketing to be one o the most important ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CMO"
+      ],
+      "source": "LinkedIn · Jacqueline Woods"
+    },
+    {
+      "position": 98,
+      "title": "Jamie Gutfreund - Creator Vision",
+      "link": "https://www.linkedin.com/in/jamiegutfreund",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jamiegutfreund&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECCkQAQ",
+      "displayed_link": "15.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60501ad4b470b9541aad715fc763bea5fb.png",
+      "snippet": "... United States · 500+ connections on LinkedIn. View Jamie Gutfreund's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Creator Vision"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jamie Gutfreund"
+    },
+    {
+      "position": 99,
+      "title": "Mangoné Fall - Chief Information Security Officer",
+      "link": "https://www.linkedin.com/in/mangon%C3%A9-fall-97b52b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mangon%25C3%25A9-fall-97b52b&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECCUQAQ",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc608e72dcf3f186e3257fd70561235c586c.png",
+      "snippet": "Chief Information Security Officer · Executive Director and Deputy CISO · Senior Director, Cybersecurity · Director Cybersecurity, Assurance · Innovation Management ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cleveland, Ohio, United States",
+            "Chief Information Security Officer",
+            "Duke University Health System"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mangoné Fall"
+    },
+    {
+      "position": 100,
+      "title": "Olivia Rose🌹 - Rose CISO Group",
+      "link": "https://www.linkedin.com/in/oliviarosecybersecurity",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/oliviarosecybersecurity&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54QFnoECCgQAQ",
+      "displayed_link": "32.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf99a4b6778e75d1ea3f1/images/8911947ae6eb6d87e811c485d4e7cc60baacf4da930c3adfa159d021e38ddfa1.png",
+      "snippet": "The Rose CISO Group offers virtual Chief Information Security Officer (CISO) services… · ... United States · 500+ connections on LinkedIn. View Olivia Rose ...",
+      "snippet_highlighted_words": [
+        "CISO",
+        "Chief Information Security Officer",
+        "CISO",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Rose CISO Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Olivia Rose🌹"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=mvndZ7KiNLyo5NoPlZat8Qk&start=100&sa=N&sstk=Af40H4WcuMRY9zB1WlXg7rtHs0aOeqxEexflp7c_vqxVCCtB517GgNy9tx-jdz1TgDYMihWhArTt4awxl5BCyhxSvxDdXmJ8JxnGSg&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54Q8NMDegUIugIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=mvndZ7KiNLyo5NoPlZat8Qk&start=100&sa=N&sstk=Af40H4WcuMRY9zB1WlXg7rtHs0aOeqxEexflp7c_vqxVCCtB517GgNy9tx-jdz1TgDYMihWhArTt4awxl5BCyhxSvxDdXmJ8JxnGSg&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54Q8tMDegUIugIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=mvndZ7KiNLyo5NoPlZat8Qk&start=200&sa=N&sstk=Af40H4WcuMRY9zB1WlXg7rtHs0aOeqxEexflp7c_vqxVCCtB517GgNy9tx-jdz1TgDYMihWhArTt4awxl5BCyhxSvxDdXmJ8JxnGSg&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54Q8tMDegUIugIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=mvndZ7KiNLyo5NoPlZat8Qk&start=300&sa=N&sstk=Af40H4WcuMRY9zB1WlXg7rtHs0aOeqxEexflp7c_vqxVCCtB517GgNy9tx-jdz1TgDYMihWhArTt4awxl5BCyhxSvxDdXmJ8JxnGSg&ved=2ahUKEwiy16yPrZyMAxU8FFkFHRVLK54Q8tMDegUIugIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=300"
+    }
+  }
+}

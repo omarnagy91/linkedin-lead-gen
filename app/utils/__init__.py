@@ -8,6 +8,7 @@ from app.utils.errors import (
     error_handler
 )
 from app.utils.logging import get_logger, setup_logging
+from app.utils.mock import MockUtils
 
 __all__ = [
     'settings',
@@ -18,5 +19,6 @@ __all__ = [
     'ServiceError',
     'UnauthorizedError',
     'ValidationError',
-    'error_handler'
+    'error_handler',
+    'MockUtils'
 ]

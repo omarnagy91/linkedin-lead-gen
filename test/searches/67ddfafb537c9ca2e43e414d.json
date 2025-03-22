@@ -1,0 +1,2352 @@
+{
+  "search_metadata": {
+    "id": "67ddfafb537c9ca2e43e414d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/9ba027de6a5640a3/67ddfafb537c9ca2e43e414d.json",
+    "created_at": "2025-03-21 23:49:15 UTC",
+    "processed_at": "2025-03-21 23:49:15 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&oq=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/9ba027de6a5640a3/67ddfafb537c9ca2e43e414d.html",
+    "total_time_taken": 8.99
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Amazon\" AND \"Germany\" AND (current OR present) AND (\"senior\" OR \"leader\" OR \"executive\" OR \"experienced\") AND \"years experience\"",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Amazon\" AND \"Germany\" AND (current OR present) AND (\"senior\" OR \"leader\" OR \"executive\" OR \"experienced\") AND \"years experience\"",
+    "total_results": 70300,
+    "time_taken_displayed": 0.68,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Claudia Häuser – Senior Marketing Manager Amazon & ...",
+      "link": "https://de.linkedin.com/in/claudia-haeuser",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/claudia-haeuser&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECBcQAQ",
+      "displayed_link": "590+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f88424991657ae497153572f2a9e763974.png",
+      "snippet": "Senior Marketing Manager Amazon Prime at Amazon · Passionate marketing leader driving strategic marketing initiatives, data-driven growth, ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "Amazon",
+        "leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Senior Marketing Manager Amazon & Prime",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Claudia Häuser"
+    },
+    {
+      "position": 2,
+      "title": "Sven Meyer – Amazon",
+      "link": "https://de.linkedin.com/in/sven-meyer-47bb2220",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sven-meyer-47bb2220&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECBUQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8e2a9f4179e16290efa2df462bd814a84.png",
+      "snippet": "HR leader with 15+ years experience particularly in international compensation and… · ... „Sven was a capable and meticulous yet strategic senior compensation ...",
+      "snippet_highlighted_words": [
+        "leader",
+        "years experience",
+        "senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sven Meyer"
+    },
+    {
+      "position": 3,
+      "title": "Marco M. - Senior Vendor & Program Manager, Amazon ...",
+      "link": "https://uk.linkedin.com/in/marco-musumeci",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/marco-musumeci&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECBoQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f85e63dfad14c8168da9c66f1ed9567256.png",
+      "snippet": "Senior Manager @Amazon | Ex-P&G · With nine years of experience in ... Commercial leader of Spirits & Wine accounts for Amazon Core, responsible ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "leader",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Vendor & Program Manager, Amazon Europe",
+            "Beer Wine & Spirits",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marco M."
+    },
+    {
+      "position": 4,
+      "title": "Reinier van Ede - Amazon",
+      "link": "https://www.linkedin.com/in/reinier-van-ede-9a89b68",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/reinier-van-ede-9a89b68&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECBQQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f88e104fea6ea4e1522e762ad636e58df9.png",
+      "snippet": "Reinier van Ede - Amazon - Amsterdam University of Applied Sciences - About - Global Executive HR Leader with 20+ years experience in international business.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Executive",
+        "Leader",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Reinier van Ede"
+    },
+    {
+      "position": 5,
+      "title": "Hendrik Krampe - Director Finance EU Marketplace",
+      "link": "https://lu.linkedin.com/in/hendrik-krampe-a21a3a3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lu.linkedin.com/in/hendrik-krampe-a21a3a3&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECBYQAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f895b695e674f59e44cdfe38a700c9c58e.png",
+      "snippet": "... Amazon ... Senior Director Finance EU Customer Support. eBay. janv. 2009 - déc. 2010 2 ans. Berlin Area, Germany. Graphique eBay GmbH. Director Finance eBay ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Senior",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Luxembourg, Luxembourg, Luxembourg",
+            "Director Finance EU Marketplace",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hendrik Krampe"
+    },
+    {
+      "position": 6,
+      "title": "Mark Grey - Senior Operations Manager STN8 - Amazon",
+      "link": "https://uk.linkedin.com/in/mark-grey-b93b46106",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mark-grey-b93b46106&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECB8QAQ",
+      "displayed_link": "350+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f80fe1d471241b96f14e5ac6e501cc27c2.png",
+      "snippet": "Amazon Graphic. Senior Operations Manager STN8. Amazon. Jan 2020 - Present 5 years 3 months. Milton Keynes, United Kingdom. Amazon Graphic. Site Leader CGN9.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Senior",
+        "Amazon",
+        "Present",
+        "Amazon",
+        "Leader"
+      ],
+      "source": "LinkedIn · Mark Grey"
+    },
+    {
+      "position": 7,
+      "title": "Amy Worth - Director Amazon Business UK and Public ...",
+      "link": "https://uk.linkedin.com/in/amyeworth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/amyeworth&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECCgQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f80ec9bfb32502e8b6eccfa5dbab2058c5.png",
+      "snippet": "Amazon Senior Executive | Delivery Through People | Customer Experience ... leader, I establish and nurture high-performance, diverse teams. With ...",
+      "snippet_highlighted_words": [
+        "Amazon Senior Executive",
+        "leader"
+      ],
+      "source": "LinkedIn · Amy Worth"
+    },
+    {
+      "position": 8,
+      "title": "Sanatkumar Halloli - Executive - Amazon",
+      "link": "https://in.linkedin.com/in/sanatkumar-halloli-b0776014a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/sanatkumar-halloli-b0776014a&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCOUBEAE",
+      "displayed_link": "70+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8b033a5bcbecbbca1f3390b9a6f8a7447.png",
+      "snippet": "Data Sortation Associate at Amazon | Berlin , Germany | Certified in ... Executive. Amazon. Oct 2024 - Present 6 months. BERLIN. ALLEN ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Executive",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Karnataka, India",
+            "Executive",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sanatkumar Halloli"
+    },
+    {
+      "position": 9,
+      "title": "Tony Martinelli - Sr Leader, Key Access - Amazon",
+      "link": "https://www.linkedin.com/in/tony-martinelli-54a3599",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tony-martinelli-54a3599&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECCoQAQ",
+      "displayed_link": "800+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8cf7bba6c84b734724ac8da0424a96ac4.png",
+      "snippet": "Tony Martinelli. Senior Business and Ops Leader. Amazon Skidmore College. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Leader",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Sr Leader, Key Access",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tony Martinelli"
+    },
+    {
+      "position": 10,
+      "title": "Mark Keeney - Senior Manager Operations - Amazon",
+      "link": "https://uk.linkedin.com/in/mark-keeney-2490847",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mark-keeney-2490847&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJIBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f84362a75c14eb8d920c62510bef3ebf99.png",
+      "snippet": "Operations professional with over 30 years experience. ... Direct responsibility for two Mother plants with over 200 employees in the UK and Germany, serving ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Winchester, England, United Kingdom",
+            "Senior Manager Operations",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Keeney"
+    },
+    {
+      "position": 11,
+      "title": "Michael Mulhern - Senior Manager WW Quality AMZL Tech ...",
+      "link": "https://lu.linkedin.com/in/michael-mulhern-a5699697",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lu.linkedin.com/in/michael-mulhern-a5699697&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCOMBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f81169f47de54f8b6fe136f3bf9a97a589.png",
+      "snippet": "Accomplished senior executive with 16+ years experience successfully ... Site Leader (UK & Germany). Amazon. juin 2014 - févr. 2016 1 an 9 mois. Swansea ...",
+      "snippet_highlighted_words": [
+        "senior executive",
+        "years experience",
+        "Leader",
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Luxembourg",
+            "Senior Manager WW Quality AMZL Tech SME",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Mulhern"
+    },
+    {
+      "position": 12,
+      "title": "Phil Deer - Learning and Development Manager, EU ...",
+      "link": "https://uk.linkedin.com/in/phildeer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/phildeer&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJQCEAE",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8dd37082365e9105dd57c8d875ad29685.png",
+      "snippet": "Learning and Development Manager, EU Leader Coaching Team at Amazon · Phil is a Learning & Development specialist with over 25 years' experience ... Senior ...",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Amazon",
+        "years' experience",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Waterlooville, England, United Kingdom",
+            "Learning and Development Manager, EU Leader Coaching Team",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Phil Deer"
+    },
+    {
+      "position": 13,
+      "title": "Tine Nitsch - Principal, Strategy - Amazon Music",
+      "link": "https://www.linkedin.com/in/tine-nitsch-8484734",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tine-nitsch-8484734&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECCsQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f82065347c97704178fb283fe3e753d35e.png",
+      "snippet": "Principal, Strategy @ Amazon Music | ex SVP Strategy @SoundCloud · Executive with 15 years experience in strategy ... Senior Manager Strategic Projects.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Executive",
+        "years experience",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Principal, Strategy",
+            "Amazon Music"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tine Nitsch"
+    },
+    {
+      "position": 14,
+      "title": "Vince L. - Senior Field Enablement Leader",
+      "link": "https://www.linkedin.com/in/vince-l-19551b14",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vince-l-19551b14&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECF4QAQ",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8db6e68611c837977a501b8064c0f9528.png",
+      "snippet": "A Senior Account Executive with over 13 years experience working across the ... Senior Field Enablement Leader - Americas Cloud Sales Center. Amazon Web ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Executive",
+        "years experience",
+        "Senior",
+        "Leader",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Senior Field Enablement Leader",
+            "Americas Cloud Sales Center",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vince L."
+    },
+    {
+      "position": 15,
+      "title": "Maks Scholl - Talent Acquisition Candidate Partner - Amazon",
+      "link": "https://www.linkedin.com/in/maksymilian-scholl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/maksymilian-scholl&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJQBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f880646ff17ce7d3ddc0a3d423b7bd8f2b.png",
+      "snippet": "- Managing the recruitment process for management roles within Amazon Operations across Germany, the UK, and the Netherlands. ... Senior Recruiter EMEA.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Talent Acquisition Candidate Partner",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Maks Scholl"
+    },
+    {
+      "position": 16,
+      "title": "Dr. Matthias Kose – Senior Customer Solutions Manager",
+      "link": "https://de.linkedin.com/in/dr-matthias-kose-3b48668",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dr-matthias-kose-3b48668&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCMIBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8a19b0f764c9c83c3f80bc0233b57252d.png",
+      "snippet": "Accelerating cloud transformations of large enterprise customers in Germany | Senior Customer Solutions Manager (Sr ... years experience in leading tech ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Senior",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bremen und Umgebung",
+            "Senior Customer Solutions Manager",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Matthias Kose"
+    },
+    {
+      "position": 17,
+      "title": "sagar bhike - Customer Experience Leader - Amazon",
+      "link": "https://in.linkedin.com/in/sagar-bhike-13495615",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/sagar-bhike-13495615&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCOQBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f85b793016dc0556d745b79953d86e8f62.png",
+      "snippet": "Amazon Graphic. Customer Experience Leader. Amazon. Sep 2017 - Present 7 years 7 months. Pune Area, India. e-commerce customer experience. Operations Manager.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Leader",
+        "Amazon",
+        "Present"
+      ],
+      "source": "LinkedIn · sagar bhike"
+    },
+    {
+      "position": 18,
+      "title": "Gosia Koch - Amazon",
+      "link": "https://de.linkedin.com/in/gosiakoch/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/gosiakoch/en&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCP4BEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f83d055ad63b3189edbfd752e4f4adea40.png",
+      "snippet": "Gosia Koch. Amazon Texas A&M International University. Berlin, Berlin, Germany. 1K followers 500 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gosia Koch"
+    },
+    {
+      "position": 19,
+      "title": "Olga Madejska - Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/olgamadejska",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/olgamadejska&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCI0CEAE",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8374b4ea2d2c455f352f68259dec4a9a4.png",
+      "snippet": "Senior Software Engineering Manager, Amazon Web Services (AWS), Okt. 2020 –Heute 4 Jahre 6 Monate, Berlin, Germany, Head of Cloudscape Design System.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion Berlin/Brandenburg",
+            "Senior Software Engineering Manager",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Olga Madejska"
+    },
+    {
+      "position": 20,
+      "title": "Adam Davidson, MA - Amazon",
+      "link": "https://www.linkedin.com/in/problemsolvingthroughteamwork",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/problemsolvingthroughteamwork&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCKcCEAE",
+      "displayed_link": "210+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f815a15831a5893b0b65a87c56b62c15ba.png",
+      "snippet": "Solid background in Project management, and Operations management. Key strengths in… · Amazon ... Schweinfurt, Germany and Najaf, Iraq. Education. Webster ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta Metropolitan Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Davidson, MA"
+    },
+    {
+      "position": 21,
+      "title": "Aditi Aggarwal – Amazon",
+      "link": "https://de.linkedin.com/in/aditiaggrwal",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/aditiaggrwal&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECC4QAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f88146d7d60d50a7dab9b18d9e24d2574b.png",
+      "snippet": "Experienced software developer, based out of Delhi-NCR, with 5+ years experience in the… Berufserfahrung. Amazon Grafik. Amazon. Berlin, Germany ...",
+      "snippet_highlighted_words": [
+        "Experienced",
+        "years experience",
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aditi Aggarwal"
+    },
+    {
+      "position": 22,
+      "title": "Aykut Aydın, MBA - Manager - Amazon",
+      "link": "https://de.linkedin.com/in/aykutaydin/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/aykutaydin/en&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECEcQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f876a9158a8c2f69a434f7b71bdab343c7.png",
+      "snippet": "Senior Finance Analyst. Amazon. Apr 2020 - Aug ... Youth Services Center. Jul 2011 - Present 13 years 9 months. Arts and Culture. Location: Dresden / Germany",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "Present",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aykut Aydın, MBA"
+    },
+    {
+      "position": 23,
+      "title": "Marcel Jahn - Amazon Account Specialist",
+      "link": "https://es.linkedin.com/in/marcel-jahn-6b6bb0130",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://es.linkedin.com/in/marcel-jahn-6b6bb0130&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECGEQAQ",
+      "displayed_link": "280+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f800b3123ce9af03a2de2b1379aa236217.png",
+      "snippet": "... Germany and EU employment law as well as Amazon's policies and procedures. - Direct reporting to DE Labor Manager and Site Leader in terms of… Mostrar más.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Amazon's",
+        "Leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Barcelona, Cataluña, España",
+            "Amazon Account Specialist",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marcel Jahn"
+    },
+    {
+      "position": 24,
+      "title": "Dnyaneshwar Malode – Amazon Web Services (AWS)",
+      "link": "https://de.linkedin.com/in/dnyaneshwar-malode-7a3262172",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dnyaneshwar-malode-7a3262172&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECHsQAQ",
+      "displayed_link": "480+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8b2a0861a0bc913f20da32ae0f5dbf0f7.png",
+      "snippet": "An Electrical Engineer with 6+ years experience in •|Operations and Maintenance|… · Berufserfahrung: Amazon Web Services (AWS) · Ausbildung: Amrutvahini ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hessen, Deutschland",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dnyaneshwar Malode"
+    },
+    {
+      "position": 25,
+      "title": "Sruthi Menon - Zwickau, Saxony, Germany",
+      "link": "https://in.linkedin.com/in/sruthymenon141",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/sruthymenon141&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJMBEAE",
+      "displayed_link": "890+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f868fa16324fc4cefcb1262f20a0b85776.png",
+      "snippet": "Senior Operations Associate | Amazon | Project Management Certified ... Zwickau, Saxony, Germany. 899 followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "Germany"
+      ],
+      "source": "LinkedIn · Sruthi Menon"
+    },
+    {
+      "position": 26,
+      "title": "Sivaraman Ramachandran - Business Intelligence Engineer",
+      "link": "https://www.linkedin.com/in/sr04",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sr04&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCK0BEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f84169b19ab99cc7c23b6d8e0618b342fb.png",
+      "snippet": "Business Intelligence Engineer at Amazon · Experienced data professional skilled in analytics and SQL ... Germany · 500+ connections on LinkedIn. View ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Experienced",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Business Intelligence Engineer -II",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sivaraman Ramachandran"
+    },
+    {
+      "position": 27,
+      "title": "Mile Ristic – Air Gateway Manager - Germany – Amazon",
+      "link": "https://de.linkedin.com/in/mile-ristic-2b6455137",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/mile-ristic-2b6455137&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCMMBEAE",
+      "displayed_link": "990+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f83991b8ed72715f1b91d36f7d81c2d894.png",
+      "snippet": "Responsible for all 3P Amazon Air ground operations in Germany. Amazon ... In consideration of company's policy, please contact me directly for any information ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Schkeuditz, Sachsen, Deutschland",
+            "Air Gateway Manager",
+            "Germany",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mile Ristic"
+    },
+    {
+      "position": 28,
+      "title": "Dimitrios Spanakis - Snr. Defects Reduction Program ...",
+      "link": "https://www.linkedin.com/in/dimitrios-spanakis-863411127",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dimitrios-spanakis-863411127&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCMkBEAE",
+      "displayed_link": "950+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f867bfbf924669f2c84175f4f18d1f1c2f.png",
+      "snippet": "Operations and Supply chain Executive · Senior Operations Manager with more than 10 years' experience in state-of-the-art consumer goods technologies, ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Senior",
+        "years' experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hesperange, Luxembourg, Luxembourg",
+            "Snr. Defects Reduction Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dimitrios Spanakis"
+    },
+    {
+      "position": 29,
+      "title": "Charlie Watts - Senior Capacity Optimisation Manager",
+      "link": "https://uk.linkedin.com/in/charlie-watts-160097a1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/charlie-watts-160097a1&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCO8BEAE",
+      "displayed_link": "630+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f84eda7da0e506e4aba3d2dfa6c7f832e3.png",
+      "snippet": "Senior Capacity Optimisation Manager at Amazon · I am an enthusiastic leader and graduate with 1st Class degree in Business and Finance.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Capacity Optimisation Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Charlie Watts"
+    },
+    {
+      "position": 30,
+      "title": "Mohammed Azzam - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/mohammed-azzam-a1a50641/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mohammed-azzam-a1a50641/&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCOgBEAE",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f88ec98c7cdab793bf1d124acce36dd819.png",
+      "snippet": "I am an Electrical Engineer with 13+ years experience in both industrial and construction… · Experience: Amazon Web Services (AWS) · Education: Khalifa ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt Rhine-Main Metropolitan Area",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mohammed Azzam"
+    },
+    {
+      "position": 31,
+      "title": "Yu Li - Performance Improvement Manager - Amazon",
+      "link": "https://de.linkedin.com/in/jadeyuli/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/jadeyuli/en&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCP8BEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8fbdc7d29de773c2c28b7de25a22fc535.png",
+      "snippet": "Performance Improvement Manager. Amazon. Jul 2021 - Present 3 years 9 months. Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Performance Improvement Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Yu Li"
+    },
+    {
+      "position": 32,
+      "title": "Jeanne (Jan) Hooper, PMP - Program Manager Senior ...",
+      "link": "https://www.linkedin.com/in/jeanne-jan-hooper-pmp-86493620",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeanne-jan-hooper-pmp-86493620&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCIwCEAE",
+      "displayed_link": "480+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f857552ff1f1e3e2d7944096dfd4b69fc5.png",
+      "snippet": "Over 25 years experience in key leadership positions of large, diverse ... Program Manager Senior RME Planner. Amazon Logistics. Jan 2022 - Present 3 ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Senior",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Knoxville Metropolitan Area",
+            "Program Manager Senior RME Planner",
+            "Amazon Logistics"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeanne (Jan) Hooper, PMP"
+    },
+    {
+      "position": 33,
+      "title": "Annesha Chaudhuri - Senior Program Manager - Amazon",
+      "link": "https://www.linkedin.com/in/annesha-chaudhuri-19724b1a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/annesha-chaudhuri-19724b1a&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJwCEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f82a5cdcaa1c9f7f3e24bb6b08992078fa.png",
+      "snippet": "E-commerce | Q-commerce | Amazon | Ex-Indian Oil | Product Management | Program Management | Operations | Supply Chain · 8 years' experience ... senior leader.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "years' experience",
+        "senior leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Luxembourg, Luxembourg",
+            "Senior Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Annesha Chaudhuri"
+    },
+    {
+      "position": 34,
+      "title": "Debbie McGeeney - Executive Assistant to VP EU OHL",
+      "link": "https://uk.linkedin.com/in/debbie-mcgeeney-a401b44",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/debbie-mcgeeney-a401b44&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJsCEAE",
+      "displayed_link": "850+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8c85485fb5b0619da0cb385f8596d3306.png",
+      "snippet": "A highly organised and detail-oriented Executive Assistant & Office Manager with over 25 years' experience providing thorough administrative support to senior ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "years' experience",
+        "senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Executive Assistant to VP EU OHL",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Debbie McGeeney"
+    },
+    {
+      "position": 35,
+      "title": "Juneane Cooper - Principal Technical Program Manager",
+      "link": "https://www.linkedin.com/in/juneane-cooper-80624b4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/juneane-cooper-80624b4&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCKgCEAE",
+      "displayed_link": "740+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f82ae1d90731f78d046e7883044a1d0d3f.png",
+      "snippet": "Accountable for scrum teams to deliver business results iteratively and with excellence. Amazon Graphic. Senior Technical Program Manager. Amazon. Jan 2019 - ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Senior",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Snohomish, Washington, United States",
+            "Principal Technical Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Juneane Cooper"
+    },
+    {
+      "position": 36,
+      "title": "Mukul Sharma - Senior Quality Associate,German - Amazon",
+      "link": "https://in.linkedin.com/in/mukul-sharma-744a381a8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/mukul-sharma-744a381a8&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCLMCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f88b50d8538d8bb8138712a907bac0294e.png",
+      "snippet": "Experience · Amazon. 4 years. Amazon Graphic. Senior Quality Associate,German. Amazon. Apr 2022 - Present 2 years 11 months. Gurugram, Haryana, India. Amazon ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Senior",
+        "Amazon",
+        "Present",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Delhi, India",
+            "Senior Quality Associate,German",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mukul Sharma"
+    },
+    {
+      "position": 37,
+      "title": "Bihe Zhu - Amazon",
+      "link": "https://uk.linkedin.com/in/bihezhu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/bihezhu&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECCwQAQ",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8598bc99b242279c8cc5401d73d84293d.png",
+      "snippet": "Career Focus: Product Leader at Amazon, specialising in AR/VR/Gen AI to drive innovation… · ... Hannover Area, Germany. -. Beijing City, China. -. Beijing ...",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bihe Zhu"
+    },
+    {
+      "position": 38,
+      "title": "Noor Minhaj – Technical Recruiter – Amazon",
+      "link": "https://de.linkedin.com/in/noor-minhaj-1a3ab0123",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/noor-minhaj-1a3ab0123&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECEMQAQ",
+      "displayed_link": "6.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8ebbfa151d9e84ceaf1db8f9881b8a1c6.png",
+      "snippet": "Technical Recruiter - Amazon · Amazon · Paderborn University · Berlin · 500+ Kontakte auf LinkedIn ... 2021 – Feb. 2022 6 Monaten. Berlin, Germany. Iqra ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Technical Recruiter",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Noor Minhaj"
+    },
+    {
+      "position": 39,
+      "title": "Gazali Warsi - Germany | Professional Profile",
+      "link": "https://in.linkedin.com/in/gazali-warsi-b1765b166",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/gazali-warsi-b1765b166&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECEgQAQ",
+      "displayed_link": "370+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8062379f9dac1c83b264ecd6409c6d79e.png",
+      "snippet": "Gazali Warsi. Masters in Management. Amazon University of Applied Sciences at Zwickau. Germany. 378 followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "source": "LinkedIn · Gazali Warsi"
+    },
+    {
+      "position": 40,
+      "title": "Florian Dupont Le Priol - Senior Vendor Manager - Amazon",
+      "link": "https://sg.linkedin.com/in/floriandupontlepriol",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sg.linkedin.com/in/floriandupontlepriol&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECF0QAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8b08ef824131e67d47ed028dca2444cc0.png",
+      "snippet": "Senior Vendor Manager at Amazon / Guest Lecturer at Neoma Business School · 6 Years Experience ... Review of the PNL with Category Leader. • Junior product ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "Years Experience",
+        "Leader"
+      ],
+      "source": "LinkedIn · Florian Dupont Le Priol"
+    },
+    {
+      "position": 41,
+      "title": "Guillermo Alcaraz García - Senior Planning Analyst - Amazon",
+      "link": "https://lu.linkedin.com/in/guillermo-alcaraz-garcia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lu.linkedin.com/in/guillermo-alcaraz-garcia&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECGAQAQ",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f842362f30ae9bc6698157b74e846cd021.png",
+      "snippet": "Senior Planning Analyst en Amazon · Mechanical Engineer with over 6 years of ... Data Analysis project leader for Production Process Improvement in the ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Luxembourg, Luxembourg, Luxembourg",
+            "Senior Planning Analyst",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Guillermo Alcaraz García"
+    },
+    {
+      "position": 42,
+      "title": "Boyd Alexander - Senior Creative Director, London ...",
+      "link": "https://uk.linkedin.com/in/boyd-alexander",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/boyd-alexander&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECHQQAQ",
+      "displayed_link": "790+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8311f449628842ac02fec8a88a34787e8.png",
+      "snippet": "Passionate and accomplished performance-driven creative leader, with 15+ years' experience ... Senior Art Director / Creative Manager - Amazon Imaging Services.",
+      "snippet_highlighted_words": [
+        "leader",
+        "years' experience",
+        "Senior",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Creative Director, London Incubation Hub",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Boyd Alexander"
+    },
+    {
+      "position": 43,
+      "title": "Irina Ladyko – Amazon",
+      "link": "https://de.linkedin.com/in/irina-ladyko",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/irina-ladyko&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECHoQAQ",
+      "displayed_link": "19.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8c40cf1f402475a657c86366bccb5b651.png",
+      "snippet": "Amazon · Higher School of Economics · Berlin · 500+ Kontakte auf LinkedIn ... Berlin Area, Germany. -. Moscow, Russian Federation. -. Moscow Entusiastov Blvd ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Irina Ladyko"
+    },
+    {
+      "position": 44,
+      "title": "Peter Schmidt - Senior Operations Manager - Zalando",
+      "link": "https://uk.linkedin.com/in/peter-schmidt-262b48149",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/peter-schmidt-262b48149&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECHwQAQ",
+      "displayed_link": "250+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f833ddb30c355692c524eaa3336e535c64.png",
+      "snippet": "... Amazon in Germany where I worked in various fulfillment centers as well as ... years experience of managing intensive high profile retail stores in ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Operations Manager",
+            "Zalando"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Schmidt"
+    },
+    {
+      "position": 45,
+      "title": "Raghavendra H R - Senior Software Engineering Manager",
+      "link": "https://in.linkedin.com/in/raghavendra-h-r-295b691",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/raghavendra-h-r-295b691&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJYBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8fadcd1c70b73482f48a844e7b92ee6c7.png",
+      "snippet": "Senior Software Engineering Manager in Test · Our team at Amazon thrives under my leadership, where we embrace complex software development challenges, ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Senior Software Engineering Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Raghavendra H R"
+    },
+    {
+      "position": 46,
+      "title": "Elizabeth I. - Human Resource Business Partner - Amazon",
+      "link": "https://www.linkedin.com/in/eisabella",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/eisabella&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJ8BEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8e77bf0aefc8746376746c85428a77366.png",
+      "snippet": "Servant Leader | Amazon HRBP | BSU MBA Student · As an accomplished ... Executive Team Leader - Human Resources. Target. Jan 2009 - Jul 2010 1 year 7 ...",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Amazon",
+        "Executive",
+        "Leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Boise Metropolitan Area",
+            "Human Resource Business Partner",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Elizabeth I."
+    },
+    {
+      "position": 47,
+      "title": "Mike Wywoda - Category Leader, Canada Books, Textbooks",
+      "link": "https://www.linkedin.com/in/mike-wywoda-0386704",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mike-wywoda-0386704&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCK4BEAE",
+      "displayed_link": "920+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f875a8ac2e013773c79e884255b51b83eb.png",
+      "snippet": "... Germany on all Amazon surfaces –retail web, Kindle devices and apps.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Milford, Connecticut, United States",
+            "Category Leader, Canada Books, Textbooks",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Wywoda"
+    },
+    {
+      "position": 48,
+      "title": "Hannes P. - Senior Business Intelligence Engineer - Amazon",
+      "link": "https://www.linkedin.com/in/hannespeterson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hannespeterson&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCLEBEAE",
+      "displayed_link": "630+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f870bafb80cef8d1c818603df41b14dd26.png",
+      "snippet": "Senior Business Intelligence Engineer at Amazon · Data-driven professional with seven years experience in Business Intelligence ... Hamburg, Germany. - ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "years experience",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Senior Business Intelligence Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hannes P."
+    },
+    {
+      "position": 49,
+      "title": "Chahat Agrawal - Marketplace Consultant - Amazon",
+      "link": "https://in.linkedin.com/in/chahat-agrawal-299482171",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/chahat-agrawal-299482171&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCMsBEAE",
+      "displayed_link": "170+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f873fb9b2b1483dd47e66be872e4c53266.png",
+      "snippet": "Worked along with various internal stakeholders, vendors (Germany) of Amazon located worldwide and enhanced the working knowledge of retail services platform ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Chahat Agrawal"
+    },
+    {
+      "position": 50,
+      "title": "Ashley McGarry - Senior Site Lead / Non-Inventory Manager",
+      "link": "https://uk.linkedin.com/in/ashley-mcgarry-b84418140",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ashley-mcgarry-b84418140&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCNABEAE",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8f3ad8fdb35fc6577e1678cf3aa0cb646.png",
+      "snippet": "Senior Site Lead/Inventory Manager at NPSG Europe · NPSG Europe - Current contract - -Senior Site ... -Senior Site Lead - Amazon BRE2, Bremen, Germany -Senior ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Current",
+        "Senior",
+        "Senior",
+        "Amazon",
+        "Germany",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Middlesbrough, England, United Kingdom",
+            "Senior Site Lead / Non-Inventory Manager",
+            "NPSG Europe"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ashley McGarry"
+    },
+    {
+      "position": 51,
+      "title": "gabi aparaschivei – Senior Design Technologist – Amazon",
+      "link": "https://de.linkedin.com/in/gabiap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/gabiap&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCM4BEAE",
+      "displayed_link": "380+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f811ce9eca9140974d53a58820fbcdb00e.png",
+      "snippet": "Sr. Design Technologist at Amazon · Over 9 years experience in building ... Experienced with NodeJS & Express Building real-time applications using ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "years experience",
+        "Experienced"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Senior Design Technologist",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · gabi aparaschivei"
+    },
+    {
+      "position": 52,
+      "title": "Jennifer J. Skipper - Mgr., Organizational Insights & Strategy",
+      "link": "https://www.linkedin.com/in/jenniferskipper",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jenniferskipper&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCMwBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8f6e348e261b7655e0956a5f8b13463e6.png",
+      "snippet": "Organizational Insights & Strategy | Organizational Communications | Program Development | Broadcast & Video Production Specialist | Amazon · I have more ...",
+      "snippet_highlighted_words": [
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Mgr., Organizational Insights & Strategy",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jennifer J. Skipper"
+    },
+    {
+      "position": 53,
+      "title": "Ben Pahnke - Software Engineer - Amazon",
+      "link": "https://www.linkedin.com/in/ben-pahnke-807221113",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ben-pahnke-807221113&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCOcBEAE",
+      "displayed_link": "320+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8036121a3a72881916f2bacb1648c4e10.png",
+      "snippet": "... Germany · 296 connections on LinkedIn. View Ben Pahnke's profile on LinkedIn ... Troop Leader. Scouts. Sep 2016 - Jul 2022 5 years 11 months. Children.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Software Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Pahnke"
+    },
+    {
+      "position": 54,
+      "title": "Nishit Ranjan - Leader-Seller Affiliates - Amazon",
+      "link": "https://in.linkedin.com/in/nishit-ranjan-492b797",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/nishit-ranjan-492b797&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCOYBEAE",
+      "displayed_link": "4.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f84ad9ab90c80df9d25fbf392c17dddb3b.png",
+      "snippet": "Leader- New Seller Acquisition at Amazon India · Experience: Amazon · Location: India · 500+ connections on LinkedIn ... Amazon. Feb 2018 - Present 7 years 2 ...",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "India",
+            "Leader-Seller Affiliates",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nishit Ranjan"
+    },
+    {
+      "position": 55,
+      "title": "Scott McGhee - Service Delivery Coordinator - Amazon",
+      "link": "https://uk.linkedin.com/in/scottmcghee1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/scottmcghee1&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCPABEAE",
+      "displayed_link": "21.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f85aa2e3ac24384f72190dbb05c5d63bb9.png",
+      "snippet": "An experienced and highly adaptable Senior Recruitment Consultant with 12 years experience ... Spain, Germany, Hungary, Greece and UK. Pexel Research ...",
+      "snippet_highlighted_words": [
+        "experienced",
+        "Senior",
+        "years experience",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Indonesia",
+            "Service Delivery Coordinator",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Scott McGhee"
+    },
+    {
+      "position": 56,
+      "title": "Shubham Mishra - Senior Catalog Analyst DE - Amazon",
+      "link": "https://in.linkedin.com/in/shubham15",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/shubham15&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCPEBEAE",
+      "displayed_link": "770+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8146ebf38fd9f457478eba1ec0a0bb453.png",
+      "snippet": "About. My role as a Senior Catalog Analyst at Amazon centers around enhancing operational workflows and ensuring the Germany and Canada Marketplace reflects ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New Delhi, Delhi, India",
+            "Senior Catalog Analyst DE",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shubham Mishra"
+    },
+    {
+      "position": 57,
+      "title": "Julia Shapiro - Business Affairs Executive - Amazon Studios",
+      "link": "https://www.linkedin.com/in/jshapiroesq",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jshapiroesq&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCIACEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f80a8206a7ac18ec3e964698b0a1b62dd4.png",
+      "snippet": "Business Affairs Executive, Amazon Studios · Amazon Studios · New York Law ... Senior Counsel, Business & Legal Affairs. Reveille LLC dba Shine ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Amazon",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Business Affairs Executive",
+            "Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julia Shapiro"
+    },
+    {
+      "position": 58,
+      "title": "Nipi Kondal - Principal TPM - Finance Automation - Amazon",
+      "link": "https://www.linkedin.com/in/nipikondal",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nipikondal&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCIcCEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8245ea3760a031ac0c9182c44b78f0951.png",
+      "snippet": "Principal TPM @ Amazon | Global Executive · With over 20 years of experience ... Senior Manager, Programs Management - Global Supply Chain. Edwards ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Executive",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Yorba Linda, California, United States",
+            "Principal TPM",
+            "Finance Automation",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nipi Kondal"
+    },
+    {
+      "position": 59,
+      "title": "Arman Shirani - Product Marketing Manager – Zalando",
+      "link": "https://de.linkedin.com/in/armanshirani",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/armanshirani&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCIYCEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8b387c83a17ee595271868a9a83d0dd0d.png",
+      "snippet": "Data-driven product marketing leader with 10+ years experience in design and product management. ... Senior Product Marketing Manager. Amazon. Apr. 2021 ...",
+      "snippet_highlighted_words": [
+        "leader",
+        "years experience",
+        "Senior",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Arman Shirani"
+    },
+    {
+      "position": 60,
+      "title": "Aljosha Klein - Senior Product Manager - Personio",
+      "link": "https://www.linkedin.com/in/aljoshaklein",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aljoshaklein&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCIECEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8f3eed9cff75f6443a81f2d8095af3a61.png",
+      "snippet": "Senior ... Munich, Bavaria, Germany. Personio Graphic. Product Expert. Personio. Jul 2019 - Mar 2021 1 year 9 months. Munich, Bavaria, Germany. Amazon Graphic ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Germany",
+        "Germany",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Amsterdam, North Holland, Netherlands",
+            "Senior Product Manager",
+            "Personio"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aljosha Klein"
+    },
+    {
+      "position": 61,
+      "title": "Jessica Guthrie - Marketing Specialist - Amazon Web ...",
+      "link": "https://www.linkedin.com/in/jessica-guthrie-a7247559",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jessica-guthrie-a7247559&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJkCEAE",
+      "displayed_link": "660+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f84bef2684b9ecaf6495a099540c37d181.png",
+      "snippet": "... Experienced in producing focused and creative media from design to ... Senior communications professional with over 10 years writing and editing ...",
+      "snippet_highlighted_words": [
+        "Experienced",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Marketing Specialist",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jessica Guthrie"
+    },
+    {
+      "position": 62,
+      "title": "SAURABH DIMRI - Senior Technical Program Manager",
+      "link": "https://www.linkedin.com/in/saurabh-dimri-63225019",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/saurabh-dimri-63225019&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJoCEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f820a07821f3a65249dd088ee15649248e.png",
+      "snippet": "Senior Technical Program Manager at Amazon, Seattle · An experienced Senior ... Amazon. Jul 2022 - Present 2 years 9 months. Seattle, Washington, United ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "experienced Senior",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Senior Technical Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · SAURABH DIMRI"
+    },
+    {
+      "position": 63,
+      "title": "Lee G. - Senior Product Manager - Technical",
+      "link": "https://www.linkedin.com/in/lksmith2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lksmith2&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCKACEAE",
+      "displayed_link": "140+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8d03d4ef1f995c1c11a9d918ec7cb1bf2.png",
+      "snippet": "Senior Product Manager - Technical. Amazon Web Services (AWS). Jul 2022 - Present 2 years 9 months.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta Metropolitan Area",
+            "Senior Product Manager",
+            "Technical",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lee G."
+    },
+    {
+      "position": 64,
+      "title": "Terry Horner - Senior Program Manager - Amazon",
+      "link": "https://www.linkedin.com/in/terrymhorner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/terrymhorner&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCKECEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8b4c56cdbbaccc7b86abce4e36c414343.png",
+      "snippet": "Senior Program Manager | Expert in Integrating Cross-Functional Capabilities | Strategic Operations Leader. Amazon Embry-Riddle Aeronautical University ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Leader",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Senior Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Terry Horner"
+    },
+    {
+      "position": 65,
+      "title": "Grainne McQuaid - Amazon Web Services (AWS) CIM",
+      "link": "https://uk.linkedin.com/in/grainne-mcquaid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/grainne-mcquaid&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCLUCEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f812a5ab146e6109af8adfd46d46a8e70f.png",
+      "snippet": "... Germany & International Organisations, WW Public Sector at Amazon Web Services (AWS) · A versatile, experienced strategic business leader ... - Present 3 ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Amazon",
+        "experienced",
+        "leader",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Head of Strategy & Engagement, UK, Germany, and International Organisations, WW Public Sector",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Grainne McQuaid"
+    },
+    {
+      "position": 66,
+      "title": "Natalie M. Bennett - Senior Product Manager, Amazon ...",
+      "link": "https://www.linkedin.com/in/nataliebennett1003",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nataliebennett1003&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCLICEAE",
+      "displayed_link": "690+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8bb297de030dada876a04278a8a1827d2.png",
+      "snippet": "4 years experience managing teams up to 12 people, 6 years experience ... • Weekly presentation to Amazon Fresh senior executive team, to communicate on the ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "years experience",
+        "Amazon",
+        "senior executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Boulder, Colorado, United States",
+            "Senior Product Manager, Amazon Devices, Offline Sales & Marketing",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Natalie M. Bennett"
+    },
+    {
+      "position": 67,
+      "title": "Gene Matthews - Principal Technical Program Manager",
+      "link": "https://www.linkedin.com/in/gene-matthews",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gene-matthews&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCLQCEAE",
+      "displayed_link": "580+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8f23fa96c43bc1fb181665c5c940a19e3.png",
+      "snippet": "Senior Manager at Amazon Advertising · Hands-on technology manager with over 20 years experience leading teams and building products.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Principal Technical Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gene Matthews"
+    },
+    {
+      "position": 68,
+      "title": "Mike Lemmon - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/lemmonm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lemmonm&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCLsCEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8c2f41cec9dac65cb87f920629e5b9cc1.png",
+      "snippet": "Executive design leader with 20+ years experience in human-centered design, building and… · Experience: Amazon Web Services (AWS) · Education: Western ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "leader",
+        "years experience",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Lemmon"
+    },
+    {
+      "position": 69,
+      "title": "Ana Cristina Murillo Rojas - Software Developer - Amazon",
+      "link": "https://www.linkedin.com/in/anamurillr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/anamurillr&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECEEQAQ",
+      "displayed_link": "600+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8cda6445953d3b78326749210c4b00cec.png",
+      "snippet": "Escalation line for Customer Service for Amazon.com and Amazon.ca. Amazon ... “Ana is a strong project leader, SCRUM Master, and overall teammate. I've ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Software Developer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ana Cristina Murillo Rojas"
+    },
+    {
+      "position": 70,
+      "title": "Adi Tya - Senior Manager - Software Development - Amazon",
+      "link": "https://in.linkedin.com/in/adi-tya-g",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/adi-tya-g&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECEIQAQ",
+      "displayed_link": "360+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8d34a8296f6c9aa9a22750ad9effcae10.png",
+      "snippet": "Engineering Leader @Amazon · Experience: Amazon · Education: KAMLA NEHRU ... Senior Manager - Software Development. Amazon. Jan 2023 - Present 2 years 3 ...",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Amazon",
+        "Amazon",
+        "Senior",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Senior Manager",
+            "Software Development",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adi Tya"
+    },
+    {
+      "position": 71,
+      "title": "Karthikeyan Murthi - Manager Program Management",
+      "link": "https://in.linkedin.com/in/murtkarthikeyan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/murtkarthikeyan&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECEUQAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f82ad64dd4dcc0356c17a52ef013f44ab7.png",
+      "snippet": "With more than 5 years' experience in product/solution ... Highly experienced in running large scale marketing campaigns in regions including Germany ...",
+      "snippet_highlighted_words": [
+        "years' experience",
+        "experienced",
+        "Germany"
+      ],
+      "source": "LinkedIn · Karthikeyan Murthi"
+    },
+    {
+      "position": 72,
+      "title": "Vandana Iyer - Business Analyst - Amazon",
+      "link": "https://in.linkedin.com/in/vandana-iyer-9a660056",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/vandana-iyer-9a660056&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECEQQAQ",
+      "displayed_link": "430+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8b6f0f4d6d4c1e23d94b53c3ce8006c6f.png",
+      "snippet": "... experienced team members, fostering skill development and growth ... Senior Data Associate. Amazon. Jul 2022 - Present 2 years 9 months. Amazon Graphic ...",
+      "snippet_highlighted_words": [
+        "experienced",
+        "Senior",
+        "Amazon",
+        "Present",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Vandana Iyer"
+    },
+    {
+      "position": 73,
+      "title": "Sophia Stollfuß - Senior Advertising Sales Manager - CPG",
+      "link": "https://de.linkedin.com/in/sophia-stollfu%C3%9F/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sophia-stollfu%25C3%259F/en&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECEYQAQ",
+      "displayed_link": "870+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f89089a9897e1493e2244c5dd00b9a8cc6.png",
+      "snippet": "Senior Client Partner @Amazon Ads I 10+ years experience in FMCG and Beauty I ex-L'Oréal. Amazon ESCP Europe. Munich, Bavaria, Germany. 876 followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "years experience",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Senior Advertising Sales Manager",
+            "CPG",
+            "Amazon Ads",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sophia Stollfuß"
+    },
+    {
+      "position": 74,
+      "title": "ruparatnakumari metla – Executive Sales Representative",
+      "link": "https://de.linkedin.com/in/ruparatnakumari-metla-7b4488a1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ruparatnakumari-metla-7b4488a1&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECFcQAQ",
+      "displayed_link": "190+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8798549ea1a3572f7e53b87090cebef35.png",
+      "snippet": "Berufserfahrung: Amazon · Ausbildung: Karnataka University, Dharwad ... Executive Sales Representative. Amazon. Feb. 2017 –Heute 8 Jahre 1 Monat.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Executive",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ludwigsburg, Baden-Württemberg, Deutschland",
+            "Executive Sales Representative",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · ruparatnakumari metla"
+    },
+    {
+      "position": 75,
+      "title": "Monday Solomon - Stock Taker - Amazon",
+      "link": "https://ng.linkedin.com/in/monday-solomon-802ab3127",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ng.linkedin.com/in/monday-solomon-802ab3127&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECFwQAQ",
+      "displayed_link": "20+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f898bff6d419e71370ac344e1aca9c29e1.png",
+      "snippet": "Magdeburg, Saxony-Anhalt, Germany ... An IT support specialist cum Business Educator and trainer with more than 10 years experience facilitating competency ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Magdeburg, Saxony-Anhalt, Germany",
+            "Stock Taker",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Monday Solomon"
+    },
+    {
+      "position": 76,
+      "title": "Andrea Allbright - Senior Program Manager - Amazon",
+      "link": "https://www.linkedin.com/in/andrea-allbright-3357b479",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrea-allbright-3357b479&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECF8QAQ",
+      "displayed_link": "300+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f849231b375b5832823c5982292a5a65d9.png",
+      "snippet": "Senior Program Manager-at Amazon · Experience: Amazon · Education ... - Assists less experienced investigators in bringing cases to a close - Completes ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "Amazon",
+        "experienced"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington DC-Baltimore Area",
+            "Senior Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrea Allbright"
+    },
+    {
+      "position": 77,
+      "title": "Mike Bainbridge - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/mikebainbridgeuk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mikebainbridgeuk&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECGMQAQ",
+      "displayed_link": "6.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8bba7986aff1b8ca8016240f62fdff487.png",
+      "snippet": "Hi, I'm Mike I have 25+ years experience in the IT industry. Today, I help AWS… · Experience: Amazon Web Services (AWS) · Location: London · 500+ ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Bainbridge"
+    },
+    {
+      "position": 78,
+      "title": "Caleb Perkins - Pathways Operations Manager - Amazon",
+      "link": "https://www.linkedin.com/in/caleblloydperkins",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/caleblloydperkins&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECGIQAQ",
+      "displayed_link": "730+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8af75e8e691bb854d72c220ea5f71faa8.png",
+      "snippet": "Amazon Pathways | Cornell MBA | US Army Veteran · I'm a results-oriented and motivated leader ... Germany, I had extensive experience leading diverse and ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "leader",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Tampa Bay Area",
+            "Pathways Operations Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Caleb Perkins"
+    },
+    {
+      "position": 79,
+      "title": "Caroline Lesniak, MBA - UX Design Program Manager",
+      "link": "https://www.linkedin.com/in/clesniak",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/clesniak&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECHgQAQ",
+      "displayed_link": "440+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8c466ffbdb5b6a8c86c783796e2f0b8da.png",
+      "snippet": "... Amazon, I spearheaded initiatives that consistently met leadership ... Senior Program Manager, Employee Journeys UX. Amazon. Oct 2022 - May 2024 1 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Senior",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "UX Design Program Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Caroline Lesniak, MBA"
+    },
+    {
+      "position": 80,
+      "title": "Kevin Chattin, MBA - Senior Program Manager - Amazon",
+      "link": "https://www.linkedin.com/in/kevin-chattin-experienced-program-manager",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kevin-chattin-experienced-program-manager&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECHcQAQ",
+      "displayed_link": "230+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f87c61941eb23ce2956bd96153a502b5bf.png",
+      "snippet": "Experienced and educated Program Manager who innovates every day! Amazon Marshall University Graduate School. Milton, West Virginia, United States. 233 ...",
+      "snippet_highlighted_words": [
+        "Experienced",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Milton, West Virginia, United States",
+            "Senior Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin Chattin, MBA"
+    },
+    {
+      "position": 81,
+      "title": "Shirley Wang – Senior Director of Sales and Business ...",
+      "link": "https://de.linkedin.com/in/shirley-wang-b1207691",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/shirley-wang-b1207691&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECHkQAQ",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8ccd93408dac085d7a61888f4aeea42ad.png",
+      "snippet": "... years experience for Sales and Marketing in FMCG. Enabling a business ... Amazon and 1P store. Full experience packed in the Omni channel development ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+            "Senior Director of Sales and Business Development",
+            "Temu"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shirley Wang"
+    },
+    {
+      "position": 82,
+      "title": "Narendra Sharma - Executive - Amazon",
+      "link": "https://in.linkedin.com/in/narendra-sharma-5699a6157",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/narendra-sharma-5699a6157&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECH4QAQ",
+      "displayed_link": "10+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f80bdddcdc768d8446fbf791f8909ea033.png",
+      "snippet": "Experience. Amazon Graphic. Executive. Amazon · SHRISTI SHREE CEMENT PRIVATE LIMITED Graphic. Senior Production Supervisor. SHRISTI SHREE CEMENT PRIVATE LIMITED.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Executive",
+        "Amazon",
+        "Senior"
+      ],
+      "source": "LinkedIn · Narendra Sharma"
+    },
+    {
+      "position": 83,
+      "title": "Chris Hinen - Area Manager - Amazon",
+      "link": "https://www.linkedin.com/in/chris-hinen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chris-hinen&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECH0QAQ",
+      "displayed_link": "480+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f82fd67da6a642772eae91c976a49a599d.png",
+      "snippet": "Chris Hinen. People Leader | Military Veteran. Amazon Liberty University. Fort Wayne, Indiana, United States.",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Fort Wayne, Indiana, United States",
+            "Area Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Hinen"
+    },
+    {
+      "position": 84,
+      "title": "Tracey Markham - Non Executive Director",
+      "link": "https://uk.linkedin.com/in/traceymarkham",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/traceymarkham&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCIkBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f80d2d595a55d9cf4666d3b6d1e48dfa8b.png",
+      "snippet": "Senior digital leader with experience growing and leading media, marketing ... Executive leader, experienced leading media and digital content businesses across ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "leader",
+        "Executive leader",
+        "experienced"
+      ],
+      "source": "LinkedIn · Tracey Markham"
+    },
+    {
+      "position": 85,
+      "title": "Sean Hamilton - Community Manager - Amazon Games",
+      "link": "https://www.linkedin.com/in/sean-a-hamilton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sean-a-hamilton&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJUBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8af65fd4974d00c368a2a284ff70d7e01.png",
+      "snippet": "Community Manager - Amazon Games · 7+ years experience in a variety of roles, including Marketing, Community Building, Production, and Brand Management.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Diego, California, United States",
+            "Community Manager",
+            "Amazon Games"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sean Hamilton"
+    },
+    {
+      "position": 86,
+      "title": "Harpinder Kang - Senior Leader Marketing- Last Mile Staffing",
+      "link": "https://uk.linkedin.com/in/harpinder-kang-5a82a954",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/harpinder-kang-5a82a954&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJ4BEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f82bd43f0867e7f3162e306642d09a7f38.png",
+      "snippet": "Experience: Amazon · Education: HEC Paris · Location: St Albans · 500 ... Senior Leader Marketing- Last Mile Staffing- NA & LATAM. Amazon. Jan 2023 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Senior Leader",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "St Albans, England, United Kingdom",
+            "Senior Leader Marketing- Last Mile Staffing- NA & LATAM",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Harpinder Kang"
+    },
+    {
+      "position": 87,
+      "title": "Amanda Vela, PMP - HR Manager - Amazon",
+      "link": "https://www.linkedin.com/in/amanda-vela-pmp-69b00220b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amanda-vela-pmp-69b00220b&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJgBEAE",
+      "displayed_link": "710+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8308532621df61f2e8382d58d863338ab.png",
+      "snippet": "... Senior Human Resources Manager, Plans and Operations Officer, Training ... Germany. • Project Management • Workforce Planning • HR Technology ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Las Vegas, Nevada, United States",
+            "HR Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amanda Vela, PMP"
+    },
+    {
+      "position": 88,
+      "title": "Pooja J - Business Analyst - Amazon",
+      "link": "https://in.linkedin.com/in/pooja-j-2a8838138",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/pooja-j-2a8838138&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCJcBEAE",
+      "displayed_link": "70+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8985003e66df60a1a7fc798349b6a1db0.png",
+      "snippet": "... Amazon · Education: St. Joseph's College Of Engineering · Location ... Experienced Analyst with knowledge on design, development and maintenance of ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Experienced"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chennai, Tamil Nadu, India",
+            "Business Analyst",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pooja J"
+    },
+    {
+      "position": 89,
+      "title": "Antonio Sanabria - Manager, Strategic Account Services ...",
+      "link": "https://cr.linkedin.com/in/antoniosanabria",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cr.linkedin.com/in/antoniosanabria&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCK8BEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8130e3b6fbfe1c7a67cb36360d4d755fa.png",
+      "snippet": "Costa Rica Hub Leader, Pay Services and Global Biz Ops. Amazon. dic 2021 - ago 2023 1 año 9 meses. Costa Rica.",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Heredia, Costa Rica",
+            "Manager, Strategic Account Services (SAS)",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Antonio Sanabria"
+    },
+    {
+      "position": 90,
+      "title": "Sean Cook - Amazon",
+      "link": "https://www.linkedin.com/in/seanlcook",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/seanlcook&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCLABEAE",
+      "displayed_link": "10.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f820df5e5cdf46445553db2e85f92275fb.png",
+      "snippet": "Experienced multi-unit manager with 20 years of escalating responsibilities in the direct… · Amazon · Grand Valley State University · Grand Rapids ...",
+      "snippet_highlighted_words": [
+        "Experienced",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Grand Rapids Metropolitan Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sean Cook"
+    },
+    {
+      "position": 91,
+      "title": "Marcus Bonde - Area Manager II - Amazon",
+      "link": "https://www.linkedin.com/in/marcusbonde11",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marcusbonde11&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCLIBEAE",
+      "displayed_link": "120+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f89fe444934b15862cc48ee14b00b0f00d.png",
+      "snippet": "... years experience with supply chain with Target Distribution. I am looking ... Executive Team Leader. Target. Jul 2009 - Jul 2011 2 years 1 month. Cottage ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Executive",
+        "Leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dublin, Ohio, United States",
+            "Area Manager II",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marcus Bonde"
+    },
+    {
+      "position": 92,
+      "title": "Bartosz Wojciechowski - Head of Product Development ...",
+      "link": "https://es.linkedin.com/in/bart-s-wojciechowski",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://es.linkedin.com/in/bart-s-wojciechowski&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCLMBEAE",
+      "displayed_link": "950+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8a09f9089fb819a50347087053e1cd8bc.png",
+      "snippet": "... Leader with 15+ Years of Expertise in Product Development and ... Senior Manager, Process Engineering at Amazon EU. During our interactions he ...",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Senior",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Madrid, Comunidad de Madrid, España",
+            "Head of Product Development @ Amazon",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bartosz Wojciechowski"
+    },
+    {
+      "position": 93,
+      "title": "Olesya Fedorchuk – Area Manager – Amazon",
+      "link": "https://de.linkedin.com/in/olesyafedorchuk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/olesyafedorchuk&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCMoBEAE",
+      "displayed_link": "270+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8dc00d3fd26ea7db9b13047bac39997ec.png",
+      "snippet": "Berufserfahrung. Amazon Grafik. Area Manager. Amazon. März 2022 –Heute 3 Jahre 1 Monat. Munich, Bavaria, Germany. Expedia Group. 13 Jahre 5 Monate.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Area Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Olesya Fedorchuk"
+    },
+    {
+      "position": 94,
+      "title": "Luke Fletcher - Senior Program Manager - Amazon",
+      "link": "https://www.linkedin.com/in/lfletch",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lfletch&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCMgBEAE",
+      "displayed_link": "250+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f812a296d4fac471baa2887738e05aadc7.png",
+      "snippet": "Senior Program Manager · Proven leader with 10 years of professional ... Company Executive Officer. United States Army. Mar 2012 - Feb 2013 1 year.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "leader",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Senior Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Luke Fletcher"
+    },
+    {
+      "position": 95,
+      "title": "Amrita Srivastava - German Language Specialist Accounts ...",
+      "link": "https://in.linkedin.com/in/amrita-srivastava-42684538",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/amrita-srivastava-42684538&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCM8BEAE",
+      "displayed_link": "100+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f83f07fbeaa57c3b4a1fd71e870f13e06e.png",
+      "snippet": "... Amazon.com · Education: max mueller bhavan · Location: Hyderabad · 97 ... Aspiring to work in Germany now! Lets see when. Hopefully its going to be ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hyderabad, Telangana, India",
+            "German Language Specialist Accounts Payable",
+            "Amazon.com"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amrita Srivastava"
+    },
+    {
+      "position": 96,
+      "title": "Jenny Huynh, MBA - Program Manager - Amazon",
+      "link": "https://www.linkedin.com/in/jennymlhuynh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jennymlhuynh&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoFCM0BEAE",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f891999fd73a15e4617b14f864bd592fa3.png",
+      "snippet": "Program Management @ Amazon · Strategic and detailed-oriented professional with 10+ years experience developing, implementing, measuring and optimizing ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jenny Huynh, MBA"
+    },
+    {
+      "position": 97,
+      "title": "Sanket Gupta - Senior Technical Program Manager - Amazon",
+      "link": "https://in.linkedin.com/in/sanket-gupta-1405895",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/sanket-gupta-1405895&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECCcQAQ",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f85db611119adaaec817c8cdd8a10ff917.png",
+      "snippet": "Senior TPM @ Amazon · Results-oriented Technical Program Manager with 20 ... Amazon. Jul 2022 - Present 2 years 9 months. India ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Pune, Maharashtra, India",
+            "Senior Technical Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sanket Gupta"
+    },
+    {
+      "position": 98,
+      "title": "Dharamjeet Singh Rayat - Senior Technical Program ...",
+      "link": "https://in.linkedin.com/in/dharamjeet-singh-rayat-016964193",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/dharamjeet-singh-rayat-016964193&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECCYQAQ",
+      "displayed_link": "260+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f8cc46dcc88527d135b4456a0cc15f410d.png",
+      "snippet": "Senior Technical Program Manager at Amazon · Amazon · Hill Top School - India · Seattle · 255 connections on LinkedIn. View Dharamjeet Singh Rayat's profile ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Dharamjeet Singh Rayat"
+    },
+    {
+      "position": 99,
+      "title": "Daniel Gottwald - Senior Business Development Manager",
+      "link": "https://es.linkedin.com/in/gottwalddaniel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://es.linkedin.com/in/gottwalddaniel&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECC0QAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f848e6004fe2fbff44d6a0d28fca138333.png",
+      "snippet": "years experience and a proven track record in e-commerce, supply chain, and ... Team Leader and Consultant. sept 2015 - ene 2016. HSBA Finance Conference.",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Barcelona, Cataluña, España",
+            "Senior Business Development Manager",
+            "Professional Delivery Services",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Gottwald"
+    },
+    {
+      "position": 100,
+      "title": "Mari Joller - Amazon",
+      "link": "https://www.linkedin.com/in/marijoller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marijoller&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQFnoECCkQAQ",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfafb537c9ca2e43e414d/images/dc1bae27c4621efd4f4450b2479ad0f814e3c9d84b0d490020d88aca4dfa4530.png",
+      "snippet": "Berlin, Germany & Bangalore, India. -. New York, NY. -. New York, NY. -. New ... “Mari is a great leader who consistently delivers value and impact - first ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mari Joller"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=A_vdZ6SDEJfm5NoP0seNsAg&start=100&sa=N&sstk=Af40H4UJ-Vc2ikNi0Fbbl_M7unQ3KtJPZOoMaqH015WsBWMM_czTo8JsdQIoMyC1UpEb66Fl3jXjYHoyiLjZDqGUsLhsc42t3f8ugw&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQ8NMDegQIBhAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=A_vdZ6SDEJfm5NoP0seNsAg&start=100&sa=N&sstk=Af40H4UJ-Vc2ikNi0Fbbl_M7unQ3KtJPZOoMaqH015WsBWMM_czTo8JsdQIoMyC1UpEb66Fl3jXjYHoyiLjZDqGUsLhsc42t3f8ugw&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQ8tMDegQIBhAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=A_vdZ6SDEJfm5NoP0seNsAg&start=200&sa=N&sstk=Af40H4UJ-Vc2ikNi0Fbbl_M7unQ3KtJPZOoMaqH015WsBWMM_czTo8JsdQIoMyC1UpEb66Fl3jXjYHoyiLjZDqGUsLhsc42t3f8ugw&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQ8tMDegQIBhAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=A_vdZ6SDEJfm5NoP0seNsAg&start=300&sa=N&sstk=Af40H4UJ-Vc2ikNi0Fbbl_M7unQ3KtJPZOoMaqH015WsBWMM_czTo8JsdQIoMyC1UpEb66Fl3jXjYHoyiLjZDqGUsLhsc42t3f8ugw&ved=2ahUKEwjkkJq7rpyMAxUXM1kFHdJjA4YQ8tMDegQIBhAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=300"
+    }
+  }
+}

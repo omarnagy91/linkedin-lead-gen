@@ -1,0 +1,2199 @@
+{
+  "search_metadata": {
+    "id": "67ddf919245c11bce6bac777",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/458c684b32c6c2d1/67ddf919245c11bce6bac777.json",
+    "created_at": "2025-03-21 23:41:13 UTC",
+    "processed_at": "2025-03-21 23:41:13 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/458c684b32c6c2d1/67ddf919245c11bce6bac777.html",
+    "total_time_taken": 3.84
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"United States\" AND (current OR present) AND (\"President\" OR \"Chairman\" OR \"Chief Executive\" OR \"Principal Owner\" OR \"Managing Member\" OR \"Fellow\" OR \"Senior Fellow\" OR \"Distinguished Engineer\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"United States\" AND (current OR present) AND (\"President\" OR \"Chairman\" OR \"Chief Executive\" OR \"Principal Owner\" OR \"Managing Member\" OR \"Fellow\" OR \"Senior Fellow\" OR \"Distinguished Engineer\")",
+    "total_results": 10300000,
+    "time_taken_displayed": 0.78,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Satya Nadella - Chairman and CEO - Microsoft",
+      "link": "https://www.linkedin.com/in/satyanadella",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/satyanadella&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECAkQAQ",
+      "displayed_link": "11.3M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912082bd27a0c1a721c3d552fd4331837cc.png",
+      "snippet": "Chairman and CEO at Microsoft. Microsoft The University of Chicago Booth School of Business. Redmond, Washington, United States. 11M followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Chairman",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Satya Nadella"
+    },
+    {
+      "position": 2,
+      "title": "Brad Smith - President - Microsoft",
+      "link": "https://www.linkedin.com/in/bradsmi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bradsmi&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECBYQAQ",
+      "displayed_link": "339.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912b2ee29b06a4603cbf5110cc40b135ee8.png",
+      "snippet": "Vice Chair and President at Microsoft Corporation. Microsoft Columbia Law School. Bellevue, Washington, United States. 340K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Brad Smith"
+    },
+    {
+      "position": 3,
+      "title": "Chetan Nayak - Microsoft",
+      "link": "https://www.linkedin.com/in/cnayak-quantum",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cnayak-quantum&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECBwQAQ",
+      "displayed_link": "5.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912c2cc41711f4798fa4c59c22018648ae7.png",
+      "snippet": "Chetan Nayak. Microsoft Harvard University. Santa Barbara, California, United States. 6K followers 229 connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Santa Barbara, California, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chetan Nayak"
+    },
+    {
+      "position": 4,
+      "title": "Steve Pronovost - Distinguished Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/steve-pronovost-7603504",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/steve-pronovost-7603504&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECB4QAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912ad862030114c009b8761c0e5f2c5b548.png",
+      "snippet": "Steve Pronovost. Distinguished Engineer at Microsoft. Microsoft Polytechnique Montréal. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Distinguished Engineer",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Steve Pronovost"
+    },
+    {
+      "position": 5,
+      "title": "David Fowler - Microsoft",
+      "link": "https://www.linkedin.com/in/davidfowl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/davidfowl&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECB0QAQ",
+      "displayed_link": "12.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91238aa662b3500f3f0deab3541e76baf8d.png",
+      "snippet": "David Fowler. Microsoft Florida Institute of Technology. Bellevue, Washington, United States. 12K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Fowler"
+    },
+    {
+      "position": 6,
+      "title": "Sarah Bond - Microsoft",
+      "link": "https://www.linkedin.com/in/sarahrbond",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarahrbond&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECCMQAQ",
+      "displayed_link": "50.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912d9c94cb23c97f08650aec7551a36d193.png",
+      "snippet": "Sarah Bond is the President of Xbox, managing the P&L for Microsoft's ... United States. -. Redmond, WA. -. Greater Seattle Area. -. Greater Seattle Area ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft's",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Bond"
+    },
+    {
+      "position": 7,
+      "title": "Doug Burger - Microsoft",
+      "link": "https://www.linkedin.com/in/dcburger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dcburger&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECBcQAQ",
+      "displayed_link": "9.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9129e09126fb17887d8cbef931e420af8dc.png",
+      "snippet": "Doug Burger. Microsoft Yale University. Redmond, Washington, United States ... I'm currently serving as a Technical Fellow in Microsoft Research, starting new…",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Fellow",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Doug Burger"
+    },
+    {
+      "position": 8,
+      "title": "Charlie Bell - Microsoft",
+      "link": "https://www.linkedin.com/in/charlie--bell",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/charlie--bell&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECC4QAQ",
+      "displayed_link": "14.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912b8ff1060f8c90eb62d367fa39b272ada.png",
+      "snippet": "I lead the Security, Compliance, Identity, and Management organization at Microsoft… · Microsoft ... Charlie Bell. Microsoft. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Charlie Bell"
+    },
+    {
+      "position": 9,
+      "title": "Reynold D'Sa - Microsoft",
+      "link": "https://www.linkedin.com/in/reynolddsa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/reynolddsa&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECCsQAQ",
+      "displayed_link": "5.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91253d937003128bfd3c388b4726be301d5.png",
+      "snippet": "Reynold D'Sa. Microsoft Stanford University. Redmond, Washington, United States. 5K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Reynold D'Sa"
+    },
+    {
+      "position": 10,
+      "title": "Denis Charles - Distinguished Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/denis-charles-791508b8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/denis-charles-791508b8&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCOIBEAE",
+      "displayed_link": "830+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9122a15396c7fe301185812ff1a9e7ac6bb.png",
+      "snippet": "Distinguished Engineer. Microsoft. Sep 2024 - Present 7 months. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Distinguished Engineer",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Denis Charles"
+    },
+    {
+      "position": 11,
+      "title": "Jason Zander - Microsoft",
+      "link": "https://www.linkedin.com/in/jlzander",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jlzander&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECC8QAQ",
+      "displayed_link": "37.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9128e7e4db9fcff7a9c518440fc835e3876.png",
+      "snippet": "Experience: Microsoft · Education: Minnesota State University, Mankato · Location: United States · 500+ connections on LinkedIn. View Jason Zander's profile ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jason Zander"
+    },
+    {
+      "position": 12,
+      "title": "Christopher Young - Microsoft",
+      "link": "https://www.linkedin.com/in/christopheryoung4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christopheryoung4&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCIQBEAE",
+      "displayed_link": "47.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91207649b7b481784f3ad2ff31c9574584b.png",
+      "snippet": "In his role as Microsoft EVP of… Articles by Christopher. AI in 2024/2025: A Pragmatic Optimist's ... President of the United States Appointee. 2016 - 2021.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "President",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Santa Clara, California, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christopher Young"
+    },
+    {
+      "position": 13,
+      "title": "Ulrich Homann - Microsoft",
+      "link": "https://www.linkedin.com/in/ulrichhomann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ulrichhomann&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCOcBEAE",
+      "displayed_link": "12.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9127450cb20579347cd57688f9e00a8b509.png",
+      "snippet": "Ulrich Homann. Microsoft Fachhochschule Köln. Kirkland, Washington, United States. 13K followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ulrich Homann"
+    },
+    {
+      "position": 14,
+      "title": "Mustafa Suleyman - CEO, Microsoft AI",
+      "link": "https://www.linkedin.com/in/mustafa-suleyman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mustafa-suleyman&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJACEAE",
+      "displayed_link": "308K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912c24a537da0dd60493e3ceff325ec96ff.png",
+      "snippet": "a Senior Fellow at the Belfer Center for Science and International Affairs ... CEO, Microsoft AI. Microsoft. Redmond, Washington, United States. 309K ...",
+      "snippet_highlighted_words": [
+        "Senior Fellow",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Mustafa Suleyman"
+    },
+    {
+      "position": 15,
+      "title": "Judson Althoff - Microsoft",
+      "link": "https://www.linkedin.com/in/judsonalthoff",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/judsonalthoff&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECCgQAQ",
+      "displayed_link": "119K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912655cbca20825b43e1cdcec0467ea4b86.png",
+      "snippet": "Judson Althoff. Microsoft Illinois Institute of Technology. Greater Seattle Area. 119K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Judson Althoff"
+    },
+    {
+      "position": 16,
+      "title": "Kathleen Hogan - EVP, Office of Strategy and Transformation",
+      "link": "https://www.linkedin.com/in/kathleenthogan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kathleenthogan&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECF4QAQ",
+      "displayed_link": "153.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912064fbbf63888319bbe4258f4e7f0e933.png",
+      "snippet": "... Microsoft · Stanford University Graduate School of Business · United States ... As Executive Vice President, Office of Strategy and Transformation, I'm ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "President"
+      ],
+      "source": "LinkedIn · Kathleen Hogan"
+    },
+    {
+      "position": 17,
+      "title": "Charlotte Yarkoni - Microsoft",
+      "link": "https://www.linkedin.com/in/charlotteyarkoni",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/charlotteyarkoni&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCIUBEAE",
+      "displayed_link": "12.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9128652bdc704267fc6768ba096d2c09674.png",
+      "snippet": "As president of Commerce and Ecosystems (C+E) at Microsoft, my charter covers the… · ... Redmond, Washington, United States. -. Redmond, Washington, United ...",
+      "snippet_highlighted_words": [
+        "president",
+        "Microsoft",
+        "United States",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Charlotte Yarkoni"
+    },
+    {
+      "position": 18,
+      "title": "Kevin Scott - CTO Microsoft",
+      "link": "https://www.linkedin.com/in/jkevinscott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jkevinscott&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCLEBEAE",
+      "displayed_link": "757.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91232ffd5064d0b38b1ebac266c51098363.png",
+      "snippet": "Kevin Scott is an influencer. Microsoft. Los Gatos, California, United States. 758K followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Kevin Scott"
+    },
+    {
+      "position": 19,
+      "title": "Steve Clayton - Microsoft",
+      "link": "https://www.linkedin.com/in/stevecla",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stevecla&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCOUBEAE",
+      "displayed_link": "19.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912715f1b5d1a332bf179025ba80d3c3f06.png",
+      "snippet": "I'm the Vice President of Communications Strategy at Microsoft. In this role ... Redmond, Washington, United States. -. Seattle, Washington, United ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "United States",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steve Clayton"
+    },
+    {
+      "position": 20,
+      "title": "Jeana Jorgensen - Microsoft",
+      "link": "https://www.linkedin.com/in/jeanajorgensen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeanajorgensen&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCP0BEAE",
+      "displayed_link": "6.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912843a4c3b53bfce98252eb8bc3da03863.png",
+      "snippet": "Experience. Microsoft Graphic · Microsoft. Redmond, Washington, United States. - ... Chairman (Challenge For Charity) Chairman (CTE Business Plan Competition) ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "Chairman",
+        "Chairman"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeana Jorgensen"
+    },
+    {
+      "position": 21,
+      "title": "Alysa Taylor - Microsoft",
+      "link": "https://www.linkedin.com/in/alysa-taylor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alysa-taylor&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCI4CEAE",
+      "displayed_link": "25.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91262da54c81f1165cbcf2318a75fd90708.png",
+      "snippet": "Alysa Taylor. Microsoft University of Colorado at Boulder. Bellevue, Washington, United States. 26K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alysa Taylor"
+    },
+    {
+      "position": 22,
+      "title": "Chris Capossela - Member of the Board of Directors",
+      "link": "https://www.linkedin.com/in/chriscapossela",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chriscapossela&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCKcCEAE",
+      "displayed_link": "181.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912639e4cadd1cb3ae1956149dfae4927ef.png",
+      "snippet": "... President and Chief Marketing Officer at Microsoft. (USTA) United States Tennis Association. Seattle, Washington, United States. 182K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "United States",
+        "United States"
+      ],
+      "source": "LinkedIn · Chris Capossela"
+    },
+    {
+      "position": 23,
+      "title": "Scott Guthrie - Microsoft",
+      "link": "https://www.linkedin.com/in/guthriescott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/guthriescott&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECCwQAQ",
+      "displayed_link": "192.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9122a7286b0cd6187e21eec9d3a34643581.png",
+      "snippet": "Scott Guthrie. Microsoft Duke University. Bellevue, Washington, United States ... As executive vice president of the Microsoft Cloud + AI Group, I am responsible ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "president",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Scott Guthrie"
+    },
+    {
+      "position": 24,
+      "title": "Michael Wallent - Corporate Vice President - Microsoft",
+      "link": "https://www.linkedin.com/in/michael-wallent-39640a46",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-wallent-39640a46&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECEYQAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912e07ea121c48c86100fc74b46bc783b0b.png",
+      "snippet": "CVP - Management. Microsoft. Redmond, Washington, United States. 4K followers ... I lead the PM team for Microsoft Intune, System Center Configuration Manager and ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Michael Wallent"
+    },
+    {
+      "position": 25,
+      "title": "Sangya Singh - Microsoft",
+      "link": "https://www.linkedin.com/in/sangyas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sangyas&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECGAQAQ",
+      "displayed_link": "7.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9128615e1ec22d9923bea7f43769fbd7056.png",
+      "snippet": "Sangya Singh. Microsoft Stanford University Graduate School of Business. Bellevue, Washington, United States. 8K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sangya Singh"
+    },
+    {
+      "position": 26,
+      "title": "Darryl Willis - Microsoft",
+      "link": "https://www.linkedin.com/in/darryl-willis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/darryl-willis&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECHYQAQ",
+      "displayed_link": "20.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9120d5e6cdf7076c9a51fd20f4e5b98227c.png",
+      "snippet": "As the Corporate Vice President of Microsoft's Energy & Resources Industry, I blend… · Microsoft · United States · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft's",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Darryl Willis"
+    },
+    {
+      "position": 27,
+      "title": "Peter Lee - Microsoft",
+      "link": "https://www.linkedin.com/in/peterlee4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/peterlee4&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJEBEAE",
+      "displayed_link": "31.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91281ffc084992156944d8d30a381193ec6.png",
+      "snippet": "Dr. Peter Lee is Corporate Vice President, Research and Incubations, at Microsoft ... Redmond, Washington, United States. -. -. -. Washington D.C. Metro Area ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Lee"
+    },
+    {
+      "position": 28,
+      "title": "Jonathan (Jon) Palmer - Microsoft",
+      "link": "https://www.linkedin.com/in/jonathan-jon-palmer-382a54b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jonathan-jon-palmer-382a54b&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJYBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912b220e18a3286c4e6402eb3f1965e98c4.png",
+      "snippet": "Jonathan (Jon) Palmer. Microsoft University of California, Berkeley - School of Law. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan (Jon) Palmer"
+    },
+    {
+      "position": 29,
+      "title": "Mark Russinovich - Microsoft",
+      "link": "https://www.linkedin.com/in/markrussinovich",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/markrussinovich&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCLYBEAE",
+      "displayed_link": "135.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912431b410c338ac883cb75ae81601d63cf.png",
+      "snippet": "Mark Russinovich. Microsoft Carnegie Mellon University. Bellevue, Washington, United States ... Microsoft Technical Fellow Mark Russinovich. Trojan Horse exposes ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Microsoft",
+        "Fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Russinovich"
+    },
+    {
+      "position": 30,
+      "title": "Keith Boyd - Microsoft",
+      "link": "https://www.linkedin.com/in/keithalanboyd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/keithalanboyd&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCM4BEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9120776b0a061c0bb557d75ac5e348b3a5f.png",
+      "snippet": "Keith Boyd. Microsoft Seattle University. Seattle, Washington, United States ... Served as President, Past President, chair of the legislative committee, and ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "President",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Keith Boyd"
+    },
+    {
+      "position": 31,
+      "title": "Jaime Teevan - Microsoft",
+      "link": "https://www.linkedin.com/in/jaimeteevan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jaimeteevan&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCOYBEAE",
+      "displayed_link": "16.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912c2fc99d1c61367dfec12c7a2ebf6d9ee.png",
+      "snippet": "Jaime Teevan. Microsoft Massachusetts Institute of Technology. Bellevue, Washington, United States ... Jaime Teevan is Chief Scientist and Technical Fellow at ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jaime Teevan"
+    },
+    {
+      "position": 32,
+      "title": "Jeff Weiner - Executive Chairman",
+      "link": "https://www.linkedin.com/in/jeffweiner08",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeffweiner08&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCOkBEAE",
+      "displayed_link": "10.4M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912b6914eb5c8d0ff457ac21e7ab23ec685.png",
+      "snippet": "Experience ; Executive Chairman · Jul 2020 - Present 4 years 9 months ; Founding Partner · Jul 2020 - Present 4 years 9 months ; Executive Vice President Network ...",
+      "snippet_highlighted_words": [
+        "Chairman",
+        "Present",
+        "Present",
+        "President"
+      ],
+      "source": "LinkedIn · Jeff Weiner"
+    },
+    {
+      "position": 33,
+      "title": "Lorraine Bardeen - Microsoft",
+      "link": "https://www.linkedin.com/in/lorraine-bardeen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lorraine-bardeen&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCIECEAE",
+      "displayed_link": "11.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912a8b10ca72501b774b5c68ce0c6f04b3c.png",
+      "snippet": "Lorraine Bardeen. Microsoft Cornell University. Redmond, Washington, United States ... I am the Corporate Vice President and Chief Technology Officer for ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lorraine Bardeen"
+    },
+    {
+      "position": 34,
+      "title": "Kavita K. - Vice President of Engineering - Microsoft",
+      "link": "https://www.linkedin.com/in/kavitakanetkar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kavitakanetkar&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCIYCEAE",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912972664abcad7e5fd6ce8879f5ba3eef4.png",
+      "snippet": "Kavita K. VP of Engineering at Microsoft. Microsoft Harvard University. San Mateo, California, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Mateo, California, United States",
+            "Vice President of Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kavita K."
+    },
+    {
+      "position": 35,
+      "title": "Takeshi Numoto - Microsoft",
+      "link": "https://www.linkedin.com/in/takeshinumoto",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/takeshinumoto&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJYCEAE",
+      "displayed_link": "20.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91293851b7189bc462a2ea14201091dcd61.png",
+      "snippet": "Takeshi Numoto. Microsoft Stanford University Graduate School of Business. Bellevue, Washington, United States. 20K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Takeshi Numoto"
+    },
+    {
+      "position": 36,
+      "title": "Matthias Troyer - Microsoft",
+      "link": "https://www.linkedin.com/in/troyer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/troyer&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJ0CEAE",
+      "displayed_link": "7.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9120e77c7f9663e3725a1bde390ded7f728.png",
+      "snippet": "Experience. Microsoft Graphic · Microsoft. Redmond, Washington, United States. - ... Vice President. Aspen Center For Physics. Jul 2019 - Jul 2022 3 years 1 month.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthias Troyer"
+    },
+    {
+      "position": 37,
+      "title": "Kim Manis - Microsoft",
+      "link": "https://www.linkedin.com/in/kimmanis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kimmanis&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCKgCEAE",
+      "displayed_link": "13.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9120fd757aa51952b8c2f4d12a330e43c54.png",
+      "snippet": "Kim Manis is the Corporate Vice President of Product Management for Microsoft ... Redmond, Washington, United States. -. -. -. Redmond, WA. -. Redmond, WA ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kim Manis"
+    },
+    {
+      "position": 38,
+      "title": "Shelley Bransten - Microsoft",
+      "link": "https://www.linkedin.com/in/shelleybransten",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shelleybransten&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCLICEAE",
+      "displayed_link": "22.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9123c06319bbf77ba64eb64d39ed193edc1.png",
+      "snippet": "Experience: Microsoft · Location: United States · 500+ connections on LinkedIn. View Shelley Bransten's profile on LinkedIn, a professional community of 1 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shelley Bransten"
+    },
+    {
+      "position": 39,
+      "title": "Melanie Nakagawa - Microsoft",
+      "link": "https://www.linkedin.com/in/melanie-nakagawa-2781505",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/melanie-nakagawa-2781505&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECCoQAQ",
+      "displayed_link": "82.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912693fa0c9246c7fb3569db5a21abb675c.png",
+      "snippet": "Melanie Nakagawa. Microsoft American University Washington College of Law. Redmond, Washington, United States. 82K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Melanie Nakagawa"
+    },
+    {
+      "position": 40,
+      "title": "Nathalie D'Hers - Microsoft",
+      "link": "https://www.linkedin.com/in/nathaliedhers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nathaliedhers&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECDAQAQ",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912993a7d5513933a1a802eca05002baa49.png",
+      "snippet": "Nathalie D'Hers. Microsoft Ecole de Commerce Pau (Business School). Redmond, Washington, United States. 5K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nathalie D'Hers"
+    },
+    {
+      "position": 41,
+      "title": "Mark Jacobsohn - Vice President - Microsoft",
+      "link": "https://www.linkedin.com/in/mark-jacobsohn-5664235",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mark-jacobsohn-5664235&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECEQQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912b03a573722476b9d62233a31b090d24c.png",
+      "snippet": "Vice President, Integrated Planning and Execution at Microsoft. Microsoft The George Washington University. Bethesda, Maryland, United States. 2K followers 500 ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bethesda, Maryland, United States",
+            "Vice President",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Jacobsohn"
+    },
+    {
+      "position": 42,
+      "title": "Juan M. Lavista Ferres - Microsoft",
+      "link": "https://www.linkedin.com/in/jlavista",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jlavista&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECFMQAQ",
+      "displayed_link": "24.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91261a72c65657791c4e7972f4c5b3aeae2.png",
+      "snippet": "... Microsoft… · Experience: Microsoft · Education ... Lavista Ferres. Microsoft Vrije Universiteit Amsterdam (VU Amsterdam). Kirkland, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Juan M. Lavista Ferres"
+    },
+    {
+      "position": 43,
+      "title": "Bill Gates - Co-chair - Gates Foundation",
+      "link": "https://www.linkedin.com/in/williamhgates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/williamhgates&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECF8QAQ",
+      "displayed_link": "37.5M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912f5431aeaf43aea2f428d1e83c5745460.png",
+      "snippet": "Chair, Gates Foundation and Founder, Breakthrough Energy. Gates Foundation Harvard University. Seattle, Washington, United States ... Microsoft Graphic. Co- ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Bill Gates"
+    },
+    {
+      "position": 44,
+      "title": "Pat Gelsinger - Chairman Of The Board - Gloo",
+      "link": "https://www.linkedin.com/in/patgelsinger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/patgelsinger&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECGoQAQ",
+      "displayed_link": "289.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912b98e88db1a16a74b85c172e3500f997f.png",
+      "snippet": "Experience · Chairman Of The Board · Chairman Of The Board · Chief Executive Officer · CEO · President and COO · Sr. VP & GM, Digital Enterprise Group · CTO.",
+      "snippet_highlighted_words": [
+        "Chairman",
+        "Chairman",
+        "Chief Executive",
+        "President"
+      ],
+      "source": "LinkedIn · Pat Gelsinger"
+    },
+    {
+      "position": 45,
+      "title": "Ian Jose - Distinguished Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/ianjose",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ianjose&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECHoQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91294ea6f1553890381d9e288cb49bfad2d.png",
+      "snippet": "Distinguished Engineer, Office 365 at Microsoft. Microsoft University of Waterloo. Bellevue, Washington, United States. 1K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Distinguished Engineer",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Distinguished Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ian Jose"
+    },
+    {
+      "position": 46,
+      "title": "Mike Sievert - President and CEO - T-Mobile",
+      "link": "https://www.linkedin.com/in/sievert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sievert&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECHwQAQ",
+      "displayed_link": "138.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912ad050d1f9f1d39d048596ef3cdf0313f.png",
+      "snippet": "Chief Executive Officer at T-Mobile · T-Mobile · University of Pennsylvania ... Chief Commercial Officer and Chairman of Operating Committee. Clearwire.",
+      "snippet_highlighted_words": [
+        "Chief Executive",
+        "Chairman"
+      ],
+      "source": "LinkedIn · Mike Sievert"
+    },
+    {
+      "position": 47,
+      "title": "David Hepkin - Distinguished Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/david-hepkin-3708289",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-hepkin-3708289&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJQBEAE",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912d21474493373438d41390e699bb1a8ee.png",
+      "snippet": "Distinguished Engineer at Microsoft. Microsoft Lehigh University. Kirkland, Washington, United States. 767 followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Distinguished Engineer",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Distinguished Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Hepkin"
+    },
+    {
+      "position": 48,
+      "title": "Jeff Buckeye - Chief of Staff, Office of the Microsoft ...",
+      "link": "https://www.linkedin.com/in/jeffbuckeye",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeffbuckeye&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJoBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912953d7076ab6b36bc12e2c16a7557cfdc.png",
+      "snippet": "Chief of Staff, Office of the Microsoft Americas President. Microsoft Harvard Business School Executive Education. Redmond, Washington, United States. 3K ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "President",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Chief of Staff, Office of the Microsoft Americas President",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff Buckeye"
+    },
+    {
+      "position": 49,
+      "title": "David Rhew, M.D. - Microsoft",
+      "link": "https://www.linkedin.com/in/david-rhew-m-d-1832764",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-rhew-m-d-1832764&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJgBEAE",
+      "displayed_link": "43.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912ac73f01db411c26276aa041b35a26a31.png",
+      "snippet": "Issued March 1, 2007 US United States United States 20070067184-A1. A system ... Global Health Faculty Fellow. Aug 2021 - Present. HoloMedicine ...",
+      "snippet_highlighted_words": [
+        "United States United States",
+        "Fellow",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Rhew, M.D."
+    },
+    {
+      "position": 50,
+      "title": "Ranveer Chandra - Microsoft",
+      "link": "https://www.linkedin.com/in/ranveer-chandra-79bb9b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ranveer-chandra-79bb9b&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCLUBEAE",
+      "displayed_link": "18.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912e7e85cfcfa59997b35d8bd1f252750c6.png",
+      "snippet": "Ranveer is the Vice President in M365 Copilot and the Chief Technology Officer of… · Experience: Microsoft · Education: Cornell University · Location: ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ranveer Chandra"
+    },
+    {
+      "position": 51,
+      "title": "Leo Olebe - Microsoft",
+      "link": "https://www.linkedin.com/in/leoolebe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/leoolebe&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCK8BEAE",
+      "displayed_link": "8.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91225b08338ddb89e6faa078439ec6a0259.png",
+      "snippet": "Leo Olebe is Vice President, Global Partnerships, Xbox @ Microsoft. In this ... Fellow, Cosortium for Graduate Study in Management. Consortium for ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "Fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Leo Olebe"
+    },
+    {
+      "position": 52,
+      "title": "Arun Ulag - Microsoft",
+      "link": "https://www.linkedin.com/in/arunulag",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/arunulag&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCMoBEAE",
+      "displayed_link": "38.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91227be35a5b3dcae826caa755e8bb9dc69.png",
+      "snippet": "As the Corporate Vice President of Azure Data, Arun leads all data technologies for… ... Experience. Microsoft Graphic · Microsoft. Redmond, Washington, United ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "Microsoft",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Arun Ulag"
+    },
+    {
+      "position": 53,
+      "title": "Horacio E. Gutierrez - Senior Executive Vice President ...",
+      "link": "https://www.linkedin.com/in/horacio-e-gutierrez-2a983514",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/horacio-e-gutierrez-2a983514&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCMwBEAE",
+      "displayed_link": "11.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9123a8d32bce1a9469088dc1ff7ac2815c7.png",
+      "snippet": "Corporate Vice President and General Counsel, responsible for overseeing Microsoft's legal affairs around the world. ... United States and Canada.",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft's",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Burbank, California, United States",
+            "Senior Executive Vice President, Chief Legal and Compliance Officer",
+            "The Walt Disney Company"
+          ]
+        }
+      },
+      "source": "LinkedIn · Horacio E. Gutierrez"
+    },
+    {
+      "position": 54,
+      "title": "Amy Pannoni - Vice President and Deputy General ...",
+      "link": "https://www.linkedin.com/in/amy-pannoni",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amy-pannoni&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCNABEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9124ec4521b8abd66afbe29166ce47e6584.png",
+      "snippet": "Vice President and Deputy General Counsel, HR Legal at Microsoft · Microsoft's ... Seattle, Washington, United States. 1K followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "Microsoft's",
+        "United States"
+      ],
+      "source": "LinkedIn · Amy Pannoni"
+    },
+    {
+      "position": 55,
+      "title": "Jason Graefe - Greater Seattle Area | Professional Profile",
+      "link": "https://www.linkedin.com/in/jason-graefe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jason-graefe&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCOoBEAE",
+      "displayed_link": "5.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9123d46d2a9d35f60569dbbdc6b6faad63c.png",
+      "snippet": "Celebrating 22 years at Microsoft. 762. 129 Comments ... Chairman, Leadership Council. Sesame Workshop. Jan 2018 - Present 7 years 3 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Chairman",
+        "Present"
+      ],
+      "source": "LinkedIn · Jason Graefe"
+    },
+    {
+      "position": 56,
+      "title": "Mitra A. - Microsoft",
+      "link": "https://www.linkedin.com/in/mitra-azizirad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mitra-azizirad&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCOgBEAE",
+      "displayed_link": "21.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91242e2e58b1c558a1f554f5d7f9bc0dc35.png",
+      "snippet": "Microsoft · American University · Redmond · 500+ connections on LinkedIn ... Mitra A. Microsoft American University. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mitra A."
+    },
+    {
+      "position": 57,
+      "title": "Kayleen Walters - Vice President, Franchise Development",
+      "link": "https://www.linkedin.com/in/kayleen-walters-2a91131",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kayleen-walters-2a91131&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCPcBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912dca8ce8e1b9895d058289538934bc54b.png",
+      "snippet": "Microsoft. Jul 2024 - Present 9 months. Redmond, Washington, United States. As Vice President, Franchise Development across Gaming at Microsoft, Kayleen ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United States",
+        "President",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Vice President, Franchise Development",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kayleen Walters"
+    },
+    {
+      "position": 58,
+      "title": "Lydia Smyers - Microsoft",
+      "link": "https://www.linkedin.com/in/lydiasmyers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lydiasmyers&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCPgBEAE",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9127acd85ef2d88ff0092900c91117e253b.png",
+      "snippet": "Experience: Microsoft · Education: Duke University - The Fuqua School of ... Boston, Massachusetts, United States. -. -. -. Education. Duke University - The ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Boston",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lydia Smyers"
+    },
+    {
+      "position": 59,
+      "title": "Ajay Martin Mani - Vice President of Engineering - Microsoft",
+      "link": "https://www.linkedin.com/in/ajaymartin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ajaymartin&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCIACEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912958d9a5e73976125e96b15d519729fe3.png",
+      "snippet": "VP of Engineering at Microsoft. Microsoft Stanford University. Redmond, Washington, United States ... Microsoft Azure - Core Compute Manager. Owned, bootstrapped ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Vice President of Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ajay Martin Mani"
+    },
+    {
+      "position": 60,
+      "title": "Ian LeGrow - Corporate Vice President - Microsoft",
+      "link": "https://www.linkedin.com/in/ianlegrow",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ianlegrow&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCP8BEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91226c934cf1a55875b4426cfbafb01c484.png",
+      "snippet": "Corporate Vice President - Core Operating Systems at Microsoft. Microsoft Kellogg School of Management. Kirkland, Washington, United States. 1K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Corporate Vice President",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ian LeGrow"
+    },
+    {
+      "position": 61,
+      "title": "Kate Johnson - Chief Executive Officer - Lumen Technologies",
+      "link": "https://www.linkedin.com/in/katejohnsonchangeleader",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katejohnsonchangeleader&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCIcCEAE",
+      "displayed_link": "96.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91293a90fa1356e2e96e28b8eb4b7a28a93.png",
+      "snippet": "President, Microsoft US. Microsoft. Jul 2017 - Aug 2021 4 years 2 months. United States. As President of Microsoft US, I was responsible for growing all of ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "President",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Kate Johnson"
+    },
+    {
+      "position": 62,
+      "title": "Paul Donovan - Vice President of Sales, Marketing and ...",
+      "link": "https://www.linkedin.com/in/paul-donovan-b3140245",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/paul-donovan-b3140245&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCIsCEAE",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912ed97f372c3a33eda673ebde797009925.png",
+      "snippet": "Microsoft Graphic. Vice President of Sales, Marketing and Business Development. Microsoft. Jul 2024 - Present 9 months. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "President",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Vice President of Sales, Marketing and Business Development",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Donovan"
+    },
+    {
+      "position": 63,
+      "title": "Mike Davidson - Microsoft",
+      "link": "https://www.linkedin.com/in/mikeindustries",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mikeindustries&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJsCEAE",
+      "displayed_link": "13.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912ea78bb2731a120407b1bb8a8c3e90e67.png",
+      "snippet": "... Microsoft · Education: University of Washington · Location: Seattle ... Mike Davidson. Microsoft University of Washington. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Davidson"
+    },
+    {
+      "position": 64,
+      "title": "Jim Nakashima - Microsoft",
+      "link": "https://www.linkedin.com/in/jnakashima",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jnakashima&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJwCEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912379607e17661498dfaebd44605a2bef2.png",
+      "snippet": "Jim Nakashima. Microsoft The University of British Columbia. Kirkland, Washington, United States. 3K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jim Nakashima"
+    },
+    {
+      "position": 65,
+      "title": "Brad Anderson - President - Products, User Experience ...",
+      "link": "https://www.linkedin.com/in/bradranderson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bradranderson&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJ4CEAE",
+      "displayed_link": "61K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91280f018fd7dc74a992930095285070483.png",
+      "snippet": "Prior to Microsoft, Brad spent 12 years at Novell, most recently serving as Vice President and General Manager of the ZENworks product line. ZENworks grew ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "American Fork, Utah, United States",
+            "President",
+            "Products, User Experience, and Engineering",
+            "Qualtrics"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brad Anderson"
+    },
+    {
+      "position": 66,
+      "title": "Kory Hawkins - Morehouse College - Atlanta, Georgia ...",
+      "link": "https://www.linkedin.com/in/koryhawkins",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/koryhawkins&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCKkCEAE",
+      "displayed_link": "6.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9121db3f8f2838908c0f5b65a000437f6c1.png",
+      "snippet": "Microsoft. Nov 2020 - Jul 2023 2 years 9 months. Atlanta, Georgia, United States. Worked across Microsoft to drive academic and research partnerships with key ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Kory Hawkins"
+    },
+    {
+      "position": 67,
+      "title": "Jael Kerandi - Finance Manager - Central Finance Team",
+      "link": "https://www.linkedin.com/in/jaelkerandi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jaelkerandi&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCLUCEAE",
+      "displayed_link": "6.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9125105b251c6109bf30edd7c761580be6a.png",
+      "snippet": "Activities and Societies: Undergraduate Student Body President l NABA Vice-President ... Fellow l Presidential Scholar l NABA National Scholar l Forbes ...",
+      "snippet_highlighted_words": [
+        "President",
+        "President",
+        "Fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Finance Manager",
+            "Central Finance Team",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jael Kerandi"
+    },
+    {
+      "position": 68,
+      "title": "Amy Coleman - Executive Vice President, Chief People ...",
+      "link": "https://www.linkedin.com/in/amycoleman19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amycoleman19&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCLECEAE",
+      "displayed_link": "12.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9123d0654f91ce03f13655a711b34eb3201.png",
+      "snippet": "Executive Vice President, Chief People Officer. Microsoft UC Santa Barbara. Seattle, Washington, United States ... Coleman previously served as corporate vice ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Executive Vice President, Chief People Officer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amy Coleman"
+    },
+    {
+      "position": 69,
+      "title": "Lindsay-Rae McIntyre - Microsoft",
+      "link": "https://www.linkedin.com/in/lindsayraemcintyre",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lindsayraemcintyre&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCLMCEAE",
+      "displayed_link": "41.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9124c3aed6b5d0b5b4e2f88a792a7358e3e.png",
+      "snippet": "As Chief Diversity Officer and Corporate Vice President of Talent Development at… · Microsoft ... Redmond, Washington, United States. 41K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lindsay-Rae McIntyre"
+    },
+    {
+      "position": 70,
+      "title": "David Hoy - Training With Industry Fellow - Microsoft",
+      "link": "https://www.linkedin.com/in/david-hoy-86b603276",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-hoy-86b603276&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCLQCEAE",
+      "displayed_link": "200+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9125166f6748cb27a132d9019e58ef8dd12.png",
+      "snippet": "Army Public Affairs TWI Fellow assigned to Microsoft's Issues Management (Crisis Communications) team. United ...",
+      "snippet_highlighted_words": [
+        "Fellow",
+        "Microsoft's",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sammamish, Washington, United States",
+            "Training With Industry Fellow",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Hoy"
+    },
+    {
+      "position": 71,
+      "title": "Rajesh Jha - Microsoft Corporation",
+      "link": "https://www.linkedin.com/in/rajesh-jha-90010b4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rajesh-jha-90010b4&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECC0QAQ",
+      "displayed_link": "21K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9122764ca6023ecd0197a5809e79154d58f.png",
+      "snippet": "Rajesh Jha. Microsoft Corporation University of Massachusetts Amherst. Bellevue, Washington, United States ... As executive vice president of Microsoft's ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "president",
+        "Microsoft's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft Corporation"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rajesh Jha"
+    },
+    {
+      "position": 72,
+      "title": "Dan Wahlin - Microsoft",
+      "link": "https://www.linkedin.com/in/danwahlin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danwahlin&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECCkQAQ",
+      "displayed_link": "10.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91279e91d4378f0229ca5cbfc4c49b1c836.png",
+      "snippet": "Dan Wahlin. Microsoft Brigham Young University. Chandler, Arizona, United States ... “I had the opportunity to work with Dan as a fellow contract trainer, ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chandler, Arizona, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Wahlin"
+    },
+    {
+      "position": 73,
+      "title": "Eric Dougherty - Corporate Fellow - Microsoft",
+      "link": "https://www.linkedin.com/in/eric-j-dougherty32",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/eric-j-dougherty32&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECEMQAQ",
+      "displayed_link": "640+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9125598b28fb2ad865e335e1f8749f4b9b2.png",
+      "snippet": "Experience · Microsoft Graphic. Corporate Fellow · United States Marine Corps Graphic. Operations Officer, 1st Marine Division (Vice President of Operations).",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Fellow",
+        "United States",
+        "President"
+      ],
+      "source": "LinkedIn · Eric Dougherty"
+    },
+    {
+      "position": 74,
+      "title": "Laura Longcore - Microsoft",
+      "link": "https://www.linkedin.com/in/lauralongcore",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lauralongcore&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECEUQAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9121d3c7df826eb4548ddef94ca8bed9dc0.png",
+      "snippet": "I have always had a passion for learning and in today's world building new skills is the… · Experience: Microsoft ... Redmond, Washington, United States. -.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Laura Longcore"
+    },
+    {
+      "position": 75,
+      "title": "David Maltz - Microsoft",
+      "link": "https://www.linkedin.com/in/davemaltz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/davemaltz&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECEcQAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9126c52d01d59cefe872203ca6fe885c2a2.png",
+      "snippet": "David Maltz. Microsoft. Bellevue, Washington, United States. 3K followers ... ACM Fellow. Association of Computing Machinery. 2020. https://awards.acm.org ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Maltz"
+    },
+    {
+      "position": 76,
+      "title": "Andrew Lindsay - Microsoft",
+      "link": "https://www.linkedin.com/in/andrewmlindsay",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrewmlindsay&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECEgQAQ",
+      "displayed_link": "7.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912366595fb73d008f558ddceb059486508.png",
+      "snippet": "Andrew Lindsay. Microsoft Harvard Law School. San Francisco, California, United States ... Raised funds in support of Vice President Kamala Harris's 2024 campaign ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Lindsay"
+    },
+    {
+      "position": 77,
+      "title": "Qinyuan(Olivia) Wu - Security Program Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/qinyuan-olivia-wu-1018641a3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/qinyuan-olivia-wu-1018641a3&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECFIQAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9127a02221dfd062ecdea2ed2c4217ba154.png",
+      "snippet": "Security PM @Microsoft | James R. Swartz Entrepreneurial Fellow @CMU | ex Security Engineer ... Redmond, Washington, United States. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Fellow",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Security Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Qinyuan(Olivia) Wu"
+    },
+    {
+      "position": 78,
+      "title": "Michael MacKenzie - Vice President, Office of the CTO, ...",
+      "link": "https://www.linkedin.com/in/michael-b-mackenzie",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-b-mackenzie&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECFEQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912f55457ed061fb9d0f9b87fbe922ebd40.png",
+      "snippet": "Experience. Microsoft Graphic. Vice President, Office of the CTO, Azure Edge. Microsoft. Jan 2025 - Present 3 months. United States ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "President",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Vice President, Office of the CTO, Azure Edge",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael MacKenzie"
+    },
+    {
+      "position": 79,
+      "title": "Stephen Craig Harris - Technical Director - Microsoft",
+      "link": "https://www.linkedin.com/in/stephen-craig-harris",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephen-craig-harris&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECGIQAQ",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912355d8e3343b4370d74d747ee2b66de04.png",
+      "snippet": "Microsoft's Power Platform and Dynamics 365 solution stack. I imagine ... United States Marine Corps Graphic. Staff Sergeant. United States Marine Corps.",
+      "snippet_highlighted_words": [
+        "Microsoft's",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Centreville, Virginia, United States",
+            "Technical Director",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Craig Harris"
+    },
+    {
+      "position": 80,
+      "title": "Deb Cupp - Microsoft",
+      "link": "https://www.linkedin.com/in/deb-cupp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/deb-cupp&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECGkQAQ",
+      "displayed_link": "47.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912f832f7e534ed8716dcd4ca80ec5ed083.png",
+      "snippet": "As President of Microsoft Americas, I lead the $80 billion business responsible for… · Experience: Microsoft · Education: Saint Joseph's University - Erivan ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Philadelphia",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Deb Cupp"
+    },
+    {
+      "position": 81,
+      "title": "Srini Raghavan - Redmond, Washington, United States",
+      "link": "https://www.linkedin.com/in/srini-raghavan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/srini-raghavan&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECGEQAQ",
+      "displayed_link": "6.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912428e01e86f7e0acdc32f4b9e651874d2.png",
+      "snippet": "Srini Raghavan. Redmond, Washington, United States ... Articles by Srini. A year in review: Agents in Microsoft… Jan 3, 2025. A year in review: Agents in ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Srini Raghavan"
+    },
+    {
+      "position": 82,
+      "title": "David Perry - Redmond, Washington, United States",
+      "link": "https://www.linkedin.com/in/david-perry-vp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-perry-vp&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECGMQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91233fb23186c28535bcf90bfa3807a0dc9.png",
+      "snippet": "Vice President Of Engineering. Microsoft. Oct 2020 - Feb 2025 4 years 5 months. United States.",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · David Perry"
+    },
+    {
+      "position": 83,
+      "title": "Nina Harding - Corporate Vice President, Microsoft ...",
+      "link": "https://www.linkedin.com/in/nina-harding-microsoft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nina-harding-microsoft&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECHkQAQ",
+      "displayed_link": "13.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912a2cb4c8b30befb0b3b548158a2094983.png",
+      "snippet": "Corporate Vice President, Microsoft, Americas, Global Partner Solutions. Microsoft. Oct 2022 - Present 2 years 6 months. United States. As ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "North Palm Beach, Florida, United States",
+            "Corporate Vice President, Microsoft, Americas, Global Partner Solutions",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nina Harding"
+    },
+    {
+      "position": 84,
+      "title": "Chris Barry - Microsoft",
+      "link": "https://ca.linkedin.com/in/cbarry",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ca.linkedin.com/in/cbarry&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECHsQAQ",
+      "displayed_link": "32K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912aa4723308ef636e1eba2ed3e1b17e727.png",
+      "snippet": "Chris Barry. Microsoft Duke University - The Fuqua School of Business. Redmond, Washington, United States. 32K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Barry"
+    },
+    {
+      "position": 85,
+      "title": "Ashley Tarver - Data & AI Cloud Evangelist - Microsoft",
+      "link": "https://www.linkedin.com/in/ashley-ai",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ashley-ai&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECH0QAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9124dd1f5d66c5f93f8ad49550a99fc302a.png",
+      "snippet": "... president for the Association of Corporate Growth – Silicon Valley Chapter ... May 2020 - Present 4 years 11 months. San Francisco, California, United States.",
+      "snippet_highlighted_words": [
+        "president",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Ashley Tarver"
+    },
+    {
+      "position": 86,
+      "title": "Nick Parker - Microsoft",
+      "link": "https://www.linkedin.com/in/nick-parker-0007aa46",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nick-parker-0007aa46&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoECH4QAQ",
+      "displayed_link": "8.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9124cc45a8b4ed537f7c5d20829f9194d96.png",
+      "snippet": "Microsoft · Redmond · 500+ connections on LinkedIn. View Nick Parker's ... Nick Parker. Microsoft. Redmond, Washington, United States. 8K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Parker"
+    },
+    {
+      "position": 87,
+      "title": "Oren Rosenbloom - Vice President, Azure CXP PM & Data ...",
+      "link": "https://www.linkedin.com/in/orenrosenbloom",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/orenrosenbloom&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJUBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9123ab2d192bbb382d6bb51e3bcd3d63291.png",
+      "snippet": "... Microsoft). * 19 registered patents, over 25 patent filings, * Primary Co ... Vice President, Azure CXP PM & Data Science. Microsoft University of Toronto ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "President",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Vice President, Azure CXP PM & Data Science",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Oren Rosenbloom"
+    },
+    {
+      "position": 88,
+      "title": "Julie Sanford - Microsoft",
+      "link": "https://www.linkedin.com/in/julieksanford",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/julieksanford&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJcBEAE",
+      "displayed_link": "4.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91219d900b5c47cb889529f083bb1d76c3e.png",
+      "snippet": "Julie Sanford. Microsoft Ryerson University. Redmond, Washington, United States. 5K ... As vice president of go to market programs and operations at Microsoft ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "president",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julie Sanford"
+    },
+    {
+      "position": 89,
+      "title": "bob fries - Corporate Vice President and Distinguished ...",
+      "link": "https://www.linkedin.com/in/bob-fries-61a053b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bob-fries-61a053b&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJkBEAE",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91290416732afb929a35d994a5a3401d34f.png",
+      "snippet": "Corporate Vice President and Distinguished Engineer · I have worked at Microsoft ... Kirkland, Washington, United States. 907 followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Distinguished Engineer",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · bob fries"
+    },
+    {
+      "position": 90,
+      "title": "Rishi Raj - Vice President of Product Management - Microsoft",
+      "link": "https://in.linkedin.com/in/rishi-raj-119414323",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/rishi-raj-119414323&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCJsBEAE",
+      "displayed_link": "460+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9120fee8081a6344ea1d7e7b2cde98c2dcf.png",
+      "snippet": "As the Vice President of Generative AI at Microsoft, I oversee the ... Chief Executive Officer. Inteleccess. Jul 2024 - Present 9 months. Hyderabad ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "Chief Executive",
+        "Present"
+      ],
+      "source": "LinkedIn · Rishi Raj"
+    },
+    {
+      "position": 91,
+      "title": "Julie Brill - Chief Privacy Officer and Corporate Vice ...",
+      "link": "https://www.linkedin.com/in/julie-brill",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/julie-brill&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCKwBEAE",
+      "displayed_link": "17.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912dd025f8ec1c47eff39c1166277555137.png",
+      "snippet": "... President for Global Privacy, Safety, and Regulatory Affairs at Microsoft. Microsoft Princeton University. Redmond, Washington, United States. 18K followers ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Chief Privacy Officer and Corporate Vice President Global Privacy, Safety, and Regulatory Affairs",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julie Brill"
+    },
+    {
+      "position": 92,
+      "title": "Rohan Kumar - Microsoft",
+      "link": "https://www.linkedin.com/in/rohankumar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rohankumar&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCLQBEAE",
+      "displayed_link": "9.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912a56acc5de7424541875f633143e88b6a.png",
+      "snippet": "Rohan Kumar. Microsoft University of Massachusetts Amherst. Redmond, Washington, United States ... As the Corporate Vice President of Azure Data, Rohan is the ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rohan Kumar"
+    },
+    {
+      "position": 93,
+      "title": "Kevin LaChapelle - Vice President Xbox Platform - Microsoft",
+      "link": "https://www.linkedin.com/in/kevin-lachapelle-933a4a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kevin-lachapelle-933a4a&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCLMBEAE",
+      "displayed_link": "830+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912235a1b61e33296892b3387ae31b29ec9.png",
+      "snippet": "Vice President, Xbox Platform (Cloud, Console and PC) at Microsoft. Microsoft Carnegie Mellon University. Redmond, Washington, United States. 839 followers 500 ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Vice President Xbox Platform",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin LaChapelle"
+    },
+    {
+      "position": 94,
+      "title": "William Borden - Microsoft",
+      "link": "https://www.linkedin.com/in/william-borden",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/william-borden&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCLABEAE",
+      "displayed_link": "11.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9126870d6fac0863f0e30e931ef4722a771.png",
+      "snippet": "Experience: Microsoft · Location: United States · 500+ connections on LinkedIn. View William Borden's profile on LinkedIn, a professional community of 1 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · William Borden"
+    },
+    {
+      "position": 95,
+      "title": "Rubén Caballero - Chief of Engineering & Strategy Officer",
+      "link": "https://www.linkedin.com/in/rub%C3%A9n-caballero-5400055",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rub%25C3%25A9n-caballero-5400055&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCLIBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912f197d90084282db3ea83c2e90ea08ce8.png",
+      "snippet": "Corporate Vice President Engineering - Experiences, Devices & Technology. Microsoft. 2020 - 2024 4 years. Silicon Valley, California, United States.",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Rubén Caballero"
+    },
+    {
+      "position": 96,
+      "title": "Jeff Teper - Microsoft",
+      "link": "https://www.linkedin.com/in/jeffteper",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeffteper&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCMcBEAE",
+      "displayed_link": "55.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc91254349c93e5951bdad55e23414655a1aa.png",
+      "snippet": "I lead teams building Microsoft 365 collaboration tools enabling our customers and… · Microsoft · Harvard Business School · Greater Seattle Area · 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff Teper"
+    },
+    {
+      "position": 97,
+      "title": "Jenny Lay-Flurrie - Microsoft",
+      "link": "https://www.linkedin.com/in/jennylf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jennylf&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCMsBEAE",
+      "displayed_link": "40.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912d94783e1f63e9ccea0627e70fb000def.png",
+      "snippet": "In announcing her appointment as chief accessibility officer in early 2016, Microsoft president and chief legal officer Brad Smith credited Lay-Flurrie with ...",
+      "snippet_highlighted_words": [
+        "Microsoft president"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jenny Lay-Flurrie"
+    },
+    {
+      "position": 98,
+      "title": "Brian Wesolowski - Director, Public Affairs - Microsoft",
+      "link": "https://www.linkedin.com/in/brian-wesolowski-7054439",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brian-wesolowski-7054439&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCM0BEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc9124090d73bb17b7cb889b09bbd08bb2991.png",
+      "snippet": "Brian Wesolowski. Microsoft Public Affairs. Microsoft University of Michigan. Washington, District of Columbia, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Director, Public Affairs",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brian Wesolowski"
+    },
+    {
+      "position": 99,
+      "title": "John Giannone - Corporate Vice President - Microsoft",
+      "link": "https://www.linkedin.com/in/john-giannone-msft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-giannone-msft&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCNQBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912fbe25b4b77a857eba5f42b9408805e0b.png",
+      "snippet": "Corporate Vice President at Microsoft. Microsoft Widener University School of Law. Redmond, Washington, United States ... - Present 1 year 1 month. Seattle ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Corporate Vice President",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Giannone"
+    },
+    {
+      "position": 100,
+      "title": "Jared Spataro - Microsoft",
+      "link": "https://www.linkedin.com/in/jaredspa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jaredspa&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0QFnoFCM8BEAE",
+      "displayed_link": "83.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf919245c11bce6bac777/images/a158955a0179f26a2d638ec9a62cc912a5c448d08991629e23d786c66b0ac970.png",
+      "snippet": "Jared Spataro. Microsoft Massachusetts Institute of Technology. Redmond, Washington, United States. 84K followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jared Spataro"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=HPndZ_EEyark2g_d1KTpDA&start=100&sa=N&sstk=Af40H4WtZy6X1b3lXrS_IPDKeg1O8jIMI4QmlMQZoRN-S_9Pjvjd_hdTP3aBb_30P-LkoLSiCWVZveelbySVUXASRwYLdWa9fJzvjg&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0Q8NMDegUIrwIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=HPndZ_EEyark2g_d1KTpDA&start=100&sa=N&sstk=Af40H4WtZy6X1b3lXrS_IPDKeg1O8jIMI4QmlMQZoRN-S_9Pjvjd_hdTP3aBb_30P-LkoLSiCWVZveelbySVUXASRwYLdWa9fJzvjg&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0Q8tMDegUIrwIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=HPndZ_EEyark2g_d1KTpDA&start=200&sa=N&sstk=Af40H4WtZy6X1b3lXrS_IPDKeg1O8jIMI4QmlMQZoRN-S_9Pjvjd_hdTP3aBb_30P-LkoLSiCWVZveelbySVUXASRwYLdWa9fJzvjg&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0Q8tMDegUIrwIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=HPndZ_EEyark2g_d1KTpDA&start=300&sa=N&sstk=Af40H4WtZy6X1b3lXrS_IPDKeg1O8jIMI4QmlMQZoRN-S_9Pjvjd_hdTP3aBb_30P-LkoLSiCWVZveelbySVUXASRwYLdWa9fJzvjg&ved=2ahUKEwjxgu7SrJyMAxVJFVkFHV0qKc0Q8tMDegUIrwIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=300"
+    }
+  }
+}

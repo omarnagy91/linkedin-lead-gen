@@ -1,0 +1,2339 @@
+{
+  "search_metadata": {
+    "id": "67ddf98d56ca3e8eb0ed33c4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b7d84bd0095948c8/67ddf98d56ca3e8eb0ed33c4.json",
+    "created_at": "2025-03-21 23:43:09 UTC",
+    "processed_at": "2025-03-21 23:43:09 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/b7d84bd0095948c8/67ddf98d56ca3e8eb0ed33c4.html",
+    "total_time_taken": 2.82
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"Germany\" AND (current OR present) AND (\"senior\" OR \"leader\" OR \"executive\" OR \"experienced\") AND \"years experience\"",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"Germany\" AND (current OR present) AND (\"senior\" OR \"leader\" OR \"executive\" OR \"experienced\") AND \"years experience\"",
+    "total_results": 70000,
+    "time_taken_displayed": 0.64,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.linkedin.com/in/streetsbkny",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhg6SMX6OIp8BTbvM4NVoLIZ6zWFRIIB_NLL__iGxmKIIDuj1UbZzzdNM&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5610AQH3EyP2H2LPIA/ads-video-thumbnail_720_1280/ads-video-thumbnail_720_1280/0/1693497609538?e=2147483647&v=beta&t=fAzCPEQKGGF1HnLC7wDjJIUcBBqP26wbhCGYT4pC9jE",
+      "title": "Kira Streets - Content Strategist, Storyteller - Digital ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/brwalsh",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpkW1x8Zzt5wcKtPQRmQDgBSWXE3Gt1a6Q-0Ab-tJkormM89ilLoryY4&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5616AQHVjnwvRXQXIw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1734128906756?e=2147483647&v=beta&t=VoLtM4DOcdC5Kh_vJg-A7EBf3GjbshdrlbvTLTh4jN8",
+      "title": "Brian Walsh ᵍᵐ - Board Member, Global Planning ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://ie.linkedin.com/in/glennnorman85",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5wZWLS-e3YuLq15VVomoz_AuMXsmhb7d6xxEt8-kfOnqgs9Smd2O96Y&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E22AQGSUVqhjRaWng/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732530602815?e=2147483647&v=beta&t=wl-X_Aqtu3M9kLgl50MAm8aRQrK7knpTSR0R5jELPPI",
+      "title": "Glenn Norman PMP® - Group Manager, Service Delivery & Vendor ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://uk.linkedin.com/in/beverleygreen",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3PL9lC8VB1TQpdjDP8sjuynepAqriolg2-doJs4-O56o7b_C2nhO6nqc&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4D10AQFFDMt4syTgsA/ads-video-thumbnail_720_1280/B4DZSJzpHvHUAY-/0/1737478816246?e=2147483647&v=beta&t=3ozCAApketnE-7nipzawQ-lTEWnQjLrHPX0epn4uqN0",
+      "title": "Beverley Green - Enterprise Security Executive - Microsoft ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/rbuckmiller",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZveBCgkBgtiEQaNMTc9Bj_sqRlQzUSQYdL5dndSyoURrYwKxlSV0__R0&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E22AQGrf_J1J0X7kg/feedshare-shrink_800/B4EZRMeRSiHEAs-/0/1736449792295?e=2147483647&v=beta&t=X6vHpq6MLc8oBnnWKBOyebOwhr2bgZVAJrH7cquIJDQ",
+      "title": "Robin Buckmiller - Microsoft | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/aigerimshintemirova",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUWkfnOix4oza-cm9vV5-I3v6e2CTDyYGF_gIr9mm8wMUQRlnMO6KTTY4&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E22AQHnLUh-4teFKA/feedshare-shrink_800/feedshare-shrink_800/0/1726655398759?e=2147483647&v=beta&t=POrULnPayO0V8ZPNnmMFFSOjjr8G_kvsAAcvvHCC5ZA",
+      "title": "Angie S. - Microsoft | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://hr.linkedin.com/in/ivankoletic",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUPmSHV8hnQjIW_wKiYlCMzVwvSY_ABceoxJcDq2rXL2sSuE50NS7WOY&s",
+      "original": "https://media.licdn.com/dms/image/sync/v2/D4D27AQG5aY7afr-ECQ/articleshare-shrink_800/articleshare-shrink_800/0/1737661709203?e=2147483647&v=beta&t=HV9-K51pyQWKP6e7YXHw9W_NUyLqgU1ws_s1VUuNfE8",
+      "title": "Ivan Koletic - Senior Product Manager - Microsoft | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://de.linkedin.com/in/martin-zimmer-49152139",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg8zoMmtQtXpY7bsaGI7E7F6n0eearytyMV_YxDXW1ZBpmyg9PkTJK-PQ&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4D22AQEsGPtnrNZrSA/feedshare-shrink_800/B4DZWpgYrsG4Ak-/0/1742305594931?e=2147483647&v=beta&t=Tb2F8r_orhbIVvgUtC0tNh4_AUP3yKp71BgKJjWwsMw",
+      "title": "Martin Zimmer – Sr. Sales Executive Teams & Windows I DPS ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/nataliesingervelush",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYz_IWT-j2ghrxH6ibJRwok7k9-WbYOPCJcovS3ySPtn3o_qmXKN28JS0&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5610AQHBSj2WK9hI6A/ads-video-thumbnail_720_1280/B56ZVSwhR6GoAg-/0/1740850237729?e=2147483647&v=beta&t=PIPkhA5-eIYYPoaDo5neYA1J6V7Oc74vBF52dtmmZkM",
+      "title": "Natalie Singer-Velush - Microsoft | LinkedIn",
+      "source_name": "LinkedIn"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Christian Eggers - Microsoft",
+      "link": "https://de.linkedin.com/in/cheggers/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/cheggers/en&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECBoQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc7c3e83d9814a9e8981bd5c4ea009f604.png",
+      "snippet": "Christian Eggers. Microsoft Southern Cross University. Munich, Bavaria, Germany ... Christian is a seasoned Executive with +20 years experience in IT and ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "Executive",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christian Eggers"
+    },
+    {
+      "position": 2,
+      "title": "Véronique Brinkmann - Executive Business Administrator",
+      "link": "https://www.linkedin.com/in/v%C3%A9ronique-brinkmann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/v%25C3%25A9ronique-brinkmann&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECBkQAQ",
+      "displayed_link": "260+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccbf3eb005e364b77459595c4ec4d54cc4.png",
+      "snippet": "Executive Business Administrator at Microsoft · Highly organized Executive Assistant with more than 20 years' experience providing thorough and skillful ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "Executive",
+        "years' experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Executive Business Administrator",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Véronique Brinkmann"
+    },
+    {
+      "position": 3,
+      "title": "Anne Michels – COO & Vice President, Kyndryl Germany",
+      "link": "https://de.linkedin.com/in/anne-michels-coo-cmo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/anne-michels-coo-cmo&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECBQQAQ",
+      "displayed_link": "8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc4f4d0f0e69efd1a12e2f4c937b89dbe7.png",
+      "snippet": "COO Kyndryl Germany | Ex-Director @Microsoft Teams| Keynote Speaker · An Executive Business Leader with 17+ years' experience delivering business growth and ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft",
+        "Executive",
+        "Leader",
+        "years' experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Region Köln/Bonn",
+            "COO & Vice President, Kyndryl Germany",
+            "Kyndryl"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anne Michels"
+    },
+    {
+      "position": 4,
+      "title": "Cécile Mengoli - Microsoft",
+      "link": "https://uk.linkedin.com/in/cecilemengoli",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/cecilemengoli&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECBUQAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcccfeadeacd168d0c6f35a6ea0c7ef885d.png",
+      "snippet": "Düsseldorf Area, Germany. -. -. Lisbon Area, Portugal. Education. SDA ... Cecile is an adaptable, culturally-aware and very capable senior leader with ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "senior leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Cécile Mengoli"
+    },
+    {
+      "position": 5,
+      "title": "Martin Zimmer – Sr. Sales Executive Teams & Windows I ...",
+      "link": "https://de.linkedin.com/in/martin-zimmer-49152139",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/martin-zimmer-49152139&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECBYQAQ",
+      "displayed_link": "6.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc0e38eab218fcc1d57db8ee896fb99a22.png",
+      "snippet": "Martin Zimmer is a Senior Sales and Channel Management leader! A creative ... He is a enthusiastic team leader with more than 18 years experience ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "leader",
+        "leader",
+        "years experience"
+      ],
+      "source": "LinkedIn · Martin Zimmer"
+    },
+    {
+      "position": 6,
+      "title": "Wolfgang Dierker – SAP",
+      "link": "https://de.linkedin.com/in/wolfgang-dierker-2588184b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/wolfgang-dierker-2588184b&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECBcQAQ",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccb6be8e1a2f04b71e8310ff0796039b59.png",
+      "snippet": "Wolfgang Dierker SAP Universität Bonn Info External Affairs Executive with 20+ years experience in putting strategy into action.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion Berlin/Brandenburg",
+            "SAP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Wolfgang Dierker"
+    },
+    {
+      "position": 7,
+      "title": "Sean O'Reilly - Microsoft",
+      "link": "https://www.linkedin.com/in/sean-o-reilly-83a5587a/?jobid=1234",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sean-o-reilly-83a5587a/%3Fjobid%3D1234&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCM0BEAE",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc50d0684cea8fb542f17700542a3ceb4f.png",
+      "snippet": "Sean O'Reilly - Microsoft - University College Dublin - About - I am a senior operations leader with over 30 years experience of managing and scaling.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "senior",
+        "leader",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Spain",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sean O'Reilly"
+    },
+    {
+      "position": 8,
+      "title": "Wolfgang Lucny – Senior Consulting Account Executive",
+      "link": "https://at.linkedin.com/in/wolfganglucny",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://at.linkedin.com/in/wolfganglucny&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCPcBEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc99bef146ab7740e12fc9889454bf98e9.png",
+      "snippet": "Client Relationship Executive | Growth orientated Senior Business Leader | Trusted Advisor | ... executive with 20+ years experience in advising clients to ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Senior",
+        "Leader",
+        "executive",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Baden, Niederösterreich, Österreich",
+            "Senior Consulting Account Executive",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Wolfgang Lucny"
+    },
+    {
+      "position": 9,
+      "title": "Susanna Kowatsch - Microsoft",
+      "link": "https://www.linkedin.com/in/susanna-kowatsch",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/susanna-kowatsch&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECCsQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccd76cfd382128fe6194c8eda229f23f8d.png",
+      "snippet": "Microsoft · United Kingdom · 500+ connections on LinkedIn. View Susanna ... Munich Area, Germany. -. Munich Area, Germany. -. Salzburg. -. Education. WU ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Susanna Kowatsch"
+    },
+    {
+      "position": 10,
+      "title": "Izak Laubscher - M&A Engineering Integration Director",
+      "link": "https://www.linkedin.com/in/izaklaubscher",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/izaklaubscher&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCNYBEAE",
+      "displayed_link": "700+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccde9d5ee895e90aa9f1d9677d75d8afa4.png",
+      "snippet": "M&A Engineering Integration Director at Microsoft · A C-Level executive advisor with 30+ years' experience as a visionary leader ... Germany, France, and ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "executive",
+        "years' experience",
+        "leader",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sammamish, Washington, United States",
+            "M&A Engineering Integration Director",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Izak Laubscher"
+    },
+    {
+      "position": 11,
+      "title": "Ivan Koletic - Senior Product Manager - Microsoft",
+      "link": "https://hr.linkedin.com/in/ivankoletic",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://hr.linkedin.com/in/ivankoletic&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCOgBEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc6af1bd2a2fa696b298287a3c2905eee7.png",
+      "snippet": "Currently, a Senior Product Manager at Microsoft in the Dynamics 365 ... Very patient and hard-working, clear and concise communicator, good team leader and ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Croatia",
+            "Senior Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ivan Koletic"
+    },
+    {
+      "position": 12,
+      "title": "Glenn Norman PMP® - Group Manager, Service Delivery & ...",
+      "link": "https://ie.linkedin.com/in/glennnorman85",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/glennnorman85&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCJkCEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc1f3a00a5187440c6b6ce56caa408856c.png",
+      "snippet": "focused operations leader with +15 years experience in Microsoft Ireland. With a passion ... In my current role as Senior Business Program Manager in ...",
+      "snippet_highlighted_words": [
+        "leader",
+        "years experience",
+        "Microsoft",
+        "current",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dublin, County Dublin, Ireland",
+            "Group Manager, Service Delivery & Vendor Management",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Glenn Norman PMP®"
+    },
+    {
+      "position": 13,
+      "title": "Miriam Kugel - Principal People Scientist – Microsoft",
+      "link": "https://de.linkedin.com/in/miriamkugel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/miriamkugel&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECEYQAQ",
+      "displayed_link": "10.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc668118ca94327fc5209826ccff248210.png",
+      "snippet": "... years experience in the Tech and EX Consultancy space, I ... Leader, Social Impact, Germany. LinkedIn. Juli 2022 – Juni 2023 1 Jahr.",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Leader",
+        "Germany"
+      ],
+      "source": "LinkedIn · Miriam Kugel"
+    },
+    {
+      "position": 14,
+      "title": "Smaranda Pricope - Western Europe HQ - Sr. Area Cloud ...",
+      "link": "https://www.linkedin.com/in/smaranda-pricope-33a0078",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/smaranda-pricope-33a0078&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECG4QAQ",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc3a5bc3c3a43d047d3c9dfc2b8f6eb139.png",
+      "snippet": "Experienced Project Manager and CRM consultant, with over 10 years' experience ... Microsoft Dynamics CRM - Senior Consultant, Charisma Business ...",
+      "snippet_highlighted_words": [
+        "Experienced",
+        "years' experience",
+        "Microsoft",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Vienna, Austria",
+            "Western Europe HQ",
+            "Sr. Area Cloud Solution Architect (Business Program Management)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Smaranda Pricope"
+    },
+    {
+      "position": 15,
+      "title": "Bipin sasi - Merck KGaA, Darmstadt, Germany",
+      "link": "https://in.linkedin.com/in/bipinsasi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/bipinsasi&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCJkBEAE",
+      "displayed_link": "8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc21dbbd21e6f22a26449b59f803a0df29.png",
+      "snippet": "... Microsoft Products with AI offerings. In addition to my regular work I ... As a leader at Merck, KGaA, Darmstadt, Germany, I am proud to be part of a ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "leader",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Head of Infrastructure Automation",
+            "Merck KGaA, Darmstadt, Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bipin sasi"
+    },
+    {
+      "position": 16,
+      "title": "Sarah Grey - Microsoft",
+      "link": "https://uk.linkedin.com/in/sarah-grey-08b979b7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sarah-grey-08b979b7&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCNcBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccdef660f1d92696b0f499332227c328b0.png",
+      "snippet": "Sarah Grey - Microsoft - Loughborough University - About - Experienced product leader with a track record of building, launching and scaling B2B and...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Experienced",
+        "leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Grey"
+    },
+    {
+      "position": 17,
+      "title": "Samuela Finn - Customer Lifecycle Manager - Microsoft",
+      "link": "https://ie.linkedin.com/in/samuelafinn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/samuelafinn&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCOoBEAE",
+      "displayed_link": "850+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccf2fc3df08917db6f98081ad4e722140e.png",
+      "snippet": "Experience · Microsoft. 11 years 4 months · Life and executive coach. Coaching. Jul 2013 - Present 11 years 9 months · Achilles Procurement Services Limited ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "executive",
+        "Present"
+      ],
+      "source": "LinkedIn · Samuela Finn"
+    },
+    {
+      "position": 18,
+      "title": "Thierry Bilger - Sales Manager Business Applications",
+      "link": "https://ie.linkedin.com/in/thierrysalesleader",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/thierrysalesleader&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCPwBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcce96484a9bb2e44c9e348f5ddf2101ac3.png",
+      "snippet": "Experienced Sales Leader bringing over 20 years' experience of C level interaction in fast paced business.",
+      "snippet_highlighted_words": [
+        "Experienced",
+        "Leader",
+        "years' experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dublin, County Dublin, Ireland",
+            "Sales Manager Business Applications",
+            "France and Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thierry Bilger"
+    },
+    {
+      "position": 19,
+      "title": "Eric Hinz - Senior Product Designer- Copilot Studio",
+      "link": "https://il.linkedin.com/in/eric-hinz-77bb36166",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://il.linkedin.com/in/eric-hinz-77bb36166&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCJYCEAE",
+      "displayed_link": "620+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc37914670c79c7c3cb816a900e06d05bd.png",
+      "snippet": "Eric Hinz. Senior Designer at Microsoft Copilot Studio. Microsoft weißensee ... I have 10 years experience in problem solving and designing products and ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "Microsoft",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kfar Saba, Center District, Israel",
+            "Senior Product Designer- Copilot Studio",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eric Hinz"
+    },
+    {
+      "position": 20,
+      "title": "Andy Jenkins - Account Technology Strategist & Tech Lead ...",
+      "link": "https://www.linkedin.com/in/andyjenkins76",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andyjenkins76&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCK0CEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc56577a1cc055c25858ecfff79b18155a.png",
+      "snippet": "Highly regarded & successful technology leader with over 24 years' experience ... Delighting the customer with their Azure experience. • Senior technical leader ...",
+      "snippet_highlighted_words": [
+        "leader",
+        "years' experience",
+        "Senior",
+        "leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Stoke-on-Trent Area",
+            "Account Technology Strategist & Tech Lead for Digital Natives",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andy Jenkins"
+    },
+    {
+      "position": 21,
+      "title": "Marian O'Sullivan, PMP® - Senior EMEA Azure Sales ...",
+      "link": "https://ie.linkedin.com/in/marian-o-sullivan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/marian-o-sullivan&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECEQQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc017a30650766ebf56fae7536a0b75ee8.png",
+      "snippet": "Senior EMEA Azure Infra and Apps Sales Lead at Microsoft · Results driven and people focused sales and marketing leader with over 14 years' experience ... Germany ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "leader",
+        "years' experience",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cork Metropolitan Area",
+            "Senior EMEA Azure Sales Strategy Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marian O'Sullivan, PMP®"
+    },
+    {
+      "position": 22,
+      "title": "Nishaanth S - Senior Data and Applied Scientist - Microsoft",
+      "link": "https://in.linkedin.com/in/nishaanth-s-6346aa20",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/nishaanth-s-6346aa20&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECF4QAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccb569248e7632d9c8ebb87fc3f461ce0b.png",
+      "snippet": "Senior Software Engineer at Microsoft · Microsoft · Indian Institute of ... Technische Universität München. May 2011 - Jul 2011 3 months. Munich Area, Germany.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Senior Data and Applied Scientist",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nishaanth S"
+    },
+    {
+      "position": 23,
+      "title": "shadab hussAIn - Microsoft",
+      "link": "https://www.linkedin.com/in/hussainshadab",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hussainshadab&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECG8QAQ",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcce29c37841e30b956ddb1f65757a9878d.png",
+      "snippet": "An accomplished business leader of 20 years experience in building high performance teams… · ... “Shadab is an experienced analytics sales executive with ...",
+      "snippet_highlighted_words": [
+        "leader",
+        "years experience",
+        "experienced",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · shadab hussAIn"
+    },
+    {
+      "position": 24,
+      "title": "Alex Vincent – Microsoft",
+      "link": "https://de.linkedin.com/in/alexvincent",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/alexvincent&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCIgBEAE",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc9cc31b826ee887e3cf6243b2f1dfff5d.png",
+      "snippet": "Berufserfahrung: Microsoft · Ausbildung: University of Warwick · Ort: Wiesbaden · 500+ Kontakte auf LinkedIn ... Frankfurt, Germany/London, United Kingdom. -.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Wiesbaden, Hessen, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alex Vincent"
+    },
+    {
+      "position": 25,
+      "title": "Sandra Bunch - Workplace Experience Concierge at the ...",
+      "link": "https://www.linkedin.com/in/sandra-bunch?trk=public_profile_samename-profile",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sandra-bunch%3Ftrk%3Dpublic_profile_samename-profile&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCJgBEAE",
+      "displayed_link": "200+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc3628868cb42a42bcde015d325616aef0.png",
+      "snippet": "Workplace Experience Concierge at Microsoft Executive Briefing Center · Experienced trilingual administrative/customer support ... Germany · Location ...",
+      "snippet_highlighted_words": [
+        "Microsoft Executive",
+        "Experienced",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cranston, Rhode Island, United States",
+            "Workplace Experience Concierge at the Microsoft Executive Briefing Center",
+            "CBRE"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sandra Bunch"
+    },
+    {
+      "position": 26,
+      "title": "Jean-Paul Émond - Senior Customer Success Account ...",
+      "link": "https://ca.linkedin.com/in/jean-paul-%C3%A9mond-a1434a41",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ca.linkedin.com/in/jean-paul-%25C3%25A9mond-a1434a41&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCLUBEAE",
+      "displayed_link": "790+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc93c1522968d9b39eb30283e74c2e28b5.png",
+      "snippet": "Microsoft. 21 years 2 months · Microsoft Graphic. Senior Customer Success Account Manager. Microsoft. Jul 2020 - Present 4 years 9 months. Quebec, Canada.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Senior",
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Capitale-Nationale, Quebec, Canada",
+            "Senior Customer Success Account Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jean-Paul Émond"
+    },
+    {
+      "position": 27,
+      "title": "Nick Velissaris - AI & Technology Innovation Owner",
+      "link": "https://uk.linkedin.com/in/nick-velissaris?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nick-velissaris%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCMEBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc00227d484d37f1c108c6aacbba2b44cd.png",
+      "snippet": "... leader with 15+ years' experience in driving performance and problem solving ... Senior Manager, Care Channel Manager for APOC, Markets Care. Microsoft.",
+      "snippet_highlighted_words": [
+        "leader",
+        "years' experience",
+        "Senior",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "AI & Technology Innovation Owner",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Velissaris"
+    },
+    {
+      "position": 28,
+      "title": "Naveen Sriraman - Microsoft",
+      "link": "https://www.linkedin.com/in/naveensriraman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/naveensriraman&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCNkBEAE",
+      "displayed_link": "650+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc445bc2723c8bc9b902d3b82d0143ed47.png",
+      "snippet": "Customer and People focused leader with 18+ years experience in building diverse global… · ... Hamburg Area, Germany. -. India. Education. Deakin University ...",
+      "snippet_highlighted_words": [
+        "leader",
+        "years experience",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bothell, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Naveen Sriraman"
+    },
+    {
+      "position": 29,
+      "title": "Islam Abdelhalim - Microsoft",
+      "link": "https://uk.linkedin.com/in/islam-abdelhalim-bb43516",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/islam-abdelhalim-bb43516&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCOkBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc97e5e3f6de86e5fa67209ef0013f9768.png",
+      "snippet": "I am a highly motivated Software Engineering Lead and Manager with 20 years of industrial… · Experience: Microsoft · Education: University of Surrey ...",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Islam Abdelhalim"
+    },
+    {
+      "position": 30,
+      "title": "Vince L. - Senior Field Enablement Leader",
+      "link": "https://www.linkedin.com/in/vince-l-19551b14",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vince-l-19551b14&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCPEBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc56b3572e56c7134ec956f7e6b3c89874.png",
+      "snippet": "A Senior Account Executive with over 13 years experience working across the ... Senior Field Enablement Leader - Americas Cloud Sales Center. Amazon Web ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Executive",
+        "years experience",
+        "Senior",
+        "Leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Senior Field Enablement Leader",
+            "Americas Cloud Sales Center",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vince L."
+    },
+    {
+      "position": 31,
+      "title": "Michael Schwarz - R&D Senior Architect - eProductivity ...",
+      "link": "https://de.linkedin.com/in/schwarzinteractive/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/schwarzinteractive/en&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCIQCEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc151ba65460ebf121de79169bf4c1c124.png",
+      "snippet": "R&D Senior Architect | Microsoft MVP | UI/UX | over 25 years experience in ... eProductivity Software is a world leader in transformational technology ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "years experience",
+        "leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Stein bei Nürnberg, Bavaria, Germany",
+            "R&D Senior Architect",
+            "eProductivity Software"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Schwarz"
+    },
+    {
+      "position": 32,
+      "title": "Conor Hogan - Senior Channel Partner - Microsoft",
+      "link": "https://www.linkedin.com/in/conor-hogan-msan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/conor-hogan-msan&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCIsCEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc44ed94bcde510352ea3bde02e865029e.png",
+      "snippet": "Senior Channel Partner @ Microsoft Advertising · I have been working in ... Principal Account Executive UKI. Pluralsight. Mar 2020 - Aug 2022 2 years 6 ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dublin, County Dublin, Ireland",
+            "Senior Channel Partner",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Conor Hogan"
+    },
+    {
+      "position": 33,
+      "title": "Stephanie Thatcher - Senior Business Program Manager",
+      "link": "https://www.linkedin.com/in/stephanie-thatcher",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephanie-thatcher&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCJUCEAE",
+      "displayed_link": "380+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcca585a3d7557d57828a05b9102346cefd.png",
+      "snippet": "Senior Business Program Manager at Microsoft · A skilled partner and leader with strong record of on-time, on-budget delivery for executive programs ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "leader",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Senior Business Program Manager",
+            "Microsoft Corporation"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephanie Thatcher"
+    },
+    {
+      "position": 34,
+      "title": "Alexandra Hanke - Skaylink GmbH",
+      "link": "https://de.linkedin.com/in/alexandrahanke/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/alexandrahanke/en&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCKECEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccbffd31c75388d189517572afa2bce1a8.png",
+      "snippet": "Licenses & Certifications. Microsoft Power Women Award 2024 Germany Graphic ... Lastly, I have had many years experience working with Alex through The WIT Network ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Munich Metropolitan Area",
+            "Skaylink GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexandra Hanke"
+    },
+    {
+      "position": 35,
+      "title": "Suresh Baskaran - APAC Leader - Critical Infra Platform ...",
+      "link": "https://in.linkedin.com/in/suresh-baskaran-41403515",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/suresh-baskaran-41403515&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCLECEAE",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcca674a7ebd82869e8408d47394dcce40f.png",
+      "snippet": "Experience · APAC Leader - Critical Infra Platform Engineering · Career Coach · Manager - AWS Managed Services · Senior Manager - Service Reliability (IT Ops).",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Senior"
+      ],
+      "source": "LinkedIn · Suresh Baskaran"
+    },
+    {
+      "position": 36,
+      "title": "Kristin Schmidt - Global Relationship Marketing Lead",
+      "link": "https://www.linkedin.com/in/kristinkschmidt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kristinkschmidt&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCLMCEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcca1424f22d298d29b59a8828e23f09865.png",
+      "snippet": "Full Funnel Marketing Leader | Demand Gen, Customer Lifecycle Management & Growth | MBA in Tech and Entrepreneurship · Over 15 years' experience in senior",
+      "snippet_highlighted_words": [
+        "Leader",
+        "years' experience",
+        "senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Global Relationship Marketing Lead",
+            "Azure & Teams",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kristin Schmidt"
+    },
+    {
+      "position": 37,
+      "title": "Naomi Rosell - Senior Director PM Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/naomirosell",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/naomirosell&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECFAQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcce4959a6f6fbc86af79882918eb2e9255.png",
+      "snippet": "Senior Director PM Manager at Microsoft Azure Infrastructure · An accomplished program management leader ... Self managing. Over 5 years experience ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "leader",
+        "years experience"
+      ],
+      "source": "LinkedIn · Naomi Rosell"
+    },
+    {
+      "position": 38,
+      "title": "Radha Abrol - Managing Director - Accenture",
+      "link": "https://in.linkedin.com/in/radha-abrol",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/radha-abrol&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECEEQAQ",
+      "displayed_link": "6.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc5461541d9282db5eab821f21d42545d0.png",
+      "snippet": "Results driven Finance Leader with 25 years of global experience with MNCs like Accenture, Microsoft, American Express, Coca-Cola and PwC.",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "South Delhi, Delhi, India",
+            "Managing Director",
+            "Accenture"
+          ]
+        }
+      },
+      "source": "LinkedIn · Radha Abrol"
+    },
+    {
+      "position": 39,
+      "title": "Frances Calandra - Principal Program Manager at Microsoft",
+      "link": "https://www.linkedin.com/in/fcalandra",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/fcalandra&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECFwQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc01c3c01f84fa3f75fbc88715a8f56f0c.png",
+      "snippet": "Principal Program Manager at Microsoft · With close to 20 years' experience in partner management, business development, digital sales, and cloud technologies,",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "years' experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brooklyn, New York, United States",
+            "Principal Program Manager, Customer Experience Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Frances Calandra"
+    },
+    {
+      "position": 40,
+      "title": "Kayla D'Alonzo-Bugosh - Executive Business Administrator",
+      "link": "https://www.linkedin.com/in/kayla-d-alonzo-bugosh-8770a447",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kayla-d-alonzo-bugosh-8770a447&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECGAQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc8ede5566d9aa08a492448b14d9e545cc.png",
+      "snippet": "As an Executive Assistant at Microsoft, I combine my media arts and business ... Leader Assistant. -. Jun 2020 - Present. All Leader Assistant Live events ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "Leader",
+        "Present",
+        "Leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reno, Nevada, United States",
+            "Executive Business Administrator",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kayla D'Alonzo-Bugosh"
+    },
+    {
+      "position": 41,
+      "title": "Angela McLaughlin - Synaxis Consulting",
+      "link": "https://www.linkedin.com/in/angemcl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/angemcl&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECHQQAQ",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccae20323062a399f3a59a2e104203a18b.png",
+      "snippet": "Internal Communications Consultant @ Synaxis Consulting for Microsoft | Executive-level Communication · I have ... Senior Manager, Corporate Communications.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Executive",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Carnation, Washington, United States",
+            "Executive and Internal Communications Consultant",
+            "Synaxis Consulting"
+          ]
+        }
+      },
+      "source": "LinkedIn · Angela McLaughlin"
+    },
+    {
+      "position": 42,
+      "title": "Bryan L. - Senior Software Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/bryan77",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bryan77&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECHEQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcca4071e8aaa5c8b31fdc6ff53dd26daef.png",
+      "snippet": "Software Engineer at Microsoft · Software Engineer in Commercial Software Engineering at Microsoft ... Oct 2018 - Jan 2020 1 year 4 months. Berlin Area, Germany | ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Senior Software Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bryan L."
+    },
+    {
+      "position": 43,
+      "title": "Neeraj Surana - Senior Engineering Manager - Microsoft",
+      "link": "https://in.linkedin.com/in/neeraj-surana-5675937",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/neeraj-surana-5675937&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCIkBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc667aa7e2c9a6c43ca4253088bd2f7c07.png",
+      "snippet": "... Senior Engineering Leader with 21 years' experience in People Management, and Development. ❖ ... Microsoft · Mohanlal Sukhadia University · Bengaluru · 500 ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Leader",
+        "years' experience",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Senior Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Neeraj Surana"
+    },
+    {
+      "position": 44,
+      "title": "Myra Siazon - Senior HR Advisor - Microsoft",
+      "link": "https://uk.linkedin.com/in/myra-siazon-8104134",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/myra-siazon-8104134&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCI4BEAE",
+      "displayed_link": "600+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc65e531919f503b5bd4ca55ad91e4501c.png",
+      "snippet": "HR Generalist at Microsoft · Global HR Generalist with over 10 years' experience ... Experience. Senior HR Advisor. Microsoft. Mar 2016 - Present 9 years.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "years' experience",
+        "Senior",
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior HR Advisor",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Myra Siazon"
+    },
+    {
+      "position": 45,
+      "title": "Natalie Singer-Velush - Microsoft",
+      "link": "https://www.linkedin.com/in/nataliesingervelush",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nataliesingervelush&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCKQBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc72f57d0dbbcc298945fa5d76bd4ead39.png",
+      "snippet": "Microsoft ... A multi-channel, in-depth content project exploring the challenges, strategies and successes experienced by Seattle-area parents balancing career ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "experienced"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Natalie Singer-Velush"
+    },
+    {
+      "position": 46,
+      "title": "Brian Walsh ᵍᵐ - Board Member, Global Planning",
+      "link": "https://www.linkedin.com/in/brwalsh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brwalsh&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCKcBEAE",
+      "displayed_link": "30.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcce469ef4e8cc3e9163fbceeb2f7302aa4.png",
+      "snippet": "Twenty years' experience in Digital Transformation and Information Technology (IT) executive leadership with Microsoft, IBM, National Grid, US Bank, Samsung, ...",
+      "snippet_highlighted_words": [
+        "years' experience",
+        "executive",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Brian Walsh ᵍᵐ"
+    },
+    {
+      "position": 47,
+      "title": "Steve Madden - Senior Customer Delivery Consultant",
+      "link": "https://uk.linkedin.com/in/maddensteve",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/maddensteve&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCLABEAE",
+      "displayed_link": "480+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc4ecf3d3a31193d0a927011ccf92a7860.png",
+      "snippet": "Senior Customer Delivery Consultant at Microsoft · Self-motivated and versatile professional services consultant ... Invited to present at 'Intel ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Corfe Mullen, England, United Kingdom",
+            "Senior Customer Delivery Consultant",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steve Madden"
+    },
+    {
+      "position": 48,
+      "title": "Bruno Martins Serra - Senior D365 Engineer",
+      "link": "https://de.linkedin.com/in/bmserra/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/bmserra/en&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCL8BEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc4c10730b2886c8203d726ff735edd8f2.png",
+      "snippet": "<br><br>As senior analyst programmer, I'm accumulating knowledge in the customization and implementation of Microsoft ... years experience on the Microsoft ...",
+      "snippet_highlighted_words": [
+        "senior",
+        "Microsoft",
+        "years experience",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "senior_d_engineer": 365
+          },
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Senior D365 Engineer",
+            "On"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bruno Martins Serra"
+    },
+    {
+      "position": 49,
+      "title": "Bryan Shupe - Supply Chain - Microsoft",
+      "link": "https://www.linkedin.com/in/bryantshupe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bryantshupe&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCM4BEAE",
+      "displayed_link": "920+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc570538461451cf86a8899dc45fe8ad62.png",
+      "snippet": "A senior manager in the business transformation group at ToysRus helping to ... Over two years experience working with and advising multiple prominent ...",
+      "snippet_highlighted_words": [
+        "senior",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Supply Chain",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bryan Shupe"
+    },
+    {
+      "position": 50,
+      "title": "Hayley Shanks - Executive Communications Social Media ...",
+      "link": "https://www.linkedin.com/in/hayleyshanks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hayleyshanks&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCM8BEAE",
+      "displayed_link": "580+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc28ea4f2b08c8162065f6405fe358ff82.png",
+      "snippet": "In 2021, I joined Microsoft as Executive Communications Social Media Manager. ... Create social media strategy for senior Microsoft executives. Write ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Executive",
+        "senior Microsoft"
+      ],
+      "source": "LinkedIn · Hayley Shanks"
+    },
+    {
+      "position": 51,
+      "title": "Ehud (Udi) Ben Ari - Microsoft",
+      "link": "https://www.linkedin.com/in/ehud-ben-ari",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ehud-ben-ari&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCNoBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc9b003e44fb9e46543f02f0249580fbd7.png",
+      "snippet": "Over 17 years' experience as a Sales Engineering and Global Program Leader; including the… · Experience: Microsoft · Education: Ben-Gurion University of the ...",
+      "snippet_highlighted_words": [
+        "years' experience",
+        "Leader",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Duvall, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ehud (Udi) Ben Ari"
+    },
+    {
+      "position": 52,
+      "title": "Michael Hartmann – User Experience Architect – Microsoft",
+      "link": "https://de.linkedin.com/in/designitsimple",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/designitsimple&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCMIBEAE",
+      "displayed_link": "770+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc4658f74cf7491b177418669f8b097716.png",
+      "snippet": "Senior Consultant / Interaction Designer. Microsoft. Mai 2014 – Sept. 2015 1 ... Germany. Classes included - Systems Design for Usefulness and Usability",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "User Experience Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Hartmann"
+    },
+    {
+      "position": 53,
+      "title": "Merin Russell - Social Media Manager",
+      "link": "https://www.linkedin.com/in/merin-russell-211b2224",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/merin-russell-211b2224&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCNgBEAE",
+      "displayed_link": "160+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc56bf26ae6b160e1f4e720811c7d18025.png",
+      "snippet": "Social Media Manager - Executive Communications, Microsoft. JeffreyM Consulting. Mar 2021 - Present 4 years 1 month. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Social Media Manager",
+            "Executive Communications, Microsoft",
+            "JeffreyM Consulting"
+          ]
+        }
+      },
+      "source": "LinkedIn · Merin Russell"
+    },
+    {
+      "position": 54,
+      "title": "Ken Knight - Sr Director, Occupational Health - Microsoft",
+      "link": "https://www.linkedin.com/in/ken-knight-37714148",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ken-knight-37714148&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCPMBEAE",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccb4c3e590b7b620383ccdfe0a0b3249a9.png",
+      "snippet": "... Microsoft · Air War College · Cypress · 500+ connections on LinkedIn. View ... Senior Physician Executive certified in Occupational and Aerospace Medicine.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Senior",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cypress, Texas, United States",
+            "Sr Director, Occupational Health",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ken Knight"
+    },
+    {
+      "position": 55,
+      "title": "Haoting L. - Senior Design Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/haoting-l-0b518a13",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/haoting-l-0b518a13&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCPIBEAE",
+      "displayed_link": "840+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccca13a6260f0348a39c673ebd468a96c3.png",
+      "snippet": "Senior Design Engineer at Microsoft · Experience: Microsoft · Education ... years experience.” 1 person has recommended Haoting. Join now to view.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "Microsoft",
+        "years experience"
+      ],
+      "source": "LinkedIn · Haoting L."
+    },
+    {
+      "position": 56,
+      "title": "Katarzyna Cevallos, M.S. - Strategic Customer Success ...",
+      "link": "https://www.linkedin.com/in/katarzyna-cevallos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katarzyna-cevallos&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCPsBEAE",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc6ff64cf84549e8266ea4d80530cd9236.png",
+      "snippet": "Global Sales Support Leader with 13 years' experience building resilient ... Weatherford. Aug 2012 - Aug 2013 1 year 1 month. Langenhagen, Lower Saxony, Germany.",
+      "snippet_highlighted_words": [
+        "Leader",
+        "years' experience",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Houston",
+            "Strategic Customer Success Account Manager at Microsoft",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katarzyna Cevallos, M.S."
+    },
+    {
+      "position": 57,
+      "title": "Robin Buckmiller - Microsoft",
+      "link": "https://www.linkedin.com/in/rbuckmiller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rbuckmiller&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCIMCEAE",
+      "displayed_link": "650+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc5fd5a2278655df826d6c84e5187a764d.png",
+      "snippet": "“During my time as a project coordinator on the Microsoft marketing team, Robin always made me feel like my opinion mattered. ... leader in so many ways. Robin ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robin Buckmiller"
+    },
+    {
+      "position": 58,
+      "title": "Tarun Khattar - Senior Software Engineer | Azure Cloud",
+      "link": "https://in.linkedin.com/in/tarunkhattar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/tarunkhattar&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCIwCEAE",
+      "displayed_link": "440+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcca799f60c70d0ad55ad3f27d9fb1fa726.png",
+      "snippet": "Senior Software Engineer @ Microsoft · Experienced software engineer specializing in microservices-based API development, distributed systems, ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "Experienced"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Noida, Uttar Pradesh, India",
+            "Senior Software Engineer | Azure Cloud | Microservices | Resource Provider Development",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tarun Khattar"
+    },
+    {
+      "position": 59,
+      "title": "Sebastian Scharf-Barak - Frankfurt, Hesse, Germany",
+      "link": "https://www.linkedin.com/in/sebastian-scharf-barak-94734263",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sebastian-scharf-barak-94734263&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCIoCEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc832605cab9f598dfd1e1ba40f9de0e22.png",
+      "snippet": "Sr. Customer Success Account Manager at Microsoft · Several years experience in consulting, client engagement and project management within the IT and ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "years experience"
+      ],
+      "source": "LinkedIn · Sebastian Scharf-Barak"
+    },
+    {
+      "position": 60,
+      "title": "Friedhelm Peplowski – Microsoft 365 EMEA Global Black Belt",
+      "link": "https://de.linkedin.com/in/friedhelm-peplowski-347b31",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/friedhelm-peplowski-347b31&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCIkCEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc25328ef4c1bd7bac9cff51e97bf476db.png",
+      "snippet": "... executive with more than 20 years experience in Enterprise Software, Storage ... 2 Jahre 3 Monate. Frankfurt Am Main Area, Germany. EPIQ is worldwide ...",
+      "snippet_highlighted_words": [
+        "executive",
+        "years experience",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "microsoft_emea_global_black_belt": 365
+          },
+          "extensions": [
+            "Köln, Nordrhein-Westfalen, Deutschland",
+            "Microsoft 365 EMEA Global Black Belt",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Friedhelm Peplowski"
+    },
+    {
+      "position": 61,
+      "title": "Paul Farnan - Principal PM Manager - M365 Customer ...",
+      "link": "https://ie.linkedin.com/in/paulfarnan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/paulfarnan&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCJgCEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc3b0102d12d3d50b04de41f1a826848ee.png",
+      "snippet": "... Executive and C-Level communications and relationship building Specific ... Microsoft · University of Cambridge · Ireland · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Paul Farnan"
+    },
+    {
+      "position": 62,
+      "title": "Kathy Quinn - Microsoft",
+      "link": "https://www.linkedin.com/in/kathyquinn1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kathyquinn1&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCJcCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc2c8e5d46e2cf06c444476e0c06ce4687.png",
+      "snippet": "An assertive and effective leader, Kathy assembled one of the strongest ... senior leadership at Microsoft as well as by government elites. In short ...",
+      "snippet_highlighted_words": [
+        "leader",
+        "senior",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Alexandria, Virginia, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kathy Quinn"
+    },
+    {
+      "position": 63,
+      "title": "Todd Chiles - Director Of Engineering Surface Devices",
+      "link": "https://www.linkedin.com/in/todd-chiles-2b9a84a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/todd-chiles-2b9a84a&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCKICEAE",
+      "displayed_link": "410+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc83c60ed71c1d39c786a45ac73fe48ff4.png",
+      "snippet": "... experienced in post silicon debug and characterization. • Strong data ... Microsoft · Kansas State University · Redmond · 401 connections on LinkedIn ...",
+      "snippet_highlighted_words": [
+        "experienced",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Director Of Engineering Surface Devices",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Todd Chiles"
+    },
+    {
+      "position": 64,
+      "title": "vivek gupta - Senior Software Engineer - Microsoft",
+      "link": "https://in.linkedin.com/in/vivekmanni",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/vivekmanni&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCKACEAE",
+      "displayed_link": "520+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc08e07dbcb3b3b295bc861025f299d902.png",
+      "snippet": "Microsoft Graphic. Senior Software Engineer. Microsoft. Apr 2022 - Present 3 years. Noida, Uttar Pradesh, India. Aricent Graphic. Senior Techincal Lead Engineer.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Senior",
+        "Microsoft",
+        "Present",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "North Delhi, Delhi, India",
+            "Senior Software Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · vivek gupta"
+    },
+    {
+      "position": 65,
+      "title": "Priyanka Langroo - Senior Field IT Manager - Microsoft",
+      "link": "https://in.linkedin.com/in/priyanka-langroo-b044ba27",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/priyanka-langroo-b044ba27&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCLACEAE",
+      "displayed_link": "350+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccf92fbbcdaf5e17d83cd208ecb56dd253.png",
+      "snippet": "Senior IT Manager at Microsoft. Microsoft Sikkim Manipal University, Gangtok ... Executive Operations. IBM. Aug 2006 - Jul 2007 1 year. Gurgaon, India ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "Microsoft",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hyderabad, Telangana, India",
+            "Senior Field IT Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Priyanka Langroo"
+    },
+    {
+      "position": 66,
+      "title": "Alzeira Pereira - Microsoft",
+      "link": "https://www.linkedin.com/in/alzeirapereira",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alzeirapereira&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCLQCEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccaf07b6ec3333851d0cb68ac5bd36a667.png",
+      "snippet": "Product Management professional with 9 years experience delivering high-impact products… · Experience: Microsoft · Education: Wharton School, University of ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alzeira Pereira"
+    },
+    {
+      "position": 67,
+      "title": "Einat Lapid - Sr. HR Director Azure Data and AI Platform ...",
+      "link": "https://www.linkedin.com/in/einat-lapid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/einat-lapid&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCL8CEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc1009862567431dbf67940f8c3754a1d6.png",
+      "snippet": "HR Leader for the Data Centers Org for Microsoft. Own and drive the Data centers WW People Strategy. Executive coaching, Talent Management strategy and ...",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Microsoft",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Sr. HR Director Azure Data and AI Platform Microsoft",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Einat Lapid"
+    },
+    {
+      "position": 68,
+      "title": "Beverley Green - Enterprise Security Executive - Microsoft",
+      "link": "https://uk.linkedin.com/in/beverleygreen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/beverleygreen&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCLwCEAE",
+      "displayed_link": "720+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc8db6fc5ba0f4daf7c5c368a7626ee409.png",
+      "snippet": "Enterprise Security Executive, Microsoft Cyber Security Group · An experienced Information Security leader ... years experience in the IT Industry overall.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "experienced",
+        "leader",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Sheffield Area",
+            "Enterprise Security Executive",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Beverley Green"
+    },
+    {
+      "position": 69,
+      "title": "Garrick Hooper - Consulting Account Executive - Microsoft",
+      "link": "https://uk.linkedin.com/in/garrickhooper",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/garrickhooper&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECEIQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc088afa81d64cabea11736d7e6520d075.png",
+      "snippet": "years' experience managing teams, projects and programmes, defining and ... senior executives and stakeholders in bridging technical and business ...",
+      "snippet_highlighted_words": [
+        "years' experience",
+        "senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Wokingham, England, United Kingdom",
+            "Consulting Account Executive",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Garrick Hooper"
+    },
+    {
+      "position": 70,
+      "title": "Daniel Jonathan Valik - Confidential",
+      "link": "https://www.linkedin.com/in/danielvalik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danielvalik&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECEMQAQ",
+      "displayed_link": "13K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc3d89bfed528170864098c9c88c8d14ba.png",
+      "snippet": "Experienced Product Executive and Strategic Visionary with over 24 years of global… · ... Microsoft HQ Executive Briefing team. May 2015. This award was ...",
+      "snippet_highlighted_words": [
+        "Experienced",
+        "Executive",
+        "Microsoft",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Confidential"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Jonathan Valik"
+    },
+    {
+      "position": 71,
+      "title": "Chaitali Chatterjee - Senior Partner Technical Advisor",
+      "link": "https://in.linkedin.com/in/chaitalichatterjee",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/chaitalichatterjee&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECEwQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc85602eea765b5b32626ea71ea01ce769.png",
+      "snippet": "Senior Partner Technical Advisor at Microsoft · 16+ years' experience in IT ... Technical Executive. Hewlett-Packard. 2009 - 2011 2 years. Sitel Graphic ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "years' experience",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Senior Partner Technical Advisor",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chaitali Chatterjee"
+    },
+    {
+      "position": 72,
+      "title": "Bhushan Chhatre – Microsoft",
+      "link": "https://de.linkedin.com/in/bhushanchhatre",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/bhushanchhatre&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECEUQAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccdc327a172dacbc13e58a8b5b2b1b38bc.png",
+      "snippet": "... Microsoft · bbw Hochschule ... CUBE Connect is a prominent business conference where companies from Germany showcase their latest projects and innovations.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bhushan Chhatre"
+    },
+    {
+      "position": 73,
+      "title": "Lawin Ileto – Senior Channel Manager & Team Lead",
+      "link": "https://de.linkedin.com/in/lawinileto",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/lawinileto&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECFsQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccef46c1440e617054ff62a6b5a6bb7e07.png",
+      "snippet": "Senior Channel Manager and team lead based in Germany with 6 years experience in sales and partner management. ... Microsoft Dynamics NAV & Business Central (ERP) ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Germany",
+        "years experience",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+            "Senior Channel Manager & Team Lead",
+            "Boyum IT Solutions"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lawin Ileto"
+    },
+    {
+      "position": 74,
+      "title": "Marc Mckee - Senior Virtualization Engineer",
+      "link": "https://uk.linkedin.com/in/marc-mckee-987839169",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/marc-mckee-987839169&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECF0QAQ",
+      "displayed_link": "80+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcca67471502ec8c2dc67d071727dac2a20.png",
+      "snippet": "... Microsoft technologies, VMware, AWS & Cisco. · Experience: Stellantis Financial Services UK, Germany ... years experience in the industry. Currently working ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bristol, England, United Kingdom",
+            "Senior Virtualization Engineer",
+            "Stellantis Financial Services UK, Germany and Austria"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marc Mckee"
+    },
+    {
+      "position": 75,
+      "title": "Regina Belton - Sr. Business Administrator, CELA Cloud ...",
+      "link": "https://www.linkedin.com/in/rbelton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rbelton&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECF8QAQ",
+      "displayed_link": "770+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc25b5ed08e6d7f7a9e213ff32e2f89285.png",
+      "snippet": "Sr. Business Administrator, CELA Cloud and Artificial Intelligence (C+AI) at Microsoft · Executive ... Calendar management for senior partners; Travel ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Executive",
+        "senior"
+      ],
+      "source": "LinkedIn · Regina Belton"
+    },
+    {
+      "position": 76,
+      "title": "Lesley Kyd-Rebenburg – Senior Attorney | Trusted Cloud ...",
+      "link": "https://de.linkedin.com/in/lesleykr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/lesleykr&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECG0QAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc11fb3577874242a7aac610d1f889a41f.png",
+      "snippet": "... years experience as in-house counsel at Microsoft in Europe, following a ... 2017 –Heute 8 Jahre 3 Monate. Munich Schwabing, Germany. Microsoft Grafik ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Microsoft",
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bayern, Deutschland",
+            "Senior Attorney | Trusted Cloud Expert | Data Privacy, Protection and Security",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lesley Kyd-Rebenburg"
+    },
+    {
+      "position": 77,
+      "title": "Siddhartha Selvaraj - Senior hardware debug engineer",
+      "link": "https://in.linkedin.com/in/siddhartha-selvaraj-64021822",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/siddhartha-selvaraj-64021822&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECHMQAQ",
+      "displayed_link": "740+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccfa18718fa15c0819c6e1cfd3ced088d1.png",
+      "snippet": "Senior hardware debug engineer at Microsoft · Experienced System Integration Engineer with a demonstrated history of working in the semiconductors industry.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "Experienced"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Senior hardware debug engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Siddhartha Selvaraj"
+    },
+    {
+      "position": 78,
+      "title": "Tiffany Stahlbaum - Youth Leader - GABC",
+      "link": "https://www.linkedin.com/in/tiffany-stahlbaum-65a424b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tiffany-stahlbaum-65a424b&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECHUQAQ",
+      "displayed_link": "130+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccc3e348b5a6b2add225cf5410790d3100.png",
+      "snippet": "... Germany, The Netherlands, and Belgium. Writes copy and contributes ... Served as President after two years experience as the United States Representative on the ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "years experience"
+      ],
+      "source": "LinkedIn · Tiffany Stahlbaum"
+    },
+    {
+      "position": 79,
+      "title": "Philipp Braunert - Warsaw, Mazowieckie, Poland",
+      "link": "https://www.linkedin.com/in/philippbraunert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/philippbraunert&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECHwQAQ",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc8e6771134411ca8f5bfb8d5d3cad5ee6.png",
+      "snippet": "With more than three years' experience in ... As part of Accenture, I got assigned to the CLM and inside sales team to support Microsoft Germany.",
+      "snippet_highlighted_words": [
+        "years' experience",
+        "Microsoft Germany"
+      ],
+      "source": "LinkedIn · Philipp Braunert"
+    },
+    {
+      "position": 80,
+      "title": "Pierre-Adrien Grange - Microsoft",
+      "link": "https://lu.linkedin.com/in/pierre-adrien-grange-b93bb242/fr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lu.linkedin.com/in/pierre-adrien-grange-b93bb242/fr&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECH0QAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc022eaa282f56e5e6f754db0548b90264.png",
+      "snippet": "Business Applications Specialist with 10+ years experience helping Enterprise customers… · Expérience : Microsoft · Formation : Grenoble Ecole de Management ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Luxembourg",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pierre-Adrien Grange"
+    },
+    {
+      "position": 81,
+      "title": "Wolf Rienow - IT Senior Consultant - adesso SE",
+      "link": "https://de.linkedin.com/in/worie/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/worie/en&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCIoBEAE",
+      "displayed_link": "190+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc29dce8b438154a7b2014a8f0d05ef07b.png",
+      "snippet": "Microsoft System Center. Trainee Microsoft FIT. QSC AG. Oct 2012 - Sep 2013 1 year. Hamburg, Germany. https://partner.microsoft.com/de-de/marketing/fit ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany",
+        "microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Hamburg Area",
+            "IT Senior Consultant",
+            "adesso SE"
+          ]
+        }
+      },
+      "source": "LinkedIn · Wolf Rienow"
+    },
+    {
+      "position": 82,
+      "title": "Kira Streets - Content Strategist, Storyteller",
+      "link": "https://www.linkedin.com/in/streetsbkny",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/streetsbkny&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCJABEAE",
+      "displayed_link": "160+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc8087f1eb1d362200146e7927e69db7e1.png",
+      "snippet": "... executive comms, Internal comms, External thought leadership and case ... Microsoft · Education: University of Washington · Location: Seattle · 158 ...",
+      "snippet_highlighted_words": [
+        "executive",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Kira Streets"
+    },
+    {
+      "position": 83,
+      "title": "Prashanth BN - Principal SWE Manager - Microsoft",
+      "link": "https://in.linkedin.com/in/prashanth-bn-a9310017",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/prashanth-bn-a9310017&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCI0BEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc392ba7d4fcedcd7203bf7758e37322cb.png",
+      "snippet": "Principal SWE Manager at Microsoft · Overall experience of 16+ years in the IT industry with 8.6 years of experience as a project manager / senior project ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Principal SWE Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Prashanth BN"
+    },
+    {
+      "position": 84,
+      "title": "Krishanu Dasgupta - Senior Customer Engineer - Microsoft",
+      "link": "https://in.linkedin.com/in/krishanudg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/krishanudg&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCI8BEAE",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc7fadd5d4a0f48d1d3b39056ba4b21b88.png",
+      "snippet": "Senior Customer Engineer at Microsoft · Seasoned professional with 15 Years experience in Consulting, Presales/Solutioning, Practice management with ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "Years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Telangana, India",
+            "Senior Customer Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Krishanu Dasgupta"
+    },
+    {
+      "position": 85,
+      "title": "Ilya Uhlianitsa - Playa del Carmen, Quintana Roo, Mexico",
+      "link": "https://www.linkedin.com/in/ilya-uhlianitsa/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ilya-uhlianitsa/&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCKMBEAE",
+      "displayed_link": "5.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccd5938a2f5b07871a33723ff26d8c0b5b.png",
+      "snippet": "3x AWS | 2x Microsoft Certified | Development Team Lead | Senior Software Engineer · Highly motivated technical leader with 10 years of Microsoft stack (C#, ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Senior",
+        "leader",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Ilya Uhlianitsa"
+    },
+    {
+      "position": 86,
+      "title": "Shruti Gupta - Senior Expert IT Software Engineer - Vodafone",
+      "link": "https://www.linkedin.com/in/shruti-gupta01/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shruti-gupta01/&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCKwBEAE",
+      "displayed_link": "800+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccaac2e68676c8a034e978a6e71e7053c3.png",
+      "snippet": "Microsoft Professional Capstone : Data Science Graphic. Microsoft ... Within this program, I have experienced Shruti as a professional strong independent ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "experienced"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Düsseldorf, North Rhine-Westphalia, Germany",
+            "Senior Expert IT Software Engineer",
+            "Vodafone"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shruti Gupta"
+    },
+    {
+      "position": 87,
+      "title": "Alban Sejdiu - Microsoft",
+      "link": "https://www.linkedin.com/in/albansejdiu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/albansejdiu&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCKYBEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc95c95e4e944108b541d0235e71d998f4.png",
+      "snippet": "Hi there, I am a C#/.NET Senior Software Engineer (10+ years experience) and former… · Experience: Microsoft · Education: University of Prishtina - Faculty ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "years experience",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ferizaj, Kosovo",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alban Sejdiu"
+    },
+    {
+      "position": 88,
+      "title": "Michael Egejuru - Program Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/michael-egejuru",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-egejuru&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCKUBEAE",
+      "displayed_link": "160+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccde6f04b727816340eb007d13d65219e9.png",
+      "snippet": "Program Manager at Microsoft · Experienced Project Manager with a ... years' experience in all aspects of planning, executing, and closing projects ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Experienced",
+        "years' experience"
+      ],
+      "source": "LinkedIn · Michael Egejuru"
+    },
+    {
+      "position": 89,
+      "title": "Praveen Krovvidi - Sr Director of Engineering - Salesforce",
+      "link": "https://in.linkedin.com/in/praveenkrovvidi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/praveenkrovvidi&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCLEBEAE",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc7857d4b18335aa074de0767dac20982c.png",
+      "snippet": "... years' experience in Cloud services - migration of BPOS (Business ... Microsoft To Do, Microsoft Planner and Microsoft Project. The New Microsoft ...",
+      "snippet_highlighted_words": [
+        "years' experience",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Praveen Krovvidi"
+    },
+    {
+      "position": 90,
+      "title": "Anthony Zinni - Senior Program Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/anthony-zinni",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/anthony-zinni&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCL4BEAE",
+      "displayed_link": "890+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc95ce93b034835645a52f4a6af71decc2.png",
+      "snippet": "Over ten years experience working on an executive-level staff. A few of my ... 100% accountability of assets worth over $160M. An executive leader who ...",
+      "snippet_highlighted_words": [
+        "years experience",
+        "executive",
+        "executive leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington DC-Baltimore Area",
+            "Senior Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anthony Zinni"
+    },
+    {
+      "position": 91,
+      "title": "Mihail Zlatanov – Head of EMEA business development ...",
+      "link": "https://de.linkedin.com/in/mihail-zlatanov",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/mihail-zlatanov&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCMABEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc48f0ee671289bdee5229bf1b3e82fc40.png",
+      "snippet": "Reinvigorating the PC market, one more time! · Growth minded sales and product management leader with 20 years of experience launching ... Microsoft. 16 Jahre.",
+      "snippet_highlighted_words": [
+        "leader",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Head of EMEA business development with Lenovo",
+            "Qualcomm"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mihail Zlatanov"
+    },
+    {
+      "position": 92,
+      "title": "James Klaka - Duvall, Washington, United States",
+      "link": "https://www.linkedin.com/in/james-klaka-4a11687",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/james-klaka-4a11687&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoFCNsBEAE",
+      "displayed_link": "150+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc4da036be131cf497255d6ea951f315a3.png",
+      "snippet": "Retired · Experience: Microsoft · Location: Duvall · 156 connections on LinkedIn. View James Klaka's profile on LinkedIn, a professional community of 1 ...",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "source": "LinkedIn · James Klaka"
+    },
+    {
+      "position": 93,
+      "title": "Alpesh Choubisa - Microsoft",
+      "link": "https://in.linkedin.com/in/alpesh-choubisa-92000655",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/alpesh-choubisa-92000655&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECCkQAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc657fb25a561646063f57cfe4f923f08d.png",
+      "snippet": "12 Years' experience in Design, Development and Support of business application using… · Microsoft · Geetanjali Institute of Technical Studies, ...",
+      "snippet_highlighted_words": [
+        "Years' experience",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hyderabad, Telangana, India",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alpesh Choubisa"
+    },
+    {
+      "position": 94,
+      "title": "Gijs Beerens - Director, Data Center Critical Environment ...",
+      "link": "https://nl.linkedin.com/in/gijsbeerens",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nl.linkedin.com/in/gijsbeerens&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECCgQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc0a77ae2dd1e41595fa2978d6b822d8ec.png",
+      "snippet": "Director, Data Center Critical Environment Operations at Microsoft · Accomplished and energetic leader with about 20 years' experience in mission-critical ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "leader",
+        "years' experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Nederland",
+            "Director, Data Center Critical Environment Operations | Netherlands",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gijs Beerens"
+    },
+    {
+      "position": 95,
+      "title": "Bianca Corsatea - Microsoft",
+      "link": "https://uk.linkedin.com/in/bianca-corsatea-90670662",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/bianca-corsatea-90670662&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECCwQAQ",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc57b086c3e12b07a52d610dcbe66620c9.png",
+      "snippet": "Microsoft · University of Essex · London · 500+ connections on LinkedIn ... Oct 2014 - Present 10 years 6 months. Education. Publications. Opportunities for ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bianca Corsatea"
+    },
+    {
+      "position": 96,
+      "title": "Rory Quinn - Global Strategic Account Executive - Haleon",
+      "link": "https://uk.linkedin.com/in/roryquinn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/roryquinn&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECCoQAQ",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc862682731e124b09ff70395f19ee5b47.png",
+      "snippet": "Client Executive, Retail and Consumer Goods, Microsoft UK. Microsoft RMIT ... Senior Client Executive - Consumer Packaged Goods. Microsoft. Oct 2021 - Sep ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "Microsoft",
+        "Senior",
+        "Executive",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Manchester, England, United Kingdom",
+            "Global Strategic Account Executive",
+            "Haleon",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rory Quinn"
+    },
+    {
+      "position": 97,
+      "title": "Ashish Kaul - Admissions Executive - YES Germany",
+      "link": "https://in.linkedin.com/in/ashish-kaul",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/ashish-kaul&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECCcQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc254534891a84f61b983be872041491ae.png",
+      "snippet": "Admissions Executive at YES Germany · I graduated with a degree in ... Introduction to Data Analysis using Microsoft Excel Graphic · Introduction to Data ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Faridabad, Haryana, India",
+            "Admissions Executive",
+            "YES Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ashish Kaul"
+    },
+    {
+      "position": 98,
+      "title": "Hector Diaz - Software Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/hectordm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hectordm&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECC0QAQ",
+      "displayed_link": "630+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbcc01e176a6b9bd8e8306fe1851f91a8626.png",
+      "snippet": "Software Engineer at Microsoft · Experienced Software Developer with a demonstrated history of working in the computer software industry.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Experienced"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Software Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hector Diaz"
+    },
+    {
+      "position": 99,
+      "title": "Jithendra Reddy - Senior Software Engineer - Microsoft",
+      "link": "https://in.linkedin.com/in/jrsane",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/jrsane&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQFnoECC4QAQ",
+      "displayed_link": "220+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf98d56ca3e8eb0ed33c4/images/b71d09db1858d856592c7d599a29fbccc9dfae56e76b7e7399589fb19873a4e8.png",
+      "snippet": "... Microsoft · Location: Hyderabad · 223 connections on LinkedIn. View ... You have been an exceptional mentor, an inspiring team leader, and a great friend.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hyderabad, Telangana, India",
+            "Senior Software Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jithendra Reddy"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?num=100&sca_esv=b275642f2649e319&gl=us&q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&udm=2&source=univ&fir=guKapibDxWb64M%252C5ncdn3dfkD8diM%252C_%253BqNErwzLl-XFJhM%252C885A2OJIaU45EM%252C_%253BLClUenX6lLmYEM%252CDRCrK0f2ovhCNM%252C_%253BBTARAxnUsuW-AM%252C9XsJ2wUmHsDmRM%252C_%253BxzwxCBvAjUFhtM%252CLhCRoT8MlmMX3M%252C_%253BBTMsTHntOkJr0M%252C_bl7WPclMypD7M%252C_%253B5csf0Z-bCedtZM%252CFd9EiQ3ogBndpM%252C_%253BAwRkv7ARTPeaXM%252CzqAjwGhle8P_xM%252C_%253BpKt2sCkCUnioYM%252Cu0c-nlgRbQuxwM%252C_&usg=AI4_-kT94TEaNaKD8t7t-tdASRutBHKY0Q&sa=X&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQ7Al6BAhaEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22",
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=j_ndZ9lTy6Xaug_TqbOJCg&start=100&sa=N&sstk=Af40H4VBKCogCikA7QAeSZuVrJXETsy6WNF-gkbNJU0l3Iv24rSwvg5jMzdfFLbkbfS92XsaOXcawNidNaqcFsjtfiH_Yre_Avat9w&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQ8NMDegQICxAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=j_ndZ9lTy6Xaug_TqbOJCg&start=100&sa=N&sstk=Af40H4VBKCogCikA7QAeSZuVrJXETsy6WNF-gkbNJU0l3Iv24rSwvg5jMzdfFLbkbfS92XsaOXcawNidNaqcFsjtfiH_Yre_Avat9w&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQ8tMDegQICxAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=j_ndZ9lTy6Xaug_TqbOJCg&start=200&sa=N&sstk=Af40H4VBKCogCikA7QAeSZuVrJXETsy6WNF-gkbNJU0l3Iv24rSwvg5jMzdfFLbkbfS92XsaOXcawNidNaqcFsjtfiH_Yre_Avat9w&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQ8tMDegQICxAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=j_ndZ9lTy6Xaug_TqbOJCg&start=300&sa=N&sstk=Af40H4VBKCogCikA7QAeSZuVrJXETsy6WNF-gkbNJU0l3Iv24rSwvg5jMzdfFLbkbfS92XsaOXcawNidNaqcFsjtfiH_Yre_Avat9w&ved=2ahUKEwiZ19mJrZyMAxXLklYBHdPULKEQ8tMDegQICxAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=300"
+    }
+  }
+}

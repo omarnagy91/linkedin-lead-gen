@@ -42,6 +42,10 @@ class Settings(BaseSettings):
     LOG_LEVEL: str = "INFO"
     LOG_FORMAT: str = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
     
+    # Testing
+    MOCK_MODE: bool = False
+    MOCK_DATA_DIR: str = "test"
+    
     @validator("API_KEY")
     def validate_api_key(cls, v):
         """Validate that API key is provided"""

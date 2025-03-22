@@ -1,0 +1,2200 @@
+{
+  "search_metadata": {
+    "id": "67ddfa146914f41af2a7f371",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/407c3091a4bf1515/67ddfa146914f41af2a7f371.json",
+    "created_at": "2025-03-21 23:45:24 UTC",
+    "processed_at": "2025-03-21 23:45:24 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/407c3091a4bf1515/67ddfa146914f41af2a7f371.html",
+    "total_time_taken": 1.06
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"Germany\" AND (current OR present) AND (\"CEO\" OR \"Chief Executive Officer\" OR \"CFO\" OR \"Chief Financial Officer\" OR \"CTO\" OR \"Chief Technology Officer\" OR \"COO\" OR \"Chief Operating Officer\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"Germany\" AND (current OR present) AND (\"CEO\" OR \"Chief Executive Officer\" OR \"CFO\" OR \"Chief Financial Officer\" OR \"CTO\" OR \"Chief Technology Officer\" OR \"COO\" OR \"Chief Operating Officer\")",
+    "total_results": 14600000,
+    "time_taken_displayed": 0.8,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Michiel van Eldik - Google",
+      "link": "https://uk.linkedin.com/in/michielvaneldik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/michielvaneldik&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECAkQAQ",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481098135c3421e4847dc3969ac3411bdcb9.png",
+      "snippet": "Experience · Google Graphic · Google. London, United Kingdom · -. Milan Area, Italy · -. Amsterdam/ London · -. Munich Area, Germany · -. Munich Area, Germany · -.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michiel van Eldik"
+    },
+    {
+      "position": 2,
+      "title": "Kevin Scott - CTO Microsoft",
+      "link": "https://www.linkedin.com/in/jkevinscott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jkevinscott&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECBYQAQ",
+      "displayed_link": "757.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48106ca309f560b3f447bcca8c593cb7f66c.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Department of Computer Science, University of Goettingen, Germany. Aug 2002 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "source": "LinkedIn · Kevin Scott"
+    },
+    {
+      "position": 3,
+      "title": "Andreas Eschbach - CEO and President",
+      "link": "https://www.linkedin.com/in/andreas-eschbach",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andreas-eschbach&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECBcQAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810402ca541263ee6551d100b1349d9521d.png",
+      "snippet": "Shiftconnector® - CEO and Founder of eschbach Germany and US · Founder and CEO of a German-American company ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Germany",
+        "CEO",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Andreas Eschbach"
+    },
+    {
+      "position": 4,
+      "title": "William Magro - Google",
+      "link": "https://www.linkedin.com/in/william-magro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/william-magro&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECB8QAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810439e347fdf7146adeea67f5247fdb199.png",
+      "snippet": "William Magro. Google University of Illinois at Urbana-Champaign. Austin, Texas, United States. 2K ...",
+      "snippet_highlighted_words": [
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · William Magro"
+    },
+    {
+      "position": 5,
+      "title": "Christoph Wollersheim - Egon Zehnder",
+      "link": "https://www.linkedin.com/in/christoph-wollersheim-a4b58744",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christoph-wollersheim-a4b58744&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECCMQAQ",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810147b926c9af925454af50a316b229b02.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Kerpen, Germany. -. Washington, District of Columbia, United States ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Egon Zehnder"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christoph Wollersheim"
+    },
+    {
+      "position": 6,
+      "title": "Dr. Matthias Lichtblau - Chief Operating Officer Germany ...",
+      "link": "https://de.linkedin.com/in/matthiaslichtblau/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/matthiaslichtblau/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECBkQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48102d161269264c1e8bb5928ec5ff4f1ff8.png",
+      "snippet": "Experience ; Chief Operating Officer Germany/Director of Strategic Projects Europe. Dentons. Jun 2023 - Present 1 year 10 months ; Global COO, Partner, WTS AG.",
+      "snippet_highlighted_words": [
+        "Chief Operating Officer Germany",
+        "Present",
+        "COO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hesse, Germany",
+            "Chief Operating Officer Germany/Director of Strategic Projects Europe",
+            "Dentons"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Matthias Lichtblau"
+    },
+    {
+      "position": 7,
+      "title": "Tim Höttges - CEO - Deutsche Telekom",
+      "link": "https://de.linkedin.com/in/timh%C3%B6ttges/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/timh%25C3%25B6ttges/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECCUQAQ",
+      "displayed_link": "147.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48107f4c52dc80e858b9d0cc38bb73aa3c30.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... T-Mobile Germany. 2000 - 2004 4 years. Bonn. Several Positions. VIAG Group.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bonn, North Rhine-Westphalia, Germany",
+            "CEO",
+            "Deutsche Telekom"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tim Höttges"
+    },
+    {
+      "position": 8,
+      "title": "Björn Goerke - Proalpha",
+      "link": "https://de.linkedin.com/in/bjoerngoerke/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/bjoerngoerke/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECC0QAQ",
+      "displayed_link": "8.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48104c52ee44e80bf0c17bc91d4376858c37.png",
+      "snippet": "Chief Technology Officer (CTO) and Member of the Management Board at proALPHA Group… · ... Continue with GoogleContinue with Google. New to LinkedIn? Join ...",
+      "snippet_highlighted_words": [
+        "Chief Technology Officer",
+        "CTO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Proalpha"
+          ]
+        }
+      },
+      "source": "LinkedIn · Björn Goerke"
+    },
+    {
+      "position": 9,
+      "title": "Uwe Stelter - The CFO Centre Germany",
+      "link": "https://de.linkedin.com/in/uwe-stelter1/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/uwe-stelter1/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCOQBEAE",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48109670ed7ea71a283506ca4d0e8252794a.png",
+      "snippet": "As an international experienced Chief Financial Officer/Chief Operating Officer I am… · The CFO Centre Germany ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "Chief Financial Officer",
+        "Chief Operating Officer",
+        "CFO",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Munich Metropolitan Area",
+            "The CFO Centre Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Uwe Stelter"
+    },
+    {
+      "position": 10,
+      "title": "Natalie Knight - Stellantis",
+      "link": "https://www.linkedin.com/in/natalie-knight",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/natalie-knight&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECCwQAQ",
+      "displayed_link": "8.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48102902a598f124075009865947e5ad1c77.png",
+      "snippet": "Highly experienced Chief Financial Officer with a passion for creating shared value for… · ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Chief Financial Officer",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Auburn Hills, Michigan, United States",
+            "Stellantis"
+          ]
+        }
+      },
+      "source": "LinkedIn · Natalie Knight"
+    },
+    {
+      "position": 11,
+      "title": "Wencke Schmidt – Director Automotive Google Cloud",
+      "link": "https://de.linkedin.com/in/wenckeschmidt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/wenckeschmidt&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJEBEAE",
+      "displayed_link": "4.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810dcaa67111ffe19920540a859df2726c4.png",
+      "snippet": "Director Automotive Google Cloud - Germany · Director Manufacturing & Mittelstand Google Cloud (interim) · Head of Retail and Digital Natives - Google Cloud · Head ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Wencke Schmidt"
+    },
+    {
+      "position": 12,
+      "title": "Jonas Frenzel - Deutsche Bank University of Miami",
+      "link": "https://de.linkedin.com/in/jfrenzel/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/jfrenzel/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCOUBEAE",
+      "displayed_link": "770+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48106e8e3eae38ade3685e804df58bf61797.png",
+      "snippet": "Chief Operating Officer (COO) for HR Germany at Deutsche Bank · Experience ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Chief Operating Officer",
+        "COO",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hesse, Germany",
+            "Vice President | Chief Operating Officer (COO) for HR Germany",
+            "Deutsche Bank"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonas Frenzel"
+    },
+    {
+      "position": 13,
+      "title": "Bill McDermott - Chairman and CEO - ServiceNow",
+      "link": "https://www.linkedin.com/in/billrmcdermott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/billrmcdermott&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJICEAE",
+      "displayed_link": "307.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810dcc54a5b8813debe4617efc1912984bd.png",
+      "snippet": "Chairman and CEO at ServiceNow · Bill McDermott is Chairman and Chief Executive Officer of ServiceNow – the company with the fastest organic growth in the ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Chief Executive Officer"
+      ],
+      "source": "LinkedIn · Bill McDermott"
+    },
+    {
+      "position": 14,
+      "title": "Rahul Roy-Chowdhury - Grammarly",
+      "link": "https://www.linkedin.com/in/rahulrc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rahulrc&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECCsQAQ",
+      "displayed_link": "12.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48103454474494dd7312bd0d19069553e554.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Most recently CEO of Grammarly, an enterprise-grade AI… Articles by Rahul.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CEO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Grammarly"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rahul Roy-Chowdhury"
+    },
+    {
+      "position": 15,
+      "title": "Christiana Riley - President and CEO, Santander US",
+      "link": "https://www.linkedin.com/in/christiana-riley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christiana-riley&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECFwQAQ",
+      "displayed_link": "34.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810d74d27e7972043281093f44902847229.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... USA and Germany – Learning From Each… 222. 15 Comments. The Biden/Merkel ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "President and CEO, Santander US",
+            "Santander"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christiana Riley"
+    },
+    {
+      "position": 16,
+      "title": "Dr. Christian Richter – Director Global Automotive Vertical ...",
+      "link": "https://de.linkedin.com/in/dr-christian-richter-a4740ab",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dr-christian-richter-a4740ab&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJIBEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48100275541d79625f4cead97ce5a03fd612.png",
+      "snippet": "Munich Area, Germany. Google Germany GmbH Grafik. Global Client Lead - Automotive. Google Germany GmbH. März 2015 – Jan. 2023 7 Jahre 11 Monate. Munich Area, ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google Germany",
+        "Google Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Director Global Automotive Vertical & Auto Retail Solutions",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Christian Richter"
+    },
+    {
+      "position": 17,
+      "title": "Ralf Kleber - Amazon Germany CEO (20+y)",
+      "link": "https://de.linkedin.com/in/ralf-kleber-b1499a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ralf-kleber-b1499a&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCLQBEAE",
+      "displayed_link": "24.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481099707f848067900964cac65df3ebe660.png",
+      "snippet": "Berufserfahrung: Ex: Amazon Germany CEO (20+y) · Ort: Metropolregion München · 500+ Kontakte auf LinkedIn ... Continue with GoogleContinue with Google. Neu ...",
+      "snippet_highlighted_words": [
+        "Germany CEO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "ex_amazon_germany_ceo_y": 20
+          },
+          "extensions": [
+            "Metropolregion München",
+            "Ex: Amazon Germany CEO (20+y)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ralf Kleber"
+    },
+    {
+      "position": 18,
+      "title": "Michael Peters - Chief Operating Officer - Voya Investment ...",
+      "link": "https://www.linkedin.com/in/michaelpetersallianzgi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michaelpetersallianzgi&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCOIBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48109cc657fab153e841dfd594a3e65f0a27.png",
+      "snippet": "Chief Operating Officer at Voya Investment Management ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Chief Operating Officer",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Chief Operating Officer",
+            "Voya Investment Management"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Peters"
+    },
+    {
+      "position": 19,
+      "title": "Roland Busch – President and CEO of Siemens AG",
+      "link": "https://de.linkedin.com/in/buschroland",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/buschroland&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCP0BEAE",
+      "displayed_link": "209.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810515a9dad32e3af4073f3499dcd89981d.png",
+      "snippet": "CEO Business Unit Infotainment Solutions. Siemens. 2001 – 2005 4 Jahre. Regensburg Area, Germany.",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Germany"
+      ],
+      "source": "LinkedIn · Roland Busch"
+    },
+    {
+      "position": 20,
+      "title": "Bernd Montag - Chief Executive Officer",
+      "link": "https://de.linkedin.com/in/berndmontag/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/berndmontag/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJECEAE",
+      "displayed_link": "123.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48109b412f4521d1c4c88aad6c527b34737a.png",
+      "snippet": "Experience · Siemens Healthineers Graphic. Chief Executive Officer. Siemens Healthineers. 2015 - Present 10 years. Erlangen Area, Germany · Siemens. 18 years.",
+      "snippet_highlighted_words": [
+        "Chief Executive Officer",
+        "Present",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Erlangen, Bavaria, Germany",
+            "Chief Executive Officer",
+            "Siemens Healthineers"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bernd Montag"
+    },
+    {
+      "position": 21,
+      "title": "Olaf Schick – Member of the Executive Board",
+      "link": "https://de.linkedin.com/in/olaf-schick-b71408a0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/olaf-schick-b71408a0&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCKcCEAE",
+      "displayed_link": "13K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810a585f507346552e65252ce34a15ea296.png",
+      "snippet": "Member of the Executive Board – Chief Financial Officer | Finance, Integrity and Law at Continental ... Continue with GoogleContinue with Google. Neu bei LinkedIn ...",
+      "snippet_highlighted_words": [
+        "Chief Financial Officer",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "Member of the Executive Board – Chief Financial Officer | Finance, Integrity and Law",
+            "Continental"
+          ]
+        }
+      },
+      "source": "LinkedIn · Olaf Schick"
+    },
+    {
+      "position": 22,
+      "title": "Emmett Beliveau - Chief Operating Officer - C3 Presents",
+      "link": "https://www.linkedin.com/in/emmett-beliveau-149871a8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/emmett-beliveau-149871a8&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECCYQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810cb1a97f2df25fac8286ebff0f3de4a83.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Executive Director and CEO. Presidential Inaugural Committee. Nov 2008 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CEO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "c_presents": 3
+          },
+          "extensions": [
+            "Austin, Texas, United States",
+            "Chief Operating Officer",
+            "C3 Presents"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emmett Beliveau"
+    },
+    {
+      "position": 23,
+      "title": "Raffael Wohlgensinger - Founder & CEO - Formo",
+      "link": "https://de.linkedin.com/in/raffael-wohlgensinger/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/raffael-wohlgensinger/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECEMQAQ",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810f98b5449b7bbf4dea631c381cf435125.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... 6 years 6 months. Berlin, Germany. Sigma Squared Society Graphic. Fellow.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "source": "LinkedIn · Raffael Wohlgensinger"
+    },
+    {
+      "position": 24,
+      "title": "Dr. Frank Hiller - Chief Executive Officer - BayWa AG",
+      "link": "https://de.linkedin.com/in/dr-frank-hiller/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dr-frank-hiller/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECF4QAQ",
+      "displayed_link": "19.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810b0d19e458a128109e798e1038f233023.png",
+      "snippet": "Chief Executive Officer at BayWa AG · As an engineer, I am fascinated by technical solutions and new approaches that enable economic and ecological progress ...",
+      "snippet_highlighted_words": [
+        "Chief Executive Officer"
+      ],
+      "source": "LinkedIn · Dr. Frank Hiller"
+    },
+    {
+      "position": 25,
+      "title": "Peter Grosskopf – CTO / COO – AllUnity",
+      "link": "https://de.linkedin.com/in/petergrosskopf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/petergrosskopf&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECHkQAQ",
+      "displayed_link": "15.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48107b1340406766c6b7475a37a153a5756f.png",
+      "snippet": "Peter Grosskopf ist Influencer:in. Techie with a faible for building regulated companies, CTO/COO at AllUnity, Former Co-CEO/-Founder at Iron, Co-Founder/ ...",
+      "snippet_highlighted_words": [
+        "CTO",
+        "COO",
+        "CEO"
+      ],
+      "source": "LinkedIn · Peter Grosskopf"
+    },
+    {
+      "position": 26,
+      "title": "Markus Brettschneider - Viega Group",
+      "link": "https://www.linkedin.com/in/markus-brettschneider",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/markus-brettschneider&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJQBEAE",
+      "displayed_link": "4.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48106b397fa595d9c7f24fe333a1eda22007.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Helibron, Germany. -. Moenchengladbach, Germany. -. Philadelphia / USA ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Media, Pennsylvania, United States",
+            "Viega Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Markus Brettschneider"
+    },
+    {
+      "position": 27,
+      "title": "Steve Sloan - NextRoll",
+      "link": "https://www.linkedin.com/in/steve-sloan-213515",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/steve-sloan-213515&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCKwBEAE",
+      "displayed_link": "5.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810c117ac55563360712c612f49b890938d.png",
+      "snippet": "Growth-stage, software CEO and Board member with a track record of defining and driving… · ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "NextRoll"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steve Sloan"
+    },
+    {
+      "position": 28,
+      "title": "Lukas Scheucher - Chief Technology Officer - Compass Labs",
+      "link": "https://www.linkedin.com/in/scheuclu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/scheuclu&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCMQBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481002c9ce394d7649d4d3fb5b8e506af2d9.png",
+      "snippet": "CTO & cofounder | Compass Labs · Passionate about exploring new technologies and opportunities ... Continue with GoogleContinue with Google. New to LinkedIn? Join ...",
+      "snippet_highlighted_words": [
+        "CTO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Chief Technology Officer",
+            "Compass Labs"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lukas Scheucher"
+    },
+    {
+      "position": 29,
+      "title": "Nathan Gruber - Co-Founder & CEO - Datagon AI",
+      "link": "https://de.linkedin.com/in/nathan-gruber/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/nathan-gruber/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCM8BEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810a3d6e844da05bb9717a34f91dc2f1e8b.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... CTO. priamos consulting group e.V.. Nov 2019 - Jan 2021 1 year 3 months.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CTO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Co-Founder & CEO",
+            "Datagon AI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nathan Gruber"
+    },
+    {
+      "position": 30,
+      "title": "Ajay Patil - VP & Chief Financial Officer- India ABO",
+      "link": "https://in.linkedin.com/in/ajay-patil-375aa69",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/ajay-patil-375aa69&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCOYBEAE",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481027c665de5df884d66871def25bd29141.png",
+      "snippet": "... CFO. Operate with a COO mindset. Deep and extensive experience as ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "CFO",
+        "COO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Pune, Maharashtra, India",
+            "VP & Chief Financial Officer- India ABO",
+            "Cummins India"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ajay Patil"
+    },
+    {
+      "position": 31,
+      "title": "Bernd Reichart - CEO - A22 Sports Management",
+      "link": "https://es.linkedin.com/in/berndreichart/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://es.linkedin.com/in/berndreichart/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCPABEAE",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810d64c0690b084228978349367e74b38f0.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... RTL Germany. 8 years 11 months. RTL Germany Graphic. CEO. RTL ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany",
+        "CEO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "a_sports_management": 22
+          },
+          "extensions": [
+            "Madrid, Community of Madrid, Spain",
+            "CEO",
+            "A22 Sports Management"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bernd Reichart"
+    },
+    {
+      "position": 32,
+      "title": "Markus Krebber - CEO - RWE",
+      "link": "https://de.linkedin.com/in/markus-krebber/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/markus-krebber/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCIECEAE",
+      "displayed_link": "82.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810be293efe07b2937e0f2902d0ca5caf4b.png",
+      "snippet": "Experience · CEO · CFO · Chief Executive Officer, RWE Supply & Trading · Managing Director and Chief Financial Officer, RWE Supply & Trading · Divisional Board ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "CFO",
+        "Chief Executive Officer",
+        "Chief Financial Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Essen, North Rhine-Westphalia, Germany",
+            "CEO",
+            "RWE"
+          ]
+        }
+      },
+      "source": "LinkedIn · Markus Krebber"
+    },
+    {
+      "position": 33,
+      "title": "Rajaram Radhakrishnan - Ciklum",
+      "link": "https://www.linkedin.com/in/rajrk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rajrk&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCIMCEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48107a8be44941002817b7b1ecb29a79056f.png",
+      "snippet": "CEO, Executive of large private equity owned and public listed companies with extensive… · ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "Ciklum"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rajaram Radhakrishnan"
+    },
+    {
+      "position": 34,
+      "title": "Chris Nickerson - Chief Executive Officer - Damovo",
+      "link": "https://www.linkedin.com/in/c-nickerson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/c-nickerson&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJsCEAE",
+      "displayed_link": "10.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810118cc3dd92ee43c1d1fb20b2bcfedc7e.png",
+      "snippet": "Experience · Damovo Graphic. Chief Executive Officer. Damovo. Apr 2024 - Present 1 year · Damovo Graphic. Chief Technology Officer. Damovo. Jan 2023 - Present 2 ...",
+      "snippet_highlighted_words": [
+        "Chief Executive Officer",
+        "Present",
+        "Chief Technology Officer",
+        "Present"
+      ],
+      "source": "LinkedIn · Chris Nickerson"
+    },
+    {
+      "position": 35,
+      "title": "Bassil Akra - Chief Executive Officer - AKRA TEAM GmbH",
+      "link": "https://de.linkedin.com/in/bassil-akra-akrateam/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/bassil-akra-akrateam/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJkCEAE",
+      "displayed_link": "10.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810cf8210ef0d5693a31f1bcae5803438b3.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... CEO and Co-Owner. QUNIQUE GmbH. Jun 2020 - Apr 2021 11 months. Germany and ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CEO",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Landsberg, Bavaria, Germany",
+            "Chief Executive Officer",
+            "AKRA TEAM GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bassil Akra"
+    },
+    {
+      "position": 36,
+      "title": "Antonio Filosa - Stellantis",
+      "link": "https://www.linkedin.com/in/antoniofilosa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/antoniofilosa&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCKsCEAE",
+      "displayed_link": "72.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481029dc4fe0ba7ec16d903637484c400545.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn ... Antonio Filosa is Chief Operating Officer (COO) Americas & Quality at Stellantis and has…",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Operating Officer",
+        "COO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Detroit Metropolitan Area",
+            "Stellantis"
+          ]
+        }
+      },
+      "source": "LinkedIn · Antonio Filosa"
+    },
+    {
+      "position": 37,
+      "title": "Anuraag Saxena - Chief Executive Officer - E-Gaming ...",
+      "link": "https://in.linkedin.com/in/anuraagsaxena",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/anuraagsaxena&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCLYCEAE",
+      "displayed_link": "6.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48101834463be1521a32091e2a780dd4f563.png",
+      "snippet": "CEO, E-Gaming Federation || #publicpolicy #publicaffairs #gaming #tech # ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Anuraag Saxena"
+    },
+    {
+      "position": 38,
+      "title": "Helen Giza - Chief Executive Officer and Chair of the ...",
+      "link": "https://www.linkedin.com/in/helen-giza",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/helen-giza&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECCgQAQ",
+      "displayed_link": "15.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810e048e53ebc65fa8470e0fca634fe553b.png",
+      "snippet": "CEO and Chair of the Management Board of Fresenius Medical Care ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Waltham, Massachusetts, United States",
+            "Chief Executive Officer and Chair of the Management Board",
+            "Fresenius Medical Care"
+          ]
+        }
+      },
+      "source": "LinkedIn · Helen Giza"
+    },
+    {
+      "position": 39,
+      "title": "Daniel Weissland - Audi of America",
+      "link": "https://www.linkedin.com/in/daniel-weissland-b37b271b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/daniel-weissland-b37b271b&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECEYQAQ",
+      "displayed_link": "18.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481089227180e2c3e8daea3ad662087879e7.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Ingolstadt, Bavaria, Germany. -. Auburn Hills, Michigan. -. Uitenhage Area ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington DC-Baltimore Area",
+            "Audi of America"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Weissland"
+    },
+    {
+      "position": 40,
+      "title": "Darja Gutnick – Joyed.ai",
+      "link": "https://de.linkedin.com/in/darjagutnick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/darjagutnick&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECEIQAQ",
+      "displayed_link": "18.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481024b8606b9a052d4ffa1e5564fc99c768.png",
+      "snippet": "With \"Kindergarden - the crib of innovation\" we targeted primary and early education facilities in Germany in order to improve kids' education in natural ...",
+      "snippet_highlighted_words": [
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Joyed.ai"
+          ]
+        }
+      },
+      "source": "LinkedIn · Darja Gutnick"
+    },
+    {
+      "position": 41,
+      "title": "Jean-Claude Dubacher - B. Braun Avitum",
+      "link": "https://www.linkedin.com/in/jean-claude-dubacher",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jean-claude-dubacher&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECF8QAQ",
+      "displayed_link": "5.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48102b9daaca7f5ad4cfee2b016884307e9c.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Germany. -. United States. -. -. Bethlehem, Pennsylvania. -. Bethlehem ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bethlehem, Pennsylvania, United States",
+            "B. Braun Avitum"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jean-Claude Dubacher"
+    },
+    {
+      "position": 42,
+      "title": "Christopher Kubasik - Chair and Chief Executive Officer",
+      "link": "https://www.linkedin.com/in/christopher-kubasik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christopher-kubasik&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECGIQAQ",
+      "displayed_link": "27.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810fc96a6df67b45d69c481ebca0a8e2635.png",
+      "snippet": "... Chief Executive Officer in June 2021. Immediately prior, he served as Vice Chair, President and Chief Operating Officer – roles he assumed upon the merger ...",
+      "snippet_highlighted_words": [
+        "Chief Executive Officer",
+        "Chief Operating Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Melbourne, Florida, United States",
+            "Chair and Chief Executive Officer",
+            "L3Harris Technologies"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christopher Kubasik"
+    },
+    {
+      "position": 43,
+      "title": "Jonathan Germany - Founder",
+      "link": "https://www.linkedin.com/in/jonathan-germany-a377b811",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jonathan-germany-a377b811&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECG8QAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810c07c2457027cb81b1f14d0aecd5ceb80.png",
+      "snippet": "CEO at Germany Dental · Germany Dental · University of Mississippi · Brandon ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Germany",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brandon, Mississippi, United States",
+            "Founder",
+            "Germany Dental"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Germany"
+    },
+    {
+      "position": 44,
+      "title": "Dr. Stefan Koenig - CEO - Optima packaging group",
+      "link": "https://de.linkedin.com/in/stefank%C3%B6nig/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/stefank%25C3%25B6nig/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECHcQAQ",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810f26542320013a85612dc114eea840c3d.png",
+      "snippet": "I have worked for many years as CEO, CTO, COO and business unit manager in mechanical engineering and automotive in corporate and medium-sized companies.",
+      "snippet_highlighted_words": [
+        "CEO",
+        "CTO",
+        "COO"
+      ],
+      "source": "LinkedIn · Dr. Stefan Koenig"
+    },
+    {
+      "position": 45,
+      "title": "Vishwastam Shukla - Chief Technology Officer - HackerEarth",
+      "link": "https://in.linkedin.com/in/vishwastam-shukla",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/vishwastam-shukla&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECH4QAQ",
+      "displayed_link": "9.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48104f73a81a7d1067934be352e12de6cc15.png",
+      "snippet": "Chief Technology Officer at HackerEarth, Ex-Amazon. Career Coach & Startup Advisor · Vishwastam Shukla · HackerEarth · Indian Institute of Information ...",
+      "snippet_highlighted_words": [
+        "Chief Technology Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Chief Technology Officer",
+            "HackerEarth"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vishwastam Shukla"
+    },
+    {
+      "position": 46,
+      "title": "Lennise Germany - Founder & CEO - Livy O's Catering Co.",
+      "link": "https://www.linkedin.com/in/lennise-germany-594461a7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lennise-germany-594461a7&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJUBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810e7009ef726c52275619d133d5a5bb4b1.png",
+      "snippet": "Founder/CEO at Livy O's · Lennise Germany is the CEO of Livy O's ... She is the wife of Omar Germany, CFO of Livy O's and a mother of 6 amazing children.",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Germany",
+        "CEO",
+        "Germany",
+        "CFO"
+      ],
+      "source": "LinkedIn · Lennise Germany"
+    },
+    {
+      "position": 47,
+      "title": "Oliver Kahn - CEO - Oliver Kahn Stiftung",
+      "link": "https://de.linkedin.com/in/oliver-kahn-0185ab140/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/oliver-kahn-0185ab140/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJoBEAE",
+      "displayed_link": "138.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48101bb4ec6bc5dfd6213266d13426268591.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... FOOTBALLER OF THE YEAR GERMANY 2000, 2001. GOALKEEPER OF THE YEAR GERMANY",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "GERMANY",
+        "GERMANY"
+      ],
+      "source": "LinkedIn · Oliver Kahn"
+    },
+    {
+      "position": 48,
+      "title": "Gerrit Kazmaier - Workday",
+      "link": "https://www.linkedin.com/in/gerrit-kazmaier",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gerrit-kazmaier&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCK4BEAE",
+      "displayed_link": "15.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48108c00c438e68776c12b6e06da180ba893.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Germany. -. Germany. -. Vancouver, British Columbia, Canada. -. Vancouver ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Workday"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gerrit Kazmaier"
+    },
+    {
+      "position": 49,
+      "title": "Cristina Méndez - Executive Vice President & Chief ...",
+      "link": "https://www.linkedin.com/in/cristina-m%C3%A9ndez-2581096",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cristina-m%25C3%25A9ndez-2581096&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCK8BEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810a2c54acfbc03af620ea96969400aa78c.png",
+      "snippet": "Executive Vice President & Chief Financial Officer · SVP Finance & CFO EMEA · Director Controlling · Head of T. Group Strategic Planning, Project Approval and ...",
+      "snippet_highlighted_words": [
+        "Chief Financial Officer",
+        "CFO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Farmington, Connecticut, United States",
+            "Executive Vice President & Chief Financial Officer",
+            "Otis Elevator Co."
+          ]
+        }
+      },
+      "source": "LinkedIn · Cristina Méndez"
+    },
+    {
+      "position": 50,
+      "title": "Devesh Raj - Sky",
+      "link": "https://uk.linkedin.com/in/devesh-raj-aa8365",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/devesh-raj-aa8365&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCMsBEAE",
+      "displayed_link": "8.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810c2a2a1bc4c633da8d7591d6ebb08a556.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... BCG research highlights the complexities of the current imbalances and their ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "current"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Sky"
+          ]
+        }
+      },
+      "source": "LinkedIn · Devesh Raj"
+    },
+    {
+      "position": 51,
+      "title": "Josh Charlesworth - Krispy Kreme",
+      "link": "https://www.linkedin.com/in/josh-charlesworth-6151645",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/josh-charlesworth-6151645&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCMoBEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810ad25bcdd03b43f6c9bdecb5faeb5672b.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Munich Area, Germany. -. Munich Area, Germany. -. Chicago, Illinois ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Charlotte, North Carolina, United States",
+            "Krispy Kreme"
+          ]
+        }
+      },
+      "source": "LinkedIn · Josh Charlesworth"
+    },
+    {
+      "position": 52,
+      "title": "Daniel Roth - Chief Financial Officer and Chief Operating ...",
+      "link": "https://www.linkedin.com/in/daniel-roth2024",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/daniel-roth2024&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCNABEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48105105dcb9d74422a7e1c9d50c8db7a4e6.png",
+      "snippet": "Chief Financial Officer and Chief Operating Officer · Head of Strategy & Transformation and Operations · Integration Leader · Senior Partner and CFO · Executive ...",
+      "snippet_highlighted_words": [
+        "Chief Financial Officer",
+        "Chief Operating Officer",
+        "CFO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas, Texas, United States",
+            "Chief Financial Officer and Chief Operating Officer",
+            "Lincoln Property Company"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Roth"
+    },
+    {
+      "position": 53,
+      "title": "David Pereira - Munich, Bavaria, Germany",
+      "link": "https://de.linkedin.com/in/davidavpereira/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/davidavpereira/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCN8BEAE",
+      "displayed_link": "84.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810e274240305edfa5d6224152865f0ff31.png",
+      "snippet": "David Pereira. Munich, Bavaria, Germany. 84K followers 500+ connections ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · David Pereira"
+    },
+    {
+      "position": 54,
+      "title": "Richard Jager - Chief Executive Officer at Randstad Group ...",
+      "link": "https://www.linkedin.com/in/richard-jager-5888851/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/richard-jager-5888851/&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCOMBEAE",
+      "displayed_link": "8.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810181c45894b457f776bd268930352255b.png",
+      "snippet": "CEO bei Randstad | ⏱ Your dream career with temporary work · Work isn ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Richard Jager"
+    },
+    {
+      "position": 55,
+      "title": "Hartmut Thomsen - Chief Executive Officer - Aareon Group",
+      "link": "https://de.linkedin.com/in/hartmut-thomsen-4040255a/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/hartmut-thomsen-4040255a/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCO8BEAE",
+      "displayed_link": "10.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481068f2ee7f558e7c9c729c185eb7cff688.png",
+      "snippet": "Chief Executive Officer · President Middle and Eastern Europe · COO Middle & Eastern Europe · Managing Director · Sales Manager Financial & Public Services I Member ...",
+      "snippet_highlighted_words": [
+        "Chief Executive Officer",
+        "COO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mainz, Rhineland-Palatinate, Germany",
+            "Chief Executive Officer",
+            "Aareon Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hartmut Thomsen"
+    },
+    {
+      "position": 56,
+      "title": "Steven E Sokol - President - American Council on Germany",
+      "link": "https://www.linkedin.com/in/steven-e-sokol-bb801529",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/steven-e-sokol-bb801529&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCPMBEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48109bda925883b7b384451fbe752a60bb90.png",
+      "snippet": "Experience ; President. American Council on Germany. May 2015 ; President and CEO. World Affairs Council of Pittsburgh. Jul 2010 ; Vice President and Director of ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "CEO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "President",
+            "American Council on Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steven E Sokol"
+    },
+    {
+      "position": 57,
+      "title": "Martin Hecker - CEO & Founder - AmaliTech gGmbH",
+      "link": "https://de.linkedin.com/in/martin-hecker-57a80617/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/martin-hecker-57a80617/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCPgBEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48109c4fba159f023a3efc9d68baf9675b80.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Chief Executive Officer. NEORIS. Apr 2000 - Aug 2004 4 years 5 months. US ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Executive Officer"
+      ],
+      "source": "LinkedIn · Martin Hecker"
+    },
+    {
+      "position": 58,
+      "title": "Kambis Mashayekhi – Head of Department for Internal ...",
+      "link": "https://de.linkedin.com/in/kambis-mashayekhi-3b575083",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/kambis-mashayekhi-3b575083&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCP4BEAE",
+      "displayed_link": "4.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810ef529e8a8b9a2f04389e43ab5c7b8427.png",
+      "snippet": "Heartcenter Lahr, Head of Department for Internal Medicine and Cardiology, Germany President of Euro CTO Club Professor of Medicine · Prof.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "CTO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Lahr/Schwarzwald, Baden-Württemberg, Deutschland",
+            "Head of Department for Internal Medicine and Cardiology",
+            "MediClin Heartcenter Lahr"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kambis Mashayekhi"
+    },
+    {
+      "position": 59,
+      "title": "Werner Baumann - RWTH Aachen University",
+      "link": "https://de.linkedin.com/in/werner-baumann/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/werner-baumann/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCP8BEAE",
+      "displayed_link": "68.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810921875ea00b3c2ef6c4171e913bd6087.png",
+      "snippet": "Chief Sustainability Officer at Bayer · CEO at Bayer AG · Director of Labour Affairs at Bayer AG · Chief Strategy Officer at Bayer AG · Chief Executive Officer at ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Chief Executive Officer"
+      ],
+      "source": "LinkedIn · Werner Baumann"
+    },
+    {
+      "position": 60,
+      "title": "Winter Casey - Senior Director - SAP",
+      "link": "https://www.linkedin.com/in/winter-casey-42bb50",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/winter-casey-42bb50&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCIICEAE",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48103cbcad4a631aa1025bb778691334a095.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Deputy Chief Technology Officer of the United States. The White House.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Technology Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Senior Director",
+            "SAP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Winter Casey"
+    },
+    {
+      "position": 61,
+      "title": "Michael Fübi - CEO - TÜV Rheinland AG",
+      "link": "https://www.linkedin.com/in/dr-michael-fuebi-ceo-tuev-rheinland/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dr-michael-fuebi-ceo-tuev-rheinland/&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCIACEAE",
+      "displayed_link": "6.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810f94c0e24c79c4495366d2ab49778cbbe.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... CEO and CFO. RWE Fuel Cells GmbH. Apr 2002 - Oct 2005 3 years 7 months. Essen.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CEO",
+        "CFO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cologne, North Rhine-Westphalia, Germany",
+            "CEO",
+            "TÜV Rheinland AG"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Fübi"
+    },
+    {
+      "position": 62,
+      "title": "Birgit Girshick - EVP, Chief Operating Officer",
+      "link": "https://www.linkedin.com/in/birgit-girshick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/birgit-girshick&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJgCEAE",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48104a6d2594d7d41e223595c3fb8e305a28.png",
+      "snippet": "COO of Charles River Laboratories | Global Leadership Across CROs ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "COO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Wilmington, Massachusetts, United States",
+            "EVP, Chief Operating Officer",
+            "Charles River Laboratories"
+          ]
+        }
+      },
+      "source": "LinkedIn · Birgit Girshick"
+    },
+    {
+      "position": 63,
+      "title": "Stefan Schmidt - Arsipa",
+      "link": "https://de.linkedin.com/in/stefanschmidt-linkedin/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/stefanschmidt-linkedin/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJoCEAE",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481057176214a9678e4a540f0f527e0d7a84.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Berlin, Germany. -. London, UK. -. Munich Area, Germany. -. London, United ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Arsipa"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stefan Schmidt"
+    },
+    {
+      "position": 64,
+      "title": "Dr. Ramin Gamerschlag - CFO - CARIAD, Inc.",
+      "link": "https://www.linkedin.com/in/dr-ramin-gamerschlag-76b0a3136",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dr-ramin-gamerschlag-76b0a3136&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJwCEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481079707c07308b167bcd15944890a91de9.png",
+      "snippet": "Chief Financial Officer (CFO) · Manager at the link between finance and ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Chief Financial Officer",
+        "CFO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "CFO",
+            "CARIAD, Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Ramin Gamerschlag"
+    },
+    {
+      "position": 65,
+      "title": "Milstein Alexander - Managing Director TBWA WorldWide",
+      "link": "https://de.linkedin.com/in/alexander-milstein-8105193a/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/alexander-milstein-8105193a/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJ0CEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810e1c5e2306b51ba0897977f92b71cd883.png",
+      "snippet": "COO TBWA Germany/Managing Director TBWA WorldWide · HeimatTBWA\\ · Georgetown ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or.",
+      "snippet_highlighted_words": [
+        "COO",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Alexander Milstein"
+    },
+    {
+      "position": 66,
+      "title": "Marco Richter - CEO Trench Germany GmbH",
+      "link": "https://ca.linkedin.com/in/marco-richter-bb8671245",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ca.linkedin.com/in/marco-richter-bb8671245&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCKwCEAE",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48107792395e6fc6c755ceae2dd1861d38d9.png",
+      "snippet": "CEO Trench Germany GmbH · Experience: Trench Group · Location: Greater ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Nuremberg Metropolitan Area",
+            "CEO Trench Germany GmbH",
+            "Trench Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marco Richter"
+    },
+    {
+      "position": 67,
+      "title": "Jan de Leon - CEO & President at TÜV SÜD America",
+      "link": "https://www.linkedin.com/in/jan-de-leon-45422781",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jan-de-leon-45422781&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCLUCEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48101bb41fb2b41ab9ef1d8371048f95d46d.png",
+      "snippet": "CEO & President at TÜV SÜD America · CFO TÜV SÜD America · CFO Division Real Estate & Infrastructure TÜV SÜD · Geschäftsführer · Head of Corporate Financial ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "CFO",
+        "CFO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Wakefield, Massachusetts, United States",
+            "CEO & President at TÜV SÜD America",
+            "TÜV SÜD"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jan de Leon"
+    },
+    {
+      "position": 68,
+      "title": "Grant Thornton Germany - Prof. Dr. Heike Wieland-Blöse",
+      "link": "https://de.linkedin.com/in/prof-dr-heike-wieland-bl%C3%B6se/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/prof-dr-heike-wieland-bl%25C3%25B6se/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCLcCEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810717409b9161ae0736bad2b2ebfbe38f5.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to follow · Report this profile; Close menu. About. Als CEO von Grant Thornton ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CEO"
+      ],
+      "source": "LinkedIn · Prof. Dr. Heike Wieland-Blöse"
+    },
+    {
+      "position": 69,
+      "title": "Marco Cardinale – Chief Technology Officer Member of ...",
+      "link": "https://de.linkedin.com/in/marco-cardinale-0a6792139",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/marco-cardinale-0a6792139&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCL4CEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810b027563ec027b4c3bcc9a5e5b4a0fc59.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied ... Marco Cardinale is Chief Technology Officer (CTO) of the Alfred Kärcher SE & Co.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Technology Officer",
+        "CTO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Winnenden, Baden-Württemberg, Deutschland",
+            "Chief Technology Officer Member of the Board of Management",
+            "Kärcher"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marco Cardinale"
+    },
+    {
+      "position": 70,
+      "title": "Cedric Wilmotte - Investor - vveave",
+      "link": "https://www.linkedin.com/in/cedric-wilmotte-a00847204",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cedric-wilmotte-a00847204&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECEEQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481089496bc603615d0c1f09e1817f159535.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Chief Executive Officer. Michael Kors. Apr 2023 - Nov 2024 1 year 8 months.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Executive Officer"
+      ],
+      "source": "LinkedIn · Cedric Wilmotte"
+    },
+    {
+      "position": 71,
+      "title": "Andrew Lucas - CFO Alliance",
+      "link": "https://www.linkedin.com/in/andrewlucasmba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrewlucasmba&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECEAQAQ",
+      "displayed_link": "4.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481052f68c076d0458b831b8130c830860c1.png",
+      "snippet": "CFO Alliance Graphic · CFO Alliance · - · -. Greater Philadelphia · -. Frankfurt, Germany · -. Frankfurt, Germany · -. Frankfurt Am Main Area, Germany · -. Frankfurt ...",
+      "snippet_highlighted_words": [
+        "CFO",
+        "CFO",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Philadelphia",
+            "CFO Alliance"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Lucas"
+    },
+    {
+      "position": 72,
+      "title": "Andreas Briese – Country Director YouTube Germany ...",
+      "link": "https://de.linkedin.com/in/andreas-briese",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/andreas-briese&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECEQQAQ",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810c39e93ffe16b9695ea533c931fdee986.png",
+      "snippet": "I joined Google in 2008 as YouTube Germany employee #1. I had the incredible fortune to contribute to YouTube's amazing journey to 50M+ users in Germany and a ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "source": "LinkedIn · Andreas Briese"
+    },
+    {
+      "position": 73,
+      "title": "Tobi Knaup - Nutanix",
+      "link": "https://www.linkedin.com/in/tobiasknaup",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tobiasknaup&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECEUQAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810cf8240af436c0a6eec7406a0e5d61551.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to view profile · Report this profile; Close menu. About. CEO & Co-Founder at D2iQ - ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CEO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Nutanix"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tobi Knaup"
+    },
+    {
+      "position": 74,
+      "title": "Dirk Hahn - Chief Executive Officer Hays plc",
+      "link": "https://uk.linkedin.com/in/dirkhahnhays",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/dirkhahnhays&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECE8QAQ",
+      "displayed_link": "20K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810706a0fbc5b1e5731b98e13a63a19219e.png",
+      "snippet": "... Germany, continuing as Director of Sales, later Chief Operating Officer, Chief Executive Officer for Germany and CEMEA, and now CEO of Hays plc ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Chief Operating Officer",
+        "Chief Executive Officer",
+        "Germany",
+        "CEO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Chief Executive Officer Hays plc",
+            "Hays"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dirk Hahn"
+    },
+    {
+      "position": 75,
+      "title": "Dirk Hoerig - commercetools",
+      "link": "https://www.linkedin.com/in/dirkhoerig",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dirkhoerig&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECE4QAQ",
+      "displayed_link": "10.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810889117e8f0261b3dae2d30473ddc9b32.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to follow · Report this profile; Close menu. About. Founder and CEO of commercetools.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CEO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "commercetools"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dirk Hoerig"
+    },
+    {
+      "position": 76,
+      "title": "Giuseppe Marsocci - Giorgio Armani Corporation",
+      "link": "https://www.linkedin.com/in/giuseppe-marsocci-90435817",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/giuseppe-marsocci-90435817&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECFsQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48108103a0567d6facbc125776e54210371a.png",
+      "snippet": "Experience · Chief Executive Officer · Direttore Commerciale Wholesale di Gruppo - CEO Swiss Branch · President&CEO Trimil Corp.- EVP Wholesale · Direttore ...",
+      "snippet_highlighted_words": [
+        "Chief Executive Officer",
+        "CEO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chief Executive Officer",
+            "Giorgio Armani Corporation"
+          ]
+        }
+      },
+      "source": "LinkedIn · Giuseppe Marsocci"
+    },
+    {
+      "position": 77,
+      "title": "Peter Mümmler - Manging Director / CFO - KIEPE",
+      "link": "https://de.linkedin.com/in/peter-m%C3%BCmmler-52379634/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/peter-m%25C3%25BCmmler-52379634/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECF0QAQ",
+      "displayed_link": "890+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810c530ef8045b1ff8c7b6624cd93c3a7d2.png",
+      "snippet": "With more than 15 years of experience as CFO/COO/Managing Director in Germany ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "CFO",
+        "COO",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Peter Mümmler"
+    },
+    {
+      "position": 78,
+      "title": "Lutz Diederichs - CEO Germany - BNP Paribas",
+      "link": "https://de.linkedin.com/in/lutz-diederichs/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/lutz-diederichs/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECGEQAQ",
+      "displayed_link": "5.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810283d5f671b12bf9029d7a1e5fc84dcb1.png",
+      "snippet": "CEO BNP Paribas Germany · In a world undergoing profound change, I am ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hesse, Germany",
+            "CEO Germany",
+            "BNP Paribas"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lutz Diederichs"
+    },
+    {
+      "position": 79,
+      "title": "Elliot Germany - Panel Specialists, Inc.",
+      "link": "https://www.linkedin.com/in/egermany",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/egermany&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECGAQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48106c25a97c94205a842c4ef655cb8d4620.png",
+      "snippet": "Elliot Germany - Panel Specialists, Inc. - Texas A&M Central Texas - About - President, CEO and Chief Steward for an amazing company full of great people.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "CEO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Temple, Texas, United States",
+            "Panel Specialists, Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Elliot Germany"
+    },
+    {
+      "position": 80,
+      "title": "Peter H. - Wesseling, North Rhine-Westphalia, Germany",
+      "link": "https://www.linkedin.com/in/peterh-deepl/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/peterh-deepl/&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECHYQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48101af850d174f6496a751483ea26e7ce23.png",
+      "snippet": "Wesseling, North Rhine-Westphalia, Germany. 1K followers 500+ connections ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Peter H."
+    },
+    {
+      "position": 81,
+      "title": "Mark Schneider – Harvard Business School",
+      "link": "https://ch.linkedin.com/in/markschneidernestle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ch.linkedin.com/in/markschneidernestle&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECHgQAQ",
+      "displayed_link": "126.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810a4e73b2337aee6942ceadbea5bc9e63a.png",
+      "snippet": "Chief Executive Officer · Chief Executive Officer (CEO) · Chief Financial Officer (CFO), Fresenius Medical Care · Chief Financial Officer, Gehe UK plc · Vice ...",
+      "snippet_highlighted_words": [
+        "Chief Executive Officer",
+        "Chief Executive Officer",
+        "CEO",
+        "Chief Financial Officer",
+        "CFO",
+        "Chief Financial Officer"
+      ],
+      "source": "LinkedIn · Mark Schneider"
+    },
+    {
+      "position": 82,
+      "title": "Michael Jurchen – CEO",
+      "link": "https://de.linkedin.com/in/michael-jurchen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/michael-jurchen&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECHwQAQ",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481080f1c97eb96d3ba9f59e1fdc89f30a9b.png",
+      "snippet": "CEO bei Jurchen Technology GmbH · Jurchen Technology GmbH · Helmstadt ... Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden.",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Helmstadt, Bayern, Deutschland",
+            "CEO",
+            "Jurchen Technology GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Jurchen"
+    },
+    {
+      "position": 83,
+      "title": "Ignacio Bachiller Ströhlein - CEO - Fever Labs Inc.",
+      "link": "https://uk.linkedin.com/in/ignacio-bachiller-str%C3%B6hlein-b1024148",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ignacio-bachiller-str%25C3%25B6hlein-b1024148&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECH0QAQ",
+      "displayed_link": "8.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810321b3c9f45542bd970e44b11b31f219f.png",
+      "snippet": "Co-Founder & CEO at Fever Labs Inc. · Fever Labs Inc. · Massachusetts Institute of ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "CEO",
+            "Fever Labs Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Ignacio Bachiller Ströhlein"
+    },
+    {
+      "position": 84,
+      "title": "Alex Eser - Author - Monetary Anarchy",
+      "link": "https://de.linkedin.com/in/aje/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/aje/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCIQBEAE",
+      "displayed_link": "15.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48108dfedaca21b49bad68f45d087a6005d8.png",
+      "snippet": "Co-Founder & CEO @ZipDo · Monetary Anarchy · Freie Universität Berlin · Germany ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Alex Eser"
+    },
+    {
+      "position": 85,
+      "title": "Chairuni Aulia Nusapati - Google",
+      "link": "https://www.linkedin.com/in/chairuni",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chairuni&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCIABEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810070088b9c27cb097842a31808d33a6df.png",
+      "snippet": "Experience · Google Graphic. Google. London, England, United Kingdom · -. Munich, Bavaria, Germany · -. Greater Jakarta Area, Indonesia · -. Bandung Area, West Java ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chairuni Aulia Nusapati"
+    },
+    {
+      "position": 86,
+      "title": "Ulf M. Kranz - Managing Director / President and Chief ...",
+      "link": "https://www.linkedin.com/in/ulf-m-kranz-90b60752",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ulf-m-kranz-90b60752&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJMBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481080546390b55f2fcc9b85f8fa6b6f3952.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... President, CEO and CFO. Borbet USA. Sep 2012 - Jan 2016 3 years 5 months.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CEO",
+        "CFO"
+      ],
+      "source": "LinkedIn · Ulf M. Kranz"
+    },
+    {
+      "position": 87,
+      "title": "Antonio Arrigoni - CFO - Salomon",
+      "link": "https://de.linkedin.com/in/antonio-arrigoni-1964b6b9/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/antonio-arrigoni-1964b6b9/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJwBEAE",
+      "displayed_link": "630+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48101b4b94f57dbed1c80889d56868e9e139.png",
+      "snippet": "Experience · CFO · CFO · CFO Group · Executive Consultant · Executive Consultant · Chief Financial Officer · Chief Executive Officer, ad interim · Chief Financial ...",
+      "snippet_highlighted_words": [
+        "CFO",
+        "CFO",
+        "CFO",
+        "Chief Financial Officer",
+        "Chief Executive Officer",
+        "Chief Financial"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "CFO",
+            "Salomon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Antonio Arrigoni"
+    },
+    {
+      "position": 88,
+      "title": "Mike Gitlin - President & CEO - Capital Group",
+      "link": "https://www.linkedin.com/in/mikegitlin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mikegitlin&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCJsBEAE",
+      "displayed_link": "15.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810c1516c2eff86f4657f69ea8410fb7d36.png",
+      "snippet": "... CEO, working with our other leaders, we will help write the next chapter ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "President & CEO",
+            "Capital Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Gitlin"
+    },
+    {
+      "position": 89,
+      "title": "Tim Ringel - Global CEO - Meet The People",
+      "link": "https://www.linkedin.com/in/tim-ringel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tim-ringel&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCKkBEAE",
+      "displayed_link": "13.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf48108a2639df5f5359aad96eaa92199a5e43.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to follow · Report this profile; Close menu. About. As the Global CEO and Founder of ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CEO"
+      ],
+      "source": "LinkedIn · Tim Ringel"
+    },
+    {
+      "position": 90,
+      "title": "Benjamin Lyon - Chief Technology Officer - Aptiv",
+      "link": "https://www.linkedin.com/in/benjamin-lyon-aptiv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/benjamin-lyon-aptiv&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCK0BEAE",
+      "displayed_link": "5.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810ca04104e89222d59822da809550389ed.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... As CTO at Aptiv, I oversee the technology leadership of our global engineering ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CTO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Jose, California, United States",
+            "Chief Technology Officer",
+            "Aptiv"
+          ]
+        }
+      },
+      "source": "LinkedIn · Benjamin Lyon"
+    },
+    {
+      "position": 91,
+      "title": "Milind Nagnur - Optum",
+      "link": "https://www.linkedin.com/in/nagnur",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nagnur&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCLABEAE",
+      "displayed_link": "13.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481027abf7f78d4967a0cb14676c2d4e0cfa.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Chief Technology Officer at Early Warning. The Awards are presented by ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Technology Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Optum"
+          ]
+        }
+      },
+      "source": "LinkedIn · Milind Nagnur"
+    },
+    {
+      "position": 92,
+      "title": "Markus Schäfer - Mitglied des Vorstands der Mercedes- ...",
+      "link": "https://www.linkedin.com/in/markus-sch%C3%A4fer/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/markus-sch%25C3%25A4fer/&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCLIBEAE",
+      "displayed_link": "98.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810b6ad7a246dc77331e2112d61636621a7.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or ... Chief Technology Officer (CTO), Development & Procurement. Daimler ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Technology Officer",
+        "CTO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Stuttgart Region",
+            "Mitglied des Vorstands der Mercedes-Benz Group AG, Chief Technology Officer, Entwicklung & Einkauf",
+            "Mercedes-Benz Group AG"
+          ]
+        }
+      },
+      "source": "LinkedIn · Markus Schäfer"
+    },
+    {
+      "position": 93,
+      "title": "TS Anil - Monzo Bank",
+      "link": "https://uk.linkedin.com/in/tsanil",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tsanil&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCLMBEAE",
+      "displayed_link": "10.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810355f857d78e91282be413ad025f9a5c7.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... CEO roles on the planet, with a superb track record of deep mastery and ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CEO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Monzo Bank"
+          ]
+        }
+      },
+      "source": "LinkedIn · TS Anil"
+    },
+    {
+      "position": 94,
+      "title": "Jeffery Barrie - OIA GLOBAL",
+      "link": "https://www.linkedin.com/in/jeffery-barrie",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeffery-barrie&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCMgBEAE",
+      "displayed_link": "4.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810b8daf67db8a15af89edacfa8543fdb8f.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Essen Area, Germany. -. -. -. Irvine, CA. -. -. -. Darien, CT. Education.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Portland, Oregon, United States",
+            "OIA GLOBAL"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeffery Barrie"
+    },
+    {
+      "position": 95,
+      "title": "Katharina David - K2 Systems GmbH",
+      "link": "https://de.linkedin.com/in/katharina-david-1707a351/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/katharina-david-1707a351/en&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCMcBEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810ef3571c01f250d9b878c6fe34cc124b0.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By clicking Continue to join or sign in, you agree to LinkedIn's User Agreement ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "k_systems_gmb_h": 2
+          },
+          "extensions": [
+            "Stuttgart Region",
+            "K2 Systems GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katharina David"
+    },
+    {
+      "position": 96,
+      "title": "Ginni Rometty - Co-Chairman - OneTen",
+      "link": "https://www.linkedin.com/in/ginnirometty",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ginnirometty&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCMkBEAE",
+      "displayed_link": "86.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810715e92f27a7de7f661052dc423bf03fd.png",
+      "snippet": "CEO of IBM, Ginni transformed the 100-year-old company, reinventing 50 ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Ginni Rometty"
+    },
+    {
+      "position": 97,
+      "title": "Irina Buchmann – Chief Financial Officer – AXA Germany",
+      "link": "https://de.linkedin.com/in/irina-buchmann-7b857023",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/irina-buchmann-7b857023&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoFCMwBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810a29be74bfd838ca38754202eed4362bd.png",
+      "snippet": "Chief Financial Officer AXA Germany · CFO/ CEO with demonstrated history ... Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden.",
+      "snippet_highlighted_words": [
+        "Chief Financial Officer",
+        "Germany",
+        "CFO",
+        "CEO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "Chief Financial Officer",
+            "AXA Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Irina Buchmann"
+    },
+    {
+      "position": 98,
+      "title": "Dr. Kim Germany - CEO and Founder - AchieveNow ...",
+      "link": "https://www.linkedin.com/in/dr-kim-germany-b0b31119a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dr-kim-germany-b0b31119a&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECCcQAQ",
+      "displayed_link": "940+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481014ac18597a4e3ab51a534354d09b76d6.png",
+      "snippet": "Dr. Kim Germany · CEO & Founder | AchieveNow Network, LLC | Author of AchieveNow: Four Strategies To Grow Your Instructional Leadership Skills and Impact Student ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "CEO"
+      ],
+      "source": "LinkedIn · Dr. Kim Germany"
+    },
+    {
+      "position": 99,
+      "title": "René Aldach - Heidelberg Materials",
+      "link": "https://de.linkedin.com/in/ren%C3%A9-aldach/de",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ren%25C3%25A9-aldach/de&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECCoQAQ",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf4810537cf0e22c89c3ccef214a2e8920a039.png",
+      "snippet": "Group CFO | Finanzvorstand bei Heidelberg Materials · Berufserfahrung ... Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden.",
+      "snippet_highlighted_words": [
+        "CFO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Heidelberg, Baden-Württemberg, Deutschland",
+            "Group Chief Financial Officer and Responsible Member of the Managing Board for Australia",
+            "Heidelberg Materials"
+          ]
+        }
+      },
+      "source": "LinkedIn · René Aldach"
+    },
+    {
+      "position": 100,
+      "title": "Michael Dawid - Criticore",
+      "link": "https://www.linkedin.com/in/michael-dawid-7200151",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-dawid-7200151&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQFnoECCkQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa146914f41af2a7f371/images/e30c9f605a27ba579d19c8cf2baf481088ad5dc1c1ad5744dfdb797e2b13b442.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Munich, Germany. -. Munich, Germany. -. Atlanta, GA. -. Munich, Germany ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Criticore"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Dawid"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=FfrdZ--uAY6t5NoP37DhoQ4&start=100&sa=N&sstk=Af40H4UUICS73w2Ef7myRH22PKNeX1YGAaQpPVpE4KpNDqZagzivM9i6BEMGvjj7x0k4Qi75BaojR9EsjqZx7pFbDeNwgQ-HCQ2Zfw&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQ8NMDegUIrwIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=FfrdZ--uAY6t5NoP37DhoQ4&start=100&sa=N&sstk=Af40H4UUICS73w2Ef7myRH22PKNeX1YGAaQpPVpE4KpNDqZagzivM9i6BEMGvjj7x0k4Qi75BaojR9EsjqZx7pFbDeNwgQ-HCQ2Zfw&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQ8tMDegUIrwIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=FfrdZ--uAY6t5NoP37DhoQ4&start=200&sa=N&sstk=Af40H4UUICS73w2Ef7myRH22PKNeX1YGAaQpPVpE4KpNDqZagzivM9i6BEMGvjj7x0k4Qi75BaojR9EsjqZx7pFbDeNwgQ-HCQ2Zfw&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQ8tMDegUIrwIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=FfrdZ--uAY6t5NoP37DhoQ4&start=300&sa=N&sstk=Af40H4UUICS73w2Ef7myRH22PKNeX1YGAaQpPVpE4KpNDqZagzivM9i6BEMGvjj7x0k4Qi75BaojR9EsjqZx7pFbDeNwgQ-HCQ2Zfw&ved=2ahUKEwivjc3JrZyMAxWOFlkFHV9YOOQQ8tMDegUIrwIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=300"
+    }
+  }
+}

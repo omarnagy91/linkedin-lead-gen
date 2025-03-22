@@ -1,0 +1,2276 @@
+{
+  "search_metadata": {
+    "id": "67ddfa954940109d9b560164",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/34b940380076903d/67ddfa954940109d9b560164.json",
+    "created_at": "2025-03-21 23:47:33 UTC",
+    "processed_at": "2025-03-21 23:47:33 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/34b940380076903d/67ddfa954940109d9b560164.html",
+    "total_time_taken": 1.37
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Amazon\" AND \"United Kingdom\" AND (current OR present) AND (\"Chief\" OR \"CXO\" OR \"Director\" OR \"Senior Director\" OR \"Executive Director\" OR \"Managing Director\" OR \"Board Director\" OR \"Regional Director\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Amazon\" AND \"United Kingdom\" AND (current OR present) AND (\"Chief\" OR \"CXO\" OR \"Director\" OR \"Senior Director\" OR \"Executive Director\" OR \"Managing Director\" OR \"Board Director\" OR \"Regional Director\")",
+    "total_results": 4760000,
+    "time_taken_displayed": 1.19,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "John Boumphrey - VP Country Manager UK & Ireland",
+      "link": "https://uk.linkedin.com/in/johnboumphrey",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/johnboumphrey&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECAkQAQ",
+      "displayed_link": "36.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab0dafb39777553eb780f4c123f870e663.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn ... I joined Amazon in 2011 and spent four years as Director of Amazon's Media, Home and Leisure businesses.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon",
+        "Director",
+        "Amazon's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "VP Country Manager UK & Ireland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Boumphrey"
+    },
+    {
+      "position": 2,
+      "title": "Richard Thompson - Regional Director - Amazon",
+      "link": "https://uk.linkedin.com/in/richard-thompson-43b03732",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richard-thompson-43b03732&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECB4QAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab6e88bf944516715f0081f19a1d308173.png",
+      "snippet": "Richard Thompson. Regional Director at Amazon. Amazon Royal Military Academy Sandhurst. England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Regional Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "England, United Kingdom",
+            "Regional Director",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Thompson"
+    },
+    {
+      "position": 3,
+      "title": "Stuart Morgan - Amazon",
+      "link": "https://uk.linkedin.com/in/stuart-morgan-62684951",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stuart-morgan-62684951&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECBkQAQ",
+      "displayed_link": "710+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab5cea83f79e88448c4f3f91365f962dcc.png",
+      "snippet": "An… · Experience: Amazon · Education: The Open University · Location: London Area, United Kingdom · 500+ connections on LinkedIn. View Stuart Morgan's ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stuart Morgan"
+    },
+    {
+      "position": 4,
+      "title": "Alison Kay - VP / Managing Director AWS UKI",
+      "link": "https://uk.linkedin.com/in/alison-kay",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alison-kay&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECBgQAQ",
+      "displayed_link": "317.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab5b5a65684494ee19c6e6d7dfe0cbb338.png",
+      "snippet": "Experience. Amazon Web Services (AWS) Graphic. VP / Managing Director AWS UKI. Amazon Web Services (AWS). Nov 2024 - Present 5 months. London, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Managing Director",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Alison Kay"
+    },
+    {
+      "position": 5,
+      "title": "John McEwen - General Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/john-mcewen-80b35132",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/john-mcewen-80b35132&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECCAQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab226fe4501c7761b0be20e6f2445b2869.png",
+      "snippet": "Currently I am a General Manager (Director level) in the London area for ... Amazon. Mar 2024 - Present 1 year 1 month. Greater London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "General Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John McEwen"
+    },
+    {
+      "position": 6,
+      "title": "Stephen Lumsden - Director - Amazon",
+      "link": "https://uk.linkedin.com/in/stephen-lumsden-03033260",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stephen-lumsden-03033260&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECCEQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab0f75025c850034d2868736c950bd7dc7.png",
+      "snippet": "Director at Amazon, UK & EU Emerging Stores CS. Amazon Jewel and Esk Valley College. Edinburgh, Scotland, United Kingdom ... Sep 2022 - Present 2 years 7 months.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Edinburgh, Scotland, United Kingdom",
+            "Director",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Lumsden"
+    },
+    {
+      "position": 7,
+      "title": "Ruzanna Sargsyan - Regional Director - Amazon",
+      "link": "https://uk.linkedin.com/in/ruzannasargsyan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ruzannasargsyan&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECCoQAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abb71b340fa40592ca7bd9e0cb9af5409a.png",
+      "snippet": "Ruzanna Sargsyan. Regional Director at Amazon. Amazon University of Cambridge. St Albans, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Regional Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "St Albans, England, United Kingdom",
+            "Regional Director",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ruzanna Sargsyan"
+    },
+    {
+      "position": 8,
+      "title": "Tanuja Randery - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/tanuja-randery",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tanuja-randery&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECCwQAQ",
+      "displayed_link": "26.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abfd879f645f606d411554eae608738fb8.png",
+      "snippet": "Tanuja Randery. Amazon Web Services (AWS) Boston University. London, England, United Kingdom. 27K ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tanuja Randery"
+    },
+    {
+      "position": 9,
+      "title": "Alex Green - Amazon",
+      "link": "https://uk.linkedin.com/in/alexgreen3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alexgreen3&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCOYBEAE",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab6e39b4d9bcdbc2d97eeec439d14509d8.png",
+      "snippet": "Alex Green. Amazon INSEAD. London, England, United Kingdom. 4K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alex Green"
+    },
+    {
+      "position": 10,
+      "title": "Lisa M - Director - Amazon",
+      "link": "https://uk.linkedin.com/in/lisa-m-b13562195?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lisa-m-b13562195%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECCkQAQ",
+      "displayed_link": "https://uk.linkedin.com › lisa-m-b13562195",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab00d7de1f51e7d8d24dc650aa54e5fe9f.png",
+      "snippet": "Lisa M. Director at Amazon. Amazon. Greater London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Director",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn"
+    },
+    {
+      "position": 11,
+      "title": "Phil Christer - Managing Director, Amazon Advertising UK",
+      "link": "https://uk.linkedin.com/in/phil-christer-5249126",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/phil-christer-5249126&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCJQBEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abb8f0c0fba0a26447987cef13e86ab6b5.png",
+      "snippet": "Phil Christer. Managing Director, Amazon Ads UK. Amazon. Greater London, England, United Kingdom. 2K ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Managing Director, Amazon Advertising UK",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Phil Christer"
+    },
+    {
+      "position": 12,
+      "title": "Graham Allison - EU Director - Staffing - Amazon",
+      "link": "https://uk.linkedin.com/in/gallison",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gallison&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCOUBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab5f5631ffd0bb43dba2118241e9cb0940.png",
+      "snippet": "United Kingdom. Leading the team hiring all production staff for Amazon across EU. Amazon Graphic. Regional Director - UK Operations. Amazon. Aug 2020 - Mar ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon",
+        "Amazon",
+        "Regional Director",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Edinburgh, Scotland, United Kingdom",
+            "EU Director",
+            "Staffing",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Graham Allison"
+    },
+    {
+      "position": 13,
+      "title": "Chris Turton - Managing Director - Ecommerce Intelligence",
+      "link": "https://uk.linkedin.com/in/christurton-amazonagency",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/christurton-amazonagency&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCI8CEAE",
+      "displayed_link": "7.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab616f59a90cc485616463e7ad6de16cac.png",
+      "snippet": "Managing Director. Ecommerce Intelligence. Jan 2019 - Present 6 years 3 months. Shrewsbury, United Kingdom. A seasoned Amazon FBA, seller and vendor expert with ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Present",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Chris Turton"
+    },
+    {
+      "position": 14,
+      "title": "Mark Anderson - Project Kuiper, EMEA @ Amazon",
+      "link": "https://uk.linkedin.com/in/mark-anderson-b986086",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mark-anderson-b986086&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECCsQAQ",
+      "displayed_link": "780+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abaf03e58075e7d9595166569753ce1804.png",
+      "snippet": "EMEA Project Kuiper - Amazon · General Manager - Europe, Konnect Broadband · Chief Operating Officer · Senior Vice President and Managing Director, FNG Netherlands.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Chief",
+        "Managing Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "EMEA Project Kuiper",
+            "Amazon",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Anderson"
+    },
+    {
+      "position": 15,
+      "title": "Helen McTaggart - Amazon",
+      "link": "https://uk.linkedin.com/in/helen-mctaggart-b9745120",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/helen-mctaggart-b9745120&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECGIQAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abc7d78148bd721b48d16ded84e9fd7a2b.png",
+      "snippet": "Helen McTaggart. Amazon University of Cambridge. Greater London, England, United Kingdom. 3K followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Helen McTaggart"
+    },
+    {
+      "position": 16,
+      "title": "Assad Ebrahim - Director, EU Procurement & Commercial ...",
+      "link": "https://uk.linkedin.com/in/assadebrahim",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/assadebrahim&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCJMBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abb5a5a0532ec99fb89083f560d48c5efa.png",
+      "snippet": "Director, Amazon Europe | Operations & Supply Chain | Procurement & Commercial Development. Amazon University of Washington. United Kingdom. 1K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Director, EU Procurement & Commercial Development | Global Transportation Services",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Assad Ebrahim"
+    },
+    {
+      "position": 17,
+      "title": "Anna Incollingo - Director Data and Analytics - Amazon",
+      "link": "https://uk.linkedin.com/in/annaincollingo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/annaincollingo&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCM8BEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abc8c0e252413cf98e77fdc50ef7ccf3f7.png",
+      "snippet": "Director, Data and Analytics at Amazon. Amazon Technische Universiteit Eindhoven. London, England, United Kingdom. 3K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director Data and Analytics",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anna Incollingo"
+    },
+    {
+      "position": 18,
+      "title": "Andy Smith - Director - Amazon Payments UK Limited",
+      "link": "https://uk.linkedin.com/in/andrewkasmith",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrewkasmith&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCOIBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abe2fffbf48361ff5c193a49d1231d9467.png",
+      "snippet": "- Present 5 years 4 months. London, England, United Kingdom. Amazon Graphic. Manager - Seller Fulfilled Prime. Amazon. Jun 2017 - Dec 2019 2 years 7 months.",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "Amazon",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Andy Smith"
+    },
+    {
+      "position": 19,
+      "title": "James Paterson - Director, Launch & Expansion - Amazon",
+      "link": "https://uk.linkedin.com/in/james-paterson-31827b71",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/james-paterson-31827b71&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCP4BEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abc64611edbd0141961dde9ebb866a95bc.png",
+      "snippet": "James Paterson. Director, Amazon Logistics. Amazon. United Kingdom. 1K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Director, Launch & Expansion",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Paterson"
+    },
+    {
+      "position": 20,
+      "title": "Iain Wood - Director of Digital Policy, UK - Amazon",
+      "link": "https://uk.linkedin.com/in/iain-wood-1a9591b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/iain-wood-1a9591b&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCJkCEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abb0d68975b1d9a6c6be53b1c716bb698a.png",
+      "snippet": "Director of Digital Policy - UK, at Amazon. Amazon University of Cambridge. London, England, United Kingdom. 3K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director of Digital Policy, UK",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Iain Wood"
+    },
+    {
+      "position": 21,
+      "title": "Neil Travis - Regional Director Of Operations - Amazon",
+      "link": "https://uk.linkedin.com/in/neil-travis-61aaa822a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/neil-travis-61aaa822a&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCKgCEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab921c8d20d1a6d833d3775756845e94d6.png",
+      "snippet": "... current selection. Jobs; People; Learning ... Regional Director Of Operations at Amazon. Amazon MIT Sloan School of Management. Alsager, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "current",
+        "Regional Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Alsager, England, United Kingdom",
+            "Regional Director Of Operations",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Neil Travis"
+    },
+    {
+      "position": 22,
+      "title": "Carlos Guijarro - Director Central Operations, EU Amazon ...",
+      "link": "https://uk.linkedin.com/in/cguijarrob",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/cguijarrob&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECEQQAQ",
+      "displayed_link": "4.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab30f921fddee7a69af53abf0d06515b58.png",
+      "snippet": "London, England, United Kingdom. Amazon Graphic. Director S&OP, EU Amazon Logistics. Amazon. Apr 2022 - Jul 2023 1 year 4 months. London, England, United ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon",
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Woodford Green, England, United Kingdom",
+            "Director Central Operations, EU Amazon Logistics",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carlos Guijarro"
+    },
+    {
+      "position": 23,
+      "title": "Chris Harris - Director, Worldwide Engineering & Automation",
+      "link": "https://uk.linkedin.com/in/chharris",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chharris&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECEkQAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abf1e520acaec0afaa23b7e29bdac21578.png",
+      "snippet": "Chris Harris. Director, Worldwide Engineering & Automation. Amazon The Open University. England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "England, United Kingdom",
+            "Director, Worldwide Engineering & Automation",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Harris"
+    },
+    {
+      "position": 24,
+      "title": "Miguel A. Aller - Director, EU Supply Chain Planning",
+      "link": "https://uk.linkedin.com/in/miguelaller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/miguelaller&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECGEQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab2b5ee12ec5c83adfa659c240663d8d8d.png",
+      "snippet": "Director at Amazon. Amazon University of Warwick - Warwick Business School. London, England, United Kingdom. 2K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director, EU Supply Chain Planning",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Miguel A. Aller"
+    },
+    {
+      "position": 25,
+      "title": "Chris Mellish - Executive Creative Director, EMEA · MENA",
+      "link": "https://uk.linkedin.com/in/cmellish",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/cmellish&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECH4QAQ",
+      "displayed_link": "850+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abb48816bc87855f59d23ddc00ad3dc077.png",
+      "snippet": "Executive Creative Director, EMEA · MENA. Amazon. Sep 2024 - Present 7 months. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Brighton and Hove Area",
+            "Executive Creative Director, EMEA",
+            "MENA",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Mellish"
+    },
+    {
+      "position": 26,
+      "title": "Ian Meyers - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/ianmeyers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ianmeyers&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCJkBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abdf6953f72e9c118e3ba80ddd6983aa18.png",
+      "snippet": "Ian Meyers. Amazon Web Services (AWS). Greater London, England, United Kingdom. 2K followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ian Meyers"
+    },
+    {
+      "position": 27,
+      "title": "Stephen Douglas - Director of Communications",
+      "link": "https://uk.linkedin.com/in/stephen-douglas-99645533",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stephen-douglas-99645533&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCLIBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab566c458650dba42b067e5d805b924956.png",
+      "snippet": "Stephen Douglas. Director of Communications. Competition and Markets Authority City University London. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Director",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director of Communications",
+            "Competition and Markets Authority"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Douglas"
+    },
+    {
+      "position": 28,
+      "title": "David Murphy - Prime Video & Amazon Studios",
+      "link": "https://uk.linkedin.com/in/david-a-murphy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/david-a-murphy&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCM4BEAE",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab910cc498bdb009c727df7e2b1703c609.png",
+      "snippet": "Head of Production. Prime Video & Amazon Studios. Mar 2024 - Present 1 year 1 month. Greater London, England, United Kingdom. Prime Video &amp; Amazon Studios ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "source": "LinkedIn · David Murphy"
+    },
+    {
+      "position": 29,
+      "title": "Matt Lloyd - Head Of Brand Marketing, Prime Video EMEA.",
+      "link": "https://uk.linkedin.com/in/matt-lloyd-6a46838",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matt-lloyd-6a46838&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCMoBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab6af45790b5a42c465c066b87a6f196de.png",
+      "snippet": "Experience · Amazon Graphic. Head Of Brand Marketing, Prime Video EMEA. Amazon. Nov 2023 - Present 1 year 5 months. London, England, United Kingdom · Amazon ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Stansted Mountfitchet, England, United Kingdom",
+            "Head Of Brand Marketing, Prime Video EMEA.",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Lloyd"
+    },
+    {
+      "position": 30,
+      "title": "SERTAC YILMAZ - Director of North America (NA) - Amazon",
+      "link": "https://www.linkedin.com/in/sertac-yilmaz-80195b32",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sertac-yilmaz-80195b32&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCOMBEAE",
+      "displayed_link": "11.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abb4a75c17baa7b3939bf9b25fd6e171f1.png",
+      "snippet": "Amazon: Director of RME NA · Over 18 years of Lean applications, continuous ... Mar 2022 - Mar 2024 2 years 1 month. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Director",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Director of North America (NA)",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · SERTAC YILMAZ"
+    },
+    {
+      "position": 31,
+      "title": "Phil Le-Brun - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/phillebrun",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/phillebrun&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCOgBEAE",
+      "displayed_link": "11.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab9562b4f768df794f1dd446cf6544b881.png",
+      "snippet": "Phil Le-Brun. Amazon Web Services (AWS) The University of Edinburgh. Greater London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Phil Le-Brun"
+    },
+    {
+      "position": 32,
+      "title": "Monica Ariño - Board Trustee - Angel Shed Theatre",
+      "link": "https://uk.linkedin.com/in/monicaarino",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/monicaarino&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCP0BEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab1359876a3b6307aa0a8f55feccaef987.png",
+      "snippet": "Director of Public Policy, UK at Amazon. Angel Shed Theatre London Business School. London, England, United Kingdom ... Jan 2025 - Present 3 months. London Area ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "United Kingdom",
+        "Present"
+      ],
+      "source": "LinkedIn · Monica Ariño"
+    },
+    {
+      "position": 33,
+      "title": "Jonathan Allen - Director, Enterprise Strategy - Amazon ...",
+      "link": "https://uk.linkedin.com/in/jonatallen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jonatallen&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCP8BEAE",
+      "displayed_link": "10.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab41d163f33f5ddb4fd6a048e8c1f4ce5c.png",
+      "snippet": "Director @ Amazon Web Services | CIO MBA, Cloud Strategy. Amazon Web Services (AWS) Boston University. London, England, United Kingdom. 10K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director, Enterprise Strategy",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Allen"
+    },
+    {
+      "position": 34,
+      "title": "James Beaumont - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/jamesmichaelbeaumont",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jamesmichaelbeaumont&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCJsCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab00c8dd662e960df5c1f387eb812b1fed.png",
+      "snippet": "James Beaumont. Director of Enterprise Support EMEA at AWS. Amazon Web Services (AWS). Royal Leamington Spa, England ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Royal Leamington Spa, England, United Kingdom",
+            "Director of Enterprise Support EMEA at AWS",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Beaumont"
+    },
+    {
+      "position": 35,
+      "title": "Richard Caven - Lead EMEA Banking Specialist",
+      "link": "https://uk.linkedin.com/in/richardwcaven",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richardwcaven&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCJcCEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab234bd9cc62cfe033572cd1e2a0c64b0d.png",
+      "snippet": "Managing Director- COO/Chief of Staff, Group Treasury. Barclays. Apr 2015 - Sep 2017 2 years 6 months. London, United Kingdom. Responsible for: - Organisational ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Chief",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Lead EMEA Banking Specialist",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Caven"
+    },
+    {
+      "position": 36,
+      "title": "Julian Monaghan - Director EU Channels, Prime Video",
+      "link": "https://uk.linkedin.com/in/julian-monaghan-6151307",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/julian-monaghan-6151307&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCKwCEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab77502699c97797f5c391418a01522146.png",
+      "snippet": "Director EMEA Channels, Prime Video at Amazon. Amazon University of Chester. London, England, United Kingdom. 1K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director EU Channels, Prime Video",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julian Monaghan"
+    },
+    {
+      "position": 37,
+      "title": "Chris Brown - Head of Reputation Marketing & Insights ...",
+      "link": "https://uk.linkedin.com/in/chris-brown-36622720",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chris-brown-36622720&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCLkCEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abf0dd78da4df8e7e50b7723ff1de3ba24.png",
+      "snippet": "Head of Reputation Marketing & Insights, EMEA. Amazon. Nov 2023 - Present 1 year 5 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Head of Reputation Marketing & Insights, EMEA",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Brown"
+    },
+    {
+      "position": 38,
+      "title": "John Midgley - Director of Public Policy, UK, Middle East ...",
+      "link": "https://uk.linkedin.com/in/john-midgley-a68a39100",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/john-midgley-a68a39100&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECEMQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab4770fee29521a1237d46a390a4522673.png",
+      "snippet": "Director, Public Policy, Amazon Web Services. Amazon Web Services (AWS) University of Nottingham. London, England, United Kingdom ... Apr 2024 - Present 1 year.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director of Public Policy, UK, Middle East and Africa",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Midgley"
+    },
+    {
+      "position": 39,
+      "title": "Rory Behrman - Global Lead - Emerging Channels & ...",
+      "link": "https://uk.linkedin.com/in/rory-behrman-306b3820",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rory-behrman-306b3820&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECEYQAQ",
+      "displayed_link": "830+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab578733cac6b53a79806dd7520085ab41.png",
+      "snippet": "Amazon Graphic. Senior Media Manager (EU) - Amazon. Amazon. Nov 2014 - Oct 2017 3 years. UM London Graphic. Business Director - Microsoft Consumer. UM London.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Global Lead",
+            "Emerging Channels & Programs",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rory Behrman"
+    },
+    {
+      "position": 40,
+      "title": "Richard Howard - Amazon Web Services",
+      "link": "https://uk.linkedin.com/in/richhoward84",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richhoward84&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECFkQAQ",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abbb79d26aa049d9ae08fa59fe79869386.png",
+      "snippet": "Richard Howard. Amazon Web Services The University of Manchester. London, England, United Kingdom. 3K followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon Web Services"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Howard"
+    },
+    {
+      "position": 41,
+      "title": "Richard Bowden - Finance Director - Amazon",
+      "link": "https://uk.linkedin.com/in/richard-bowden-1839b063",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richard-bowden-1839b063&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECF8QAQ",
+      "displayed_link": "880+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abecc5a551da019c9a3d80cdaaec7fcff7.png",
+      "snippet": "Finance Director, UK & Ireland at Amazon Logistics · Amazon · The University of Northampton · Greater Northampton Area, United Kingdom · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Northampton Area, United Kingdom",
+            "Finance Director",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Bowden"
+    },
+    {
+      "position": 42,
+      "title": "Yiannis Poulopoulos - Director, Indirect Tax - Amazon",
+      "link": "https://uk.linkedin.com/in/yiannis-poulopoulos-2a1a458",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/yiannis-poulopoulos-2a1a458&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECGwQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab4daacca104dd49103d8e38fc694ea623.png",
+      "snippet": "Director, Tax · Driven and energetic with nearly 20 years of tax leadership ... Director, Tax. Amazon United Kingdom. United Kingdom. 1K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Director",
+        "Amazon United Kingdom",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Director, Indirect Tax",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Yiannis Poulopoulos"
+    },
+    {
+      "position": 43,
+      "title": "Chris Law - Executive Recruitment @ Amazon",
+      "link": "https://uk.linkedin.com/in/chris-law-75a6912",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chris-law-75a6912&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECHoQAQ",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab2df96e89285db152db4253e66c809e68.png",
+      "snippet": "Executive Recruitment @ Amazon · Executive Search ... Typical assignments included: Logistics Director, Chief Operating Officer, Operations Director, Chief ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Director",
+        "Chief",
+        "Director",
+        "Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Winchester, England, United Kingdom",
+            "Principal, Executive Recruitment, International",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Law"
+    },
+    {
+      "position": 44,
+      "title": "Chris Young-Wootton - Director, Portfolio Optimization, ...",
+      "link": "https://www.linkedin.com/in/chris-young-wootton-6705a067",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chris-young-wootton-6705a067&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECH8QAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab903a00c8338b74eb67329450c1755586.png",
+      "snippet": "Experience ; Director, Portfolio Optimization, Amazon Global Realty · Apr 2024 - Present 1 year. London Area, United Kingdom ; Head of Portfolio Optimization, ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Chris Young-Wootton"
+    },
+    {
+      "position": 45,
+      "title": "Stephen Wade - Director Ops Tech Solutions at Amazon",
+      "link": "https://uk.linkedin.com/in/stephen-wade-94506327",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stephen-wade-94506327&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCI0BEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab95b41d66704b4694e7505e161ba913a3.png",
+      "snippet": "Director Ops Tech Solutions at Amazon · Experience: Amazon · Location: United Kingdom · 500+ connections on LinkedIn. View Stephen Wade's profile on ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Director Ops Tech Solutions at Amazon",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Wade"
+    },
+    {
+      "position": 46,
+      "title": "Mason Rudy - YOOX NET-A-PORTER",
+      "link": "https://uk.linkedin.com/in/mason-rudy-a4565390",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mason-rudy-a4565390&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCJgBEAE",
+      "displayed_link": "440+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab676a3ac056098bb9440fc8a9df0c2da1.png",
+      "snippet": "YOOX NET-A-PORTER Graphic. UK Operations Director. YOOX NET-A-PORTER. May 2023 - Present 1 year 11 months. London, England, United Kingdom · Amazon. 8 years 8 ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Present",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "UK Operations Director",
+            "YOOX NET-A-PORTER"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mason Rudy"
+    },
+    {
+      "position": 47,
+      "title": "Mary Roberts - Director of E-Commerce - Amazon",
+      "link": "https://uk.linkedin.com/in/mary-roberts-12566028",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mary-roberts-12566028&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCKkBEAE",
+      "displayed_link": "80+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab10f4a08f0e0face5c051e8e20ad08c62.png",
+      "snippet": "Director of Business Development. Amazon. Jul 2015 - Present 9 years 9 months. Hemel Hempstead, United Kingdom. Managing Director. Potential Power Ltd. Jun 2010 ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "Managing Director"
+      ],
+      "source": "LinkedIn · Mary Roberts"
+    },
+    {
+      "position": 48,
+      "title": "Nicole Ross - Chief of Staff - Amazon",
+      "link": "https://www.linkedin.com/in/nicole-ross-238b72a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nicole-ross-238b72a&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCLEBEAE",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab431b5efb393bf0c13e773da1de73d882.png",
+      "snippet": "Chief of Staff, Amazon | MBA | Operations | Customer Experience · Experience ... Made recommendations to the Director and coordinated marketing initiatives with ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Amazon",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Chief of Staff",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nicole Ross"
+    },
+    {
+      "position": 49,
+      "title": "CJ Moses - Amazon",
+      "link": "https://www.linkedin.com/in/cjmoses",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cjmoses&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCLMBEAE",
+      "displayed_link": "13.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab6f8a1dd3f0c701c16769329e52d15315.png",
+      "snippet": "Amazon · Herndon · 500+ connections on LinkedIn. View CJ Moses' profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Herndon, Virginia, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · CJ Moses"
+    },
+    {
+      "position": 50,
+      "title": "Andy Shaw - Director of Finance - Prime Video & Amazon ...",
+      "link": "https://uk.linkedin.com/in/andy-shaw-9a814164",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andy-shaw-9a814164&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCMsBEAE",
+      "displayed_link": "240+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abeba68fc8aeb9348a0846acf226b2b353.png",
+      "snippet": "Finance Director, Prime Video · Prime Video & Amazon Studios · Leeds ... London, England, United Kingdom. Amazon. 8 years 3 months · Amazon Graphic ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "United Kingdom",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Haslemere, England, United Kingdom",
+            "Director of Finance",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andy Shaw"
+    },
+    {
+      "position": 51,
+      "title": "Gavin Patterson - Non Executive Director - Ocado Group",
+      "link": "https://uk.linkedin.com/in/gavin-e-patterson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gavin-e-patterson&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCMkBEAE",
+      "displayed_link": "21.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abd79b4946124c41c08c487a2ad436d6aa.png",
+      "snippet": "London, United Kingdom. PLC board, Executive Committee, CSR Committee, Security Committee. BT Graphic. Group Managing Director, Consumer and Chief Marketing ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Managing Director",
+        "Chief"
+      ],
+      "source": "LinkedIn · Gavin Patterson"
+    },
+    {
+      "position": 52,
+      "title": "Emma Roberts - EMEA Brand Strategy and Planning Lead",
+      "link": "https://uk.linkedin.com/in/emma-roberts-58609347",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/emma-roberts-58609347&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCN4BEAE",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab46f9de423f3509684f15472e077c77f3.png",
+      "snippet": "EMEA Brand Strategy and Planning Lead at Amazon Prime Video · Experience: Prime Video & Amazon ... Greater London, England, United Kingdom. 911 followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "EMEA Brand Strategy and Planning Lead",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emma Roberts"
+    },
+    {
+      "position": 53,
+      "title": "Nick Jones - Amazon",
+      "link": "https://www.linkedin.com/in/nick-jones-ab22b623",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nick-jones-ab22b623&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCOEBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab70ee59efe80d80acb078aa30ebfab817.png",
+      "snippet": "Amazon Graphic · Amazon. Greater Seattle Area · -. Seattle, Washington, United States · -. Seattle, Washington · - · -. London, United Kingdom · - · -. Bellevue, wa ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Woodinville, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Jones"
+    },
+    {
+      "position": 54,
+      "title": "David Elliott - Amazon Web Services (AWS) ESIEE PARIS",
+      "link": "https://uk.linkedin.com/in/datad4vid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/datad4vid&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCOQBEAE",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abca21004a4bb8b92b3b5d71b608537c18.png",
+      "snippet": "Director @ AWS | Technologist, Leader, Advisor, Public Speaker | Cloud, Data, AI · Amazon Web Services (AWS) · ESIEE PARIS · London · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director, Head of Architecture, UK & Ireland",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Elliott"
+    },
+    {
+      "position": 55,
+      "title": "Ariana Velazquez - Art Director - Amazon",
+      "link": "https://uk.linkedin.com/in/ariana-velazquez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ariana-velazquez&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCOkBEAE",
+      "displayed_link": "330+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab1fc79dc2381050e606e97f5c3396eb44.png",
+      "snippet": "Art Director. Amazon George Mason University. United Kingdom. 337 followers 334 connections. See your mutual connections. View mutual connections with Ariana.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Ariana Velazquez"
+    },
+    {
+      "position": 56,
+      "title": "Matt J. - Chief Technology Officer - Rayo",
+      "link": "https://uk.linkedin.com/in/mhjwork",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mhjwork&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCPkBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab7bf95b5739b66e1b3f64e9110581197c.png",
+      "snippet": "Experience. Rayo Graphic. Chief Technology Officer. Rayo. Dec 2024 - Present 4 months. London Area, United Kingdom. Amazon Web Services (AWS).",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Present",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Chief Technology Officer",
+            "Rayo"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt J."
+    },
+    {
+      "position": 57,
+      "title": "Ukonwa Kuzi-Orizu Ojo - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/ukonwa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ukonwa&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCPwBEAE",
+      "displayed_link": "79.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab10edde08a0422a060a8de75b62519b20.png",
+      "snippet": "CEO | Investor | Board Director · Ukonwa Ojo is the Founder and CEO of Zaia ... Prior to this, she was the Global Chief Marketing Officer and US General Manager ...",
+      "snippet_highlighted_words": [
+        "Board Director",
+        "Chief"
+      ],
+      "source": "LinkedIn · Ukonwa Kuzi-Orizu Ojo"
+    },
+    {
+      "position": 58,
+      "title": "Rachel Repper - Amazon Business",
+      "link": "https://uk.linkedin.com/in/rachel-repper-7217639",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rachel-repper-7217639&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCI0CEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abd95fab593fe1984bea286e0fcd1d3639.png",
+      "snippet": "Amazon - previously DHL Vice President, Trading Director, Director of Sales ... United Kingdom · 500+ connections on LinkedIn. View Rachel Repper's ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Director",
+        "Director",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon Business",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rachel Repper"
+    },
+    {
+      "position": 59,
+      "title": "Chloe James - Sales Director, Amazon EMEA - SharkNinja",
+      "link": "https://uk.linkedin.com/in/chloe-james-a9992aa5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chloe-james-a9992aa5&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCIgCEAE",
+      "displayed_link": "960+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab6c11fe82909ce9cedf99a9e9921543e2.png",
+      "snippet": "Sales Director EMEA - Ex Amazon, Argos and Sainsburys. · SharkNinja · Solent University · United Kingdom · 500+ connections on LinkedIn. View Chloe James' ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Sales Director, Amazon EMEA",
+            "SharkNinja"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chloe James"
+    },
+    {
+      "position": 60,
+      "title": "Graham Patterson - Finance Director, Amazon Prime Video",
+      "link": "https://uk.linkedin.com/in/graham-patterson-00999b24",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/graham-patterson-00999b24&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCIACEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abadbf455b692aba388a20572516da09ba.png",
+      "snippet": "Finance Director, Amazon Prime Video · Professional with a breadth of ... United Kingdom · 500+ connections on LinkedIn. View Graham Patterson's ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "WW Advertising, Sports and Technology Finance, Prime Video",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Graham Patterson"
+    },
+    {
+      "position": 61,
+      "title": "Abi Buchan - Art Director - Amazon",
+      "link": "https://uk.linkedin.com/in/abi-buchan-537044b9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/abi-buchan-537044b9&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCIECEAE",
+      "displayed_link": "710+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab3b98d8077dcbac61c9a29811e6b7039e.png",
+      "snippet": "Art Director | EU Brand Innovation Lab at Amazon. Amazon University of the Arts London. United Kingdom. 712 followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Art Director",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Abi Buchan"
+    },
+    {
+      "position": 62,
+      "title": "Joshua H. - UK Channel Director - Amazon Key for Business",
+      "link": "https://uk.linkedin.com/in/joshuaherycz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/joshuaherycz&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCJoCEAE",
+      "displayed_link": "210+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abf58f1d49f32ec9fc7175c4e8ef0038ed.png",
+      "snippet": "UK Channel Director - Streamlining Amazon Deliveries To Residential Blocks ... United Kingdom · 207 connections on LinkedIn. View Joshua H.'s profile ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Joshua H."
+    },
+    {
+      "position": 63,
+      "title": "Robin Burrowes - Amazon",
+      "link": "https://www.linkedin.com/in/robinburrowes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robinburrowes&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCJgCEAE",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abbb4f652e2f163ab7bffb74a9022e40df.png",
+      "snippet": "Strategic thinker and data-driven marketing leader with 15+ years of experience in B2C… · Experience: Amazon ... Glasgow, United Kingdom. Projects. Xbox LIVE New ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robin Burrowes"
+    },
+    {
+      "position": 64,
+      "title": "David Amodio - Amazon",
+      "link": "https://uk.linkedin.com/in/david-amodio-1249893",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/david-amodio-1249893&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCKcCEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab072831cff549f3a0e9ccbe821a3c3050.png",
+      "snippet": "David Amodio. Amazon London School of Economics and Political Science. London, England, United Kingdom. 3K ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Amodio"
+    },
+    {
+      "position": 65,
+      "title": "Paul Killebrew - Global Executive Producer, Premium ...",
+      "link": "https://uk.linkedin.com/in/paul-killebrew-b2ab234",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paul-killebrew-b2ab234&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCKYCEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab98be2236e3bcddc1189ee35fe58f8c10.png",
+      "snippet": "Global Executive Producer, Premium Content Production, Brand Innovation Lab. Amazon. Jul 2024 - Present 9 months. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Global Executive Producer, Premium Content Production, Brand Innovation Lab",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Killebrew"
+    },
+    {
+      "position": 66,
+      "title": "John Farrell - Chief Merchant - Amazon",
+      "link": "https://www.linkedin.com/in/john-farrell-9b0a8014",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-farrell-9b0a8014&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCLACEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab3046bc5820849b4efe4d0fdefa9908f0.png",
+      "snippet": "Chief Merchant at Amazon Fresh Grocery · Experienced Managing Director Business Development with a demonstrated history of working in the retail industry.",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Amazon",
+        "Managing Director"
+      ],
+      "source": "LinkedIn · John Farrell"
+    },
+    {
+      "position": 67,
+      "title": "Camila Massu - Creative Director, Amazon Freight",
+      "link": "https://uk.linkedin.com/in/camilamassu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/camilamassu&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCLICEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab6450d6c1d77f9658de078acef8f64f5e.png",
+      "snippet": "Creative Strategy | Design | Marketing Management | MBA. Amazon IE Business School. London, England, United Kingdom ... Creative Director, Amazon Freight. Amazon.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Director",
+        "Amazon",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Camila Massu"
+    },
+    {
+      "position": 68,
+      "title": "John Ing - Founder - The Independent User Group for ...",
+      "link": "https://uk.linkedin.com/in/ingjohn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ingjohn&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCLoCEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab8a16a9e30e4b09cc9b7654f02d67e1d8.png",
+      "snippet": "... Director | Head of Technology. The Independent User Group for Amazon Connect The Open University. Basildon, England, United Kingdom. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · John Ing"
+    },
+    {
+      "position": 69,
+      "title": "Tracey Markham - Non Executive Director",
+      "link": "https://uk.linkedin.com/in/traceymarkham",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/traceymarkham&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCLsCEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab0949231f58d503aa1187ee7291654303.png",
+      "snippet": "... (Amazon UK Social Mobility Impact group sponsor). · The Bar Standards ... Non Executive Director. The Bar Standards Board. Jan 2025 - Present 3 months.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Executive Director",
+        "Present"
+      ],
+      "source": "LinkedIn · Tracey Markham"
+    },
+    {
+      "position": 70,
+      "title": "Nicholas Madore-Girouard - Director - Regulation Tech ...",
+      "link": "https://www.linkedin.com/in/nicholasmadoregirouard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nicholasmadoregirouard&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECEIQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab8f1d85b41517735d180e29ba16d8c922.png",
+      "snippet": "Director, Regulation Tech and Assurance, Amazon Privacy Services · I lead a technical program and compliance team focused on delivering innovation to ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Director",
+            "Regulation Tech and Assurance, Amazon Privacy Services",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nicholas Madore-Girouard"
+    },
+    {
+      "position": 71,
+      "title": "Tania Neill - EA, EU Marketing Amazon",
+      "link": "https://uk.linkedin.com/in/tania-neill-32852a42",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tania-neill-32852a42&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECEUQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab613781f6f6406183d9dc3070a1ab2c50.png",
+      "snippet": "Executive Assistant to the UK Alexa Shopping team. Amazon. May 2022 - Present 2 years 11 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Tania Neill"
+    },
+    {
+      "position": 72,
+      "title": "Mahendra Nerurkar - Amazon",
+      "link": "https://in.linkedin.com/in/mahendra-nerurkar-049593",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/mahendra-nerurkar-049593&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECEoQAQ",
+      "displayed_link": "11.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abae44a25be613d66556d38838d9c221ab.png",
+      "snippet": "Mahendra Nerurkar is the Vice President for Payments at Amazon, leading Amazon's ... London, United Kingdom. Education. Northwestern University - Kellogg School ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon's",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mahendra Nerurkar"
+    },
+    {
+      "position": 73,
+      "title": "Thomas Hoe - Head of Economic Decision Science, EU ...",
+      "link": "https://uk.linkedin.com/in/thomas-hoe-56761324",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/thomas-hoe-56761324&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECEsQAQ",
+      "displayed_link": "4.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abaf3612a079c8efc64a756fabf4c30208.png",
+      "snippet": "Head of Economic Decision Science at Amazon · Experience: Amazon · Education: UCL · Location: United Kingdom · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Head of Economic Decision Science, EU Stores",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Hoe"
+    },
+    {
+      "position": 74,
+      "title": "Tim Munro - Technical Advisor - Amazon",
+      "link": "https://uk.linkedin.com/in/timmunro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/timmunro&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECF0QAQ",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abaae6fb000d8614ed04ea58273e04e089.png",
+      "snippet": "Managing Director. Usable Solutions. May 2003 - Oct 2004 1 year 6 months. Edinburgh, United Kingdom. Set up and ran a small web development business ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "York, England, United Kingdom",
+            "Technical Advisor",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tim Munro"
+    },
+    {
+      "position": 75,
+      "title": "Boyd Alexander - Senior Creative Director, London ...",
+      "link": "https://uk.linkedin.com/in/boyd-alexander",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/boyd-alexander&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECF4QAQ",
+      "displayed_link": "790+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab118592e452429309d6204f1c2d97bb06.png",
+      "snippet": "Boyd Alexander. Creative Director. Amazon University of the Arts London. London, England, United Kingdom ... Art Director - Amazon Fashion EU. Amazon Fashion. Sep ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "United Kingdom",
+        "Director",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Creative Director, London Incubation Hub",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Boyd Alexander"
+    },
+    {
+      "position": 76,
+      "title": "Ben Smith - Creative Studio Manager, EMEA @ Amazon",
+      "link": "https://uk.linkedin.com/in/13ensmith",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/13ensmith&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECGAQAQ",
+      "displayed_link": "960+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab4d8844ba4f111a17aa6247c021523dc9.png",
+      "snippet": "... Amazon · Experience: Amazon ... Production Director - UK - Contract. Talenthouse AG. Sep 2022 - Mar 2023 7 months. Greater London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Director",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Manager, Creative Studio EMEA",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Smith"
+    },
+    {
+      "position": 77,
+      "title": "Geoff de Burca - European Strategy Lead - Amazon XCM ...",
+      "link": "https://uk.linkedin.com/in/geoff-de-burca-526aba3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/geoff-de-burca-526aba3&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECGcQAQ",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab87b81de8c8e659de2ede973191f5d659.png",
+      "snippet": "European Strategy Lead - Amazon XCM at WPP OpenDoor · Chief Strategy Officer · Chief Strategy Officer · Managing Partner - Head of Strategy · Strategy Director · N/A.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Chief",
+        "Chief",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "European Strategy Lead",
+            "Amazon XCM at WPP OpenDoor",
+            "WPP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Geoff de Burca"
+    },
+    {
+      "position": 78,
+      "title": "Iris Margulis - EU Quality Director - Amazon",
+      "link": "https://uk.linkedin.com/in/irismargulis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/irismargulis&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECG0QAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abe719aa0090bbdb8cc495858e95a6dd83.png",
+      "snippet": "EU Quality Director at Amazon. Amazon London Business School. London, England, United Kingdom. 2K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "EU Quality Director",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Iris Margulis"
+    },
+    {
+      "position": 79,
+      "title": "Claire Paull - Amazon",
+      "link": "https://www.linkedin.com/in/claire-paull-88734388",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/claire-paull-88734388&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECHsQAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abf562798e6020296b9d590b7bd39b4753.png",
+      "snippet": "Results driven leader with 20+ years of experience in general management, marketing and… · Experience: Amazon ... London, United Kingdom. -. -. Los Angeles. -.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Claire Paull"
+    },
+    {
+      "position": 80,
+      "title": "Amy Worth - Director Amazon Business UK and Public ...",
+      "link": "https://uk.linkedin.com/in/amyeworth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/amyeworth&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECHgQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab7cfae6b3a50f7a5630ec6b85469e29eb.png",
+      "snippet": "London, England, United Kingdom. 1K ... Experience. Amazon. 8 months. Amazon Graphic. Director Amazon Business UK and Public Sector Customers EU.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon",
+        "Amazon",
+        "Director Amazon"
+      ],
+      "source": "LinkedIn · Amy Worth"
+    },
+    {
+      "position": 81,
+      "title": "Ian Jackson - Cabling Infrastructure - Amazon Web Services",
+      "link": "https://uk.linkedin.com/in/ian-jackson-424aa614",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ian-jackson-424aa614&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECHkQAQ",
+      "displayed_link": "340+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab18ef56246201a68a5ecc18a60875c22a.png",
+      "snippet": "Infrastructure Delivery Manager · Experience: Amazon Web Services · Location: United Kingdom · 348 connections on LinkedIn ... Technical Director. PTC ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Director"
+      ],
+      "source": "LinkedIn · Ian Jackson"
+    },
+    {
+      "position": 82,
+      "title": "Mahipal Ganeshmal - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/mahipalg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mahipalg&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCIYBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab2af9a234e606bcbe4d915317d4aee79d.png",
+      "snippet": "Finance Director,WW Amazon Delivery · I take pride in people I worked with ... Derby, United Kingdom. Providing specialist program and business ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Mahipal Ganeshmal"
+    },
+    {
+      "position": 83,
+      "title": "Ludovic de Valon - Amazon",
+      "link": "https://www.linkedin.com/in/ludovicdevalon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ludovicdevalon&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCIcBEAE",
+      "displayed_link": "10.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab4f68b92730f3b9b032c76ae2f357acc1.png",
+      "snippet": "General Manager with experience in Marketing, Sales, Strategy, Operations and Product at… · Experience: Amazon ... London, England, United Kingdom. -. London, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ludovic de Valon"
+    },
+    {
+      "position": 84,
+      "title": "Carmen Johnson - Commercial director - Amazon.com",
+      "link": "https://uk.linkedin.com/in/carmen-johnson-56853510b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/carmen-johnson-56853510b&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCJcBEAE",
+      "displayed_link": "40+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab26ce864fab3001fa563629aea0784eb3.png",
+      "snippet": "Carmen Johnson. Commercial director. Amazon.com The University of Manchester. Manchester, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "director",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Manchester, England, United Kingdom",
+            "Commercial director",
+            "Amazon.com"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carmen Johnson"
+    },
+    {
+      "position": 85,
+      "title": "Mark Honeyben - EU Director - Commercial and Operations",
+      "link": "https://uk.linkedin.com/in/markhoneyben83289a18",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/markhoneyben83289a18&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCJYBEAE",
+      "displayed_link": "530+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab071b1b5151d354c6d417cc7baed91e85.png",
+      "snippet": "EU Director - Commercial and Operations · An experienced Director leading Amazon ... Bradenham, England, United Kingdom. 536 followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Director",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bradenham, England, United Kingdom",
+            "EU Director",
+            "Commercial and Operations",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Honeyben"
+    },
+    {
+      "position": 86,
+      "title": "Ben Howes - International PR Director, Amazon Advertising",
+      "link": "https://uk.linkedin.com/in/benhowespr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/benhowespr&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCJUBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab90341edac78e1c5e7c323550f2aeb7d6.png",
+      "snippet": "Director Of Public Relations at Amazon. Amazon University of Central Lancashire. London, England, United Kingdom ... Sep 2022 - Present 2 years 7 months. London ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "International PR Director, Amazon Advertising",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Howes"
+    },
+    {
+      "position": 87,
+      "title": "Matthew Howes - Director Of Ecommerce",
+      "link": "https://uk.linkedin.com/in/matthew-howes-357838151",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matthew-howes-357838151&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCKgBEAE",
+      "displayed_link": "370+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab9140f5b0e74d91e9fafad3d3096c1a3c.png",
+      "snippet": "Matthew Howes. Director of Ecommerce - Amazon. Melody, Amazon Agency. Greater London, England, United Kingdom. 375 followers 316 connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Matthew Howes"
+    },
+    {
+      "position": 88,
+      "title": "Harry Ebbitt - Chief of Staff & Head of PMO - Amazon",
+      "link": "https://uk.linkedin.com/in/harry-ebbitt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/harry-ebbitt&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCK4BEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab970c9e2ff95adac5a13c89ea592ec39a.png",
+      "snippet": "Chief of Staff | Chief Operations Officer |Head of PMO | PPM Professional| Amazon Delivery Technology ... Manchester, England, United Kingdom. Chief of ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Chief",
+        "Amazon",
+        "United Kingdom",
+        "Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Manchester, England, United Kingdom",
+            "Chief of Staff & Head of PMO",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Harry Ebbitt"
+    },
+    {
+      "position": 89,
+      "title": "Muhammad Usman - Director - Relay Logistics Ltd",
+      "link": "https://uk.linkedin.com/in/muhammad-usman-32bb99193",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/muhammad-usman-32bb99193&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCK8BEAE",
+      "displayed_link": "200+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab80f1836cce99bcea0e2ace1db8845011.png",
+      "snippet": "May 2022 - Present 2 years 11 months. Plymouth, England, United Kingdom. Area Manager. Amazon Logistics. Jan 2022 - May 2022 5 months. Tilbury, England, United ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "Amazon",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Director",
+            "Relay Logistics Ltd"
+          ]
+        }
+      },
+      "source": "LinkedIn · Muhammad Usman"
+    },
+    {
+      "position": 90,
+      "title": "Tom Hebbert - Amazon",
+      "link": "https://uk.linkedin.com/in/tom-hebbert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tom-hebbert&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCLABEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab3777440ca572b5e25a533503c373624b.png",
+      "snippet": "Experience: Amazon · Education: University of Cambridge · Location ... Tom Hebbert. Amazon University of Cambridge. Lymington, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Lymington, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tom Hebbert"
+    },
+    {
+      "position": 91,
+      "title": "Chandru Lakshminarayanan - Head of Programming ...",
+      "link": "https://uk.linkedin.com/in/chandru-lakshminarayanan-3283749",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chandru-lakshminarayanan-3283749&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCLQBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abf89ed0e7b625b1c7df5e7c45a0f23538.png",
+      "snippet": "Head of Programming Strategy, EMEA, Prime Video and Amazon Studios · Prime Video & Amazon Studios · United Kingdom ... Director of TV and Sports- BT & EE.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Head of Programming Strategy, EMEA, Prime Video & Amazon Studios",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chandru Lakshminarayanan"
+    },
+    {
+      "position": 92,
+      "title": "Will Fernandez - EVP, Global Strategic Growth - WPP",
+      "link": "https://uk.linkedin.com/in/whfernandez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/whfernandez&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCMMBEAE",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abf4873c0d8937c64e1c1805c8de8da9cd.png",
+      "snippet": "EVP, Global Strategic Growth · Global Growth Lead - WPP Team OpenDoor (Amazon) · EMEA Regional Director (WPP TeamGSK) · WPP Fellow · Trustee · Global Client Lead.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Regional Director"
+      ],
+      "source": "LinkedIn · Will Fernandez"
+    },
+    {
+      "position": 93,
+      "title": "Patrick Pondaven - Director | GM EU Mass Vendor Relation ...",
+      "link": "https://uk.linkedin.com/in/pondaven",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pondaven&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCMYBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abc4de1c3de417a3e542652e06e8713c35.png",
+      "snippet": "Director | GM EU Mass Vendor Relation and EU Programs. Amazon. May 2020 - Present 4 years 11 months. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Director | GM EU Mass Vendor Relation and EU Programs",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Patrick Pondaven"
+    },
+    {
+      "position": 94,
+      "title": "Georgia Akuwudike - Director of Operations, SSA - Amazon",
+      "link": "https://za.linkedin.com/in/georgia-akuwudike-083b9b3a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://za.linkedin.com/in/georgia-akuwudike-083b9b3a&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCMwBEAE",
+      "displayed_link": "8.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abee7e6c1b15046b59c558c7f6df2f2195.png",
+      "snippet": "Director, Sub-Saharan Africa Operations · Amazon · EDHEC Business School ... - Apr 2020 1 year 1 month. Dunstable, Bedfordshire, United Kingdom. Amazon ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "South Africa",
+            "Director of Operations, SSA",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Georgia Akuwudike"
+    },
+    {
+      "position": 95,
+      "title": "Kate Mccagg - Amazon",
+      "link": "https://uk.linkedin.com/in/kate-mccagg-82b9343",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kate-mccagg-82b9343&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoFCM0BEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abf53eb201d565c9842996193f09c8247f.png",
+      "snippet": "Amazon · University of Missouri-Columbia · United Kingdom · 500+ connections on LinkedIn ... I would highly recommend Kate as a Creative Director and I am ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kate Mccagg"
+    },
+    {
+      "position": 96,
+      "title": "Piers Heaton-Armstrong - Amazon",
+      "link": "https://uk.linkedin.com/in/piersheatonarmstrong",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/piersheatonarmstrong&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECDUQAQ",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abbcae2531e0e43660791afe32653b0626.png",
+      "snippet": "Experience: Amazon · Location: London · 500+ connections on LinkedIn ... Piers Heaton-Armstrong. Amazon. London, England, United Kingdom. 3K followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Piers Heaton-Armstrong"
+    },
+    {
+      "position": 97,
+      "title": "Simon J Aguirre - First Assistant Director / Associate Producer",
+      "link": "https://uk.linkedin.com/in/simon-j-aguirre-a8b48715",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/simon-j-aguirre-a8b48715&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECC0QAQ",
+      "displayed_link": "640+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abba1567c09ef56eca5a67593c7d463741.png",
+      "snippet": "First Assistant Director / Associate Producer · I ... Amazon MGM Studios / New Line Cinema · Education: Northern Film School Leeds · Location: United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Simon J Aguirre"
+    },
+    {
+      "position": 98,
+      "title": "Georgina Kerridge - Art Director - Amazon",
+      "link": "https://uk.linkedin.com/in/georginakerridge",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/georginakerridge&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECC4QAQ",
+      "displayed_link": "780+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1abfe974a1a7a27c8ed0ac647b891c34422.png",
+      "snippet": "Art Director @ Amazon | Brand Innovation Lab. Amazon University of Lincoln. United Kingdom. 787 followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Art Director",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Georgina Kerridge"
+    },
+    {
+      "position": 99,
+      "title": "Kate M. - Area Manager - Amazon",
+      "link": "https://www.linkedin.com/in/kate-m-97728480",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kate-m-97728480&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECCgQAQ",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab14c8ef5473a934533b3bceb8b618d524.png",
+      "snippet": "Managing Director at L.A. Rush. Amazon University of York. United Kingdom. 977 followers 500+ connections. See your mutual connections. View mutual connections ...",
+      "snippet_highlighted_words": [
+        "Managing Director",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Kate M."
+    },
+    {
+      "position": 100,
+      "title": "Amali de Alwis MBE, UAL Honorary Fellow - Amazon Web ...",
+      "link": "https://uk.linkedin.com/in/amali",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/amali&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQFnoECCcQAQ",
+      "displayed_link": "7.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa954940109d9b560164/images/ba2958ef1e55917efe956a968fb8c1ab10bb1431e53837f3223ecdfa5c61d402.png",
+      "snippet": "Amazon Web Services (AWS) · Education: London College of Fashion, University of the Arts London · Location: United Kingdom · 500+ connections on LinkedIn ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amali de Alwis MBE, UAL Honorary Fellow"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=lfrdZ5ePN8um5NoP1a-NwQg&start=100&sa=N&sstk=Af40H4W26twFI6IAnc_7os__Rh7Xeq_YdPy-EGcWadfNowZ30xoA8fGpFPutJmkTQJCMVEulqeBVFUi-Z_lyTeQ-hwYQPUFOBLYiag&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQ8NMDegUIswIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=lfrdZ5ePN8um5NoP1a-NwQg&start=100&sa=N&sstk=Af40H4W26twFI6IAnc_7os__Rh7Xeq_YdPy-EGcWadfNowZ30xoA8fGpFPutJmkTQJCMVEulqeBVFUi-Z_lyTeQ-hwYQPUFOBLYiag&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQ8tMDegUIswIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=lfrdZ5ePN8um5NoP1a-NwQg&start=200&sa=N&sstk=Af40H4W26twFI6IAnc_7os__Rh7Xeq_YdPy-EGcWadfNowZ30xoA8fGpFPutJmkTQJCMVEulqeBVFUi-Z_lyTeQ-hwYQPUFOBLYiag&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQ8tMDegUIswIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=lfrdZ5ePN8um5NoP1a-NwQg&start=300&sa=N&sstk=Af40H4W26twFI6IAnc_7os__Rh7Xeq_YdPy-EGcWadfNowZ30xoA8fGpFPutJmkTQJCMVEulqeBVFUi-Z_lyTeQ-hwYQPUFOBLYiag&ved=2ahUKEwjXrYeHrpyMAxVLE1kFHdVXI4gQ8tMDegUIswIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=300"
+    }
+  }
+}

@@ -1,0 +1,2155 @@
+{
+  "search_metadata": {
+    "id": "67ddf915984db449fee352e2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/e4b4597f2fbddeab/67ddf915984db449fee352e2.json",
+    "created_at": "2025-03-21 23:41:09 UTC",
+    "processed_at": "2025-03-21 23:41:09 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/e4b4597f2fbddeab/67ddf915984db449fee352e2.html",
+    "total_time_taken": 1.94
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"United States\" AND (current OR present) AND (\"Group Manager\" OR \"Regional Manager\" OR \"Department Manager\" OR \"Team Manager\" OR \"Owner\" OR \"Founder\" OR \"Co-Founder\" OR \"Proprietor\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"United States\" AND (current OR present) AND (\"Group Manager\" OR \"Regional Manager\" OR \"Department Manager\" OR \"Team Manager\" OR \"Owner\" OR \"Founder\" OR \"Co-Founder\" OR \"Proprietor\")",
+    "total_results": 9200000,
+    "time_taken_displayed": 0.8,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Micah Baldwin - Microsoft",
+      "link": "https://www.linkedin.com/in/micahbaldwin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/micahbaldwin&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECAkQAQ",
+      "displayed_link": "15.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36bf5b096cdda7e1f2e3b50faf8fe2964e.png",
+      "snippet": "Micah Baldwin. Microsoft University of California, Davis. Seattle, Washington, United States. 16K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Micah Baldwin"
+    },
+    {
+      "position": 2,
+      "title": "Dan Lewis - Microsoft",
+      "link": "https://www.linkedin.com/in/danlewis4545",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danlewis4545&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECCAQAQ",
+      "displayed_link": "12.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3690e2fe5e10ac843ee83febf45b682b8c.png",
+      "snippet": "... Microsoft · Education: Yale University · Location: Greater Seattle Area ... Experience. Microsoft Graphic · Microsoft. Seattle, Washington, United States. -. -.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Lewis"
+    },
+    {
+      "position": 3,
+      "title": "Jim Harrer - Microsoft",
+      "link": "https://www.linkedin.com/in/jimharrer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jimharrer&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECBgQAQ",
+      "displayed_link": "980+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36babdfeedc9211e5fb07b798a95fdf627.png",
+      "snippet": "Jim Harrer. Microsoft Oregon State University. Phoenix, Arizona, United States. 986 followers 500 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Phoenix, Arizona, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jim Harrer"
+    },
+    {
+      "position": 4,
+      "title": "Mustafa Suleyman - CEO, Microsoft AI",
+      "link": "https://www.linkedin.com/in/mustafa-suleyman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mustafa-suleyman&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECBcQAQ",
+      "displayed_link": "308K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36d1902562db206a1e5660f9ac35f15f47.png",
+      "snippet": "CEO, Microsoft AI. Microsoft. Redmond, Washington, United States. 309K ... Co-founder & Head of Applied AI. DeepMind. Feb 2014 - Jan 2020 6 years. London ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "Co-founder"
+      ],
+      "source": "LinkedIn · Mustafa Suleyman"
+    },
+    {
+      "position": 5,
+      "title": "Sarah Bond - Microsoft",
+      "link": "https://www.linkedin.com/in/sarahrbond",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarahrbond&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECCEQAQ",
+      "displayed_link": "50.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36fa04413172d0b59f66b29d38e244d0ef.png",
+      "snippet": "Sarah Bond is the President of Xbox, managing the P&L for Microsoft's… · Experience: Microsoft ... United States. -. Redmond, WA. -. Greater Seattle Area. -.",
+      "snippet_highlighted_words": [
+        "Microsoft's",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Bond"
+    },
+    {
+      "position": 6,
+      "title": "Kate Maxwell - Industry Lead (GM), Microsoft Worldwide ...",
+      "link": "https://www.linkedin.com/in/katemaxwellspeaks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katemaxwellspeaks&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECB0QAQ",
+      "displayed_link": "22.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36a5e523d70a455ab3bafd1518767f3338.png",
+      "snippet": "Microsoft Worldwide Education Lead | Former Defense CTO | Speaker | Board Member | Small Business Owner ... Founder. The Maxwell Scholarship for Women in ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Owner",
+        "Founder"
+      ],
+      "source": "LinkedIn · Kate Maxwell"
+    },
+    {
+      "position": 7,
+      "title": "Steven Cox - Microsoft",
+      "link": "https://www.linkedin.com/in/stevencox",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stevencox&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECCYQAQ",
+      "displayed_link": "5.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36463f86d13514854f183f20c4669832f5.png",
+      "snippet": "Steven Cox. Microsoft Eastern Kentucky University. San Diego, California, United States. 6K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Diego, California, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steven Cox"
+    },
+    {
+      "position": 8,
+      "title": "Ryan Cunningham - Microsoft",
+      "link": "https://www.linkedin.com/in/rycu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rycu&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECCoQAQ",
+      "displayed_link": "13K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe363f5b216796faeb216ea6a7b30ffc9649.png",
+      "snippet": "Experience: Microsoft · Location: United States · 500+ connections on LinkedIn. View Ryan Cunningham's profile on LinkedIn, a professional community of 1 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Cunningham"
+    },
+    {
+      "position": 9,
+      "title": "Nikesh Parekh - Microsoft",
+      "link": "https://www.linkedin.com/in/nparekh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nparekh&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCOABEAE",
+      "displayed_link": "12.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe369e604bcdfad7e29d510c5a98ae4498ac.png",
+      "snippet": "Nikesh Parekh. Microsoft Harvard Business School. Bellevue, Washington, United States ... Microsoft at Madrona 2024. 108. 5 Comments. Introducing Suplari: the ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nikesh Parekh"
+    },
+    {
+      "position": 10,
+      "title": "Monty Hernandez, PMP, MS - Microsoft",
+      "link": "https://www.linkedin.com/in/montyhernandez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/montyhernandez&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECC0QAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36f8201dca46836e92872bdbab37907a8f.png",
+      "snippet": "Monty Hernandez, PMP, MS. Microsoft Seattle Pacific University. Seattle, Washington, United States ... Certified Scrum Product Owner Graphic. Certified Scrum ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Owner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Monty Hernandez, PMP, MS"
+    },
+    {
+      "position": 11,
+      "title": "Keith Boyd - Microsoft",
+      "link": "https://www.linkedin.com/in/keithalanboyd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/keithalanboyd&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCJQBEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36d7bdee17ebd3694856bdaf3214d95bae.png",
+      "snippet": "Keith Boyd. Microsoft Seattle University. Seattle, Washington, United States ... I was interviewed by the author as the owner of the Microsoft Professional ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "owner",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Keith Boyd"
+    },
+    {
+      "position": 12,
+      "title": "Curtis Lee - Microsoft | LinkedIn",
+      "link": "https://www.linkedin.com/in/curtisylee",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/curtisylee&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCOQBEAE",
+      "displayed_link": "12.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe369df5a503356bbfc7efbc8f5c7151e1f6.png",
+      "snippet": "Curtis Lee. Microsoft The Wharton School. New York, New York, United States. 12K followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Curtis Lee"
+    },
+    {
+      "position": 13,
+      "title": "Asha Sharma - Microsoft",
+      "link": "https://www.linkedin.com/in/aboutasha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aboutasha&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCIECEAE",
+      "displayed_link": "81.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe366c1f81f254ba68f46ddbdfc24d2da995.png",
+      "snippet": "Asha Sharma. Microsoft University of Minnesota - Carlson School of Management. United States. 82K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Asha Sharma"
+    },
+    {
+      "position": 14,
+      "title": "Mike Davidson - Microsoft",
+      "link": "https://www.linkedin.com/in/mikeindustries",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mikeindustries&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECCwQAQ",
+      "displayed_link": "13.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe367a2b937cbba581650e6b2334eea6a292.png",
+      "snippet": "Mike Davidson. Microsoft University of Washington. Seattle, Washington, United States. 13K followers 500 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Davidson"
+    },
+    {
+      "position": 15,
+      "title": "Ankur Biswas - Microsoft",
+      "link": "https://www.linkedin.com/in/anbiswas95",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/anbiswas95&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECGEQAQ",
+      "displayed_link": "4.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3605f2b584a4822643f57d3b0c2f9921a9.png",
+      "snippet": "Experience: Microsoft · Education: Cornell University · Location: Seattle ... Ankur Biswas. Microsoft Cornell University. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ankur Biswas"
+    },
+    {
+      "position": 16,
+      "title": "Michael Scovetta - Microsoft",
+      "link": "https://www.linkedin.com/in/scovetta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/scovetta&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCJcBEAE",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3658fe8cef077337f757f4b89d62202da6.png",
+      "snippet": "Michael Scovetta. Microsoft Cornell University. Middleburg, Virginia, United States ... Co-Founder / Lead Co-Lead for Alpha-Omega. Feb 2020 - Present. I co- ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Co-Founder",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Middleburg, Virginia, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Scovetta"
+    },
+    {
+      "position": 17,
+      "title": "Tracy Galloway - Microsoft",
+      "link": "https://www.linkedin.com/in/trgalloway",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/trgalloway&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCMcBEAE",
+      "displayed_link": "18.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3659f7254f110241804d03052d67e30df2.png",
+      "snippet": "Tracy Galloway. Microsoft University of Michigan. Breckenridge, Colorado, United States. 19K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Breckenridge, Colorado, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tracy Galloway"
+    },
+    {
+      "position": 18,
+      "title": "Kevin Scott - CTO Microsoft",
+      "link": "https://www.linkedin.com/in/jkevinscott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jkevinscott&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCOMBEAE",
+      "displayed_link": "757.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36b644ea54ec5107eccdd149a614ca56c6.png",
+      "snippet": "Kevin Scott is an influencer. Microsoft. Los Gatos, California, United States ... Co-founder. The Scott Foundation. Jan 2014 - Present 11 years 3 months. Angel ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Co-founder",
+        "Present"
+      ],
+      "source": "LinkedIn · Kevin Scott"
+    },
+    {
+      "position": 19,
+      "title": "Josh Ledgard - Microsoft",
+      "link": "https://www.linkedin.com/in/joshledgard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joshledgard&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCPsBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe367f558e01ca685264d8308d1c6118322b.png",
+      "snippet": "Josh Ledgard. Microsoft Vanderbilt University. Seattle, Washington, United States. 1K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Josh Ledgard"
+    },
+    {
+      "position": 20,
+      "title": "Mark Nelson - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/marknelsonwa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marknelsonwa&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCJYCEAE",
+      "displayed_link": "430+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36dca4b3cca67106d1f0542f429d25227f.png",
+      "snippet": "Mark Nelson. Principal Product Manager at Microsoft Corporation. Microsoft Rensselaer Polytechnic Institute. Kirkland, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Principal Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Nelson"
+    },
+    {
+      "position": 21,
+      "title": "Tom Davis - Microsoft",
+      "link": "https://www.linkedin.com/in/tom-davis-startups",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tom-davis-startups&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCJoCEAE",
+      "displayed_link": "11.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36ebb3909a69d76c7bab0ade6c595c0310.png",
+      "snippet": "Experience: Microsoft · Education: Politecnico di Torino · Location ... Experience. Microsoft Graphic. Microsoft. Redmond, Washington, United States. -.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tom Davis"
+    },
+    {
+      "position": 22,
+      "title": "Phil Spencer - Redmond, Washington, United States",
+      "link": "https://www.linkedin.com/in/phil-spencer-112962",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/phil-spencer-112962&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECEEQAQ",
+      "displayed_link": "26.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe363c4ba0d1f0765912dc92691fc835d5e4.png",
+      "snippet": "Phil Spencer. Redmond, Washington, United States. 27K followers 500+ connections. See your mutual connections. View mutual connections with Phil. Sign in ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Phil Spencer"
+    },
+    {
+      "position": 23,
+      "title": "Tiffany Johnson - Microsoft",
+      "link": "https://www.linkedin.com/in/tiffany-johnson-2220a84b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tiffany-johnson-2220a84b&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECEcQAQ",
+      "displayed_link": "189.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3699037c719ffaa02c15526f1ee44d6b78.png",
+      "snippet": "Microsoft · American Public University · Austin, Texas Metropolitan Area · 500+ connections on LinkedIn ... Seattle, Washington, United States. -. Seattle, ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas Metropolitan Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tiffany Johnson"
+    },
+    {
+      "position": 24,
+      "title": "Kim Manis - Microsoft",
+      "link": "https://www.linkedin.com/in/kimmanis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kimmanis&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECGAQAQ",
+      "displayed_link": "13.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe362eaf64a364df283677f8048748998ecf.png",
+      "snippet": "Kim Manis is the Corporate Vice President of Product Management for Microsoft Fabric &… · Experience: Microsoft ... Redmond, Washington, United States. -. -. -.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kim Manis"
+    },
+    {
+      "position": 25,
+      "title": "Bill Gates - Co-chair - Gates Foundation",
+      "link": "https://www.linkedin.com/in/williamhgates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/williamhgates&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECHsQAQ",
+      "displayed_link": "37.5M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36bf6979f707ad03109816a3a8ec3343ad.png",
+      "snippet": "Chair of the Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Co-founder",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Bill Gates"
+    },
+    {
+      "position": 26,
+      "title": "Christopher Lee - Product Manager II - Microsoft",
+      "link": "https://www.linkedin.com/in/duckbricks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/duckbricks&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCJYBEAE",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3683e324a11762b94ab3ed5f1c40945043.png",
+      "snippet": "Product Manager II. Microsoft. Aug 2022 ; Founder and Managing Partner. Broadview Capital. Apr 2024 ; Brand Ambassador. the LEGO Group. Nov 2022 ; Co-Founder. NUI ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Founder",
+        "Co-Founder"
+      ],
+      "source": "LinkedIn · Christopher Lee"
+    },
+    {
+      "position": 27,
+      "title": "Laura Morgan - Redmond, Washington, United States",
+      "link": "https://www.linkedin.com/in/laurasmorgan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/laurasmorgan&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCKsBEAE",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3635cb3d1357063828e8a48690ddb9e4a7.png",
+      "snippet": "Laura Morgan. Retired | ex-Principal Product Manager - Microsoft Teams for Small Business. Microsoft University of Washington ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Laura Morgan"
+    },
+    {
+      "position": 28,
+      "title": "Peter Lee - Microsoft",
+      "link": "https://www.linkedin.com/in/peterlee4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/peterlee4&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCMYBEAE",
+      "displayed_link": "31.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3626812bc7cfd8a0118787aece14fbf786.png",
+      "snippet": "Peter Lee. Microsoft University of Michigan. Redmond, Washington, United States. 32K followers 500 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Lee"
+    },
+    {
+      "position": 29,
+      "title": "Dan Greenawalt - Microsoft",
+      "link": "https://www.linkedin.com/in/dangre",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dangre&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCNUBEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe361c5683ba7a1c4989e2b02352bc8a8f3b.png",
+      "snippet": "Experience. Microsoft Graphic · Microsoft. Redmond, Washington, United States. -. Redmond, Washington, United States. -. Redmond, Washington, United States ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Greenawalt"
+    },
+    {
+      "position": 30,
+      "title": "Melissa Binde - Microsoft",
+      "link": "https://www.linkedin.com/in/mbinde",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mbinde&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCOEBEAE",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36f80dc424f4e30a63a497afc8406f6e60.png",
+      "snippet": "Melissa Binde. Microsoft. Bellevue, Washington, United States. 4K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Melissa Binde"
+    },
+    {
+      "position": 31,
+      "title": "Kevin Rocha - Business Program Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/kevinjrocha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kevinjrocha&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCOcBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe366862f9d11d5e58a7687cbfa18e515ec5.png",
+      "snippet": "Business Program Manager. Microsoft. Jun 2023 - Present 1 year 10 months. Orlando, Florida, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Kevin Rocha"
+    },
+    {
+      "position": 32,
+      "title": "Luis Vargas - Founder and CTO - Stealth AI Startup",
+      "link": "https://www.linkedin.com/in/luisvargasherring",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/luisvargasherring&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCIICEAE",
+      "displayed_link": "11.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36b09ee2998af89848be14f14bcd5318f1.png",
+      "snippet": "Luis Vargas. Founder & CTO of Stealth AI Startup | Pioneered GenAI Strategy at Microsoft | 20+ Years Building Multi-Billion Dollar Tech Products ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Founder and CTO",
+            "Stealth AI Startup"
+          ]
+        }
+      },
+      "source": "LinkedIn · Luis Vargas"
+    },
+    {
+      "position": 33,
+      "title": "danah boyd - Microsoft",
+      "link": "https://www.linkedin.com/in/danahboyd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danahboyd&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCP0BEAE",
+      "displayed_link": "151.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36d4ef79bf95b97e54489ca8ffdbb78a0b.png",
+      "snippet": "danah boyd. Microsoft University of California, Berkeley. Boulder, Colorado, United States. 151K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Boulder, Colorado, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · danah boyd"
+    },
+    {
+      "position": 34,
+      "title": "Christopher Payne - Robinhood",
+      "link": "https://www.linkedin.com/in/christopherpayne",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christopherpayne&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCJcCEAE",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3635de13187dc3bdd2028e5faa367d5361.png",
+      "snippet": "Christopher recruited me to return to Microsoft in 2002 and I worked for him for the first 1.5 years. He was supportive and insightful.",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Christopher Payne"
+    },
+    {
+      "position": 35,
+      "title": "Kavita K. - Microsoft",
+      "link": "https://www.linkedin.com/in/kavitak",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kavitak&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCKcCEAE",
+      "displayed_link": "6.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36dc93f2abd151a84b7d2e0f7ce6a4e2e7.png",
+      "snippet": "Kavita K. Microsoft UW Foster School of Business. Redmond, Washington, United States. 6K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kavita K."
+    },
+    {
+      "position": 36,
+      "title": "Chris Roozen - Senior Program Manager (Product Owner)",
+      "link": "https://www.linkedin.com/in/chrisroozen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chrisroozen&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCKUCEAE",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe365575f8839b3278ece0e5188c47bcc33e.png",
+      "snippet": "Chris Roozen. Senior Program Manager at Microsoft. Microsoft University of Iowa. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Senior Program Manager (Product Owner)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Roozen"
+    },
+    {
+      "position": 37,
+      "title": "Melinda French Gates - Founder - Pivotal Ventures",
+      "link": "https://www.linkedin.com/in/melindagates",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/melindagates&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCLECEAE",
+      "displayed_link": "6.6M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3697c8c1a842169df854c9a52f810df9b5.png",
+      "snippet": "... Co-founder of the Gates Foundation. Author of The Moment of Lift. · Pivotal Ventures · Duke University - The Fuqua School of Business · United States ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Founder",
+            "Pivotal Ventures"
+          ]
+        }
+      },
+      "source": "LinkedIn · Melinda French Gates"
+    },
+    {
+      "position": 38,
+      "title": "Aanchal Gupta - Microsoft",
+      "link": "https://www.linkedin.com/in/aanchalgupta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aanchalgupta&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECE8QAQ",
+      "displayed_link": "7.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3627d8552ed642fe5ff98c21b91dfe61d7.png",
+      "snippet": "Executive with more than two decades of experience leading geographically distributed… · Experience: Microsoft · Location: San Francisco Bay Area · 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aanchal Gupta"
+    },
+    {
+      "position": 39,
+      "title": "Christiaan Brinkhoff - Microsoft",
+      "link": "https://www.linkedin.com/in/christiaanbrinkhoff",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christiaanbrinkhoff&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECEQQAQ",
+      "displayed_link": "25.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36e069e6be5052656c416836912855c138.png",
+      "snippet": "Christiaan Brinkhoff. Microsoft. Redmond, Washington, United States. 26K ... Leader and co-founder. Aug 2021 - Present. Go check www.w365community.com ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "co-founder",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christiaan Brinkhoff"
+    },
+    {
+      "position": 40,
+      "title": "Mario U. - Principal Group Manager - Identity - Microsoft",
+      "link": "https://www.linkedin.com/in/mariou",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mariou&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECEYQAQ",
+      "displayed_link": "280+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe361a546cd3a269da6d0471e69dad1b93eb.png",
+      "snippet": "Experience. Microsoft Graphic. Principal Group Manager - Identity. Microsoft. Nov 2022 - Present 2 years 5 months. Redmond, Washington, United States. Licenses ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Group Manager",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ashburn, Virginia, United States",
+            "Principal Group Manager",
+            "Identity",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mario U."
+    },
+    {
+      "position": 41,
+      "title": "Eric Horvitz - Microsoft",
+      "link": "https://www.linkedin.com/in/erichorvitz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/erichorvitz&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECGUQAQ",
+      "displayed_link": "35.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36534bbdfbebc8ed5b186a4f2e7451ca25.png",
+      "snippet": "Microsoft · Redmond · 500+ connections on LinkedIn. View Eric Horvitz's ... Arlington, Virginia, United States. Recommendations received. Click here to ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eric Horvitz"
+    },
+    {
+      "position": 42,
+      "title": "Earl Martin Valencia - Microsoft",
+      "link": "https://www.linkedin.com/in/earlvalencia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/earlvalencia&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECGQQAQ",
+      "displayed_link": "14.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe364be4a4b1127d77f7ef664ab862e8d4a6.png",
+      "snippet": "Redmond, Washington, United States. -. -. Philippines. -. Fairfield County ... Nominated with co-founder Marthyn Cuan, \"contributed greatly in revitalizing ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "co-founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Earl Martin Valencia"
+    },
+    {
+      "position": 43,
+      "title": "Ranveer Chandra - Microsoft",
+      "link": "https://www.linkedin.com/in/ranveer-chandra-79bb9b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ranveer-chandra-79bb9b&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECHgQAQ",
+      "displayed_link": "18.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36b55118d89d4949dc77eb5a21bb949a8d.png",
+      "snippet": "Microsoft Graphic · Microsoft. -. United States. -. -. -. -. - ... In this paper, we present a new hardware-software system, called Software Defined Battery (SDB) ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ranveer Chandra"
+    },
+    {
+      "position": 44,
+      "title": "Travis Gross - Principal Group Product/Program Manager",
+      "link": "https://www.linkedin.com/in/travis-gross-536b3b9b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/travis-gross-536b3b9b&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECHwQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe364dfc28d094c93e9ebbdbf460cfd24a87.png",
+      "snippet": "Principal Group Manager - Identity and Security; Disrupting common thinking ... Redmond, Washington, United States. Microsoft Graphic. Principal PM ...",
+      "snippet_highlighted_words": [
+        "Group Manager",
+        "United States",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Principal Group Product/Program Manager",
+            "Identity and Network Access",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Travis Gross"
+    },
+    {
+      "position": 45,
+      "title": "Joseph John - Program Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/joseph-john-86163620",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joseph-john-86163620&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCI8BEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3624b7fa9b3e9c227533e505bbc643ad0a.png",
+      "snippet": "Redmond, Washington, United States. 2K followers 500+ connections. See ... As the owner of annuity business I was successful in signing several Microsoft ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "owner",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joseph John"
+    },
+    {
+      "position": 46,
+      "title": "William Harding - Customer Solutions Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/hardingwilliam",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hardingwilliam&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCJUBEAE",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe367e28970469c0c6fc877919e1b2976447.png",
+      "snippet": "Group Manager at Avanade. Microsoft Portland State University. Seattle, Washington, United States. 909 followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Group Manager",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Customer Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · William Harding"
+    },
+    {
+      "position": 47,
+      "title": "Diego Martinez - Senior Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/diefe88/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/diefe88/en&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCK0BEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36cf7616eeedb0fa29a28e518ff8fa9742.png",
+      "snippet": "Microsoft Office Chapter Chair. Microsoft's HOLA ERG. Mar 2017 - Present 8 years. Chair and founder of the Hispanic Organization of ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft's",
+        "Present",
+        "founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Senior Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Diego Martinez"
+    },
+    {
+      "position": 48,
+      "title": "Brendan Burns - Microsoft",
+      "link": "https://www.linkedin.com/in/brendan-burns-487aa590",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brendan-burns-487aa590&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCKwBEAE",
+      "displayed_link": "10.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3687a10bf4ee113860c5bde6458a76566c.png",
+      "snippet": "Brendan Burns. Microsoft University of Massachusetts, Amherst. Seattle, Washington, United States. 11K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brendan Burns"
+    },
+    {
+      "position": 49,
+      "title": "Peter Hames - Microsoft AI",
+      "link": "https://uk.linkedin.com/in/peterhames",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/peterhames&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCLwBEAE",
+      "displayed_link": "5.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36bff7dc0050807d595667c90340c7ccf5.png",
+      "snippet": "Microsoft AI · University of Oxford · United Kingdom · 500+ connections on LinkedIn ... San Francisco, California, United States. -. San Francisco, California, ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft AI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Hames"
+    },
+    {
+      "position": 50,
+      "title": "Joe Belfiore - Kahoot!",
+      "link": "https://www.linkedin.com/in/joe-belfiore-microsoft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joe-belfiore-microsoft&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCMsBEAE",
+      "displayed_link": "21.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36a468de9e255475e69dd3198d05bd6f15.png",
+      "snippet": "Honors & Awards. Windows Central: 2018 Top Influencer \"Microsoft Fans need to Watch\". Windowscentral.com. Jan 2018.",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Kahoot!"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joe Belfiore"
+    },
+    {
+      "position": 51,
+      "title": "E. Glen Weyl - Senior Advisor - GETTING-Plurality ...",
+      "link": "https://www.linkedin.com/in/eglenweyl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/eglenweyl&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCMoBEAE",
+      "displayed_link": "6.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe369b6393d86371290dd4e927ff903d5e25.png",
+      "snippet": "Research Lead of Microsoft Research's Special Project the Plural Technology Collaboratory, Founder ... Co-Founder. Collective Decision Engines. Jun 2013 - May ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Founder",
+        "Co-Founder"
+      ],
+      "source": "LinkedIn · E. Glen Weyl"
+    },
+    {
+      "position": 52,
+      "title": "Nikita Pitliya - Co-Founder & CEO - PavePilot AI",
+      "link": "https://www.linkedin.com/in/nikitapitliya",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nikitapitliya&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCNwBEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3694c23c90ad390c3e6aa8862163133c55.png",
+      "snippet": "Co-Founder & CEO @ PavePilot AI | Perplexity AI Fellow | Techstars '23 | ex-Microsoft · Co-founder & CEO ... San Francisco, California, United States.",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Microsoft",
+        "Co-founder",
+        "United States"
+      ],
+      "source": "LinkedIn · Nikita Pitliya"
+    },
+    {
+      "position": 53,
+      "title": "Padmasree Warrior - Founder, President and CEO - Fable",
+      "link": "https://www.linkedin.com/in/padmasree-warrior-9917a26b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/padmasree-warrior-9917a26b&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCOYBEAE",
+      "displayed_link": "425.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36055cccca7e8e43a1285f215775596434.png",
+      "snippet": "Founder, President and CEO at Fable. Fable Cornell University. San Jose, California, United States ... Microsoft. Dec 2015 - Dec 2023 8 years 1 month. Redmond, WA ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "United States",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Padmasree Warrior"
+    },
+    {
+      "position": 54,
+      "title": "Ohm Patel - Incoming Software Engineering Intern - Microsoft",
+      "link": "https://www.linkedin.com/in/ohm-patel-84856223b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ohm-patel-84856223b&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCOIBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3635cbd4c585f735440fe6df8133872e5a.png",
+      "snippet": "Founder, VigilAI | CTO, Kupid | Incoming @ Microsoft AI | CS Creator. Microsoft Cornell Tech. Orlando, Florida, United States. 2K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Ohm Patel"
+    },
+    {
+      "position": 55,
+      "title": "Emerson Holladay - Founder and Creative Director",
+      "link": "https://www.linkedin.com/in/emerson-holladay-321b36122",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/emerson-holladay-321b36122&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCOUBEAE",
+      "displayed_link": "570+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3621d351ae3153a7763a028bdb5c589fd8.png",
+      "snippet": "Founder and Creative Director | Ex-Microsoft · Experience: Otherside · Education: University of Cincinnati · Location: United States · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Founder and Creative Director",
+            "Otherside"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emerson Holladay"
+    },
+    {
+      "position": 56,
+      "title": "Leo Osahor - Founder - League of Laid Off Legends",
+      "link": "https://www.linkedin.com/in/losahor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/losahor&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCOsBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe363da4a1ad2bfd75ac26544261161b7ad1.png",
+      "snippet": "United States Patent Office. Dec 2023. Patent (11836443) Populating contact ... Finalist - Microsoft Ventures 2015 cohort. Microsoft Ventures. Feb 2015 ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Founder",
+            "League of Laid Off Legends"
+          ]
+        }
+      },
+      "source": "LinkedIn · Leo Osahor"
+    },
+    {
+      "position": 57,
+      "title": "Assaf Rappaport - Wiz",
+      "link": "https://www.linkedin.com/in/assafrappaport",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/assafrappaport&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCPwBEAE",
+      "displayed_link": "40.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36a37fd26342abfd280afd2fe62c057e46.png",
+      "snippet": "Assaf Rappaport. Wiz Technion-Machon Technologi Le' Israel. New York, New York, United States. 41K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Wiz"
+          ]
+        }
+      },
+      "source": "LinkedIn · Assaf Rappaport"
+    },
+    {
+      "position": 58,
+      "title": "Eduardo Kassner - Microsoft",
+      "link": "https://www.linkedin.com/in/ekassner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ekassner&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCP8BEAE",
+      "displayed_link": "12.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36b245875fe77d4c061d2cae9a4ed9906b.png",
+      "snippet": "Eduardo Kassner. Microsoft Boston University. Redmond, Washington, United States. 13K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eduardo Kassner"
+    },
+    {
+      "position": 59,
+      "title": "Apurv Jain - Founder and CEO - MacroXStudio",
+      "link": "https://www.linkedin.com/in/apurvj1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/apurvj1&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCP4BEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36d735f3ce2d4db35277c237f5d119d887.png",
+      "snippet": "MacroXStudio. Jun 2020 - Present 4 years 10 months. San Francisco, California, United States ... Srikant Datar (current Dean of HBS). Microsoft. 7 ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United States",
+        "current",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Apurv Jain"
+    },
+    {
+      "position": 60,
+      "title": "Macy So - Microsoft",
+      "link": "https://www.linkedin.com/in/macyso",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/macyso&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCIcCEAE",
+      "displayed_link": "25.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36f46d763eb70ab4791b09a783a138edd8.png",
+      "snippet": "Macy So. Microsoft Boston University. New York, New York, United States. 25K ... Activities and Societies: Founder @ PMReady, Co-director @ Ignite Student ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Macy So"
+    },
+    {
+      "position": 61,
+      "title": "Daron Yondem - Seattle, Washington, United States",
+      "link": "https://www.linkedin.com/in/daronyondem",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/daronyondem&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCIACEAE",
+      "displayed_link": "45.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36731f0aaae362438db7909fe611279e79.png",
+      "snippet": "Daron Yondem. Seattle, Washington, United States. 46K followers 500+ connections. See your mutual connections. View mutual connections with Daron. Sign in ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Daron Yondem"
+    },
+    {
+      "position": 62,
+      "title": "Dustin S. - Business Operations Group Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/dustin-s-5341913b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dustin-s-5341913b&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCJkCEAE",
+      "displayed_link": "510+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36294335838de7082e505e71dbb33345a2.png",
+      "snippet": "Business Operations Group Manager at Microsoft · I'm a passionate team manager ... I was a product owner for an in-house access management tool. I learned ...",
+      "snippet_highlighted_words": [
+        "Group Manager",
+        "Microsoft",
+        "team manager",
+        "owner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Business Operations Group Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dustin S."
+    },
+    {
+      "position": 63,
+      "title": "Maxim Vainstein - Engineering Group Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/maximvainstein",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/maximvainstein&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCJgCEAE",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36924bc554ee693e545b591a5b79b2b5f7.png",
+      "snippet": "Group Manager | Cyber Security. Microsoft The Hebrew University of Jerusalem. Bellevue, Washington, United States. 978 followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Group Manager",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Engineering Group Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Maxim Vainstein"
+    },
+    {
+      "position": 64,
+      "title": "Vicente E. Perez, AGC Regional Manager Learning and ...",
+      "link": "https://www.linkedin.com/in/vicente-e-perez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vicente-e-perez&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCKQCEAE",
+      "displayed_link": "200+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3650fe8e026109f775b2fc46588d3da8ca.png",
+      "snippet": "Perez, AGC Regional Manager Learning and Development. Microsoft Hallmark University. San Antonio, Texas, United States. 206 followers 207 connections. See your ...",
+      "snippet_highlighted_words": [
+        "Regional Manager",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Antonio, Texas, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vicente E. Perez, AGC Regional Manager Learning and Development"
+    },
+    {
+      "position": 65,
+      "title": "Vik Singh - Microsoft",
+      "link": "https://www.linkedin.com/in/viksingh1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/viksingh1&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCKwCEAE",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36afb15e32878487deb72c35011bbfe571.png",
+      "snippet": "Vik was previously the CEO and Co-Founder of Infer, a company that provides a predictive… · Microsoft · San Francisco Bay Area · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vik Singh"
+    },
+    {
+      "position": 66,
+      "title": "Reid Hoffman - Co-Founder, Board Chair - Manas AI",
+      "link": "https://www.linkedin.com/in/reidhoffman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/reidhoffman&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCLICEAE",
+      "displayed_link": "2.7M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36dc096a14ff6b2c2b0fe4c8bad86f290c.png",
+      "snippet": "Co-Founder, LinkedIn & Inflection AI. Author of Superagency. Investor at Greylock. Manas AI Università degli Studi di Perugia. United States. 3M followers 500 ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "United States"
+      ],
+      "source": "LinkedIn · Reid Hoffman"
+    },
+    {
+      "position": 67,
+      "title": "Stewart Butterfield - San Francisco, California, United States",
+      "link": "https://www.linkedin.com/in/butterfield",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/butterfield&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCLkCEAE",
+      "displayed_link": "15.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3665f1c02e342d26fcc702a9abc5d26f14.png",
+      "snippet": "... current selection. Jobs; People; Learning. Clear text. Clear text ... Stewart Butterfield. University of Cambridge. San Francisco, California, United States.",
+      "snippet_highlighted_words": [
+        "current",
+        "United States"
+      ],
+      "source": "LinkedIn · Stewart Butterfield"
+    },
+    {
+      "position": 68,
+      "title": "Adarsh Kumar Pandey ↗️ - Microsoft Educator",
+      "link": "https://in.linkedin.com/in/adarshkumarpandey19101",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/adarshkumarpandey19101&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCLUCEAE",
+      "displayed_link": "23.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe367cb9dc7514787ab502251f59c2fe63b3.png",
+      "snippet": "Founder & CEO at Coding Bits | Microsoft Educator · To reach out, email me ... Co-Founder and CMO. FMPG. Aug 2024 - Present 8 months. India. Developers For ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft",
+        "Co-Founder",
+        "Present"
+      ],
+      "source": "LinkedIn · Adarsh Kumar Pandey ↗️"
+    },
+    {
+      "position": 69,
+      "title": "David Kaefer - Spotify",
+      "link": "https://www.linkedin.com/in/david-kaefer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-kaefer&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCL8CEAE",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36fab5744305a2a46ae15accddf6c61cf6.png",
+      "snippet": "New York, New York, United States. -. New York, New York, United States ... Microsoft via deals, partnerships, alliances, etc. As I described my view of ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "United States",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Spotify"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Kaefer"
+    },
+    {
+      "position": 70,
+      "title": "Lee Pogue - Procurement M&A Integration Group Manager",
+      "link": "https://www.linkedin.com/in/leepogue",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/leepogue&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECEIQAQ",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe363dafe2352ce7bdee15d6479facb7d1b2.png",
+      "snippet": "Procurement M&A Integration Group Manager @ Microsoft | Program Management, Public Speaking · As the Group Manager at ... Salt Lake County, Utah, United States.",
+      "snippet_highlighted_words": [
+        "Group Manager",
+        "Microsoft",
+        "Group Manager",
+        "United States"
+      ],
+      "source": "LinkedIn · Lee Pogue"
+    },
+    {
+      "position": 71,
+      "title": "Austin Belcak - Founder - Cultivated Culture",
+      "link": "https://www.linkedin.com/in/abelcak",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/abelcak&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECFAQAQ",
+      "displayed_link": "1.4M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36483d5eee00fdf50f833f49e85e8aea18.png",
+      "snippet": "New York, New York, United States ... Two years later, I scored interviews at Google, Microsoft, & Twitter and I accepted an offer from Microsoft with a $70,000 ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Founder",
+            "Cultivated Culture"
+          ]
+        }
+      },
+      "source": "LinkedIn · Austin Belcak"
+    },
+    {
+      "position": 72,
+      "title": "Siddhant A. - Microsoft Northwestern University",
+      "link": "https://www.linkedin.com/in/siddhantahuja",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/siddhantahuja&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECEUQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe365b4bf7ce12ed6bb1cdb4aff2aaa669ca.png",
+      "snippet": "Northwestern University. 2017 - 2020. Activities and Societies: ImproveNU (Founder), Health Connections (Co-Founder) ... United States. Honors engineering ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Co-Founder",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chicago, Illinois, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Siddhant A."
+    },
+    {
+      "position": 73,
+      "title": "Jeremy Carlson - Microsoft",
+      "link": "https://www.linkedin.com/in/jeremyrcarlson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeremyrcarlson&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECEMQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe360ecace4ffef26672d1603ada966cc5a0.png",
+      "snippet": "... data to drive better… Experience. Microsoft Graphic · Microsoft. San Francisco, California, United States. -. -. San Francisco Bay Area. -. -. San Francisco Bay ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeremy Carlson"
+    },
+    {
+      "position": 74,
+      "title": "James Wu - M12 - Microsoft's Venture Fund",
+      "link": "https://www.linkedin.com/in/james-wu-69bb2b4b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/james-wu-69bb2b4b&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECFwQAQ",
+      "displayed_link": "8.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe364ccd343183939c52b1355da6da2b3eee.png",
+      "snippet": "James is a Partner for M12, investing in infrastructure software with a focus on AI… · M12 - Microsoft's Venture Fund · University of California, ...",
+      "snippet_highlighted_words": [
+        "Microsoft's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "m": 12
+          },
+          "extensions": [
+            "San Francisco Bay Area",
+            "M12",
+            "Microsoft's Venture Fund"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Wu"
+    },
+    {
+      "position": 75,
+      "title": "Rich Barton - Co-founder and Co-Executive Chair - Zillow",
+      "link": "https://www.linkedin.com/in/richbarton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/richbarton&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECF0QAQ",
+      "displayed_link": "24.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe369bb37cf5140fc72f4db1554449e2b6cf.png",
+      "snippet": "Co-founder and Co-Executive Chair at Zillow. Zillow Stanford University. Seattle, Washington, United States. 24K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "United States"
+      ],
+      "source": "LinkedIn · Rich Barton"
+    },
+    {
+      "position": 76,
+      "title": "Brad Stewart - Group Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/brad-stewart-a407065",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brad-stewart-a407065&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECF8QAQ",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36f08272e619eb77234c10cb95bb7a2773.png",
+      "snippet": "Group Manager at Microsoft · Experience: Microsoft · Education: University ... Reno, Nevada, United States. Led global team of Partner Enablement ...",
+      "snippet_highlighted_words": [
+        "Group Manager",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reno, Nevada, United States",
+            "Group Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brad Stewart"
+    },
+    {
+      "position": 77,
+      "title": "Ivy B. - Seattle, Washington, United States",
+      "link": "https://www.linkedin.com/in/ivybarley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ivybarley&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECF4QAQ",
+      "displayed_link": "29.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36bc3c231ec5c46bf88e6605a609418652.png",
+      "snippet": "Ivy B. Seattle, Washington, United States. 30K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Ivy B."
+    },
+    {
+      "position": 78,
+      "title": "Sangya Singh - Microsoft",
+      "link": "https://www.linkedin.com/in/sangyas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sangyas&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECHQQAQ",
+      "displayed_link": "7.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36d6836816e020d370b861544af367a01f.png",
+      "snippet": "Sangya Singh. Microsoft Stanford University Graduate School of Business. Bellevue, Washington, United States. 8K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sangya Singh"
+    },
+    {
+      "position": 79,
+      "title": "Abhay Parasnis - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/abhayparasnis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/abhayparasnis&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECHcQAQ",
+      "displayed_link": "5.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe360a74f9791a0f59aeb4fb976d3a70c792.png",
+      "snippet": "Founder & CEO @Typeface.ai - Typeface is the generative AI application to supercharge… · United States. 500+ connections on LinkedIn. View Abhay Parasnis' ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "United States"
+      ],
+      "source": "LinkedIn · Abhay Parasnis"
+    },
+    {
+      "position": 80,
+      "title": "Karen Lobo - Business Program Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/karen-lobo-37402a209",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/karen-lobo-37402a209&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECHkQAQ",
+      "displayed_link": "90+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe363197fbb17b738d0ffb0bcb86a818bf03.png",
+      "snippet": "Sammamish, Washington, United States. Business Owner. The Cake Concept. 2010 - 2017 7 years. Sammamish, Washington, United States. Tata Consultancy Services ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Owner",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sammamish, Washington, United States",
+            "Business Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Karen Lobo"
+    },
+    {
+      "position": 81,
+      "title": "Shereef Bishay - Founder - Zomes",
+      "link": "https://www.linkedin.com/in/shereefbishay",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shereefbishay&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECHoQAQ",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe368fd0b9056594ca6833cb057bce817492.png",
+      "snippet": "Co-founder. BetterMeans. May 2009 - Aug 2011 2 years 4 months. Better Means ... Microsoft Graphic. Senior Software Developer. Microsoft. Sep 2007 - Mar 2008 ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Oakland, California, United States",
+            "Founder",
+            "Zomes"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shereef Bishay"
+    },
+    {
+      "position": 82,
+      "title": "Shaloo Garg - Microsoft",
+      "link": "https://www.linkedin.com/in/shaloo-garg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shaloo-garg&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCIABEAE",
+      "displayed_link": "18.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36fd573ac3b2b24c329fff72eb7fc745cd.png",
+      "snippet": "Shaloo Garg. Microsoft. Palo Alto, California, United States. 18K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Palo Alto, California, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shaloo Garg"
+    },
+    {
+      "position": 83,
+      "title": "Ankita Mishra - Microsoft",
+      "link": "https://www.linkedin.com/in/ankitamishra04",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ankitamishra04&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECH8QAQ",
+      "displayed_link": "44.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36f2a439498a07f0caa5e1024bc6bb48c2.png",
+      "snippet": "... Microsoft · University of Arizona ... Ankita Mishra. Microsoft University of Arizona - Eller College of Management. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ankita Mishra"
+    },
+    {
+      "position": 84,
+      "title": "Kettianne Daros, MBA - Senior Manager, Organization ...",
+      "link": "https://www.linkedin.com/in/kettiannedaros",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kettiannedaros&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCJIBEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3621d66ec613e4ac0ddccee92171ff2f2f.png",
+      "snippet": "Talent, Learning & Organization Development Leader | Co-Founder | Board Member | Speaker | Microsoft, Meta, Deloitte, Oracle ... Chicago, Illinois, United States.",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chicago, Illinois, United States",
+            "Senior Manager, Organization Development",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kettianne Daros, MBA"
+    },
+    {
+      "position": 85,
+      "title": "Mike Johnson - Microsoft & Google Cloud Partner/MSP ...",
+      "link": "https://www.linkedin.com/in/mikejohnsonhouston",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mikejohnsonhouston&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCJEBEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36459c372fc31465b821bc2c8e05202324.png",
+      "snippet": "Houston, Texas, United States. 3K followers 500+ connections. See your mutual ... Microsoft & Google Cloud Partner/MSP/Reseller | Partner & Co-Founder.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft",
+        "Co-Founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Houston, Texas, United States",
+            "Microsoft & Google Cloud Partner/MSP/Reseller | Partner & Co-Founder",
+            "Serverless Solutions LLC"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Johnson"
+    },
+    {
+      "position": 86,
+      "title": "Leo Olebe - Microsoft",
+      "link": "https://www.linkedin.com/in/leoolebe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/leoolebe&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCJwBEAE",
+      "displayed_link": "8.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3688ff0bf078d7a0d18140815eacb9af96.png",
+      "snippet": "Experience · Microsoft Graphic · Microsoft. San Francisco Bay Area · - · - · - · - · - · -. San Francisco Bay Area · -. Mountain View, California, United States ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Leo Olebe"
+    },
+    {
+      "position": 87,
+      "title": "Raihan Ahmed - Microsoft",
+      "link": "https://www.linkedin.com/in/raihanahmed",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/raihanahmed&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCKEBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36c53fcd75ea4349e189ebba549d342cd3.png",
+      "snippet": "Strategy and operations advisor with international experience in Fortune 500 company… · Microsoft ... Houston, Texas, United States. -. Houston, Texas, United ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Houston",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Raihan Ahmed"
+    },
+    {
+      "position": 88,
+      "title": "Kim Scott - Menlo Park, California, United States",
+      "link": "https://www.linkedin.com/in/kimm4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kimm4&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCKoBEAE",
+      "displayed_link": "96.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe363d7839966388b0e5c6e94735c4096c79.png",
+      "snippet": "Kim Scott. Menlo Park, California, United States. 97K followers 500+ ... Jul 1999 - Present 25 years 9 months. Disaster and Humanitarian Relief ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Present"
+      ],
+      "source": "LinkedIn · Kim Scott"
+    },
+    {
+      "position": 89,
+      "title": "Matt Schulman - Founder and CEO - Pave",
+      "link": "https://www.linkedin.com/in/matt-schulman-15911861",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matt-schulman-15911861&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCK4BEAE",
+      "displayed_link": "14.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe364bed428e37f5cca196d6ded222b53a75.png",
+      "snippet": "CEO, Founder at Pave | Comp Nerd. Pave University of Pennsylvania - The Wharton School. San Francisco, California, United States ... Microsoft. May 2014 - Aug ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "United States",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Founder and CEO",
+            "Pave"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Schulman"
+    },
+    {
+      "position": 90,
+      "title": "Dave Buchthal - Partner Group Manager - Microsoft Digital ...",
+      "link": "https://www.linkedin.com/in/dave-buchthal",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dave-buchthal&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCLIBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36198e1849d85cf4e8ab552dd18fffc6ab.png",
+      "snippet": "Partner Group Manager - Microsoft Employee Experience. Microsoft University of Michigan. Kirkland, Washington, United States. 1K followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Group Manager",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Partner Group Manager",
+            "Microsoft Digital Employee Experience",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dave Buchthal"
+    },
+    {
+      "position": 91,
+      "title": "Jeff Weiner - Executive Chairman",
+      "link": "https://www.linkedin.com/in/jeffweiner08",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeffweiner08&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCLgBEAE",
+      "displayed_link": "10.4M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36188389b458d2a40091fa9e6420f93b17.png",
+      "snippet": "... co-founder of The Compassion Project, whose mission is to ensure compassion ... United States · 500+ connections on LinkedIn. View Jeff Weiner's ...",
+      "snippet_highlighted_words": [
+        "co-founder",
+        "United States"
+      ],
+      "source": "LinkedIn · Jeff Weiner"
+    },
+    {
+      "position": 92,
+      "title": "Akosua Boadi-Agyemang - Microsoft",
+      "link": "https://www.linkedin.com/in/akosuaba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/akosuaba&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCLsBEAE",
+      "displayed_link": "100K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe362db742791ec11b488290fc42cc616957.png",
+      "snippet": "A Senior Marketing & Brand Strategy Lead for Global Events at Microsoft currently… · Microsoft · Miami University · United States · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Akosua Boadi-Agyemang"
+    },
+    {
+      "position": 93,
+      "title": "Clint Williams - Microsoft",
+      "link": "https://www.linkedin.com/in/clintwilliams1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/clintwilliams1&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCMgBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe364220ac3f452e76a135ad693fe43ba52f.png",
+      "snippet": "Experience: Microsoft · Education: University of Newcastle · Location: San ... Experience. Microsoft Graphic. Microsoft. United States. -. Sydney, Australia ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Diego Metropolitan Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Clint Williams"
+    },
+    {
+      "position": 94,
+      "title": "Steven Ickman - Co-Founder & Chief Architect - Awarity.ai",
+      "link": "https://www.linkedin.com/in/steven-ickman-8961a44",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/steven-ickman-8961a44&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCMkBEAE",
+      "displayed_link": "430+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36564751cd6de84eb5bae14f6342d3839a.png",
+      "snippet": "Co-Founder & Chief Architect. Awarity.ai. Dec 2023 - Present 1 year 4 months. Seattle, Washington, United States. Building advanced AI technologies to power ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Steven Ickman"
+    },
+    {
+      "position": 95,
+      "title": "Addy First - Co-Founder, COO - Quarter20 Inc.",
+      "link": "https://www.linkedin.com/in/addyfirst",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/addyfirst&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoFCMUBEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3609b6f84adb2ab8103890fd0cf9e2936f.png",
+      "snippet": "Co-Founder & COO at Quarter20 · I spent my career watching technology get ... Microsoft. Jun 2020 - Sep 2020 4 months. As a PMM on Microsoft Teams, I ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "quarter_inc": 20
+          },
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Co-Founder, COO",
+            "Quarter20 Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Addy First"
+    },
+    {
+      "position": 96,
+      "title": "Tameka M. - Microsoft",
+      "link": "https://www.linkedin.com/in/tameka-mcnair",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tameka-mcnair&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECCcQAQ",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3641a7dd6f1ccfa47df16eb91da1735d80.png",
+      "snippet": "Experience: Microsoft · Education: Anderson University · Location: United States ... Co-Founder. 2017 - Present. Tameka McNair and Kelly Snyder collaborated ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Co-Founder",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tameka M."
+    },
+    {
+      "position": 97,
+      "title": "Vishal Amin - Microsoft",
+      "link": "https://www.linkedin.com/in/vishaljamin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vishaljamin&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECC4QAQ",
+      "displayed_link": "31.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe362dc200eeb5c6fd1ae6dd7574e863cadc.png",
+      "snippet": "Vishal Amin. Microsoft USC Marshall School of Business. Carlsbad, California, United States ... Vishal is the founder of Spades Institute, a National Security ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Carlsbad, California, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vishal Amin"
+    },
+    {
+      "position": 98,
+      "title": "Zachary Holmes - Principal TPM Group Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/zachholmes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/zachholmes&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECCgQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe36db4f58710d9f5b8dfade96a99f368fd5.png",
+      "snippet": "Microsoft Graphic. Principal TPM Group Manager. Microsoft. Aug 2023 - Present 1 year 8 months. Redmond, Washington, United States. Engineering owner for ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Group Manager",
+        "Microsoft",
+        "Present",
+        "United States",
+        "owner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Principal TPM Group Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Zachary Holmes"
+    },
+    {
+      "position": 99,
+      "title": "David Adams - Startup Founder - Microsoft",
+      "link": "https://ng.linkedin.com/in/david-adams-692b69277",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ng.linkedin.com/in/david-adams-692b69277&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECCkQAQ",
+      "displayed_link": "9.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3609a0267b0358551689d416afcbde2ea6.png",
+      "snippet": "... Microsoft · Covenant University · Abuja · 500+ connections on LinkedIn. View ... Startup Founder. Microsoft. Sep 2024 - Present 7 months. United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Founder",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Abuja, Federal Capital Territory, Nigeria",
+            "Startup Founder",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Adams"
+    },
+    {
+      "position": 100,
+      "title": "Rotem Weiss - Founder & CEO - Tavily",
+      "link": "https://www.linkedin.com/in/rotem-weiss",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rotem-weiss&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQFnoECCsQAQ",
+      "displayed_link": "6.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf915984db449fee352e2/images/13675bdffb623ee2c857871cddcafe3677bc27246a74cfd4951fb93bc367852a.png",
+      "snippet": "Founder & CEO. Tavily. Oct 2023 - Present 1 year 6 months. New York, New York, United States. The Bulletin Graphic. Co-Founder & CTO. The Bulletin. Jan 2023 ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Present",
+        "United States",
+        "Co-Founder"
+      ],
+      "source": "LinkedIn · Rotem Weiss"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=FfndZ5iLPJyf5NoP_LTl0Qk&start=100&sa=N&sstk=Af40H4XspFQy8RsNvqRvVmQPat3RfPBRpByODW0ZMr4ebFIxO2bsCCjnRSp61LTvr5z7gUwcKRKYtMR8y7jN7-YShwtgtPf8kInRWQ&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQ8NMDegUIuAIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=FfndZ5iLPJyf5NoP_LTl0Qk&start=100&sa=N&sstk=Af40H4XspFQy8RsNvqRvVmQPat3RfPBRpByODW0ZMr4ebFIxO2bsCCjnRSp61LTvr5z7gUwcKRKYtMR8y7jN7-YShwtgtPf8kInRWQ&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQ8tMDegUIuAIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=FfndZ5iLPJyf5NoP_LTl0Qk&start=200&sa=N&sstk=Af40H4XspFQy8RsNvqRvVmQPat3RfPBRpByODW0ZMr4ebFIxO2bsCCjnRSp61LTvr5z7gUwcKRKYtMR8y7jN7-YShwtgtPf8kInRWQ&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQ8tMDegUIuAIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=FfndZ5iLPJyf5NoP_LTl0Qk&start=300&sa=N&sstk=Af40H4XspFQy8RsNvqRvVmQPat3RfPBRpByODW0ZMr4ebFIxO2bsCCjnRSp61LTvr5z7gUwcKRKYtMR8y7jN7-YShwtgtPf8kInRWQ&ved=2ahUKEwjY6f7PrJyMAxWcD1kFHXxaOZoQ8tMDegUIuAIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=300"
+    }
+  }
+}

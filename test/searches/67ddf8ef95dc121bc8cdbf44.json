@@ -1,0 +1,2257 @@
+{
+  "search_metadata": {
+    "id": "67ddf8ef95dc121bc8cdbf44",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/72921f5ce5747c5d/67ddf8ef95dc121bc8cdbf44.json",
+    "created_at": "2025-03-21 23:40:31 UTC",
+    "processed_at": "2025-03-21 23:40:31 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/72921f5ce5747c5d/67ddf8ef95dc121bc8cdbf44.html",
+    "total_time_taken": 1.68
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"United States\" AND (current OR present) AND (\"Chief\" OR \"CXO\" OR \"Director\" OR \"Senior Director\" OR \"Executive Director\" OR \"Managing Director\" OR \"Board Director\" OR \"Regional Director\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"United States\" AND (current OR present) AND (\"Chief\" OR \"CXO\" OR \"Director\" OR \"Senior Director\" OR \"Executive Director\" OR \"Managing Director\" OR \"Board Director\" OR \"Regional Director\")",
+    "total_results": 11000000,
+    "time_taken_displayed": 0.66,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "John Cirone - Senior Director, Global Employee and ...",
+      "link": "https://www.linkedin.com/in/johncirone",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/johncirone&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECBUQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575a1a44a2eb3a02a6ce848ffddd648b6f3.png",
+      "snippet": "John Cirone. Senior Director, Global Employee and Executive Communications at Microsoft. Microsoft Cornell University. United States.",
+      "snippet_highlighted_words": [
+        "Senior Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Senior Director, Global Employee and Executive Communications",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Cirone"
+    },
+    {
+      "position": 2,
+      "title": "Satya Nadella - Chairman and CEO - Microsoft",
+      "link": "https://www.linkedin.com/in/satyanadella",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/satyanadella&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECBQQAQ",
+      "displayed_link": "11.3M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575df03fc9761f1c516baca07ba594f8342.png",
+      "snippet": "Chairman and CEO at Microsoft. Microsoft The University of Chicago Booth School of Business. Redmond, Washington, United States. 11M followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Satya Nadella"
+    },
+    {
+      "position": 3,
+      "title": "Kathleen Hogan - EVP, Office of Strategy and Transformation",
+      "link": "https://www.linkedin.com/in/kathleenthogan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kathleenthogan&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECBYQAQ",
+      "displayed_link": "153.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575cc96098bda259c4b59eca69ba95ccc88.png",
+      "snippet": "... United States · 500+ connections on LinkedIn. View Kathleen Hogan's ... Microsoft Chief People Officer: We are Experiencing a Global Human Energy Crisis.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft Chief"
+      ],
+      "source": "LinkedIn · Kathleen Hogan"
+    },
+    {
+      "position": 4,
+      "title": "Steve Henry - Director, Customer Experience & Success",
+      "link": "https://www.linkedin.com/in/steve-henry",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/steve-henry&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECB4QAQ",
+      "displayed_link": "690+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285751854fccb00e47d8b54726058f90db113.png",
+      "snippet": "Director, Customer Experience & Success at Microsoft. Microsoft California Polytechnic State University-San Luis Obispo. Bellevue, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Director, Customer Experience & Success",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steve Henry"
+    },
+    {
+      "position": 5,
+      "title": "Brad Smith - President - Microsoft",
+      "link": "https://www.linkedin.com/in/bradsmi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bradsmi&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECBcQAQ",
+      "displayed_link": "339.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575aa2d3e7f40062110f91e090d706e5b75.png",
+      "snippet": "Vice Chair and President at Microsoft Corporation. Microsoft Columbia Law School. Bellevue, Washington, United States. 340K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Brad Smith"
+    },
+    {
+      "position": 6,
+      "title": "Chris Capossela - Member of the Board of Directors",
+      "link": "https://www.linkedin.com/in/chriscapossela",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chriscapossela&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECBgQAQ",
+      "displayed_link": "181.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575e34d52d2523893c3baf12af7a635bc46.png",
+      "snippet": "... Chief Marketing Officer at Microsoft. (USTA) United States Tennis Association. Seattle, Washington, United States. 182K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Microsoft",
+        "United States",
+        "United States"
+      ],
+      "source": "LinkedIn · Chris Capossela"
+    },
+    {
+      "position": 7,
+      "title": "Sophie Byrne - Chief of Staff - Microsoft",
+      "link": "https://www.linkedin.com/in/sophiebyrne",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sophiebyrne&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECBkQAQ",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575983802c8efd6a4d93944e63bd348553a.png",
+      "snippet": "Chief of Staff at Microsoft · Each role I've taken throughout my time at ... Speech writer for Managing Director. Developed exec maturity and comfort ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Microsoft",
+        "Managing Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Chief of Staff",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sophie Byrne"
+    },
+    {
+      "position": 8,
+      "title": "Dave Kane - Director Marketing and Communications",
+      "link": "https://www.linkedin.com/in/davekane23",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/davekane23&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECCkQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575f55ae0cd714ab71e730ca9b852883acc.png",
+      "snippet": "Director Marketing and Communications. Microsoft. Aug 2022 - Present 2 years 8 months. Redmond, Washington, United States. At Microsoft, my role as Director of ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Director Marketing and Communications",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dave Kane"
+    },
+    {
+      "position": 9,
+      "title": "Todd Payne - Chief of Staff & Senior Director, US ...",
+      "link": "https://www.linkedin.com/in/todd-payne-92051a189",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/todd-payne-92051a189&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCNcBEAE",
+      "displayed_link": "10+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285757b22ef936293c0c407ce339862edd4b0.png",
+      "snippet": "Chief of Staff & Senior Director, US Government Affairs. Microsoft. Apr 2002 ; Personal Assistant. US Senator John Warner. 2000 ; Special Assistant. United States ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Senior Director",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Alexandria, Virginia, United States",
+            "Chief of Staff & Senior Director, US Government Affairs",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Todd Payne"
+    },
+    {
+      "position": 10,
+      "title": "Michael Dent - Senior Director - Leadership Development",
+      "link": "https://www.linkedin.com/in/michael-dent-9186a24",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-dent-9186a24&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECCwQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575656cfceb4bcb27e8754c4066648a57c5.png",
+      "snippet": "Michael Dent. Senior Director - Leadership Development. Microsoft University of Leeds. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Senior Director",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Senior Director",
+            "Leadership Development",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Dent"
+    },
+    {
+      "position": 11,
+      "title": "Jeff Buckeye - Chief of Staff, Office of the Microsoft ...",
+      "link": "https://www.linkedin.com/in/jeffbuckeye",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeffbuckeye&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCIUBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575bad3e9e351defd6105763dc14e50b134.png",
+      "snippet": "Chief of Staff, Office of the Microsoft Americas President. Microsoft Harvard Business School Executive Education. Redmond, Washington, United States. 3K ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Chief of Staff, Office of the Microsoft Americas President",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff Buckeye"
+    },
+    {
+      "position": 12,
+      "title": "Lee Johnson, SPHR - Sr. Director Digital Transformation ...",
+      "link": "https://www.linkedin.com/in/link2leej",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/link2leej&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCOcBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285753529b2642634aa8e5ce878b668a2945f.png",
+      "snippet": "Lee Johnson, SPHR. Sr. Director, Digital Transformation Programs at Microsoft. Microsoft. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Sr. Director Digital Transformation Programs",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lee Johnson, SPHR"
+    },
+    {
+      "position": 13,
+      "title": "Mike McGoldrick - Senior Director of Engineering - Microsoft",
+      "link": "https://www.linkedin.com/in/mikemcgoldrick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mikemcgoldrick&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCIoCEAE",
+      "displayed_link": "690+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575885af274e93b7976e6333832489c6e04.png",
+      "snippet": "Senior Director of Data, Release, and Quality at Microsoft AI. Microsoft University of Minnesota-Twin Cities. Seattle, Washington, United States. 690 followers ...",
+      "snippet_highlighted_words": [
+        "Senior Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Senior Director of Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike McGoldrick"
+    },
+    {
+      "position": 14,
+      "title": "Steve Clayton - Microsoft",
+      "link": "https://www.linkedin.com/in/stevecla",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stevecla&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECDMQAQ",
+      "displayed_link": "19.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857589fdc5db9c64759d8502107a84cfb5c5.png",
+      "snippet": "Redmond, Washington, United States. -. Seattle, Washington, United States ... The Remarkable Story of Microsoft's Chief Storyteller: “Frank, You Raise Me Up”.",
+      "snippet_highlighted_words": [
+        "United States",
+        "United States",
+        "Microsoft's Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steve Clayton"
+    },
+    {
+      "position": 15,
+      "title": "Alysa Taylor - Microsoft",
+      "link": "https://www.linkedin.com/in/alysa-taylor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alysa-taylor&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECGQQAQ",
+      "displayed_link": "25.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575cfc1c36cae772da929e78e8b30e9ed2d.png",
+      "snippet": "As Chief Marketing Officer, Commercial Cloud & AI at Microsoft, I lead at ... Redmond, Washington, United States. -. -. -. Redmond, WA. -. Bellevue, WA ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alysa Taylor"
+    },
+    {
+      "position": 16,
+      "title": "Tracy Galloway - Microsoft",
+      "link": "https://www.linkedin.com/in/trgalloway",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/trgalloway&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCJUBEAE",
+      "displayed_link": "18.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575c3089ec676a2d32a2427cdb29c0d5979.png",
+      "snippet": "Tracy Galloway - Microsoft - University of Michigan - About - As the Microsoft Americas Chief Operating Officer, I oversee the go-to-market strategy.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Breckenridge, Colorado, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tracy Galloway"
+    },
+    {
+      "position": 17,
+      "title": "Sarah Bond - Microsoft",
+      "link": "https://www.linkedin.com/in/sarahrbond",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarahrbond&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCLMBEAE",
+      "displayed_link": "50.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575738bd22a6de3def67af35e01b07fff98.png",
+      "snippet": "Sarah Bond is the President of Xbox, managing the P&L for Microsoft's… · Experience: Microsoft ... United States. -. Redmond, WA. -. Greater Seattle Area. -.",
+      "snippet_highlighted_words": [
+        "Microsoft's",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Bond"
+    },
+    {
+      "position": 18,
+      "title": "Christopher Young - Microsoft",
+      "link": "https://www.linkedin.com/in/christopheryoung4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christopheryoung4&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCOYBEAE",
+      "displayed_link": "47.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857509633cd29f7a2d7a8fba92732ee23501.png",
+      "snippet": "Christopher Young. Microsoft. Santa Clara, California, United States. 47K followers 500+ connections. See your mutual connections. View mutual connections with ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Santa Clara, California, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christopher Young"
+    },
+    {
+      "position": 19,
+      "title": "Brian Wesolowski - Director, Public Affairs - Microsoft",
+      "link": "https://www.linkedin.com/in/brian-wesolowski-7054439",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brian-wesolowski-7054439&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCP4BEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285755f7a78ea5bf2e718cb804355999af7d0.png",
+      "snippet": "Chief of Staff & Director of Communications ... “I had the pleasure to work with Brian when he was the Executive Director of Communications in Qatar's ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Director",
+        "Executive Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Director, Public Affairs",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brian Wesolowski"
+    },
+    {
+      "position": 20,
+      "title": "Asha Sharma - Microsoft",
+      "link": "https://www.linkedin.com/in/aboutasha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aboutasha&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCIsCEAE",
+      "displayed_link": "81.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575ca6434767053c166dc2a89a0c14c7c1f.png",
+      "snippet": "Asha Sharma. Microsoft University of Minnesota - Carlson School of Management. United States. 82K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Asha Sharma"
+    },
+    {
+      "position": 21,
+      "title": "Gayle Papadopoulos - Executive Director, Capital Markets ...",
+      "link": "https://www.linkedin.com/in/gaylepapa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gaylepapa&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCKcCEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285754761d845f605f13d7f22e581b851329d.png",
+      "snippet": "Executive Director @ Microsoft | Driving Capital Markets Transformation. Microsoft Louisiana State University. Florida, United States. 3K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Executive Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Gayle Papadopoulos"
+    },
+    {
+      "position": 22,
+      "title": "Takeshi Numoto - Microsoft",
+      "link": "https://www.linkedin.com/in/takeshinumoto",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/takeshinumoto&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECDAQAQ",
+      "displayed_link": "20.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575524b01a2d2cf491588e3d7961e4c1de1.png",
+      "snippet": "As Microsoft's Chief Marketing Officer, I lead the company's global marketing efforts… · ... Redmond, Washington, United States. -. -. Redmond, Washington ...",
+      "snippet_highlighted_words": [
+        "Microsoft's Chief",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Takeshi Numoto"
+    },
+    {
+      "position": 23,
+      "title": "Michelle L. Hudson - Director Operational Excellence",
+      "link": "https://www.linkedin.com/in/michelle-l-hudson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michelle-l-hudson&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECEsQAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285759413d9d393648d7e559982f54b6d9392.png",
+      "snippet": "Director Operational Excellence at Microsoft · IT Director with a ... Microsoft. Aug 2020 - Present 4 years 8 months. Chicago, Illinois, United States ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Director",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Chicago Area",
+            "Director Operational Excellence",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michelle L. Hudson"
+    },
+    {
+      "position": 24,
+      "title": "Lindsay-Rae McIntyre - Microsoft",
+      "link": "https://www.linkedin.com/in/lindsayraemcintyre",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lindsayraemcintyre&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECGMQAQ",
+      "displayed_link": "41.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285750d75b4eb5aff094fb772c933975410ee.png",
+      "snippet": "As Chief Diversity Officer and Corporate Vice President of Talent Development at… · Microsoft ... Redmond, Washington, United States. 41K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lindsay-Rae McIntyre"
+    },
+    {
+      "position": 25,
+      "title": "Melanie Nakagawa - Microsoft",
+      "link": "https://www.linkedin.com/in/melanie-nakagawa-2781505",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/melanie-nakagawa-2781505&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECHwQAQ",
+      "displayed_link": "82.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575f76b26b8678fa3d633c813aa92b06993.png",
+      "snippet": "Melanie Nakagawa. Microsoft American University Washington College of Law. Redmond, Washington, United States. 82K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Melanie Nakagawa"
+    },
+    {
+      "position": 26,
+      "title": "Amy Coleman - Executive Vice President, Chief People ...",
+      "link": "https://www.linkedin.com/in/amycoleman19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amycoleman19&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCJYBEAE",
+      "displayed_link": "12.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285752c91522da937fc7988309de2e61ed2e1.png",
+      "snippet": "As executive vice president and chief human resources officer, Amy Coleman is focused on empowering 220,000+ global employees to achieve Microsoft's mission ...",
+      "snippet_highlighted_words": [
+        "chief",
+        "Microsoft's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Executive Vice President, Chief People Officer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amy Coleman"
+    },
+    {
+      "position": 27,
+      "title": "Sarah Sobolewski - Director, Communications, Artificial ...",
+      "link": "https://www.linkedin.com/in/sarahdough",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarahdough&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCKABEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575d68a250c7f25daaba894cf9b8f648c21.png",
+      "snippet": "Microsoft Graphic. Director, Communications, Artificial Intelligence (AI). Microsoft. Sep 2023 - Present 1 year 7 months. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Director",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Director, Communications, Artificial Intelligence (AI)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Sobolewski"
+    },
+    {
+      "position": 28,
+      "title": "Robin Lerner - Senior Director, Academic Engagement",
+      "link": "https://www.linkedin.com/in/robin-lerner-191665a3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robin-lerner-191665a3&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCLkBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857575628cc17b662123596082c9ad68b47f.png",
+      "snippet": "Senior Director, Academic Engagement, Microsoft · A senior global affairs leader with 20 years' experience growing an international non-profit, ...",
+      "snippet_highlighted_words": [
+        "Senior Director",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas Metropolitan Area",
+            "Senior Director, Academic Engagement",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robin Lerner"
+    },
+    {
+      "position": 29,
+      "title": "David Campbell - Director, Skilling & Insights - Microsoft",
+      "link": "https://www.linkedin.com/in/david-l-campbell",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-l-campbell&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCNQBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857522e41eecd340b656753133e288257b2b.png",
+      "snippet": "David Campbell. Director, Skilling & Insights. Microsoft Cornell University. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Director, Skilling & Insights",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Campbell"
+    },
+    {
+      "position": 30,
+      "title": "Julie Brill - Chief Privacy Officer and Corporate Vice ...",
+      "link": "https://www.linkedin.com/in/julie-brill",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/julie-brill&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCO4BEAE",
+      "displayed_link": "17.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857522cf8e9599291d6db73dfaad8c888bec.png",
+      "snippet": "As Microsoft's Chief Privacy Officer and Corporate Vice President of Global Privacy, Safety, and Regulatory Affairs, I lead the company's work in the tech ...",
+      "snippet_highlighted_words": [
+        "Microsoft's Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Chief Privacy Officer and Corporate Vice President Global Privacy, Safety, and Regulatory Affairs",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julie Brill"
+    },
+    {
+      "position": 31,
+      "title": "Bonita A. - Director of Operations, Office of the Chairman ...",
+      "link": "https://www.linkedin.com/in/bonita-armstrong",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bonita-armstrong&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCPABEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285758caa218f42657797a4fdb4506b3a976b.png",
+      "snippet": "Director of Operations, Office of the Chairman and CEO. Microsoft. Sep 2023 - Present 1 year 7 months. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Director of Operations, Office of the Chairman and CEO",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bonita A."
+    },
+    {
+      "position": 32,
+      "title": "Arthur Dahl - SR Director & Chief of Staff - Microsoft",
+      "link": "https://www.linkedin.com/in/arthurbdahl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/arthurbdahl&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCIECEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575aa714fc0b987e40c2853e351f88f53e0.png",
+      "snippet": "Experience. Microsoft. 28 years 2 months. Microsoft Graphic. SR Director & Chief of Staff. Microsoft. Oct 2021 - Present 3 years 6 months. Microsoft Graphic ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Director",
+        "Chief",
+        "Microsoft",
+        "Present",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cumming, Georgia, United States",
+            "SR Director & Chief of Staff",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Arthur Dahl"
+    },
+    {
+      "position": 33,
+      "title": "Marcel O. - Director, Data Analytics - Microsoft",
+      "link": "https://www.linkedin.com/in/marcelobrien",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marcelobrien&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCIwCEAE",
+      "displayed_link": "980+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575edb699093ab5307fc6cfd9f94ee6dc4b.png",
+      "snippet": "Director, Data Analytics. Microsoft. Jan 2023 - Present 2 years 3 months. Denver, Colorado, United States. As the Director of People Analytics for Microsoft's ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Director",
+        "Microsoft's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Denver Metropolitan Area",
+            "Director, Data Analytics",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marcel O."
+    },
+    {
+      "position": 34,
+      "title": "Melissa Boone - Microsoft",
+      "link": "https://www.linkedin.com/in/melissa-boone",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/melissa-boone&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCJECEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575531b7bd550808f0fabf1fb5b266dd1f2.png",
+      "snippet": "Melissa Boone, Microsoft, Columbia University in the City of New York, About, Hi! Currently I'm the chief of staff at Halo Studios, the stewards of the Halo ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Melissa Boone"
+    },
+    {
+      "position": 35,
+      "title": "Jessica Rafuse - Director of Strategic Partnerships & Policy",
+      "link": "https://www.linkedin.com/in/jessica-rafuse",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jessica-rafuse&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCKACEAE",
+      "displayed_link": "5.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575b23a09ee72c6e58ec410b25158d0ade3.png",
+      "snippet": "Experience · Microsoft Graphic. Director of Strategic Partnerships & Policy. Microsoft. Sep 2020 - Present 4 years 7 months. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Director",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Issaquah, Washington, United States",
+            "Director of Strategic Partnerships & Policy",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jessica Rafuse"
+    },
+    {
+      "position": 36,
+      "title": "Scott Bounds - Sr Director, Azure Data & AI - Microsoft",
+      "link": "https://www.linkedin.com/in/scott-bounds",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/scott-bounds&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCLQCEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857553445a94a185de4305eaab34c849535a.png",
+      "snippet": "Microsoft Graphic. Sr Director, Azure Data & AI. Microsoft. Jan 1995 - Present 30 years 3 months. New York, NY. Sr Director, Azure Data & AI (2023-Present)",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Director",
+        "Microsoft",
+        "Present",
+        "Director",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Sr Director, Azure Data & AI",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Scott Bounds"
+    },
+    {
+      "position": 37,
+      "title": "Mustafa Suleyman - CEO, Microsoft AI",
+      "link": "https://www.linkedin.com/in/mustafa-suleyman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mustafa-suleyman&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCK0CEAE",
+      "displayed_link": "308K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575a5aefb088f02423074b8da4e6642748a.png",
+      "snippet": "Experience · CEO, Microsoft AI · Non Executive Director · Co-founder & CEO · Venture Partner · VP, AI Product Management & AI Policy · Co-founder & Head of Applied AI.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Executive Director"
+      ],
+      "source": "LinkedIn · Mustafa Suleyman"
+    },
+    {
+      "position": 38,
+      "title": "Mariah Kennedy - (Global) Director Energy Policy - Microsoft",
+      "link": "https://www.linkedin.com/in/mariahkennedy-",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mariahkennedy-&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECC0QAQ",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285754e4de9bf8c4b21cfb6d22dc72e522a52.png",
+      "snippet": "... Board Director. Microsoft University of Oregon School of Law. United States. 3K followers 500+ connections. See your mutual connections. View mutual connections ...",
+      "snippet_highlighted_words": [
+        "Board Director",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Mariah Kennedy"
+    },
+    {
+      "position": 39,
+      "title": "Tu T. - Director of Federal Programs - Microsoft",
+      "link": "https://www.linkedin.com/in/tu-tran-msft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tu-tran-msft&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECE4QAQ",
+      "displayed_link": "5.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285758351993a233a6eebed45c36c458f0316.png",
+      "snippet": "Experience · Director of Federal Programs · Military @ Microsoft ERG Leader (Collateral Role) · Business Program Manager (Collateral Role).",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Tu T."
+    },
+    {
+      "position": 40,
+      "title": "Lorraine Bardeen - Microsoft",
+      "link": "https://www.linkedin.com/in/lorraine-bardeen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lorraine-bardeen&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECEoQAQ",
+      "displayed_link": "11.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285752e59b0f541b3724c7f8319681e3bf531.png",
+      "snippet": "I am the Corporate Vice President and Chief Technology Officer for Microsoft's worldwide… · ... I supported the Executive Director of LWT as an Advisory Board ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Microsoft's",
+        "Executive Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lorraine Bardeen"
+    },
+    {
+      "position": 41,
+      "title": "Meghan Bergeron - Director of Customer Success - Microsoft",
+      "link": "https://www.linkedin.com/in/meghanbergeron",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/meghanbergeron&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECEkQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857534a94c67d610a2078f9141a186b577a5.png",
+      "snippet": "... current and new opportunities. I ... Director of Customer Success, Microsoft Education. Microsoft University of New Orleans. Kenner, Louisiana, United States.",
+      "snippet_highlighted_words": [
+        "current",
+        "Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Meghan Bergeron"
+    },
+    {
+      "position": 42,
+      "title": "John Scott - Director, Federal Programs - Microsoft",
+      "link": "https://www.linkedin.com/in/stljds",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stljds&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECGcQAQ",
+      "displayed_link": "120+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285754ddc0640b76b7df6b1203cd77ceab31f.png",
+      "snippet": "Director, Federal Programs | Generative AI, IT & Business Strategy Alignment. Microsoft. Eureka, Missouri, United States. 120 followers 118 connections. See ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Eureka, Missouri, United States",
+            "Director, Federal Programs",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Scott"
+    },
+    {
+      "position": 43,
+      "title": "Bob Brennecke - Director of Experiences, Games at Microsoft",
+      "link": "https://www.linkedin.com/in/bob-brennecke",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bob-brennecke&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECGYQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285753cd76cd445693e579727d74a28ce88bd.png",
+      "snippet": "... current Director of Experiences of Games at Microsoft, my role centers around elevating the Microsoft ... Seattle, Washington, United States. 2K followers ...",
+      "snippet_highlighted_words": [
+        "current Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Director of Experiences, Games at Microsoft",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bob Brennecke"
+    },
+    {
+      "position": 44,
+      "title": "Mark Russinovich - Microsoft",
+      "link": "https://www.linkedin.com/in/markrussinovich",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/markrussinovich&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCIABEAE",
+      "displayed_link": "135.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575db0d3387887b70e155c7ad4d4941347d.png",
+      "snippet": "Mark Russinovich. Microsoft Carnegie Mellon University. Bellevue, Washington, United States ... Chief Architect at CrowdStrike and specializing in OS internals ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Russinovich"
+    },
+    {
+      "position": 45,
+      "title": "Liz Thomas - Director of Public Policy, Digital Safety",
+      "link": "https://www.linkedin.com/in/liz-thomas-14521447",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/liz-thomas-14521447&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECH8QAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575380f057dfa7c8d2224238f585bd68ab2.png",
+      "snippet": "Director of Public Policy, Digital Safety, at Microsoft. Microsoft The Australian National University. Seattle, Washington, United States. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Director of Public Policy, Digital Safety",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Liz Thomas"
+    },
+    {
+      "position": 46,
+      "title": "Julie Munoz Lowe - Sr Director, Marcom at Xbox - Microsoft",
+      "link": "https://www.linkedin.com/in/juliemunozlowe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/juliemunozlowe&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCJsBEAE",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857519d3532c6ed38d517b9bbc35dc67c709.png",
+      "snippet": "Julie Munoz Lowe. Sr Director, Marcom at Xbox. Microsoft UC San Diego. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Sr Director, Marcom at Xbox",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julie Munoz Lowe"
+    },
+    {
+      "position": 47,
+      "title": "David Rhew, M.D. - Microsoft",
+      "link": "https://www.linkedin.com/in/david-rhew-m-d-1832764",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-rhew-m-d-1832764&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCJ0BEAE",
+      "displayed_link": "43.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575b093a90e50ab2e930668a4e97b15fb1b.png",
+      "snippet": "Since August 2019, I have served as Chief Medical Officer & VP Healthcare for Microsoft's… ... Issued March 1, 2007 US United States United States 20070067184-A1.",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Microsoft's",
+        "United States United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Rhew, M.D."
+    },
+    {
+      "position": 48,
+      "title": "Niranjan Deo - Sr. Director, Copilot platform - Microsoft",
+      "link": "https://www.linkedin.com/in/niranjan-deo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/niranjan-deo&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCLABEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575352183bde4a0bf22f89c34dc37322f54.png",
+      "snippet": "Director, Copilot platform @ Microsoft. Microsoft University of Michigan. Redmond, Washington, United States. 2K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Sr. Director, Copilot platform",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Niranjan Deo"
+    },
+    {
+      "position": 49,
+      "title": "Stephen Craig Harris - Technical Director - Microsoft",
+      "link": "https://www.linkedin.com/in/stephen-craig-harris",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephen-craig-harris&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCLYBEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575aeb79333e6d100cf8dd69ac005c1aa78.png",
+      "snippet": "Technical Director @ Microsoft | Veteran · I am almost awkwardly passionate ... United States. Microsoft Graphic. Senior Technical Specialist. Microsoft.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "United States",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Centreville, Virginia, United States",
+            "Technical Director",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Craig Harris"
+    },
+    {
+      "position": 50,
+      "title": "Jonathan Schwantes - Director of Congressional Affairs",
+      "link": "https://www.linkedin.com/in/jonathan-schwantes-wdc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jonathan-schwantes-wdc&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCLwBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575a62845a8e67671f450def0cd0ee7349d.png",
+      "snippet": "Director of Congressional Affairs at Microsoft · Legislative, government ... United States Senate Graphic. General Counsel. United States Senate. Aug 1998 ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Director of Congressional Affairs",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Schwantes"
+    },
+    {
+      "position": 51,
+      "title": "Dave Nobles - Director of Customer Success - Microsoft",
+      "link": "https://www.linkedin.com/in/davenobles",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/davenobles&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCNIBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575bfde2bbbd8c36edb837eb6418e7237ff.png",
+      "snippet": "Dave Nobles. Director of Customer Success. Microsoft Penn State University. Austin, Texas, United States.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Director of Customer Success",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dave Nobles"
+    },
+    {
+      "position": 52,
+      "title": "Kate Plikus - Director of Finance - Microsoft",
+      "link": "https://www.linkedin.com/in/kate-plikus-8432186",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kate-plikus-8432186&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCNMBEAE",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857524519518a7aca8cb723875c1c44aed9c.png",
+      "snippet": "Director of Finance at Microsoft. Microsoft University of California, Los Angeles - The Anderson School of Management. Redmond, Washington, United States. 758 ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Director of Finance",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kate Plikus"
+    },
+    {
+      "position": 53,
+      "title": "Dan Wahlin - Microsoft",
+      "link": "https://www.linkedin.com/in/danwahlin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danwahlin&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCNUBEAE",
+      "displayed_link": "10.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857534ae2bdcd5804b6cd28a76abe5651398.png",
+      "snippet": "Dan Wahlin. Microsoft Brigham Young University. Chandler, Arizona, United States ... Invited to join Microsoft's Regional Director program. The program provides ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Microsoft's Regional Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chandler, Arizona, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Wahlin"
+    },
+    {
+      "position": 54,
+      "title": "Kenny Bowen - Senior Director Sensitive Mission Platforms",
+      "link": "https://www.linkedin.com/in/kennybowenmotivator",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kennybowenmotivator&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCO0BEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857512457ce5a353875a55461694127014f9.png",
+      "snippet": "Experience. Microsoft Graphic. Senior Director Sensitive Mission Platforms. Microsoft. Aug 2020 - Present 4 years 8 months. Reston, Virginia, United States ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Senior Director",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Arlington, Virginia, United States",
+            "Senior Director Sensitive Mission Platforms",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kenny Bowen"
+    },
+    {
+      "position": 55,
+      "title": "Eric Bailey - Global Director - Employee Travel and Devices",
+      "link": "https://www.linkedin.com/in/eric-bailey-bba8486",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/eric-bailey-bba8486&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCO8BEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285751fe64b3f1eb3ba43259c0d15152e9554.png",
+      "snippet": "Global Director - Employee Travel and Devices. Microsoft. Jul 2022 - Present 2 years 9 months. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Global Director",
+            "Employee Travel and Devices",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eric Bailey"
+    },
+    {
+      "position": 56,
+      "title": "Ranveer Chandra - Microsoft",
+      "link": "https://www.linkedin.com/in/ranveer-chandra-79bb9b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ranveer-chandra-79bb9b&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCPEBEAE",
+      "displayed_link": "18.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575222c447e4b9d0eb150db6b9e851f8fd0.png",
+      "snippet": "Ranveer is the Vice President in M365 Copilot and the Chief Technology Officer of… · Experience: Microsoft · Education: Cornell University · Location: ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ranveer Chandra"
+    },
+    {
+      "position": 57,
+      "title": "Manuel Pardavila - Global Business Director - Microsoft",
+      "link": "https://www.linkedin.com/in/manuel-pardavila/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/manuel-pardavila/en&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCOwBEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575919dbf979c91b91a2fb5a3311f3d2224.png",
+      "snippet": "Conduct business strategy sessions with CxO's and Microsoft executives to drive prioritization and acceleration of our customer critical initiatives.",
+      "snippet_highlighted_words": [
+        "CxO's",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Manuel Pardavila"
+    },
+    {
+      "position": 58,
+      "title": "Matt Maloney - Sales Director - Microsoft",
+      "link": "https://www.linkedin.com/in/mattmaloney1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mattmaloney1&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCIICEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575989c7df6b0205d01d7c254a72df1a5b1.png",
+      "snippet": "Sales Director - Strategic Accounts, US Retail & Consumer Goods. Microsoft Washington State University Vancouver. Sammamish, Washington, United States. 2K ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sammamish, Washington, United States",
+            "Sales Director",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Maloney"
+    },
+    {
+      "position": 59,
+      "title": "Nicole Warnatsch - Director, Microsoft Global Operations",
+      "link": "https://www.linkedin.com/in/nicoleberro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nicoleberro&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCIUCEAE",
+      "displayed_link": "540+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857543765db5c517cbc68f2e9a53dd953745.png",
+      "snippet": "Director, Microsoft Global Operations at Carat USA · IIn my current role, I ... United States · 500+ connections on LinkedIn. View Nicole Warnatsch's ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "current",
+        "United States"
+      ],
+      "source": "LinkedIn · Nicole Warnatsch"
+    },
+    {
+      "position": 60,
+      "title": "Jeff Sanders - Microsoft",
+      "link": "https://www.linkedin.com/in/jeffsandersmd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeffsandersmd&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCIgCEAE",
+      "displayed_link": "4.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575dc16994779875b1983fa6bae0d69c65d.png",
+      "snippet": "Jeff Sanders. Microsoft Elon University. Phoenix, Maryland, United States ... Other projects in process, as well as support as a backup for the Communication ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Phoenix, Maryland, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff Sanders"
+    },
+    {
+      "position": 61,
+      "title": "Tyrone Grandison - Microsoft",
+      "link": "https://www.linkedin.com/in/tgrandison",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tgrandison&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCIkCEAE",
+      "displayed_link": "29.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575ecd6db255eb11811fb5e8c37139ccbfd.png",
+      "snippet": "Experienced Chief Technology Officer, Chief Information Officer, Chief Data Officer with… · Experience: Microsoft · Education: IBM TJ Watson Research Center ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Chief",
+        "Chief",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Tyrone Grandison"
+    },
+    {
+      "position": 62,
+      "title": "Jonny Backman - Sr Director Business Planning at Microsoft",
+      "link": "https://www.linkedin.com/in/jonny-backman-48841110b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jonny-backman-48841110b&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCJwCEAE",
+      "displayed_link": "640+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285751c0313625287633868b352822c3e8b30.png",
+      "snippet": "Sr Director Business Planning at Microsoft · I am currently working as Sr Director ... United States · 500+ connections on LinkedIn. View Jonny Backman's ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Director",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Sr Director Monetization + Business Planning",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonny Backman"
+    },
+    {
+      "position": 63,
+      "title": "Carlos Oquendo Jr. - Director, Business Applications",
+      "link": "https://www.linkedin.com/in/carlos-oquendo-jr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/carlos-oquendo-jr&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCJ0CEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285759927727cd2957e2366057eca3537f4de.png",
+      "snippet": "Director, Business Application Specialist @ Microsoft · Thank you for taking the ... United States · 500+ connections on LinkedIn. View Carlos Oquendo Jr ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Director, Business Applications",
+            "Power Platform",
+            "SLG",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carlos Oquendo Jr."
+    },
+    {
+      "position": 64,
+      "title": "Kevin Marshall - Senior Director of Design, Packaging and ...",
+      "link": "https://www.linkedin.com/in/kevin-marshall-8997685",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kevin-marshall-8997685&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCKUCEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857550a9d3b8d3c7944424be71ab240fbb40.png",
+      "snippet": "Senior Director of Design, Packaging and Content at Microsoft. Microsoft Rochester Institute of Technology. Redmond, Washington, United States. 2K followers ...",
+      "snippet_highlighted_words": [
+        "Senior Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Senior Director of Design, Packaging and Content",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin Marshall"
+    },
+    {
+      "position": 65,
+      "title": "Jason Scholl - Senior Director Finance - Microsoft",
+      "link": "https://www.linkedin.com/in/jason-scholl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jason-scholl&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCKYCEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575407588b08dc30d0f70793fee5cf01456.png",
+      "snippet": "Senior Director Finance @ Microsoft · Microsoft · University of Notre ... Senior Director / Chief of Staff US Sales & Operations. Samsung Electronics ...",
+      "snippet_highlighted_words": [
+        "Senior Director",
+        "Microsoft",
+        "Microsoft",
+        "Senior Director",
+        "Chief"
+      ],
+      "source": "LinkedIn · Jason Scholl"
+    },
+    {
+      "position": 66,
+      "title": "Scott Johnson - Director, Teams/Copilot Extensibility ...",
+      "link": "https://www.linkedin.com/in/scott-johnson-b0447217",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/scott-johnson-b0447217&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCLMCEAE",
+      "displayed_link": "540+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575b16337fcf1c691e7524f345276e91826.png",
+      "snippet": "Microsoft. 17 years. Microsoft Graphic. Director, Teams/Copilot Extensibility Enterprise Customer Engineering · McGhee Productivity Solutions Graphic. Chief ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Director",
+        "Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Director, Teams/Copilot Extensibility Enterprise Customer Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Scott Johnson"
+    },
+    {
+      "position": 67,
+      "title": "Jim(JD) Wahl - Senior Director of Mechanical Engineering",
+      "link": "https://www.linkedin.com/in/jim-jd-wahl-731a256",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jim-jd-wahl-731a256&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCK8CEAE",
+      "displayed_link": "780+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575cabb6371e757e694224fb3c9cf12724d.png",
+      "snippet": "Woodinville, Washington, United States. 789 followers 500+ connections ... Senior Director of Mechanical Engineering - Xbox at Microsoft. Microsoft. Mar ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Senior Director",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Woodinville, Washington, United States",
+            "Senior Director of Mechanical Engineering",
+            "Xbox at Microsoft",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jim(JD) Wahl"
+    },
+    {
+      "position": 68,
+      "title": "John Birrell-Levine - Director of Business Programs",
+      "link": "https://www.linkedin.com/in/jibble",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jibble&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCLECEAE",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285758a066c305e58cb2ad33bb778b89a227d.png",
+      "snippet": "Director of Business Programs at Microsoft. Microsoft Iowa State University ... Issaquah, Washington, United States. Starbucks Graphic. Systems ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · John Birrell-Levine"
+    },
+    {
+      "position": 69,
+      "title": "Jeremy M. Goldberg - Microsoft",
+      "link": "https://www.linkedin.com/in/jeremymgoldberg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeremymgoldberg&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCLgCEAE",
+      "displayed_link": "11.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857593d3dee339e5fd2a9714b0555449f401.png",
+      "snippet": "At Microsoft, I serve as Americas Strategy Director, Cities and Urban Infrastructure… · ... Chief of Staff -- Civic Innovation. In this role I have managed ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Director",
+        "Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brooklyn, New York, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeremy M. Goldberg"
+    },
+    {
+      "position": 70,
+      "title": "Jon Friedman - Seattle, Washington, United States",
+      "link": "https://www.linkedin.com/in/designjon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/designjon&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECC4QAQ",
+      "displayed_link": "9.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575a8baa502f155ae58e08967ce41e46bc3.png",
+      "snippet": "Featuring: Karin Giefer, an executive creative director at the legendary ... The real story behind Microsoft's quietly brilliant AI design. FastCo March ...",
+      "snippet_highlighted_words": [
+        "director",
+        "Microsoft's"
+      ],
+      "source": "LinkedIn · Jon Friedman"
+    },
+    {
+      "position": 71,
+      "title": "Stephanie Davidson - Director Strategy Operations",
+      "link": "https://www.linkedin.com/in/stephanie-k-davidson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephanie-k-davidson&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECEQQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575fdfb501e54c6c76bab14e25071776038.png",
+      "snippet": "Chief of Staff @ Microsoft for Startups | MBA, Financial Strategy Leader. Microsoft Seattle University. Seattle, Washington, United States ... Director ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Director Strategy Operations",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephanie Davidson"
+    },
+    {
+      "position": 72,
+      "title": "Ginny Badanes - General Manager, Democracy Forward",
+      "link": "https://www.linkedin.com/in/ginnybadanes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ginnybadanes&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECEgQAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285754f1fd7a5ccd00def657859c7992ceedc.png",
+      "snippet": "Microsoft. Mar 2024 - Present 1 year 1 month. Washington, District of Columbia, United States. Microsoft Graphic. Sr. Director, Democracy Forward. Microsoft.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft",
+        "Director",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Ginny Badanes"
+    },
+    {
+      "position": 73,
+      "title": "Gregory Bianchi - Director, Global Partnerships, Microsoft ...",
+      "link": "https://www.linkedin.com/in/gregory-bianchi-a1389865",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gregory-bianchi-a1389865&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECE0QAQ",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575ce22e4c3c38eea6c8106112c800cbfdf.png",
+      "snippet": "Director, Global Partnerships, Microsoft Philanthropies · Microsoft · University of Washington - Michael G ... Seattle, Washington, United States. 2K ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Director, Global Partnerships, Microsoft Philanthropies",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gregory Bianchi"
+    },
+    {
+      "position": 74,
+      "title": "John Harper - Privacy, Safety, & Regulatory Affairs",
+      "link": "https://www.linkedin.com/in/joharper",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joharper&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECEcQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575c1bdad9688d509d7ed4de83645ef671f.png",
+      "snippet": "Chief of Staff @ Microsoft | Privacy, Safety, & Regulatory Affairs ... Senior Director | Strategy & Operations | Advanced Analytics. Microsoft. Mar ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Microsoft",
+        "Senior Director",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · John Harper"
+    },
+    {
+      "position": 75,
+      "title": "Matt Taylor - Director of Product Marketing",
+      "link": "https://www.linkedin.com/in/taylormatthewe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/taylormatthewe&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECEwQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575c7825b5afac0cdca174f0f06db30607d.png",
+      "snippet": "Product Marketing Director · Microsoft · United States · 500+ connections on LinkedIn. View Matt Taylor's profile on LinkedIn, a professional community of 1 ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Director of Product Marketing",
+            "Teams Rooms & Devices",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Taylor"
+    },
+    {
+      "position": 76,
+      "title": "Keith Boyd - Microsoft",
+      "link": "https://www.linkedin.com/in/keithalanboyd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/keithalanboyd&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECF8QAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575534209a7ad8fde8440a0318708ce7f88.png",
+      "snippet": "Principal Director at Microsoft Keith Boyd describes those tensions by ... Served as the managing Director of MSDN Magazine from 11/2013 to 7/2015 ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "managing Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Keith Boyd"
+    },
+    {
+      "position": 77,
+      "title": "Eduardo Kassner - Microsoft",
+      "link": "https://www.linkedin.com/in/ekassner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ekassner&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECGIQAQ",
+      "displayed_link": "12.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575f92c415ec5ed839161087929b9cd8e5a.png",
+      "snippet": "Eduardo Kassner. Microsoft Boston University. Redmond, Washington, United States. 13K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eduardo Kassner"
+    },
+    {
+      "position": 78,
+      "title": "Rafael Sosa-Krall - Director, Microsoft Global Media",
+      "link": "https://www.linkedin.com/in/rafael-sosa-krall",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rafael-sosa-krall&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECGgQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575ef31bb71433c1853e4d45c63baf1e863.png",
+      "snippet": "Director, Microsoft Global Media · Digital marketing & paid media leader ... - Present 3 years 7 months. Redmond, Washington, United States. Oversee ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Director Global Media",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rafael Sosa-Krall"
+    },
+    {
+      "position": 79,
+      "title": "Ryan Roslansky - Chief Executive Officer",
+      "link": "https://www.linkedin.com/in/ryanroslansky",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ryanroslansky&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECGUQAQ",
+      "displayed_link": "859.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575f9bbc3ed27320d0a85b6e45ce996c263.png",
+      "snippet": "Chief Executive Officer. LinkedIn. Jun 2020 - Present 4 years 10 months. San ... Intuit. May 2023 - Present 1 year 11 months. United States. The Paley Center ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Present",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Ryan Roslansky"
+    },
+    {
+      "position": 80,
+      "title": "Frank X. Shaw - Seattle, Washington, United States",
+      "link": "https://www.linkedin.com/in/fxshaw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/fxshaw&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECGkQAQ",
+      "displayed_link": "24.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285751fd98ab4e326a48cab863816012a75f9.png",
+      "snippet": "When expanded it provides a list of search options that will switch the search inputs to match the current selection. ... Shaw. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "current",
+        "United States"
+      ],
+      "source": "LinkedIn · Frank X. Shaw"
+    },
+    {
+      "position": 81,
+      "title": "Kim Lucy - Director of Standards - Microsoft",
+      "link": "https://www.linkedin.com/in/kimberlylucy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kimberlylucy&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECHoQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575fd5e684635bb85221ed3eafa40a8c9c1.png",
+      "snippet": "Director of GRC Standards at Microsoft. Microsoft University of Washington. Seattle, Washington, United States. 2K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Director of Standards",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kim Lucy"
+    },
+    {
+      "position": 82,
+      "title": "Ben Favreau - Director, Game Pass Content Planning & ...",
+      "link": "https://www.linkedin.com/in/benfavreau",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/benfavreau&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECH4QAQ",
+      "displayed_link": "870+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575d03011d3bd93283fb2d5d91ce5b3a8ed.png",
+      "snippet": "Director, Game Pass Content Planning & Strategy. Microsoft. Seattle, Washington, United States. 870 followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Director, Game Pass Content Planning & Strategy",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Favreau"
+    },
+    {
+      "position": 83,
+      "title": "Keith Donovan - Senior Director, Global Program Delivery",
+      "link": "https://www.linkedin.com/in/keithdonovannf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/keithdonovannf&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCIEBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857518c05d9ef8daa60941a150789af3a408.png",
+      "snippet": "Senior Director, Global Enterprise Operations at Netflix. Netflix University of Southern California. Kirkland, Washington, United States. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Senior Director",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Senior Director, Global Program Delivery",
+            "Netflix"
+          ]
+        }
+      },
+      "source": "LinkedIn · Keith Donovan"
+    },
+    {
+      "position": 84,
+      "title": "Matt Booty - Microsoft",
+      "link": "https://www.linkedin.com/in/mattbooty",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mattbooty&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCIIBEAE",
+      "displayed_link": "5.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285759863639427dd7b3ef144e43eeb6396e3.png",
+      "snippet": "Privileged to be working with the amazing game development and publishing teams at Xbox! · Experience: Microsoft ... Founded in the United States in 1948, the AES ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Booty"
+    },
+    {
+      "position": 85,
+      "title": "Jeff Tan - Business Envisioning Engagement Director",
+      "link": "https://www.linkedin.com/in/jefftanofficial",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jefftanofficial&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCIMBEAE",
+      "displayed_link": "6.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575a055cbc1054ec4210eefdfabadbfa753.png",
+      "snippet": "Microsoft Director, Business Envisioning Ultrarunner, 7 Continent ... SVP, Managing Director, Product & Innovation. dentsu international. May 2017 ...",
+      "snippet_highlighted_words": [
+        "Microsoft Director",
+        "Managing Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Business Envisioning Engagement Director",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff Tan"
+    },
+    {
+      "position": 86,
+      "title": "Padmasree Warrior - Founder, President and CEO - Fable",
+      "link": "https://www.linkedin.com/in/padmasree-warrior-9917a26b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/padmasree-warrior-9917a26b&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCJoBEAE",
+      "displayed_link": "425.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857518632afccf684c0dccca3f5f197606e2.png",
+      "snippet": "Microsoft. Dec 2015 - Dec 2023 8 years 1 month. Redmond, WA. Member of the ... Chief Technology and Strategy Officer (CTSO). Cisco Systems. Jul 2012 - May ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Chief"
+      ],
+      "source": "LinkedIn · Padmasree Warrior"
+    },
+    {
+      "position": 87,
+      "title": "Doug Owens - Director Technical Strategy supporting ...",
+      "link": "https://www.linkedin.com/in/dougowens",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dougowens&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCJkBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285753e94c000dc62329cd44a8303ff3870d3.png",
+      "snippet": "Director Technical Strategy supporting Comcast/NBCU/Sky. Microsoft. May 2019 - Present 5 years 11 months. Malvern, Pennsylvania, United States.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "West Chester, Pennsylvania, United States",
+            "Director Technical Strategy supporting Comcast/NBCU/Sky",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Doug Owens"
+    },
+    {
+      "position": 88,
+      "title": "Gina Yong - Senior Director, Channel Programs at Microsoft",
+      "link": "https://www.linkedin.com/in/ginayong",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ginayong&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCJ8BEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857558069c9c9cbb3e4d0eaf073cc02f5db1.png",
+      "snippet": "Senior Director Business Strategy, Worldwide Channel Programs. Microsoft. Mar 2022 - Present 3 years 1 month. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Senior Director",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Senior Director Business Strategy, Worldwide Channel Programs",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gina Yong"
+    },
+    {
+      "position": 89,
+      "title": "Fernando Reyes-Gonzalez - Director Environmental ...",
+      "link": "https://www.linkedin.com/in/fernandoreyesgonzalez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/fernandoreyesgonzalez&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCJwBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575b531a54f8775c16810556aa9c95ae18c.png",
+      "snippet": "Director of Environmental Sustainability, Monitoring & Reporting at Microsoft · Experience: Microsoft ... Redmond, Washington, United States. 1K followers ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Director Environmental Sustainability, Monitoring & Reporting",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Fernando Reyes-Gonzalez"
+    },
+    {
+      "position": 90,
+      "title": "Ben Hooker - Chief Technology Officer at Microsoft",
+      "link": "https://www.linkedin.com/in/benhooker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/benhooker&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCLEBEAE",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb285752b15dd6148a9f6d5c9d044369e30ad3a.png",
+      "snippet": "Let's grow your business together | Chief Technology Officer at Microsoft ... United States Marine Corps. Dec 1999 - Dec 2003 4 years 1 month. Quantico VA.",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Tampa Bay Area",
+            "Chief Technology Officer at Microsoft Education Industry Partners",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Hooker"
+    },
+    {
+      "position": 91,
+      "title": "Brenda Carter - Redmond, Washington, United States",
+      "link": "https://www.linkedin.com/in/brenda-carter-9938204",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brenda-carter-9938204&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCLIBEAE",
+      "displayed_link": "6.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575c913528ce3e44a57a1faf653b88a2801.png",
+      "snippet": "Brenda Carter. Principal technical writer, architect, and illustrator of cybersecurity at Microsoft. Redmond, Washington, United States. 7K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Brenda Carter"
+    },
+    {
+      "position": 92,
+      "title": "Clarence Chen - Financial Director - Microsoft",
+      "link": "https://www.linkedin.com/in/clarence-chen-b0132a85",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/clarence-chen-b0132a85&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCLQBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575dee7256d34b5055846d3942510695c07.png",
+      "snippet": "Financial Director at Microsoft · I am a seasoned financial director with 20 ... United States · 500+ connections on LinkedIn. View Clarence Chen's ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "director",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Financial Director",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Clarence Chen"
+    },
+    {
+      "position": 93,
+      "title": "Mike Brewer - Senior Director, Employee Giving - Microsoft",
+      "link": "https://www.linkedin.com/in/mike-brewer-8864215",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mike-brewer-8864215&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCLUBEAE",
+      "displayed_link": "730+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575fd10b523d7dadb7a1b6c8a2d57d0e016.png",
+      "snippet": "Senior Director, Employee Giving at Microsoft · Experienced leader in CSR ... United States Air Force. Dec 1999 - Dec 2002 3 years 1 month. Oklahoma City ...",
+      "snippet_highlighted_words": [
+        "Senior Director",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Senior Director, Employee Giving",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Brewer"
+    },
+    {
+      "position": 94,
+      "title": "Robbie Bach - Author, Speaker, and Civic Engineer",
+      "link": "https://www.linkedin.com/in/robbiebach",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robbiebach&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCMsBEAE",
+      "displayed_link": "22.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575bdf55e35cd8983a8c28df1ea44d8523a.png",
+      "snippet": "Speaker, Author, Consultant, and former Chief Xbox Officer · Following 22 successful years at Microsoft, I have turned my attention from business success to ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Robbie Bach"
+    },
+    {
+      "position": 95,
+      "title": "Kevin Scott - CTO Microsoft",
+      "link": "https://www.linkedin.com/in/jkevinscott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jkevinscott&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCMwBEAE",
+      "displayed_link": "757.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857590aa048d1f7ec514bc0d5686cfd44047.png",
+      "snippet": "Kevin Scott Kevin Scott is an influencer. Microsoft. Los Gatos, California, United States. 758K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Kevin Scott"
+    },
+    {
+      "position": 96,
+      "title": "Simon Liepold - Senior Director UN & International Relations",
+      "link": "https://www.linkedin.com/in/simon-liepold-977a4a86",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/simon-liepold-977a4a86&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCNEBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857596b901752f9502236c0f03c837498415.png",
+      "snippet": "Currently serving as Senior Director UN and International Affairs in Microsoft's UN Office in NYC. ... Deputy Chief of Staff to the Vice Chair and President Brad ...",
+      "snippet_highlighted_words": [
+        "Senior Director",
+        "Microsoft's",
+        "Chief"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Senior Director UN & International Relations",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Simon Liepold"
+    },
+    {
+      "position": 97,
+      "title": "Jason Roszak - Microsoft",
+      "link": "https://www.linkedin.com/in/jason-roszak-73355545",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jason-roszak-73355545&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoFCNYBEAE",
+      "displayed_link": "4.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575e0b6e1ade4ec79d40d3a9f102be72b81.png",
+      "snippet": "Microsoft · Embry-Riddle Aeronautical University · Atlanta ... Jason Roszak. Microsoft Embry-Riddle Aeronautical University. Atlanta, Georgia, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta, Georgia, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jason Roszak"
+    },
+    {
+      "position": 98,
+      "title": "Kate Maxwell - Industry Lead (GM), Microsoft Worldwide ...",
+      "link": "https://www.linkedin.com/in/katemaxwellspeaks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katemaxwellspeaks&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECC8QAQ",
+      "displayed_link": "22.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575c6722fe950363e797f3157e8c930ed63.png",
+      "snippet": "Chief Technology Officer, Microsoft Worldwide Defense & Intelligence ... Technical Director, Navigation & Modernization Solutions Portfolio. Raytheon. Apr ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Microsoft",
+        "Director"
+      ],
+      "source": "LinkedIn · Kate Maxwell"
+    },
+    {
+      "position": 99,
+      "title": "Daniel McMullen - Senior Director, Americas - Microsoft",
+      "link": "https://www.linkedin.com/in/daniel-mcmullen-82787165",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/daniel-mcmullen-82787165&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECDEQAQ",
+      "displayed_link": "730+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb28575ab696ff87334dbd61153c5cf9e153d57.png",
+      "snippet": "Senior Director, Americas Microsoft Datacenter Security (Retired FBI Sr ... United States Intelligence Community Joint Duty Certification Graphic. United ...",
+      "snippet_highlighted_words": [
+        "Senior Director",
+        "Microsoft",
+        "United States",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Senior Director, Americas",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel McMullen"
+    },
+    {
+      "position": 100,
+      "title": "Melonie Rodrigues - Director - Microsoft",
+      "link": "https://www.linkedin.com/in/melonierodrigues",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/melonierodrigues&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQFnoECDIQAQ",
+      "displayed_link": "180+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf8ef95dc121bc8cdbf44/images/6f1ab612ac600c5daea5c094eeb2857503669cf6e2e366d79fcbc04ebdedbedb.png",
+      "snippet": "Sr. Director, Accessibility and Compliance, Microsoft · Microsoft ... Charlotte, North Carolina, United States. Bank of America. 19 years 7 ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Charlotte, North Carolina, United States",
+            "Director",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Melonie Rodrigues"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=7_jdZ9-RINKy4-EPiKjHgQk&start=100&sa=N&sstk=Af40H4Xypofd-5E-ZCq7JsSfEXciC_tFwmjhvSq-NsS6v9ijVU8TBrYTvDa9Fe-v5QirrC4fycqlZVk0kPH_5tw-K4l4TwKFIEBa6A&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQ8NMDegQICBAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=7_jdZ9-RINKy4-EPiKjHgQk&start=100&sa=N&sstk=Af40H4Xypofd-5E-ZCq7JsSfEXciC_tFwmjhvSq-NsS6v9ijVU8TBrYTvDa9Fe-v5QirrC4fycqlZVk0kPH_5tw-K4l4TwKFIEBa6A&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQ8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=7_jdZ9-RINKy4-EPiKjHgQk&start=200&sa=N&sstk=Af40H4Xypofd-5E-ZCq7JsSfEXciC_tFwmjhvSq-NsS6v9ijVU8TBrYTvDa9Fe-v5QirrC4fycqlZVk0kPH_5tw-K4l4TwKFIEBa6A&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQ8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=7_jdZ9-RINKy4-EPiKjHgQk&start=300&sa=N&sstk=Af40H4Xypofd-5E-ZCq7JsSfEXciC_tFwmjhvSq-NsS6v9ijVU8TBrYTvDa9Fe-v5QirrC4fycqlZVk0kPH_5tw-K4l4TwKFIEBa6A&ved=2ahUKEwifxdO9rJyMAxVS2TgGHQjUMZAQ8tMDegQICBAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=300"
+    }
+  }
+}

@@ -1,0 +1,2332 @@
+{
+  "search_metadata": {
+    "id": "67ddf93bee3403084869281b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/54bea3df5eacb7d5/67ddf93bee3403084869281b.json",
+    "created_at": "2025-03-21 23:41:47 UTC",
+    "processed_at": "2025-03-21 23:41:47 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/54bea3df5eacb7d5/67ddf93bee3403084869281b.html",
+    "total_time_taken": 1.0
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"United Kingdom\" AND (current OR present) AND (\"Associate Vice President\" OR \"AVP\" OR \"Partner\" OR \"Senior Partner\" OR \"Managing Partner\" OR \"Principal\" OR \"Founding Partner\" OR \"Associate Partner\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"United Kingdom\" AND (current OR present) AND (\"Associate Vice President\" OR \"AVP\" OR \"Partner\" OR \"Senior Partner\" OR \"Managing Partner\" OR \"Principal\" OR \"Founding Partner\" OR \"Associate Partner\")",
+    "total_results": 4410000,
+    "time_taken_displayed": 0.75,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Wendy Carstairs - Senior Partner Technology Manager",
+      "link": "https://uk.linkedin.com/in/wendy-carstairs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/wendy-carstairs&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECAkQAQ",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc315d4ff3590bcc3e9557ba3e470fde11.png",
+      "snippet": "Senior Partner Technology Manager. Microsoft. Dec 2018 - Present 6 years 4 months. Reading, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Senior Partner",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Senior Partner Technology Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Wendy Carstairs"
+    },
+    {
+      "position": 2,
+      "title": "James Marshall - Senior Azure Partner Success Manager",
+      "link": "https://uk.linkedin.com/in/jamesbmarshall",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jamesbmarshall&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECBYQAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc278b908a0b909145aa0dda68ffd607b9.png",
+      "snippet": "Experience. Microsoft Graphic. Senior Azure Partner Success Manager. Microsoft. Aug 2023 - Present 1 year 8 months. United Kingdom. Websites. Personal Website ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Reading Area",
+            "Senior Azure Partner Success Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Marshall"
+    },
+    {
+      "position": 3,
+      "title": "Andrew Carr - Principal Developer Partner Manager",
+      "link": "https://uk.linkedin.com/in/andrew-carr-7467a315",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrew-carr-7467a315&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECB0QAQ",
+      "displayed_link": "390+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc6145a37719730f77700ff5c3edea8df5.png",
+      "snippet": "Microsoft Graphic. Principal Developer Partner Manager. Microsoft. Apr 2013 - Present 12 years. Reading, United Kingdom. Working as a Principal Partner Manager ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United Kingdom",
+        "Principal Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Reading Area",
+            "Principal Developer Partner Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Carr"
+    },
+    {
+      "position": 4,
+      "title": "Anjana Srinivasan - Device Partner Sales Field Lead UK",
+      "link": "https://uk.linkedin.com/in/anjana-srinivasan-2959334",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/anjana-srinivasan-2959334&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECBsQAQ",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffccf0336cce9fc07ab25fc20ab1469c97a.png",
+      "snippet": "Microsoft. 6 years 3 months. Microsoft Graphic. Device Partner Sales Field Lead UK. Microsoft. Dec 2019 - Present 5 years 4 months. London, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kensington, England, United Kingdom",
+            "Device Partner Sales Field Lead UK",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anjana Srinivasan"
+    },
+    {
+      "position": 5,
+      "title": "Katja Hofmann - Microsoft",
+      "link": "https://uk.linkedin.com/in/katjahofmann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/katjahofmann&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECBcQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc78ea2a65c5193e36ae0cc8e3dbb6fb2a.png",
+      "snippet": "Microsoft · University of Amsterdam · Greater Cambridge Area · 500 ... Experience. Microsoft Graphic · Microsoft. Cambridge, England, United Kingdom. -.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Cambridge Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katja Hofmann"
+    },
+    {
+      "position": 6,
+      "title": "Lee Jones - Senior Partner Development Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/msleejones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/msleejones&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECCIQAQ",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcbf708a2c0dd7e0ef8cc549e37f8a4faa.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Lee Jones' profile on ... Senior Partner Development Manager. Microsoft. Nov 2022 - Present 2 years 5 ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Senior Partner",
+        "Microsoft",
+        "Present"
+      ],
+      "source": "LinkedIn · Lee Jones"
+    },
+    {
+      "position": 7,
+      "title": "Nicole Stewart - Director, EMEA PPM, GPS, UK - Microsoft",
+      "link": "https://uk.linkedin.com/in/nicole-stewart-uk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nicole-stewart-uk&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECCkQAQ",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc5a5dab0b3c729069966574b52d862342.png",
+      "snippet": "Nicole Stewart. Director, EMEA Production Partner Management at Microsoft. Microsoft. Esher, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Nicole Stewart"
+    },
+    {
+      "position": 8,
+      "title": "Pamela Maynard - Microsoft",
+      "link": "https://uk.linkedin.com/in/pam-maynard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pam-maynard&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECCYQAQ",
+      "displayed_link": "25.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffccbee2e8f36669d430aaccf8e7be9d4bc.png",
+      "snippet": "I am the first-ever Chief AI Transformation Officer for Microsoft Customer and Partner… · Experience: Microsoft · Location: United Kingdom ... current selection.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Partner",
+        "Microsoft",
+        "United Kingdom",
+        "current"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pamela Maynard"
+    },
+    {
+      "position": 9,
+      "title": "Paul Rogers - Partner - Microsoft Consulting Capability",
+      "link": "https://uk.linkedin.com/in/paul-rogers-5644524",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paul-rogers-5644524&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCO8BEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc40c382b36ff578f20cec2b30f2612547.png",
+      "snippet": "Partner - Microsoft Consulting Capability. KPMG. Oct 2018 - Present 6 years 6 months. London, United Kingdom. Vice President EMEA & ASIA. PowerObjects. May 2015 ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ash Vale, England, United Kingdom",
+            "Partner",
+            "Microsoft Consulting Capability",
+            "KPMG"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Rogers"
+    },
+    {
+      "position": 10,
+      "title": "Ian Moulster - Microsoft EMEA Partner Marketing",
+      "link": "https://uk.linkedin.com/in/ianmoulster",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ianmoulster&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECCsQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc60b945b2af6bb9c3dbe79c3815b47902.png",
+      "snippet": "Microsoft EMEA Partner Marketing - Azure SMB UK · I am passionate about ... Principal Consultant. Atos KPMG Consulting. 2000 - 2001 1 year. Business ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Partner",
+        "Principal"
+      ],
+      "source": "LinkedIn · Ian Moulster"
+    },
+    {
+      "position": 11,
+      "title": "Katie Blair - Microsoft",
+      "link": "https://uk.linkedin.com/in/watty1000",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/watty1000&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCMgBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffce0b38686e1c1310debee96ee31b76224.png",
+      "snippet": "Katie Blair. Microsoft University of Nottingham - Nottingham University Business School. London, England, United Kingdom. 1K followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katie Blair"
+    },
+    {
+      "position": 12,
+      "title": "Chris Williams - Partner Development Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/chris-williams-94a38680",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chris-williams-94a38680&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCN8BEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc9b0bfeec8171b03e47a73a8e14cba52b.png",
+      "snippet": "Partner Development Manager. Microsoft. Suffolk, England, United Kingdom. 1K followers 500+ connections. See your mutual connections. View mutual connections ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Suffolk, England, United Kingdom",
+            "Partner Development Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Williams"
+    },
+    {
+      "position": 13,
+      "title": "Craig Duncan - Microsoft",
+      "link": "https://uk.linkedin.com/in/craigduncan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/craigduncan&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCI4CEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc1fe3207470aff09e04e49dab6baecfa1.png",
+      "snippet": "Every day I have the opportunity to lead and support the talented game makers across Xbox… · Experience: Microsoft · Location: United Kingdom · 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Craig Duncan"
+    },
+    {
+      "position": 14,
+      "title": "Lucy Daramola💡 - Client Partner Lead (Retail)",
+      "link": "https://linkedin.com/in/lucy-daramola/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://linkedin.com/in/lucy-daramola/&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECCoQAQ",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc80c775ea5bec236358cee511a99a11c8.png",
+      "snippet": "Microsoft Graphic. Client Partner Lead (Retail) - Microsoft Advertising. Microsoft. Jan 2022 - Present 3 years 3 months. London, England, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Partner",
+        "Microsoft",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Client Partner Lead (Retail)",
+            "Microsoft Advertising",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lucy Daramola💡"
+    },
+    {
+      "position": 15,
+      "title": "Kim Wolff - Global Client Technology Lead",
+      "link": "https://uk.linkedin.com/in/kimwolff1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kimwolff1&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECF0QAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcf54b18859127d08de168172592591745.png",
+      "snippet": "Global Partner Technology Specialist. Microsoft. Jan 2018 - Sep 2020 2 years 9 months. London, United Kingdom. Global Partner Technology Strategist (PTS) at ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "United Kingdom",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Barnet, England, United Kingdom",
+            "Global Client Technology Lead",
+            "Financial Services",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kim Wolff"
+    },
+    {
+      "position": 16,
+      "title": "Steve Clayton - Microsoft",
+      "link": "https://www.linkedin.com/in/stevecla",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stevecla&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCMcBEAE",
+      "displayed_link": "19.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc5a1dea349a48d57b07ea0b5fee88ec05.png",
+      "snippet": "London, United Kingdom. -. Reading, United Kingdom. -. Reading, United ... Skype Translator demo at Microsoft's Worldwide Partner Conference 2014. Jul ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "United Kingdom",
+        "United",
+        "Microsoft's",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steve Clayton"
+    },
+    {
+      "position": 17,
+      "title": "Mark Briggs - Principal Program Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/mark-briggs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mark-briggs&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCNABEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcbe38138a69de9b778ce9ed2d98136c54.png",
+      "snippet": "Mark Briggs. Principal Program Manager @ Microsoft Azure Engineering. Microsoft. Greater Sheffield Area. 1K followers ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Sheffield Area",
+            "Principal Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Briggs"
+    },
+    {
+      "position": 18,
+      "title": "Steve Jones - Principal Group Engineering Manager",
+      "link": "https://ca.linkedin.com/in/steve-jones-5b7059b4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ca.linkedin.com/in/steve-jones-5b7059b4&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCNwBEAE",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc1c180440afe6a853883db4fee5773e89.png",
+      "snippet": "Principal Group Engineering Manager at Microsoft · Experienced Engineering Manager with a demonstrated history of impactful work within the Software ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "North Vancouver, British Columbia, Canada",
+            "Principal Group Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steve Jones"
+    },
+    {
+      "position": 19,
+      "title": "Mustafa Suleyman - CEO, Microsoft AI",
+      "link": "https://www.linkedin.com/in/mustafa-suleyman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mustafa-suleyman&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCPoBEAE",
+      "displayed_link": "308K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc2de6be019476ec156600210eb2e9d136.png",
+      "snippet": "Experience · CEO, Microsoft AI · Non Executive Director · Co-founder & CEO · Venture Partner · VP, AI Product Management & AI Policy · Co-founder & Head of Applied AI.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Partner"
+      ],
+      "source": "LinkedIn · Mustafa Suleyman"
+    },
+    {
+      "position": 20,
+      "title": "Wesley Budd - Partner Solutions Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/wesleyjbudd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/wesleyjbudd&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECHkQAQ",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcbf47a18cea3a5d3200f69423e0c9cafd.png",
+      "snippet": "Microsoft Partner of the Year Winner | M365 Copilot SME | MS Partner Center SME. Microsoft Brakenhale School. Reading, England, United Kingdom. 4K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft Partner",
+        "Partner",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Partner Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Wesley Budd"
+    },
+    {
+      "position": 21,
+      "title": "Steve Wilson - Engineering @ Microsoft",
+      "link": "https://uk.linkedin.com/in/steveowilson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/steveowilson&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCKcCEAE",
+      "displayed_link": "690+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc26a65b6d1622b9abce067ad0dbc15dc9.png",
+      "snippet": "London Area, United Kingdom. Microsoft Cloud for FSI engineering. Microsoft Graphic. Principal PM Manager, Microsoft Cloud for ISVs and AI. Microsoft. Aug 2022 ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft",
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Fleet, England, United Kingdom",
+            "Group Engineering Manager",
+            "Financial Services Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steve Wilson"
+    },
+    {
+      "position": 22,
+      "title": "Richard Banks - Principal Design Manager - Microsoft ...",
+      "link": "https://uk.linkedin.com/in/rbanks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rbanks&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCMQBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcb1e05a57326b31eccdec24b4322f0584.png",
+      "snippet": "Principal Design Manager at Microsoft Research. Microsoft Research Royal College of Art. Chertsey, England, United Kingdom. 2K followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Richard Banks"
+    },
+    {
+      "position": 23,
+      "title": "Sarah Armstrong - Senior Sales Director - Modern Work & ...",
+      "link": "https://uk.linkedin.com/in/sarahharmstrong",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sarahharmstrong&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECFwQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffceefdcd59f61bfdb6930fb094c62ff710.png",
+      "snippet": "Responsible for leading the all-up education partner strategy and business for Microsoft Western Europe; managing partner development across fourteen countries.",
+      "snippet_highlighted_words": [
+        "partner",
+        "Microsoft",
+        "managing partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior Sales Director",
+            "Modern Work & Generative AI, EMEA",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Armstrong"
+    },
+    {
+      "position": 24,
+      "title": "James Scott - Principal Product Manager Lead - Microsoft",
+      "link": "https://uk.linkedin.com/in/jameswscott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jameswscott&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCI8BEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc6b3a088415624bb9a29d21ff3e86224b.png",
+      "snippet": "Principal Product Manager Lead. Microsoft. Sep 2021 - Present 3 years 7 months. Cambridge, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cambridge, England, United Kingdom",
+            "Principal Product Manager Lead",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Scott"
+    },
+    {
+      "position": 25,
+      "title": "Richard Wills - Partner Development Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/richardtwills",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richardtwills&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECGkQAQ",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc92a2e1ecf98cc0cd05a6df89234bc42e.png",
+      "snippet": "Partner Development Manager. Microsoft. Apr 2021 - Present 4 years. Reading, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Reading Area",
+            "Partner Development Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Wills"
+    },
+    {
+      "position": 26,
+      "title": "Santiago Zanella-Béguelin - Principal Researcher - Microsoft",
+      "link": "https://uk.linkedin.com/in/santiago-zanella-beguelin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/santiago-zanella-beguelin&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECHwQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc80303e87f75f42ce9a295f3396c66694.png",
+      "snippet": "My current interests are on safety, reliability, security, and privacy ... Principal Researcher at Microsoft. Microsoft. Cambridge, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "current",
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cambridge, England, United Kingdom",
+            "Principal Researcher",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Santiago Zanella-Béguelin"
+    },
+    {
+      "position": 27,
+      "title": "Felicity Scott-Milligan - Principal Corporate Counsel",
+      "link": "https://uk.linkedin.com/in/felicityscottmilligan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/felicityscottmilligan&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECHoQAQ",
+      "displayed_link": "720+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcac2329c9745cbf2258d1f1f2ccc7d968.png",
+      "snippet": "Experience · Microsoft Graphic. Principal Corporate Counsel. Microsoft. Mar 2024 - Present 1 year 1 month. London, United Kingdom · Microsoft Graphic. Corporate ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United Kingdom",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Principal Corporate Counsel",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Felicity Scott-Milligan"
+    },
+    {
+      "position": 28,
+      "title": "Anne-Claire Lo Bianco - Microsoft for Startups",
+      "link": "https://uk.linkedin.com/in/%F0%9F%8C%88-anne-claire-lo-bianco-b1993838",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/%25F0%259F%258C%2588-anne-claire-lo-bianco-b1993838&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCKsBEAE",
+      "displayed_link": "6.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc84ae013c4c9766061089ea94f8982141.png",
+      "snippet": "Sr Partner and Program Development Manager - Microsoft for Startups. Microsoft. Nov 2021 - Present 3 years 5 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Sr Partner and Program Development Manager",
+            "Microsoft for Startups",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · 🌈 Anne-Claire Lo Bianco"
+    },
+    {
+      "position": 29,
+      "title": "Suresh Parthasarathy - Principal RSDE - Microsoft",
+      "link": "https://uk.linkedin.com/in/suresh-parthasarathy-1b2b256",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/suresh-parthasarathy-1b2b256&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCMUBEAE",
+      "displayed_link": "780+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc68bc3bc9082e14ab61ba68d72383b05f.png",
+      "snippet": "Suresh Parthasarathy. Principal RSDE at Microsoft. Microsoft Indian Institute of Technology, Bombay. United Kingdom.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal RSDE",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Suresh Parthasarathy"
+    },
+    {
+      "position": 30,
+      "title": "Samantha Leung - Partner Marketing Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/samantha-leung-85b46955",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/samantha-leung-85b46955&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCIQCEAE",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcfbcc08f621bcd3b55fcd4f5f7d0111b8.png",
+      "snippet": "Global Partner Marketing Manager (Xbox). Microsoft University College London, U. of London. Greater London, England, United Kingdom. 567 followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Partner Marketing Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Samantha Leung"
+    },
+    {
+      "position": 31,
+      "title": "Emanuel Caraza - Principal R & D Solution Architect",
+      "link": "https://uk.linkedin.com/in/emanuelcaraza",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/emanuelcaraza&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCN0BEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc479e4d7ded9756333eb470123a98d9d3.png",
+      "snippet": "Emanuel Caraza. Principal R&D Solution Architect at Microsoft. Microsoft Tecnológico de Monterrey. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal R & D Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emanuel Caraza"
+    },
+    {
+      "position": 32,
+      "title": "Dr. Andy Packham - Chief Architect and Senior Vice ...",
+      "link": "https://uk.linkedin.com/in/andypackham",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andypackham&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCO4BEAE",
+      "displayed_link": "8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc1c2285ec088ef57a0dfb581751194273.png",
+      "snippet": "Experience · Chief Architect and Senior Vice President. Microsoft Business Unit. · Vice President · Vice President, Delivery UK&I · Associate Vice President.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Associate Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Chief Architect and Senior Vice President. Microsoft Business Unit.",
+            "HCLTech"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Andy Packham"
+    },
+    {
+      "position": 33,
+      "title": "Alex Smith - Surface Channel Director at Microsoft",
+      "link": "https://uk.linkedin.com/in/alex-smith-3a83509",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alex-smith-3a83509&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCPgBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc29deaecc80592f76901c53b88f8b5e79.png",
+      "snippet": "Director, Surface Commercial Partner, Global Partner Solutions. Microsoft. Jan 2022 - Present 3 years 3 months. Reading, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Reading Area",
+            "Director, Surface Commercial Partner, Global Partner Solutions",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alex Smith"
+    },
+    {
+      "position": 34,
+      "title": "Dan Figueiredo, MBA - Global Technology Strategist",
+      "link": "https://uk.linkedin.com/in/danielfig",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/danielfig&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCIUCEAE",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc08608f9915955b73135af192a999fa44.png",
+      "snippet": "In my current role, I lead global partner ... partner growth and empower partners to build innovative and differentiated Microsoft Cloud solutions.",
+      "snippet_highlighted_words": [
+        "current",
+        "partner",
+        "partner",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Dan Figueiredo, MBA"
+    },
+    {
+      "position": 35,
+      "title": "Vassilis Plachouras - Principal Applied Scientist - Microsoft",
+      "link": "https://uk.linkedin.com/in/vassilis-plachouras-2223992",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/vassilis-plachouras-2223992&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCJ4CEAE",
+      "displayed_link": "530+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc34f6ae03141904d4428c59d206f167a4.png",
+      "snippet": "Vassilis Plachouras. Principal Applied Scientist at Microsoft. Microsoft University of Glasgow. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Principal Applied Scientist",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vassilis Plachouras"
+    },
+    {
+      "position": 36,
+      "title": "José Lázaro - Sr Partner Cybersecurity Architect",
+      "link": "https://uk.linkedin.com/in/jose365",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jose365&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCKMCEAE",
+      "displayed_link": "11.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc532ed69b22658c460ef1b763fec17c78.png",
+      "snippet": "London, England, United Kingdom. 11K followers 500+ connections. See your ... As a Partner Security Solution Architect at Microsoft, I am responsible for ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Partner",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · José Lázaro"
+    },
+    {
+      "position": 37,
+      "title": "Emily Parrish - Director at Microsoft Incident Response",
+      "link": "https://uk.linkedin.com/in/misstech",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/misstech&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCLwCEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc06044204ac58ccf2d4cfe6036016d875.png",
+      "snippet": "Emily Parrish. Director at Microsoft Incident Response. Microsoft. United Kingdom. 2K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Director at Microsoft Incident Response (DART)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emily Parrish"
+    },
+    {
+      "position": 38,
+      "title": "Louis Dalton - Principal Lead Security Architect",
+      "link": "https://uk.linkedin.com/in/louis-dalton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/louis-dalton&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECCwQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc08ba99e8af43c9fce060069320a929df.png",
+      "snippet": "Cloud Security Strategy, GRC, Programmes and Architecture at Microsoft. Microsoft Edinburgh Napier University. Knutsford, England, United Kingdom. 2K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Knutsford, England, United Kingdom",
+            "Principal Lead Security Architect",
+            "Global Security Strategy",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Louis Dalton"
+    },
+    {
+      "position": 39,
+      "title": "Paolo Costa - Senior Principal Research Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/paolocosta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paolocosta&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCK0BEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcfdd6f76174c9f4a9376bdbc0c09eef49.png",
+      "snippet": "Experience. Microsoft Graphic. Senior Principal Research Manager. Microsoft. Sep 2022 - Present 2 years 7 months. Cambridge, United Kingdom. Imperial College ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Paolo Costa"
+    },
+    {
+      "position": 40,
+      "title": "George Isherwood - Sr Surface Global Black Belt (GBB)",
+      "link": "https://uk.linkedin.com/in/georgeisherwood",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/georgeisherwood&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECEcQAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc28d8799f38e030caf4343992acbc9519.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View George ... partner at Microsoft's Worldwide Partner Conference (WPC) Main role ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "partner",
+        "Microsoft's",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Sr Surface Global Black Belt (GBB)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · George Isherwood"
+    },
+    {
+      "position": 41,
+      "title": "Thomas Chilton - Senior IT Service Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/thomas-chilton-64b40b29",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/thomas-chilton-64b40b29&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECE0QAQ",
+      "displayed_link": "660+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcaeacfd7e25e7f60257d8cc8c74c922db.png",
+      "snippet": "IT Leader | Digital Transformation | Microsoft UK | Skype Alumni · As an IT Manager at Microsoft, I have had the privilege of leading ... United Kingdom. Shared ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Nottingham, England, United Kingdom",
+            "Senior IT Service Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Chilton"
+    },
+    {
+      "position": 42,
+      "title": "Natasa (Suvakov) Manning - Principal Corporate Counsel",
+      "link": "https://uk.linkedin.com/in/natasa-suvakov-manning-34b21128",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/natasa-suvakov-manning-34b21128&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCKkBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcbe5e33a8deb86f3c8b560e0bcecaa849.png",
+      "snippet": "Principal Corporate Counsel, Microsoft · Microsoft · London College of Law, Bloomsbury · United Kingdom · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal Corporate Counsel",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Natasa (Suvakov) Manning"
+    },
+    {
+      "position": 43,
+      "title": "Aditya Nori - Partner Research Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/adityanori",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/adityanori&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECF4QAQ",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc780a791de0373a75a33c6a23fa616230.png",
+      "snippet": "Cambridge, United Kingdom. Founding Research Theme Lead, Health Intelligence, Microsoft Research. Microsoft Graphic. Principal Researcher. Microsoft. Nov 2005 ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft",
+        "Microsoft",
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Cambridge Area",
+            "Partner Research Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aditya Nori"
+    },
+    {
+      "position": 44,
+      "title": "Zidan M. - Principal Partner Solution Architect (UK ISV)",
+      "link": "https://uk.linkedin.com/in/zii",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/zii&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECGYQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc660aa8336ca81ba82b4a4f5f55e522c2.png",
+      "snippet": "United Kingdom. Taking my passion for partner success across Microsoft data and AI technologies with focus on UK ISV partners. Microsoft Graphic. Principal ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "partner",
+        "Microsoft",
+        "Microsoft",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Partner Solution Architect (UK ISV)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Zidan M."
+    },
+    {
+      "position": 45,
+      "title": "Shital Shah - Microsoft",
+      "link": "https://www.linkedin.com/in/shitals",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shitals&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCL8BEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc2eae844e12f5a29329808acfa6f9b09b.png",
+      "snippet": "United Kingdom. -. -. - ... “I worked with Shital in Bing Local Search Conflation Team. I saw him working as Principal Developer and then as a Principal ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Principal",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sammamish, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shital Shah"
+    },
+    {
+      "position": 46,
+      "title": "Daniel Jackson - Principal Software Engineering Manager",
+      "link": "https://uk.linkedin.com/in/daniel-jackson-12814b236",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/daniel-jackson-12814b236&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCJYCEAE",
+      "displayed_link": "320+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc411443556b820827624cd84f3d1203be.png",
+      "snippet": "Principal Software Engineering Manager at Microsoft. Microsoft University of Cambridge. Cuffley, England, United Kingdom ... Microsoft. Mar 2021 - Present 4 years ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cuffley, England, United Kingdom",
+            "Principal Software Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Jackson"
+    },
+    {
+      "position": 47,
+      "title": "Jim Moyle - Principal Product Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/jimmoyle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jimmoyle&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCI8CEAE",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcc95684ef78d0a43bb4a83b93fe7591f2.png",
+      "snippet": "Principal Product Manager for Windows Cloud. Microsoft The University of Edinburgh. London, England, United Kingdom. 4K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Jim Moyle"
+    },
+    {
+      "position": 48,
+      "title": "Simon Frost - Principal Data Scientist - Microsoft",
+      "link": "https://www.linkedin.com/in/sdwfrost",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sdwfrost&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCIkBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc84c04daeffe1662c040d73222516e072.png",
+      "snippet": "Principal Data Scientist at Microsoft Premonition, Professor of Pathogen Dynamics at LSHTM, Principal ... Cambridge, England, United Kingdom. I work on ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Principal",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Simon Frost"
+    },
+    {
+      "position": 49,
+      "title": "Lydia Smyers - Microsoft",
+      "link": "https://www.linkedin.com/in/lydiasmyers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lydiasmyers&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCJQBEAE",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcc2b19251d95c8e9c762ff4d5124d18e0.png",
+      "snippet": "Experience: Microsoft · Education: Duke University - The Fuqua ... John Shell. “Few people have the breadth of partner and marketing leadership as Lydia.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Boston",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lydia Smyers"
+    },
+    {
+      "position": 50,
+      "title": "Darren H. - Principal Customer Success Account Manager",
+      "link": "https://uk.linkedin.com/in/darren-h-1670941b4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/darren-h-1670941b4&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCJ0BEAE",
+      "displayed_link": "500+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc744589d7d1398709f7e6ee5b0824eb94.png",
+      "snippet": "Darren H. Principal Customer Success Account Manager at Microsoft. Microsoft City College Southampton. Ashurst, England, United Kingdom ... Jan 2023 - Present 2 ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ashurst, England, United Kingdom",
+            "Principal Customer Success Account Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Darren H."
+    },
+    {
+      "position": 51,
+      "title": "Hettie Holcroft - Customer Success Account Manager",
+      "link": "https://uk.linkedin.com/in/hettie-whittal-williams",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hettie-whittal-williams&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCK4BEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffce7a40d2a766b87d837552a5289fb25ba.png",
+      "snippet": "Principal Customer Success Account Manager at Microsoft. Microsoft University of Bristol. United Kingdom. 2K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal Customer Success Account Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hettie Holcroft"
+    },
+    {
+      "position": 52,
+      "title": "Ken Gordon - Principal SDE Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/ken-gordon-857a281b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ken-gordon-857a281b&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCMYBEAE",
+      "displayed_link": "180+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc21cd2756b5500865299c6ad264bdb8bc.png",
+      "snippet": "Microsoft. 5 years 10 months · Microsoft Graphic. Principal SDE Manager. Microsoft. Mar 2023 - Present 2 years 1 month. Cambridge, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Ken Gordon"
+    },
+    {
+      "position": 53,
+      "title": "Neil Johnson - Principal Product Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/neil-johnson-msft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/neil-johnson-msft&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECEEQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcad789eaadb91e9b7ff8100befe1b0c60.png",
+      "snippet": "Neil Johnson. Principal PM at Microsoft. Microsoft. Castle Gresley, England, United Kingdom. 1K followers ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Neil Johnson"
+    },
+    {
+      "position": 54,
+      "title": "Tony Pearson - Principle Cloud Network Engineer - Microsoft",
+      "link": "https://uk.linkedin.com/in/topearson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/topearson&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCIwCEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc0e034e3679265b07b96a1fa25f73a8b7.png",
+      "snippet": "- Present 1 year 1 month. United Kingdom. Microsoft Graphic. Principal Program Manager. Microsoft. Feb 2023 - Mar 2024 1 year 2 months. Romsey, England, United ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Southampton Area",
+            "Principle Cloud Network Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tony Pearson"
+    },
+    {
+      "position": 55,
+      "title": "Francesco Poletti - Partner Researcher - Microsoft Azure",
+      "link": "https://uk.linkedin.com/in/francesco-poletti-88285426",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/francesco-poletti-88285426&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCOABEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc31215261179d1cbb97659af1e3fa0c95.png",
+      "snippet": "Driving progress in Hollow Core fibres | Partner Researcher • Microsoft ... Principal Research Fellow. Optoelectronics Research Centre. Aug 2012 - Jul 2016 4 ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Principal"
+      ],
+      "source": "LinkedIn · Francesco Poletti"
+    },
+    {
+      "position": 56,
+      "title": "Danielle Rudden - Principal Customer Success Account ...",
+      "link": "https://uk.linkedin.com/in/daniellerudden",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/daniellerudden&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCOMBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc6fc20b6c9b2b3445e7fab9267871e7f6.png",
+      "snippet": "Principal Customer Success Account Manager at Microsoft. Microsoft Easthampstead Park School. Wokingham, England, United Kingdom. 2K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Wokingham, England, United Kingdom",
+            "Principal Customer Success Account Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Danielle Rudden"
+    },
+    {
+      "position": 57,
+      "title": "Jake Stoker - Principal Program Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/jakestoker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jakestoker&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCOIBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcb915b0ceb7008adf340658f691d82409.png",
+      "snippet": "Principal Program Manager at Microsoft · Microsoft · Northumbria University · United Kingdom · 500+ connections on LinkedIn. View Jake Stoker's profile on ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jake Stoker"
+    },
+    {
+      "position": 58,
+      "title": "Sunil Thomas - Group PM Manager at Microsoft",
+      "link": "https://in.linkedin.com/in/sunilcthomas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/sunilcthomas&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCPABEAE",
+      "displayed_link": "200+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc6b759edf8b6fa74f9d3794c589d38d65.png",
+      "snippet": "In my current role as a Principal Group PM Manager at Microsoft I am ... Oct 2007 - Mar 2011 3 years 6 months. London, England, United Kingdom. I was ...",
+      "snippet_highlighted_words": [
+        "current",
+        "Principal",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hyderabad, Telangana, India",
+            "Principal Group PM Manager, Digital Professional Services",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sunil Thomas"
+    },
+    {
+      "position": 59,
+      "title": "Danielle Belgrave - GSK",
+      "link": "https://uk.linkedin.com/in/danielle-belgrave-704157107",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/danielle-belgrave-704157107&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCPYBEAE",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcebb71fb7a8bd96adba4a841332641642.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Danielle Belgrave's ... Dorothy Hodgkin Postgraduate Award. Microsoft Research PhD Scholarship Programme.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "GSK"
+          ]
+        }
+      },
+      "source": "LinkedIn · Danielle Belgrave"
+    },
+    {
+      "position": 60,
+      "title": "Oliver Kenward - Senior Partner Development Manager",
+      "link": "https://uk.linkedin.com/in/oliver-kenward",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/oliver-kenward&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCPkBEAE",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcb1b345b1667d87ca5cd808c9fb4a4c2b.png",
+      "snippet": "Experience · Microsoft Graphic. Senior Partner Development Manager. Microsoft. Feb 2021 - Present 4 years 2 months. United Kingdom · Cisco. 13 years 3 months.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Senior Partner",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hart, England, United Kingdom",
+            "Senior Partner Development Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Oliver Kenward"
+    },
+    {
+      "position": 61,
+      "title": "Begoña Cerdan - Director Land Acquisition at Microsoft",
+      "link": "https://uk.linkedin.com/in/begocerdan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/begocerdan&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCIMCEAE",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcb96efc24eb8157e962e32439d875694f.png",
+      "snippet": "Director Land Acquisition at Microsoft · Experience: Microsoft · Location: United Kingdom · 500+ connections on LinkedIn ... Partner. Cushman & Wakefield.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Director",
+            "Land Acquisitions EMEA",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Begoña Cerdan"
+    },
+    {
+      "position": 62,
+      "title": "Orla McGrath - Microsoft",
+      "link": "https://uk.linkedin.com/in/ormcgrath",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ormcgrath&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECHYQAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc10dff0ff7edddf941d7a156903a1989a.png",
+      "snippet": "Global Partner Solutions Lead - Microsoft UK Leader of the Microsoft Global… · Microsoft ... Reading, England, United Kingdom. 3K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Orla McGrath"
+    },
+    {
+      "position": 63,
+      "title": "Jessica Spencer - Principal Program Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/jsnspencer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jsnspencer&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCJgCEAE",
+      "displayed_link": "630+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcb0e5a25aa270f9997c514e348e700d08.png",
+      "snippet": "Principal Program Manager at Microsoft · I believe that the attitude of the ... United Kingdom · 500+ connections on LinkedIn. View Jessica Spencer's ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Jessica Spencer"
+    },
+    {
+      "position": 64,
+      "title": "Chris East - Senior Strategic Partner Manager - GGPD",
+      "link": "https://uk.linkedin.com/in/chris-east-6201594",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chris-east-6201594&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCKUCEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcff0165af0e3d3bee321138c0bece49ce.png",
+      "snippet": "Experience. Microsoft Graphic. Senior Strategic Partner Manager - GGPD. Microsoft. Dec 2003 - Present 21 years 4 months. Reading, United Kingdom. Empire ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Little Marlow, England, United Kingdom",
+            "Senior Strategic Partner Manager",
+            "GGPD",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris East"
+    },
+    {
+      "position": 65,
+      "title": "Andreas Mueller - Principal Research SDE - Microsoft",
+      "link": "https://www.linkedin.com/in/andreas-c-mueller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andreas-c-mueller&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCKQCEAE",
+      "displayed_link": "9.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcf5f494f61f16edc526c829b0d7d2b3fa.png",
+      "snippet": "Principal Research SDE at Microsoft · I am very interested in open source and ... Microsoft. Jun 2012 - Sep 2012 4 months. Cambridge, United Kingdom. Working ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Gatos, California, United States",
+            "Principal Research SDE",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andreas Mueller"
+    },
+    {
+      "position": 66,
+      "title": "Miguel Fierro - Principal Data Scientist Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/miguelgfierro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/miguelgfierro&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCKgCEAE",
+      "displayed_link": "76.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcbd475189bf9a76f91ac21be0c4317351.png",
+      "snippet": "Microsoft Recommenders: https://github.com/microsoft/recommenders ... 4 years 6 months. London, United Kingdom. I help the College to define its ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Miguel Fierro"
+    },
+    {
+      "position": 67,
+      "title": "Ilya Venger - Principal Product Lead, Industry AI - Microsoft",
+      "link": "https://www.linkedin.com/in/ivenger/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ivenger/&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCKkCEAE",
+      "displayed_link": "6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc6824e6044187882cff23caa2d8f76006.png",
+      "snippet": "... Microsoft. Industry Clouds tie together the combined capability of Microsoft product suite and partner ecosystem on top of Azure, Microsoft 365, Power ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "partner",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Ilya Venger"
+    },
+    {
+      "position": 68,
+      "title": "Javier Alvarez Valle - Microsoft",
+      "link": "https://uk.linkedin.com/in/javieralvarezvalle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/javieralvarezvalle&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCLgCEAE",
+      "displayed_link": "11K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcf3fc1ba35cf3912dbdcf98d3d02cd8e9.png",
+      "snippet": "Experience. Microsoft Graphic · Microsoft. Cambridge, England, United Kingdom. -. Cambridge, United Kingdom. - ... Microsoft Global Hackathon 2022 Award Winner.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "United Kingdom",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Cambridge Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Javier Alvarez Valle"
+    },
+    {
+      "position": 69,
+      "title": "Alexandros Neophytou - Principal Research Manager",
+      "link": "https://uk.linkedin.com/in/alexandros-neophytou-76a6026a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alexandros-neophytou-76a6026a&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCL4CEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcb756340025544b6c06b11eddc55cc4c1.png",
+      "snippet": "Principal Research Manager at Microsoft. Microsoft University of Surrey. London, England, United Kingdom. 1K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Research Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexandros Neophytou"
+    },
+    {
+      "position": 70,
+      "title": "Ariel Gomez Diaz - Principal Optical Scientist - Microsoft",
+      "link": "https://uk.linkedin.com/in/ariel-gomez-diaz-4307286",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ariel-gomez-diaz-4307286&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECCcQAQ",
+      "displayed_link": "500+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc70c71c61d9d307d5a7a7fa711b750b4f.png",
+      "snippet": "Principal Optical Scientist at Microsoft Research · Optical scientist at Microsoft Research Cambridge ... - Dec 2019 1 year 2 months. Cambridge, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Cambridge Area",
+            "Principal Optical Scientist",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ariel Gomez Diaz"
+    },
+    {
+      "position": 71,
+      "title": "Mohammad Ali - Director of PM - Microsoft",
+      "link": "https://www.linkedin.com/in/mohaali45",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mohaali45&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECCgQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc2dd1845fd97c4f6d88c211296609a635.png",
+      "snippet": "Partner director · Currently own and lead the team that works on creator ... Principal Group Program Manager. Microsoft. Jan 2020 - Present 5 years 3 ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Principal",
+        "Microsoft",
+        "Present"
+      ],
+      "source": "LinkedIn · Mohammad Ali"
+    },
+    {
+      "position": 72,
+      "title": "Howard Lewis - Modern Work Leader - Microsoft",
+      "link": "https://uk.linkedin.com/in/howardslewis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/howardslewis&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECEIQAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc0a10bf0d817762f9b0975547c2dfc9db.png",
+      "snippet": "United Kingdom. Microsoft Graphic. COO SMS&P. Microsoft. Dec 2013 - Feb 2017 3 years 3 months. Reading, United Kingdom. Microsoft Graphic. Partner Strategy & ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Microsoft",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Wokingham, England, United Kingdom",
+            "Modern Work Leader",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Howard Lewis"
+    },
+    {
+      "position": 73,
+      "title": "Vaibhav Panchal (Vebz) - Microsoft",
+      "link": "https://uk.linkedin.com/in/vaibhavpanchal1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/vaibhavpanchal1&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECEAQAQ",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffccf8c61e1f5bc1f17507ec545ebeaa287.png",
+      "snippet": "Microsoft · Sikkim Manipal University of Health, Medical and Technological Sciences · United Kingdom ... current selection. Jobs; People; Learning. Clear text",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom",
+        "current"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vaibhav Panchal (Vebz)"
+    },
+    {
+      "position": 74,
+      "title": "Nikki Meyer - Global Microsoft Partnership Leader",
+      "link": "https://www.linkedin.com/in/nikkibmeyer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nikkibmeyer&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECEwQAQ",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc239345fad2ef510f207b2cfb17084b8e.png",
+      "snippet": "Partner Strategy Marketing Manager. Microsoft. Jan 2012 - Nov 2012 11 months. Reading, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Global Microsoft Partnership Leader",
+            "SoftwareOne"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nikki Meyer"
+    },
+    {
+      "position": 75,
+      "title": "Claire Rowe - Principal Project Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/claire-rowe-b416231a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/claire-rowe-b416231a&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECEsQAQ",
+      "displayed_link": "780+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcfe25f73a27d714446d123db0904097e7.png",
+      "snippet": "Principal Project Manager. Microsoft. Sep 2024 - Present 7 months. Greater London, England, United Kingdom. Principal Project Manager within Industry Solutions.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United Kingdom",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Project Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Claire Rowe"
+    },
+    {
+      "position": 76,
+      "title": "Chris Brown - United Kingdom | Professional Profile",
+      "link": "https://uk.linkedin.com/in/chrisbrown22",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chrisbrown22&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECFcQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcba85823fd2e300be45f8d78666c0e0dd.png",
+      "snippet": "Partner Engineering for Microsoft Copilot · Chris has more than 20 years ... United Kingdom. 500+ connections on LinkedIn. View Chris Brown's profile ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Chris Brown"
+    },
+    {
+      "position": 77,
+      "title": "Jack Lawton - Principal AI Solutions Architect - Aiimi",
+      "link": "https://uk.linkedin.com/in/jack-lawton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jack-lawton&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECFsQAQ",
+      "displayed_link": "770+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc4d6a2603c417967cb349f4c1c1e9053f.png",
+      "snippet": "Principal AI Solutions Architect. Aiimi. Jan 2024 - Present 1 year 3 months. Milton Keynes, England, United Kingdom. Developing AI driven capabilities and ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Manchester Area, United Kingdom",
+            "Principal AI Solutions Architect",
+            "Aiimi"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jack Lawton"
+    },
+    {
+      "position": 78,
+      "title": "David Richardson - Partner Researcher - Microsoft",
+      "link": "https://uk.linkedin.com/in/david-richardson-90a64432",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/david-richardson-90a64432&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECEYQAQ",
+      "displayed_link": "990+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc604dc278ef604404f36fb0267f05dec0.png",
+      "snippet": "Experience. Microsoft Graphic. Partner Researcher. Microsoft. Feb 2023 - Present 2 years 2 months. Romsey, England, United Kingdom. LUMENISITY LIMITED Graphic ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Southampton, England, United Kingdom",
+            "Partner Researcher",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Richardson"
+    },
+    {
+      "position": 79,
+      "title": "Mohamed Ibrahim - Dynamics/Office 365 Developer",
+      "link": "https://uk.linkedin.com/in/mohamed-ibrahim-0636a0108",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mohamed-ibrahim-0636a0108&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECF8QAQ",
+      "displayed_link": "160+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcf4749169d37307d5f923db56a037a23e.png",
+      "snippet": "Dynamics/Office 365 Developer · Microsoft Gold Partner · Brunel University London · United Kingdom · 161 connections on LinkedIn ... Feb 2023 - Present 2 years 2 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Partner",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "dynamics_office_developer": 365
+          },
+          "extensions": [
+            "United Kingdom",
+            "Dynamics/Office 365 Developer",
+            "Microsoft Gold Partner"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mohamed Ibrahim"
+    },
+    {
+      "position": 80,
+      "title": "Jagruti Pandya - Principal Software Engineer - Microsoft",
+      "link": "https://uk.linkedin.com/in/jagrutipandya1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jagrutipandya1&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCM8BEAE",
+      "displayed_link": "230+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc26deda4adb8d04762c590de9983b135c.png",
+      "snippet": "Principal Software Engineer at Microsoft. Microsoft University of California, Los Angeles. Greater London, England, United Kingdom. 235 followers 229 ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Principal Software Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jagruti Pandya"
+    },
+    {
+      "position": 81,
+      "title": "Jagdeep Dua - Principal Cloud Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/jagdeepdua",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jagdeepdua&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCL4BEAE",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffca5f2a7a598df316c07875fa0e2c0da60.png",
+      "snippet": "Principal Cloud Solution Architect - Developer Advocate. Microsoft The University of Birmingham. London, England, United Kingdom. 900 followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jagdeep Dua"
+    },
+    {
+      "position": 82,
+      "title": "Alice Sullivan - Microsoft Partner Marketing Manager",
+      "link": "https://uk.linkedin.com/in/alice-sullivan-67291a147",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alice-sullivan-67291a147&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECGoQAQ",
+      "displayed_link": "380+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc666fcd85bf1bfd0890fd731492a05754.png",
+      "snippet": "Microsoft Partner Marketing Manager · Nasstar · St Gregory's Catholic School · London Area, United Kingdom · 373 connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Microsoft Partner",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Microsoft Partner Marketing Manager",
+            "Nasstar"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alice Sullivan"
+    },
+    {
+      "position": 83,
+      "title": "James Croft - Senior Customer Engineer - Microsoft",
+      "link": "https://uk.linkedin.com/in/jmcroft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jmcroft&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCI4BEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcf204df8362f85814810b1a1f60b11549.png",
+      "snippet": "In my current role as an Azure Customer Experience Engineer at Microsoft, I ... Principal Innovation Consultant. Razor Ltd. Oct 2022 - Oct 2023 1 year 1 ...",
+      "snippet_highlighted_words": [
+        "current",
+        "Microsoft",
+        "Principal"
+      ],
+      "source": "LinkedIn · James Croft"
+    },
+    {
+      "position": 84,
+      "title": "Jeremy Carlson - Microsoft",
+      "link": "https://www.linkedin.com/in/jeremyrcarlson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeremyrcarlson&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECHMQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcaa7c2e195a22afa2b6b2f17af1a8d0aa.png",
+      "snippet": "London, United Kingdom. -. Greater Los Angeles Area. -. -. -. Education. University of California, Berkeley, Haas School of Business Graphic. University of ...",
+      "snippet_highlighted_words": [
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeremy Carlson"
+    },
+    {
+      "position": 85,
+      "title": "Andrew Paverd - Visiting Lecturer - University of Oxford",
+      "link": "https://uk.linkedin.com/in/andrewpaverd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrewpaverd&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCI0CEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc507a3e64cbb7becc33a4e754e2e2e170.png",
+      "snippet": "Principal Research Manager at Microsoft · https://ajpaverd.org · Experience ... United Kingdom Foreign and Commonwealth Office. Sep 2011. Innovation ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Andrew Paverd"
+    },
+    {
+      "position": 86,
+      "title": "Kenneth Smith - Principal Director, AI Research - Microsoft",
+      "link": "https://uk.linkedin.com/in/kenneth-wd-smith",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kenneth-wd-smith&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECHgQAQ",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc6736d9098793bc39fb1119b9c370c2b3.png",
+      "snippet": "Principal Director, AI Research at Microsoft. Microsoft Concordia University. London, England, United Kingdom ... An embodiment of the present invention ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Director, AI Research",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kenneth Smith"
+    },
+    {
+      "position": 87,
+      "title": "Andrew Spooner - Principal Technical Program Manager ...",
+      "link": "https://uk.linkedin.com/in/andrewspooner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrewspooner&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECHcQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcce130d4b496ef6281395e49daf2b5947.png",
+      "snippet": "Principal Technical Program Manager at Microsoft. Microsoft Bancrofts. Greater Bristol Area, United Kingdom. 1K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Bristol Area, United Kingdom",
+            "Principal Technical Program Manager, Commercial Software Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Spooner"
+    },
+    {
+      "position": 88,
+      "title": "Hannah Dowers - Senior Accessibility Partner - Microsoft",
+      "link": "https://www.linkedin.com/in/hannah-dowers?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hannah-dowers%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECHsQAQ",
+      "displayed_link": "140+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc56c8cb87bdcf5bd87dc9932d01805d54.png",
+      "snippet": "I'm Hannah Dowers, a committed Senior Accessibility Partner at Microsoft, through Northwest Center, rooted in Seattle. ... May 2022 - Present 2 years 11 months.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Present"
+      ],
+      "source": "LinkedIn · Hannah Dowers"
+    },
+    {
+      "position": 89,
+      "title": "Isabel Baker - Manager, Partner Intelligence and Strategy ...",
+      "link": "https://www.linkedin.com/in/isabel-baker-98577148",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/isabel-baker-98577148&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCJ8CEAE",
+      "displayed_link": "660+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc9592379329906291e7bb7515c63a3dbd.png",
+      "snippet": "Consumer AI partner strategy @ Microsoft · Experience: Microsoft · Education ... London, United Kingdom. Dataminr Graphic. Public Sector Domain Expert.",
+      "snippet_highlighted_words": [
+        "partner",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Manager, Partner Intelligence and Strategy, Consumer AI Business Development",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Isabel Baker"
+    },
+    {
+      "position": 90,
+      "title": "Phil Eade - Principal HW Engineer - Microsoft",
+      "link": "https://uk.linkedin.com/in/phileade",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/phileade&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCNkBEAE",
+      "displayed_link": "540+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcbb4e17a0c51b10982671516bec00aa8f.png",
+      "snippet": "Principal HW Engineer at Microsoft. Microsoft University of Sussex. Cambridge, England, United Kingdom ... Sep 2016 - Present 8 years 7 months. Cambridge ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cambridge, England, United Kingdom",
+            "Principal HW Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Phil Eade"
+    },
+    {
+      "position": 91,
+      "title": "Beverley Ashton - Principal Group PM Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/bevashton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bevashton&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCJIBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc232306739e2eeb91ff437980c1f16f48.png",
+      "snippet": "Microsoft Graphic. Principal PM Manager. Microsoft. Dec 2020 - Mar 2022 1 year 4 months. United Kingdom. Microsoft Graphic. Principal Program Manager. Microsoft.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "United Kingdom",
+        "Microsoft",
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Snohomish, Washington, United States",
+            "Principal Group PM Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Beverley Ashton"
+    },
+    {
+      "position": 92,
+      "title": "Guy Gregory - Microsoft",
+      "link": "https://uk.linkedin.com/in/guygregory",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/guygregory&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCJMBEAE",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc8624002ea7aee8e035da76bfcd49d216.png",
+      "snippet": "... United Kingdom. ... Together, we supported the same global Microsoft partner and empowered the global Microsoft Cloud Solution Provider (CSP) community.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft partner",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Guy Gregory"
+    },
+    {
+      "position": 93,
+      "title": "Gina Timm - UK Partner Market Strategy Lead (Security)",
+      "link": "https://uk.linkedin.com/in/ginatimm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ginatimm&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCJEBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc38b6ba09d274d06ead07f90489076a91.png",
+      "snippet": "UK Partner Market Strategy Lead (Security) at Microsoft. Microsoft The University of Edinburgh. Ascot, England, United Kingdom. 1K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ascot, England, United Kingdom",
+            "UK Partner Market Strategy Lead (Security)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gina Timm"
+    },
+    {
+      "position": 94,
+      "title": "Will Eastbury - Principal Service Engineering Manager",
+      "link": "https://uk.linkedin.com/in/willeastbury",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/willeastbury&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCKQBEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcdb27b79751c18d625e04dc33ad58f6cd.png",
+      "snippet": "At Microsoft, my role as Principal Service Engineering Manager and Technical ... Manchester, United Kingdom. Digital Experience Specialist. Anomaly Music.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Wychbold, England, United Kingdom",
+            "Principal Service Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Will Eastbury"
+    },
+    {
+      "position": 95,
+      "title": "Andrew Smith - Microsoft",
+      "link": "https://www.linkedin.com/in/andrew-smith-7339a04",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrew-smith-7339a04&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCKoBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc91abcc6865ceebf982660e5d2e92a5c7.png",
+      "snippet": "Microsoft · Redmond · 500+ connections on LinkedIn. View Andrew Smith's profile ... London & York, United Kingdom. Education. University of York Graphic ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Smith"
+    },
+    {
+      "position": 96,
+      "title": "Mark Richardson - Microsoft",
+      "link": "https://uk.linkedin.com/in/mark-richardson-78a62ba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mark-richardson-78a62ba&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCK8BEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc7ce2a5c07d76af977fa7df7d60fb9315.png",
+      "snippet": "I am an international business leader with a background in Digital Advertising who has… · Microsoft · The Wharton School · London Area, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Richardson"
+    },
+    {
+      "position": 97,
+      "title": "Riz Khan - Senior Partner Development Manager",
+      "link": "https://uk.linkedin.com/in/rxkhan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rxkhan&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCKwBEAE",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc6b0b31217d8d93ca049048ff502a88c2.png",
+      "snippet": "Senior Partner Technology Strategist / Partner CTO. Microsoft. Jan 2022 ... Associate Partner - Microsoft Financial Services. IBM United Kingdom Ltd. Feb ...",
+      "snippet_highlighted_words": [
+        "Senior Partner",
+        "Partner",
+        "Microsoft",
+        "Associate Partner",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Riz Khan"
+    },
+    {
+      "position": 98,
+      "title": "Colin Wright - Principal Software Engineering Manager",
+      "link": "https://uk.linkedin.com/in/colin-wright-265614312",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/colin-wright-265614312&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoFCJABEAE",
+      "displayed_link": "300+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffc543f14ccffe3c722a75ede147dbbb644.png",
+      "snippet": "Microsoft. Apr 2019 - Present 6 years. London Area, United Kingdom. Principal manager within the Fusion ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United Kingdom",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Principal Software Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Colin Wright"
+    },
+    {
+      "position": 99,
+      "title": "Emine C. - Principal Software Engineer - Microsoft",
+      "link": "https://uk.linkedin.com/in/emine-cimen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/emine-cimen&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECDUQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcffaceb51f9f8e08c9aee852f978ee5ae.png",
+      "snippet": "Principal Software Engineer at Microsoft · Experience: Microsoft · Education: Orta Dogu Teknik Universitesi · Location: London Area, United Kingdom · 500+ ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Principal Software Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emine C."
+    },
+    {
+      "position": 100,
+      "title": "Ajit Kotwal - Principal Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/ajit-kotwal-22693121",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ajit-kotwal-22693121&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQFnoECCUQAQ",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf93bee3403084869281b/images/d34a177ad928752d6c13dd9629af6ffcffc15689d9d9c2d2c0d5bbeef7d0e4dd.png",
+      "snippet": "Principal Solutions Architect at Microsoft · Microsoft Dynamics AX Programme ... Partner Council Advisory PM and consultant for large, US-based multi ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "Partner"
+      ],
+      "source": "LinkedIn · Ajit Kotwal"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=O_ndZ8O9OObS5NoP2Z2-qAU&start=100&sa=N&sstk=Af40H4Ust3C1eo1LF5mnZ0a_Tu9WOycZytIKQmRqD9BgzzVvIZGmZKEsSxGjRs6daMrihTP8WQ9kuxS0QJxs4_G9zQC6ac654zrZ-g&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQ8NMDegUItwIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=O_ndZ8O9OObS5NoP2Z2-qAU&start=100&sa=N&sstk=Af40H4Ust3C1eo1LF5mnZ0a_Tu9WOycZytIKQmRqD9BgzzVvIZGmZKEsSxGjRs6daMrihTP8WQ9kuxS0QJxs4_G9zQC6ac654zrZ-g&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQ8tMDegUItwIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=O_ndZ8O9OObS5NoP2Z2-qAU&start=200&sa=N&sstk=Af40H4Ust3C1eo1LF5mnZ0a_Tu9WOycZytIKQmRqD9BgzzVvIZGmZKEsSxGjRs6daMrihTP8WQ9kuxS0QJxs4_G9zQC6ac654zrZ-g&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQ8tMDegUItwIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=O_ndZ8O9OObS5NoP2Z2-qAU&start=300&sa=N&sstk=Af40H4Ust3C1eo1LF5mnZ0a_Tu9WOycZytIKQmRqD9BgzzVvIZGmZKEsSxGjRs6daMrihTP8WQ9kuxS0QJxs4_G9zQC6ac654zrZ-g&ved=2ahUKEwiDx4rirJyMAxVmKVkFHdmOD1UQ8tMDegUItwIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=300"
+    }
+  }
+}

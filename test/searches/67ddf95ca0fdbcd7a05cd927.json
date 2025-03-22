@@ -1,0 +1,269 @@
+{
+  "search_metadata": {
+    "id": "67ddf95ca0fdbcd7a05cd927",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/23017ede07fd6632/67ddf95ca0fdbcd7a05cd927.json",
+    "created_at": "2025-03-21 23:42:20 UTC",
+    "processed_at": "2025-03-21 23:42:20 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/23017ede07fd6632/67ddf95ca0fdbcd7a05cd927.html",
+    "total_time_taken": 1.75
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"Germany\" AND (current OR present) AND (\"CEO\" OR \"Chief Executive Officer\" OR \"CFO\" OR \"Chief Financial Officer\" OR \"CTO\" OR \"Chief Technology Officer\" OR \"COO\" OR \"Chief Operating Officer\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"Germany\" AND (current OR present) AND (\"CEO\" OR \"Chief Executive Officer\" OR \"CFO\" OR \"Chief Financial Officer\" OR \"CTO\" OR \"Chief Technology Officer\" OR \"COO\" OR \"Chief Operating Officer\")",
+    "total_results": 3570000,
+    "time_taken_displayed": 0.78,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Kevin Scott - CTO Microsoft",
+      "link": "https://www.linkedin.com/in/jkevinscott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jkevinscott&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQFnoECAkQAQ",
+      "displayed_link": "757.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf95ca0fdbcd7a05cd927/images/7c8f0c69177faf203facaf2bba3e8b899745f30b5b8ec25efa0450cbf33e08af.png",
+      "snippet": "CTO Microsoft. Microsoft. Jan 2017 - Present 8 years 3 months. Code.org Graphic ... Department of Computer Science, University of Goettingen, Germany. Aug ...",
+      "snippet_highlighted_words": [
+        "CTO Microsoft",
+        "Microsoft",
+        "Present",
+        "Germany"
+      ],
+      "source": "LinkedIn · Kevin Scott"
+    },
+    {
+      "position": 2,
+      "title": "Christian Schaetz – Microsoft",
+      "link": "https://de.linkedin.com/in/christian-schaetz-180bbb5b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/christian-schaetz-180bbb5b&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQFnoECBoQAQ",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf95ca0fdbcd7a05cd927/images/7c8f0c69177faf203facaf2bba3e8b897a5e4105cbd024cc8c26d8d8840a2e5f.png",
+      "snippet": "Christian Schaetz. Microsoft The Open University. Bayern, Deutschland. 2337 Follower:innen 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bayern, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christian Schaetz"
+    },
+    {
+      "position": 3,
+      "title": "Florian Deter – Managing Director Germany & EMEA ...",
+      "link": "https://de.linkedin.com/in/florian-deter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/florian-deter&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQFnoECBkQAQ",
+      "displayed_link": "10.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf95ca0fdbcd7a05cd927/images/7c8f0c69177faf203facaf2bba3e8b89945e79e2c86b60a8a46f4ca2c022a56f.png",
+      "snippet": "As Managing Director Germany and General Manager Enterprise Commercial at Microsoft, I am responsible for driving the digital agenda, scaling the cloud business ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Managing Director Germany & EMEA General Manager Enterprise Partner Sales",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Florian Deter"
+    },
+    {
+      "position": 4,
+      "title": "Christoph Berlin - Microsoft",
+      "link": "https://www.linkedin.com/in/christophberlin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christophberlin&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQFnoECBgQAQ",
+      "displayed_link": "4.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf95ca0fdbcd7a05cd927/images/7c8f0c69177faf203facaf2bba3e8b895c8929f37693b0d98f61a7ce97022b90.png",
+      "snippet": "Microsoft Graphic. Microsoft. Redmond, Washington, United States ... Ulm Area, Germany. Education. Fachhochschule Darmstadt. 2000 - 2005. Activities ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christoph Berlin"
+    },
+    {
+      "position": 5,
+      "title": "Cindy Rose OBE - Microsoft",
+      "link": "https://uk.linkedin.com/in/cindy-rose",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/cindy-rose&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQFnoECCQQAQ",
+      "displayed_link": "20.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf95ca0fdbcd7a05cd927/images/7c8f0c69177faf203facaf2bba3e8b89ef18f94bed597b924d7a50897823b324.png",
+      "snippet": "Cindy Rose OBE - Microsoft New York Law School About As COO, I am proud to lead Microsoft's Global Enterprise teams to live our mission.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "COO",
+        "Microsoft's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Cindy Rose OBE"
+    },
+    {
+      "position": 6,
+      "title": "Luca Callegari – Microsoft | LinkedIn",
+      "link": "https://de.linkedin.com/in/luca-callegari",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/luca-callegari&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQFnoECBwQAQ",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf95ca0fdbcd7a05cd927/images/7c8f0c69177faf203facaf2bba3e8b895a1253a7baea6e5491263b82f1db5001.png",
+      "snippet": "My Mission: I'm on a mission as a leader – to empower both a company and its people to… · Berufserfahrung: Microsoft ... Munich, Bavaria, Germany; Milan, Lombardy ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Luca Callegari"
+    },
+    {
+      "position": 7,
+      "title": "Sean Jones – Microsoft",
+      "link": "https://de.linkedin.com/in/sean-jones-2a8a934",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sean-jones-2a8a934&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQFnoECCsQAQ",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf95ca0fdbcd7a05cd927/images/7c8f0c69177faf203facaf2bba3e8b898e0f49e59f15b1045155122afd62abe1.png",
+      "snippet": "Helping Microsoft save the world with the heart of a (grand)father and ... Global (Ludwigshafen, Germany based). -. Global (Ludwigshafen, Germany based) ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brühl, Baden-Württemberg, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sean Jones"
+    },
+    {
+      "position": 8,
+      "title": "Alexander Gaertner – Microsoft",
+      "link": "https://ch.linkedin.com/in/alexander-gaertner-46baa143",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ch.linkedin.com/in/alexander-gaertner-46baa143&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQFnoECC4QAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf95ca0fdbcd7a05cd927/images/7c8f0c69177faf203facaf2bba3e8b8999fc834a37569fac7a2a7e13e40ac49f.png",
+      "snippet": "Experienced Chief Financial Officer with a demonstrated history of working in the… · Microsoft ... Munich Area, Germany. -. Dubai, United Arab Emirates ...",
+      "snippet_highlighted_words": [
+        "Chief Financial Officer",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Zürich, Zürich, Schweiz",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexander Gaertner"
+    },
+    {
+      "position": 9,
+      "title": "Sylvain Ekel – Partner Chief Technology Officer – Microsoft",
+      "link": "https://de.linkedin.com/in/sylvainekel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sylvainekel&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQFnoECCoQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf95ca0fdbcd7a05cd927/images/7c8f0c69177faf203facaf2bba3e8b8916681e162d7fddfae96d03ff26d8e924.png",
+      "snippet": "Microsoft. 20 Jahre 10 Monate · Microsoft Grafik. Partner Chief Technology Officer. Microsoft. Nov. 2022 –Heute 2 Jahre 5 Monate. Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Chief Technology Officer",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bayern, Deutschland",
+            "Partner Chief Technology Officer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sylvain Ekel"
+    },
+    {
+      "position": 10,
+      "title": "Claudia Hartwich – Microsoft",
+      "link": "https://de.linkedin.com/in/claudia-hartwich",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/claudia-hartwich&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQFnoECCwQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf95ca0fdbcd7a05cd927/images/7c8f0c69177faf203facaf2bba3e8b89f135b598df1d4b08dd291ec3962e7e83.png",
+      "snippet": "Claudia Hartwich, Microsoft, Info, Together with a fantastic HR Team we are passionate about the transformation of Microsoft.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Claudia Hartwich"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=XPndZ6z1NvqJwbkPhJmKIQ&start=100&sa=N&sstk=Af40H4XPtj6JsiERdF_w-WvOYdZ08xJ6TS8QwjF8QsecQR65Q9CoHpTz7wW7yBILLkHkVtGYHx3vOZfxp6SJT3IrPGt7x4JeAek9FQ&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQ8NMDegQIJxAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=XPndZ6z1NvqJwbkPhJmKIQ&start=100&sa=N&sstk=Af40H4XPtj6JsiERdF_w-WvOYdZ08xJ6TS8QwjF8QsecQR65Q9CoHpTz7wW7yBILLkHkVtGYHx3vOZfxp6SJT3IrPGt7x4JeAek9FQ&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQ8tMDegQIJxAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=XPndZ6z1NvqJwbkPhJmKIQ&start=200&sa=N&sstk=Af40H4XPtj6JsiERdF_w-WvOYdZ08xJ6TS8QwjF8QsecQR65Q9CoHpTz7wW7yBILLkHkVtGYHx3vOZfxp6SJT3IrPGt7x4JeAek9FQ&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQ8tMDegQIJxAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=XPndZ6z1NvqJwbkPhJmKIQ&start=300&sa=N&sstk=Af40H4XPtj6JsiERdF_w-WvOYdZ08xJ6TS8QwjF8QsecQR65Q9CoHpTz7wW7yBILLkHkVtGYHx3vOZfxp6SJT3IrPGt7x4JeAek9FQ&ved=2ahUKEwisk-fxrJyMAxX6RDABHYSMIgQQ8tMDegQIJxAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=300"
+    }
+  }
+}

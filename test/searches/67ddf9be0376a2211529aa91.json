@@ -1,0 +1,1996 @@
+{
+  "search_metadata": {
+    "id": "67ddf9be0376a2211529aa91",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3d03d1e5ca48ffcd/67ddf9be0376a2211529aa91.json",
+    "created_at": "2025-03-21 23:43:58 UTC",
+    "processed_at": "2025-03-21 23:43:58 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3d03d1e5ca48ffcd/67ddf9be0376a2211529aa91.html",
+    "total_time_taken": 1.87
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"United States\" AND (current OR present) AND (\"Group Manager\" OR \"Regional Manager\" OR \"Department Manager\" OR \"Team Manager\" OR \"Owner\" OR \"Founder\" OR \"Co-Founder\" OR \"Proprietor\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"United States\" AND (current OR present) AND (\"Group Manager\" OR \"Regional Manager\" OR \"Department Manager\" OR \"Team Manager\" OR \"Owner\" OR \"Founder\" OR \"Co-Founder\" OR \"Proprietor\")",
+    "total_results": 173000000,
+    "time_taken_displayed": 0.91,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Fergus Hurley - Google",
+      "link": "https://www.linkedin.com/in/fergushurley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/fergushurley&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECAkQAQ",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1425e9dc4ecb8628cab53d55a97071d9dbb.png",
+      "snippet": "Fergus Hurley. Google Massachusetts Institute of Technology. Miami, Florida, United States ... Fergus Hurley is the co-founder of Google's AI-powered compliance ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States",
+        "co-founder",
+        "Google's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Miami, Florida, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Fergus Hurley"
+    },
+    {
+      "position": 2,
+      "title": "Peter Bailis - Google",
+      "link": "https://www.linkedin.com/in/pbailis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/pbailis&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECBYQAQ",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14222119f8304333e7989946f80ce25d158.png",
+      "snippet": "Experience: Google Graphic, Google, San Francisco Bay Area, San Francisco, California, United States. Education: University of California, Berkeley.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Bailis"
+    },
+    {
+      "position": 3,
+      "title": "Sundar Pichai - CEO - Google",
+      "link": "https://www.linkedin.com/in/sundarpichai",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sundarpichai&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECBgQAQ",
+      "displayed_link": "452.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142a6d698c8ebd5ec14a0b052003a1403ab.png",
+      "snippet": "Sundar Pichai is an influencer. CEO at Google. Google The Wharton School. Mountain View, California, United States.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "CEO",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sundar Pichai"
+    },
+    {
+      "position": 4,
+      "title": "Alison Wagonfeld - Google",
+      "link": "https://www.linkedin.com/in/alisonwagonfeld",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alisonwagonfeld&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECBoQAQ",
+      "displayed_link": "16.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142d9a28d3e5741f01b355c1921ec0a7e79.png",
+      "snippet": "Experience. Google Graphic. Google. Mountain View, CA. -. San Jose, California, United States. -. San Mateo, California. -. Greater Seattle Area. -. Greater New ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "source": "LinkedIn · Alison Wagonfeld"
+    },
+    {
+      "position": 5,
+      "title": "Adam Gavish - Google",
+      "link": "https://www.linkedin.com/in/adamgavish",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/adamgavish&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECBcQAQ",
+      "displayed_link": "14.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1428a2ca92145d50d759d536812dea203b9.png",
+      "snippet": "Adam Gavish. Google Cornell Tech. New York, New York, United States. 15K ... Adam Gavish is the Co-Founder and CEO at DoControl, a well-funded SaaS ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States",
+        "Co-Founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Gavish"
+    },
+    {
+      "position": 6,
+      "title": "Laszlo Bock - Co-Founder and Board Member - Gretel Inc",
+      "link": "https://www.linkedin.com/in/laszlobock",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/laszlobock&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECBkQAQ",
+      "displayed_link": "996.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1421f333b5feba229a6493e19deff0bef00.png",
+      "snippet": "Laszlo Bock is an influencer Co-founder at Gretel.ai, Humu and UC Berkeley | x-SVP of People Ops at Google | NYT bestselling author of \"Work Rules!\"",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Google"
+      ],
+      "source": "LinkedIn · Laszlo Bock"
+    },
+    {
+      "position": 7,
+      "title": "Martin Gonzalez - Org Design and Development Lead",
+      "link": "https://www.linkedin.com/in/martinjosegonzalez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/martinjosegonzalez&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECCUQAQ",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142926e8167f5cc76aa0c64e8e176bd05ba.png",
+      "snippet": "Whether they're a founder of an ambitious startup or leading a large global organization. ... Org Development Lead for Google Research (now part of Google ...",
+      "snippet_highlighted_words": [
+        "founder",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Martin Gonzalez"
+    },
+    {
+      "position": 8,
+      "title": "Francis deSouza - Chief Operating Officer, Google Cloud",
+      "link": "https://www.linkedin.com/in/francisdesouza",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/francisdesouza&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECCsQAQ",
+      "displayed_link": "77.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142e8f32f57f3cfd55edf41f6b08f4ee096.png",
+      "snippet": "Chief Operating Officer, Google Cloud. Google. Jan 2025 - Present 3 months ; Board Member and Investor. Deel. May 2024 - Present 11 months ; Co-Founder. SynthLabs.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present",
+        "Present",
+        "Co-Founder"
+      ],
+      "source": "LinkedIn · Francis deSouza"
+    },
+    {
+      "position": 9,
+      "title": "Peeyush Ranjan - Google",
+      "link": "https://www.linkedin.com/in/peeyushr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/peeyushr&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCOMBEAE",
+      "displayed_link": "61.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142818ca4d485f4f8186f3a89a8ae726c62.png",
+      "snippet": "Peeyush Ranjan. Google Indian Institute of Technology, Kharagpur. Mountain View, California, United States. 61K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peeyush Ranjan"
+    },
+    {
+      "position": 10,
+      "title": "Yossi Matias - Google",
+      "link": "https://www.linkedin.com/in/yossimatias",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/yossimatias&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECCwQAQ",
+      "displayed_link": "29.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142c9191b931d9bafbdef89301453be14a7.png",
+      "snippet": "Yossi Matias is Vice President, Google, and the Head of Google Research. Under… · Google · United States · 500+ connections on LinkedIn. View Yossi Matias' ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Yossi Matias"
+    },
+    {
+      "position": 11,
+      "title": "Sridhar Ramaswamy - Cupertino, California, United States",
+      "link": "https://www.linkedin.com/in/sridhar-ramaswamy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sridhar-ramaswamy&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJEBEAE",
+      "displayed_link": "168.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1420f4cefe79d3e4b734adc36e0b1337694.png",
+      "snippet": "Sridhar Ramaswamy is an influencer. CEO, Snowflake. Cupertino, California, United States. 169K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Sridhar Ramaswamy"
+    },
+    {
+      "position": 12,
+      "title": "John Battelle - Co-Founder, EP - DOC",
+      "link": "https://www.linkedin.com/in/johnbattelle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/johnbattelle&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCOQBEAE",
+      "displayed_link": "269.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1428a3fcee4ddabf1ffe2e23582f11ca07c.png",
+      "snippet": "Co-Founder, EP · Senior Fellow at the Burnes Center, Professor of Practice · Chairman · Executive Producer, Signal P&G · Owner, GP · Member Board of Directors.",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Owner"
+      ],
+      "source": "LinkedIn · John Battelle"
+    },
+    {
+      "position": 13,
+      "title": "Tom Leung - Palo Alto Foundry",
+      "link": "https://www.linkedin.com/in/toml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/toml&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCIICEAE",
+      "displayed_link": "8.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14240deb0a77714de64bb79bfbf8dff89cd.png",
+      "snippet": "Knox Scholar, Section Senator, Admissions Ambassador, Co-Chair of Career Teams, Co-Founder of HBS4A, Student Association Award recipient. ... Continue with Google ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Palo Alto, California, United States",
+            "Palo Alto Foundry"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tom Leung"
+    },
+    {
+      "position": 14,
+      "title": "Bryan Helmig - Wildwood, Missouri, United States",
+      "link": "https://www.linkedin.com/in/bryanhelmig",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bryanhelmig&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECCoQAQ",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1427c32af70f4b7d6b22274589a9bb668ed.png",
+      "snippet": "Bryan Helmig. Y Combinator. Wildwood, Missouri, United States. 6K followers ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Bryan Helmig"
+    },
+    {
+      "position": 15,
+      "title": "Dharmesh Shah - Founder and CTO - HubSpot",
+      "link": "https://www.linkedin.com/in/dharmesh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dharmesh&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECGIQAQ",
+      "displayed_link": "1.1M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142217df1e4298c6fa0c055b89ef37ee6c6.png",
+      "snippet": "Founder and CTO. HubSpot. Jun 2006 - Present 18 years 10 months. Cambridge, Massachusetts, United States.",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Dharmesh Shah"
+    },
+    {
+      "position": 16,
+      "title": "Jonathan Ross - ceo + founder - groq",
+      "link": "https://www.linkedin.com/in/ross-jonathan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ross-jonathan&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJIBEAE",
+      "displayed_link": "74.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142eb2acab9735a7aaaad9b1c66c9a4cad9.png",
+      "snippet": "Palo Alto, California, United States. 75K followers 500+ connections. See your mutual ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Palo Alto, California, United States",
+            "ceo + founder",
+            "groq"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Ross"
+    },
+    {
+      "position": 17,
+      "title": "Orkut Buyukkokten - Hello Network, Inc.",
+      "link": "https://www.linkedin.com/in/orkutb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/orkutb&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCLMBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142f0f2fd51817c460fcb09ceaea98cf070.png",
+      "snippet": "Orkut Buyukkokten. Hello Network, Inc. Stanford University. Mountain View, California, United States ... Continue with GoogleContinue with Google. New to LinkedIn ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Hello Network, Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Orkut Buyukkokten"
+    },
+    {
+      "position": 18,
+      "title": "Clement Mihailescu - Co-Founder & CEO - AlgoExpert",
+      "link": "https://www.linkedin.com/in/clementmihailescu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/clementmihailescu&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCOIBEAE",
+      "displayed_link": "512.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14248a812ce6a9a874a18d53e1b66c4c687.png",
+      "snippet": "Co-Founder & CEO of AlgoExpert | Ex-Google & Ex-Facebook Software Engineer. AlgoExpert University of Pennsylvania. Las Vegas, Nevada, United States. 512K ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Las Vegas, Nevada, United States",
+            "Co-Founder & CEO",
+            "AlgoExpert"
+          ]
+        }
+      },
+      "source": "LinkedIn · Clement Mihailescu"
+    },
+    {
+      "position": 19,
+      "title": "Simon Kim 🌱 - Co-Founder & CMO - Creator Camp LLC",
+      "link": "https://www.linkedin.com/in/simon-kim-%F0%9F%8C%B1-ab68261a1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/simon-kim-%25F0%259F%258C%25B1-ab68261a1&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCP4BEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1424bfad4553d5d399a830bd9f1a03070f3.png",
+      "snippet": "Co-Founder & CMO. Creator Camp LLC. Mar 2022 - Present 3 years 1 month. Austin, Texas, United States. Creator Camp is an ecosystem dedicated to bridging the gap ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Simon Kim 🌱"
+    },
+    {
+      "position": 20,
+      "title": "Andrew Yang - New York, New York, United States",
+      "link": "https://www.linkedin.com/in/andrewyangvfa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrewyangvfa&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCI8CEAE",
+      "displayed_link": "46.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14281da2b52b90b6a3d76bbb6f3766f6e1b.png",
+      "snippet": "Andrew Yang. New York, New York, United States. 46K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Andrew Yang"
+    },
+    {
+      "position": 21,
+      "title": "Kevin Systrom - Artifact",
+      "link": "https://www.linkedin.com/in/kevinsystrom",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kevinsystrom&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCKsCEAE",
+      "displayed_link": "186.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14288b7fb9147972aac9ef22200fda2bda6.png",
+      "snippet": "Kevin Systrom. Artifact Stanford University. San Francisco, California, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Artifact"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin Systrom"
+    },
+    {
+      "position": 22,
+      "title": "Eric Schmidt - Founding Partner - Innovation Endeavors",
+      "link": "https://www.linkedin.com/in/eric-e-schmidt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/eric-e-schmidt&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECC0QAQ",
+      "displayed_link": "40.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14271dcdfa7745b6735e180129bb1df67d2.png",
+      "snippet": "Former CEO & Chairman of Google. Innovation Endeavors Princeton University. New York, New York, United States ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Founding Partner",
+            "Innovation Endeavors"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eric Schmidt"
+    },
+    {
+      "position": 23,
+      "title": "Kim Kaupe - Austin, Texas, United States",
+      "link": "https://www.linkedin.com/in/kimkaupe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kimkaupe&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECEYQAQ",
+      "displayed_link": "66.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1423e605425afc504a18ed0b98fb895cc3b.png",
+      "snippet": "Founder at Bright Ideas Only, Keynote Speaker & Moderator, LinkedIn Learning Instructor & ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Kim Kaupe"
+    },
+    {
+      "position": 24,
+      "title": "Chris Orlob - Co-Founder & CEO - pclub.io",
+      "link": "https://www.linkedin.com/in/chrisorlob",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chrisorlob&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECF4QAQ",
+      "displayed_link": "159.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1421cddc48f63ee404325248b901dae0ba6.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or ... Co-Founder & CEO. pclub.io. Aug 2022 - Present 2 years 8 months. San Francisco ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Co-Founder",
+        "Present"
+      ],
+      "source": "LinkedIn · Chris Orlob"
+    },
+    {
+      "position": 25,
+      "title": "Jimmy Iovine - Partner / Co-Founder",
+      "link": "https://www.linkedin.com/in/jimmyiovine",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jimmyiovine&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECHkQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1426578e6ed8aa14c8d1facf4cea61447b9.png",
+      "snippet": "Co-Founder of USC Jimmy Iovine and Andre Young Academy, Iovine and Young ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Jimmy Iovine"
+    },
+    {
+      "position": 26,
+      "title": "Dave Maney - Founder/CEO - The Expert Press",
+      "link": "https://www.linkedin.com/in/davemaney",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/davemaney&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJMBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142cfc32ea03e0f52f06b1abcfacd045cb4.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Co-Founder & Chairman. Headwaters MB. Sep 2001 - Dec 2010 9 years 4 months.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Co-Founder"
+      ],
+      "source": "LinkedIn · Dave Maney"
+    },
+    {
+      "position": 27,
+      "title": "Sebastian Thrun - Stealth Startup",
+      "link": "https://www.linkedin.com/in/sebastian-thrun-59a0b273",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sebastian-thrun-59a0b273&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCKwBEAE",
+      "displayed_link": "98.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142c1bb0e445d927ea300e62ded38d77d09.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Stanford, California, United States. -. Mountain View, CA. -. San Francisco ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Stealth Startup"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sebastian Thrun"
+    },
+    {
+      "position": 28,
+      "title": "Marc Benioff - San Francisco, California, United States",
+      "link": "https://www.linkedin.com/in/marcbenioff",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marcbenioff&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCLUBEAE",
+      "displayed_link": "139.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142f48c7a184f82ffa1c9698d637c740fba.png",
+      "snippet": "Marc Benioff is an influencer. San Francisco, California, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Marc Benioff"
+    },
+    {
+      "position": 29,
+      "title": "Minko Gechev - Google",
+      "link": "https://www.linkedin.com/in/mgechev",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mgechev&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCMoBEAE",
+      "displayed_link": "65.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1428c17ea5e2b5daf001d94e7dbd5c3baef.png",
+      "snippet": "Minko Gechev. Google Sofia University St. Kliment Ohridski. San Francisco, California, United States. 66K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Minko Gechev"
+    },
+    {
+      "position": 30,
+      "title": "Ryan Roslansky - Chief Executive Officer",
+      "link": "https://www.linkedin.com/in/ryanroslansky",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ryanroslansky&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCOUBEAE",
+      "displayed_link": "859.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142096042d86c8d97899d860c6f8bfa239f.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Co-Founder / CEO. Housing Media. Jan 1997 - Jul 1999 2 years 7 months. Co ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Co-Founder"
+      ],
+      "source": "LinkedIn · Ryan Roslansky"
+    },
+    {
+      "position": 31,
+      "title": "Rob Abelow - Founder - Where Music's Going",
+      "link": "https://www.linkedin.com/in/robabelow",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robabelow&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCOYBEAE",
+      "displayed_link": "18K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1422e39c83193a11bd759e487e59ca9b138.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Jan 2024 - Present 1 year 3 months. New York, New York, United States. No ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Rob Abelow"
+    },
+    {
+      "position": 32,
+      "title": "Liam Bolling - DeepPrediction",
+      "link": "https://www.linkedin.com/in/liambolling",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/liambolling&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCP0BEAE",
+      "displayed_link": "36.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142ed6b542add6592bb3e2f2ea93be234e3.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... New York, United States. -. New York, United States. -. Seattle, Washington ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "DeepPrediction"
+          ]
+        }
+      },
+      "source": "LinkedIn · Liam Bolling"
+    },
+    {
+      "position": 33,
+      "title": "Richard Branson - Founder - Virgin Group",
+      "link": "https://www.linkedin.com/in/rbranson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rbranson&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCP8BEAE",
+      "displayed_link": "18.7M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142062bc1dc2537184e0cbff6c4cb55de64.png",
+      "snippet": "Founder at Virgin Group · Virgin Group · {:currentLocation} · 2 connections on LinkedIn ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Founder",
+            "Virgin Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Branson"
+    },
+    {
+      "position": 34,
+      "title": "Philippe von Borries - Co-Founder & CEO - Something new...",
+      "link": "https://www.linkedin.com/in/philippevonborries",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/philippevonborries&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJsCEAE",
+      "displayed_link": "154.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142f60da012d9c53a2f1056f71db87f0379.png",
+      "snippet": "New York, New York, United States. Refinery29, Inc. Graphic. Co-Founder & CEO. Refinery29, Inc. Oct 2006 - Nov 2019 13 years 2 months. New York, NY. Education.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Co-Founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Co-Founder & CEO",
+            "Something new..."
+          ]
+        }
+      },
+      "source": "LinkedIn · Philippe von Borries"
+    },
+    {
+      "position": 35,
+      "title": "Marc Bridge - At Present",
+      "link": "https://www.linkedin.com/in/marc-bridge-28b3089",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marc-bridge-28b3089&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJwCEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142ef0adc50771d9453e1a636c71200efeb.png",
+      "snippet": "Marc Bridge. At Present The London School of Economics and Political Science (LSE). Seattle, Washington, United States ... Continue with GoogleContinue with ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United States",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "At Present"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marc Bridge"
+    },
+    {
+      "position": 36,
+      "title": "Dennis R. Mortensen - CEO and Founder - LaunchBrightly",
+      "link": "https://www.linkedin.com/in/dennismortensen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dennismortensen&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCKkCEAE",
+      "displayed_link": "489.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142d6f96569288b7ec51e571ea6b80ab58e.png",
+      "snippet": "CEO and Founder of LaunchBrightly. LaunchBrightly The University of British Columbia. New York, New York, United States ... Continue with GoogleContinue with ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "United States",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "CEO and Founder",
+            "LaunchBrightly"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dennis R. Mortensen"
+    },
+    {
+      "position": 37,
+      "title": "Richard Socher - CEO - You.com",
+      "link": "https://www.linkedin.com/in/richardsocher",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/richardsocher&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCLYCEAE",
+      "displayed_link": "34.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142b36b3308eaeb7e3a06e02cd373738b85.png",
+      "snippet": "... founder and CEO/CTO of MetaMind which was acquired by Salesforce in 2016. In 2014, I got my PhD in the CS Department at Stanford. · You.com · United States ...",
+      "snippet_highlighted_words": [
+        "founder",
+        "United States"
+      ],
+      "source": "LinkedIn · Richard Socher"
+    },
+    {
+      "position": 38,
+      "title": "Joel Gascoigne - Buffer",
+      "link": "https://www.linkedin.com/in/joelgascoigne",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joelgascoigne&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECCkQAQ",
+      "displayed_link": "21K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1421d30d3d8fb6fe6d7f666b2050bbe5177.png",
+      "snippet": "Co-founder and CEO of Buffer, a social media platform used by hundreds of ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Boulder, Colorado, United States",
+            "Buffer"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joel Gascoigne"
+    },
+    {
+      "position": 39,
+      "title": "Ben Faw - AdVon Commerce",
+      "link": "https://www.linkedin.com/in/benfaw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/benfaw&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECEcQAQ",
+      "displayed_link": "10.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142d2c109b1ab56a4c30c39b91a966abfa4.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to follow · Report this profile; Close menu. About. Co-Founder of AdVon Commerce.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Co-Founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "AdVon Commerce"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Faw"
+    },
+    {
+      "position": 40,
+      "title": "Clay Bavor - Sierra",
+      "link": "https://www.linkedin.com/in/claybavor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/claybavor&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECEQQAQ",
+      "displayed_link": "12.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142eccf670b615935e8668b3bcb3e90090e.png",
+      "snippet": "Clay Bavor. Sierra Princeton University. Mountain View, California, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Sierra"
+          ]
+        }
+      },
+      "source": "LinkedIn · Clay Bavor"
+    },
+    {
+      "position": 41,
+      "title": "Hugo Latapie - Founder - Stealth AGI Startup",
+      "link": "https://www.linkedin.com/in/hugo-latapie-3160564",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hugo-latapie-3160564&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECF0QAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142f6570fea6ed678a36dff7bff7e36d5a8.png",
+      "snippet": "Founder. Stealth AGI Startup. Nov 2024 - Present 5 months. Temecula, California, United States · Cisco Graphic. Principal Engineer. Cisco. Nov 2013 - Jan 2025 11 ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Temecula, California, United States",
+            "Founder",
+            "Stealth AGI Startup"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hugo Latapie"
+    },
+    {
+      "position": 42,
+      "title": "Joe Hollier - Co-Founder - Light",
+      "link": "https://www.linkedin.com/in/joe-hollier",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joe-hollier&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECGAQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142005a5c732b52ba3c30aa3ce5ee11daa5.png",
+      "snippet": "Joe Hollier. Co-Founder of Light. Light Google's 30 Weeks. Brooklyn, New York, United States.",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Google's",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brooklyn, New York, United States",
+            "Co-Founder",
+            "Light"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joe Hollier"
+    },
+    {
+      "position": 43,
+      "title": "Neil Patel Digital - Co-Founder",
+      "link": "https://www.linkedin.com/in/neilkpatel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/neilkpatel&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECGEQAQ",
+      "displayed_link": "729K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1424205f7071f72a2c1df3d1fd200ea28a9.png",
+      "snippet": "Co-Founder at Neil Patel Digital · I am a New York Times bestselling author ... Google, Thomson Reuters, Viacom, NBC, Intuit, Zappos, American ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Co-Founder",
+            "Neil Patel Digital"
+          ]
+        }
+      },
+      "source": "LinkedIn · Neil Patel"
+    },
+    {
+      "position": 44,
+      "title": "Mike Krieger - Anthropic",
+      "link": "https://www.linkedin.com/in/mikekrieger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mikekrieger&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECHgQAQ",
+      "displayed_link": "50.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142ca5e6b4947a109a5fef4d744030699f0.png",
+      "snippet": "Mike Krieger. Anthropic Stanford University. San Francisco, California, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Anthropic"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Krieger"
+    },
+    {
+      "position": 45,
+      "title": "Roshan Patel - Founder & CEO - Arrow",
+      "link": "https://www.linkedin.com/in/patelro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/patelro&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECH0QAQ",
+      "displayed_link": "11.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1424694538269e8fd793eef09c5bdee4cc3.png",
+      "snippet": "Roshan Patel. Founder & CEO at Arrow. Arrow Vanderbilt University. New York, New York, United States.",
+      "snippet_highlighted_words": [
+        "Founder",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Founder & CEO",
+            "Arrow"
+          ]
+        }
+      },
+      "source": "LinkedIn · Roshan Patel"
+    },
+    {
+      "position": 46,
+      "title": "David DeWolf - Knownwell",
+      "link": "https://www.linkedin.com/in/ddewolf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ddewolf&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJgBEAE",
+      "displayed_link": "13.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14261c0ddebf6ed31b3d53d0ef817551e8d.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... David DeWolf is the founder and CEO of Knownwell, an AI solutions company that ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Haymarket, Virginia, United States",
+            "Knownwell"
+          ]
+        }
+      },
+      "source": "LinkedIn · David DeWolf"
+    },
+    {
+      "position": 47,
+      "title": "Samay Kohli - Budy",
+      "link": "https://www.linkedin.com/in/ksamay",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ksamay&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJUBEAE",
+      "displayed_link": "8.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142df42a3b8b23b04abbac6e6e20efab4b2.png",
+      "snippet": "Samay Kohli. Budy Birla Institute of Technology and Science. Palo Alto, California, United States ... Continue with GoogleContinue with Google. New to LinkedIn?",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Palo Alto, California, United States",
+            "Budy"
+          ]
+        }
+      },
+      "source": "LinkedIn · Samay Kohli"
+    },
+    {
+      "position": 48,
+      "title": "Piyush Prahladka - Co-Founder / CEO - Stealth Startup",
+      "link": "https://www.linkedin.com/in/piyush-prahladka",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/piyush-prahladka&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCK0BEAE",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142c5994e52d5d981241e99e21a00204567.png",
+      "snippet": "Co-Founder / CEO. Stealth Startup. Feb 2024 - Present 1 year 2 months. Palo Alto, California, United States. Reimagining how we manage work. Actively hiring ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Co-Founder / CEO",
+            "Stealth Startup"
+          ]
+        }
+      },
+      "source": "LinkedIn · Piyush Prahladka"
+    },
+    {
+      "position": 49,
+      "title": "John Koelliker - CEO & Co-Founder - Leland",
+      "link": "https://www.linkedin.com/in/john-koelliker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-koelliker&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCLABEAE",
+      "displayed_link": "27K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142c0509915751b4c17da885bb1fb119e08.png",
+      "snippet": "CEO & Co-Founder. Leland. Feb 2021 - Present 4 years 2 months. Stanford, California, United States. Leland is a platform for ambitious people to access the ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · John Koelliker"
+    },
+    {
+      "position": 50,
+      "title": "Jack Conte - Patreon",
+      "link": "https://www.linkedin.com/in/jack-conte-a15a3686",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jack-conte-a15a3686&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCMkBEAE",
+      "displayed_link": "7.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1425b1e15fcbb6caeb6a1f85cdfa89e8c3e.png",
+      "snippet": "Jack Conte. Patreon Stanford. San Francisco, California, United States. 8K ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Patreon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jack Conte"
+    },
+    {
+      "position": 51,
+      "title": "Bill Ready - Chief Executive Officer - Pinterest",
+      "link": "https://www.linkedin.com/in/williamready",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/williamready&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCMgBEAE",
+      "displayed_link": "56.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14282ebe372ceb8b4eba53f9156342c97d0.png",
+      "snippet": "CEO at Pinterest. Previously President of Commerce & Payments at Google, COO at PayPal, CEO at Venmo & Braintree. 5 startups including Venmo and Braintree.",
+      "snippet_highlighted_words": [
+        "Google"
+      ],
+      "source": "LinkedIn · Bill Ready"
+    },
+    {
+      "position": 52,
+      "title": "Stacy Spikes - MoviePass",
+      "link": "https://www.linkedin.com/in/stacy-spikes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stacy-spikes&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCM4BEAE",
+      "displayed_link": "6.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1426fa6965f05b06dbe9db564bd8a38d0da.png",
+      "snippet": "Stacy Spikes. MoviePass. New York, New York, United States. 6K followers ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "MoviePass"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stacy Spikes"
+    },
+    {
+      "position": 53,
+      "title": "Sophia Amoruso - Founder & Managing Partner - Trust Fund",
+      "link": "https://uk.linkedin.com/in/sophiaamoruso",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sophiaamoruso&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCNIBEAE",
+      "displayed_link": "245.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142f7b8d98f43f5b5e2d1b8f7c5f7042c94.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to follow · Report this profile; Close menu. About. Sophia Amoruso is the Founder ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Founder"
+      ],
+      "source": "LinkedIn · Sophia Amoruso"
+    },
+    {
+      "position": 54,
+      "title": "Sangram Vajre - Co Founder and CEO - GTM Partners",
+      "link": "https://www.linkedin.com/in/sangramvajre",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sangramvajre&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCOgBEAE",
+      "displayed_link": "51.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142e6ef395646fb8acc0df9440fd13303da.png",
+      "snippet": "Co Founder and CEO. GTM Partners. Mar 2022 - Present 3 years 1 month. United States. GTM Partners Graphic. GTMonday Research Note contributor. GTM Partners. Jan ...",
+      "snippet_highlighted_words": [
+        "Co Founder",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Sangram Vajre"
+    },
+    {
+      "position": 55,
+      "title": "Megan J Smith - shift7",
+      "link": "https://www.linkedin.com/in/msmith21",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/msmith21&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCOkBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1429c33e28e88517bbb190c5695b706436a.png",
+      "snippet": "Megan J Smith. shift7 Massachusetts Institute of Technology. Washington, District of Columbia, United States ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "shift7"
+          ]
+        }
+      },
+      "source": "LinkedIn · Megan J Smith"
+    },
+    {
+      "position": 56,
+      "title": "Zachary Perret - Plaid",
+      "link": "https://www.linkedin.com/in/zperret",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/zperret&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCO8BEAE",
+      "displayed_link": "8.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142afc946c9690deeaf4e465bc3e615df04.png",
+      "snippet": "Zachary Perret. Plaid Duke University. San Francisco, California, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Plaid"
+          ]
+        }
+      },
+      "source": "LinkedIn · Zachary Perret"
+    },
+    {
+      "position": 57,
+      "title": "Keith Ferrazzi - Founder, Chairman, & CEO",
+      "link": "https://www.linkedin.com/in/keithferrazzi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/keithferrazzi&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCOcBEAE",
+      "displayed_link": "50.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1423cd33e68ec62a711c1a9c5301bddaf50.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Co-Founder. Connected Success. May 2024 - Present 11 months. A proven ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Co-Founder",
+        "Present"
+      ],
+      "source": "LinkedIn · Keith Ferrazzi"
+    },
+    {
+      "position": 58,
+      "title": "Sam Liang - Otter.ai Stanford",
+      "link": "https://www.linkedin.com/in/samliang",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/samliang&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCIECEAE",
+      "displayed_link": "16.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142d5e8fc1e26cb484524bb90993baa3de0.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Palo Alto, California, United States. -. -. Palo Alto, CA. -. Menlo Park ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Palo Alto, California, United States",
+            "Otter.ai"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sam Liang"
+    },
+    {
+      "position": 59,
+      "title": "Girish Ramdas - New York, New York, United States",
+      "link": "https://www.linkedin.com/in/girish-ramdas-8219971",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/girish-ramdas-8219971&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCIACEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142d0975e646f6d89af55fdeebb7140a9c6.png",
+      "snippet": "Girish Ramdas. New York, New York, United States. 2K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Girish Ramdas"
+    },
+    {
+      "position": 60,
+      "title": "Reggie Aggarwal - Cvent",
+      "link": "https://www.linkedin.com/in/reggieaggarwal",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/reggieaggarwal&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCIcCEAE",
+      "displayed_link": "12.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142616aa413dfd98e469b6843babe50d040.png",
+      "snippet": "CEO & Founder of Cvent, a market-leading meetings, events, and ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "McLean, Virginia, United States",
+            "Cvent"
+          ]
+        }
+      },
+      "source": "LinkedIn · Reggie Aggarwal"
+    },
+    {
+      "position": 61,
+      "title": "Kwame Taylor-Hayford - Brooklyn, New York, United States",
+      "link": "https://www.linkedin.com/in/kthayford",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kthayford&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCIMCEAE",
+      "displayed_link": "8.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142ad9e5c2168d1dd43a87de5822e16e849.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Co-Founder, Board Member. SATURDAY MORNING. Oct 2016 - Present 8 years 6 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Co-Founder",
+        "Present"
+      ],
+      "source": "LinkedIn · Kwame Taylor-Hayford"
+    },
+    {
+      "position": 62,
+      "title": "Jonah Peretti - BuzzFeed",
+      "link": "https://www.linkedin.com/in/jonahperetti",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jonahperetti&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJkCEAE",
+      "displayed_link": "131K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142516d24b65767751b4b1079d6010a6667.png",
+      "snippet": "Experience: BuzzFeed · Location: United States · 394 connections on LinkedIn ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "BuzzFeed"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonah Peretti"
+    },
+    {
+      "position": 63,
+      "title": "Cassie Kozyrkov - Chief Executive Officer - Kozyr",
+      "link": "https://www.linkedin.com/in/kozyrkov",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kozyrkov&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJgCEAE",
+      "displayed_link": "634.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142a40fb793592f1566fbe397e16071bcbc.png",
+      "snippet": "New York, New York, United States. 634K followers 500+ connections. See ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Chief Executive Officer",
+            "Kozyr"
+          ]
+        }
+      },
+      "source": "LinkedIn · Cassie Kozyrkov"
+    },
+    {
+      "position": 64,
+      "title": "Jon Krohn - New York, New York, United States",
+      "link": "https://www.linkedin.com/in/jonkrohn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jonkrohn&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJoCEAE",
+      "displayed_link": "38.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142235e249482ffb1f9dd0378d91ca42e60.png",
+      "snippet": "Co-Founder & Chief Data Scientist. Nebula.io. 2021 - 2025 4 years. New York, New York, United States. ∙ Manage scientists and developers to deliver on my long ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "United States"
+      ],
+      "source": "LinkedIn · Jon Krohn"
+    },
+    {
+      "position": 65,
+      "title": "Furqan Rydhan - thirdweb",
+      "link": "https://www.linkedin.com/in/furqanrydhan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/furqanrydhan&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCKYCEAE",
+      "displayed_link": "9.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14262b22278afdd6ca7625499a38830e683.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... San Francisco, California, United States. -. San Francisco, California ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "thirdweb"
+          ]
+        }
+      },
+      "source": "LinkedIn · Furqan Rydhan"
+    },
+    {
+      "position": 66,
+      "title": "Jeff Green - Ventura, California, United States",
+      "link": "https://www.linkedin.com/in/jefftgreen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jefftgreen&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCKoCEAE",
+      "displayed_link": "42.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142cf8a35d1af13ff6e62ac4f9b21c9d40b.png",
+      "snippet": "Jeff Green. Ventura, California, United States. 43K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Jeff Green"
+    },
+    {
+      "position": 67,
+      "title": "Brian Armstrong - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/barmstrong",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/barmstrong&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCLUCEAE",
+      "displayed_link": "28.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142c9153d658d753a0e339bb78e6b74d6de.png",
+      "snippet": "United States · 500+ connections on LinkedIn. View Brian Armstrong's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Brian Armstrong"
+    },
+    {
+      "position": 68,
+      "title": "Kathryn Minshew - Founder/Chief Troublemaker",
+      "link": "https://www.linkedin.com/in/kathryn-minshew",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kathryn-minshew&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCLkCEAE",
+      "displayed_link": "284.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14215404862b156a15dbfad1fb815fc8184.png",
+      "snippet": "Entrepreneur, Author & Investor. Plotting Mischief* Duke University. New York, New York, United States ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Kathryn Minshew"
+    },
+    {
+      "position": 69,
+      "title": "Stewart Butterfield - San Francisco, California, United States",
+      "link": "https://www.linkedin.com/in/butterfield",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/butterfield&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCLoCEAE",
+      "displayed_link": "15.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1428b24b2a86da2b526a144200f2108d956.png",
+      "snippet": "Stewart Butterfield. University of Cambridge. San Francisco, California, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Stewart Butterfield"
+    },
+    {
+      "position": 70,
+      "title": "May Habib - Writer",
+      "link": "https://www.linkedin.com/in/may-habib",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/may-habib&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECEIQAQ",
+      "displayed_link": "48.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142baee3df9f069ed90794290ac3559df46.png",
+      "snippet": "May Habib is CEO and co-founder of Writer, a generative AI platform for the enterprise… · ... Continue with GoogleContinue with Google. New to LinkedIn ...",
+      "snippet_highlighted_words": [
+        "co-founder",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Writer"
+          ]
+        }
+      },
+      "source": "LinkedIn · May Habib"
+    },
+    {
+      "position": 71,
+      "title": "Aaron Dignan - Rhinebeck, New York, United States",
+      "link": "https://www.linkedin.com/in/aarondignan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aarondignan&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECEEQAQ",
+      "displayed_link": "97.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14208b94eb64245bc9f3f386063825073d1.png",
+      "snippet": "Aaron Dignan. Rhinebeck, New York, United States. 98K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Aaron Dignan"
+    },
+    {
+      "position": 72,
+      "title": "Sanjay Beri - Mountain View, California, United States",
+      "link": "https://www.linkedin.com/in/sanjayberi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sanjayberi&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECEgQAQ",
+      "displayed_link": "13.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14219ec396556b9f2c58c380086d516709c.png",
+      "snippet": "Sanjay Beri. Mountain View, California, United States. 14K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Sanjay Beri"
+    },
+    {
+      "position": 73,
+      "title": "Jimmy Donaldson - Founder - MrBeast",
+      "link": "https://www.linkedin.com/in/mr-beast",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mr-beast&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECEAQAQ",
+      "displayed_link": "238K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1428e1f3406ea8a2736c341b382f03ae8c7.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Co-Founder. Feastables. 2022 - Present 3 years. Lunchly Graphic. Co-Founder.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Co-Founder",
+        "Present",
+        "Co-Founder"
+      ],
+      "source": "LinkedIn · Jimmy Donaldson"
+    },
+    {
+      "position": 74,
+      "title": "Logan Currie - Co-Founder and COO - Careerspan",
+      "link": "https://www.linkedin.com/in/logan-currie",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/logan-currie&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECEUQAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14203be3c6d2f1a1e53ef2f482c03b9f955.png",
+      "snippet": "... Co-founder of Careerspan, where we're making personalized career guidance ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Logan Currie"
+    },
+    {
+      "position": 75,
+      "title": "Godard Abel - G2",
+      "link": "https://www.linkedin.com/in/godardabel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/godardabel&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECEMQAQ",
+      "displayed_link": "16.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14210a4ff7a4b5757aaa26d3c4627fe2af6.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Founder's Circle Member. American Cancer Society's BrightEdge Fund. Nov ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Founder's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "g": 2
+          },
+          "extensions": [
+            "Boulder, Colorado, United States",
+            "G2"
+          ]
+        }
+      },
+      "source": "LinkedIn · Godard Abel"
+    },
+    {
+      "position": 76,
+      "title": "Tom Chavez - Co-Founder & General Partner - super{set}",
+      "link": "https://www.linkedin.com/in/tommychavez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tommychavez&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECF8QAQ",
+      "displayed_link": "14.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14282db19b4b098299a3f8eba0f256ede5b.png",
+      "snippet": "Co-Founder, super{set}. super{set} Harvard University. San Francisco, California, United States. 15K followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "United States"
+      ],
+      "source": "LinkedIn · Tom Chavez"
+    },
+    {
+      "position": 77,
+      "title": "Jason Rosen - Founder & CEO - Prism Data",
+      "link": "https://www.linkedin.com/in/jason-rosen-42668a36",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jason-rosen-42668a36&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECGMQAQ",
+      "displayed_link": "7.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1429ae9592a83c863ed67505b4fd2382a24.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or ... Co-Founder & CEO. Petal. Feb 2016 - May 2024 8 years 4 months. Greater New York ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Co-Founder"
+      ],
+      "source": "LinkedIn · Jason Rosen"
+    },
+    {
+      "position": 78,
+      "title": "Clarence Wooten - X, the moonshot factory",
+      "link": "https://www.linkedin.com/in/cwooten",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cwooten&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECFwQAQ",
+      "displayed_link": "10.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142b600a470ee0c414cd7d5f7c6e552b55a.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... How can you amicably dissolve a startup partnership with your co-founder?",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "co-founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Manhattan Beach, California, United States",
+            "X, the moonshot factory"
+          ]
+        }
+      },
+      "source": "LinkedIn · Clarence Wooten"
+    },
+    {
+      "position": 79,
+      "title": "Robert Tolmach - Founder & CEO - Profiles For Humanity",
+      "link": "https://www.linkedin.com/in/tolmach",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tolmach&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECFsQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1422272ed1fcbdb98f998d4891553ab67c7.png",
+      "snippet": "Co-Founder at Changing The Present. Profiles For Humanity Rice University. New York, New York, United States. 2K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Robert Tolmach"
+    },
+    {
+      "position": 80,
+      "title": "V Pappas - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/vanessapappas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vanessapappas&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECHYQAQ",
+      "displayed_link": "8.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142824853e1a3d9cbcb5cdf0183fbd1c97d.png",
+      "snippet": "V Pappas is a global technology executive shaping the culture-defining content and… · United States ... Continue with GoogleContinue with Google. New to LinkedIn?",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · V Pappas"
+    },
+    {
+      "position": 81,
+      "title": "Derek Andersen - Palo Alto, California, United States",
+      "link": "https://www.linkedin.com/in/derekjandersen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/derekjandersen&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECHcQAQ",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14258e1c5020c6239c7baf8c74b4f62710d.png",
+      "snippet": "Derek Andersen. Palo Alto, California, United States. 6K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Derek Andersen"
+    },
+    {
+      "position": 82,
+      "title": "Kareem Amin - Clay",
+      "link": "https://www.linkedin.com/in/kareemamin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kareemamin&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECH4QAQ",
+      "displayed_link": "7.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14228961849d67d15beeab5fb2b99bdbd99.png",
+      "snippet": "Kareem Amin. Clay McGill University. Brooklyn, New York, United States. 8K followers ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brooklyn, New York, United States",
+            "Clay"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kareem Amin"
+    },
+    {
+      "position": 83,
+      "title": "Douglas Crockford - Founder - Virgule-Solidus",
+      "link": "https://www.linkedin.com/in/douglas-crockford-724600109",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/douglas-crockford-724600109&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECHoQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142c1f8bc631e0a1cdd28e153730dd3c6be.png",
+      "snippet": "Chief Technology Officer, Founder State Software 2001 - 2002 1 year San Jose, California, United States",
+      "snippet_highlighted_words": [
+        "Founder",
+        "United States"
+      ],
+      "source": "LinkedIn · Douglas Crockford"
+    },
+    {
+      "position": 84,
+      "title": "Tony Haile - New York, New York, United States",
+      "link": "https://www.linkedin.com/in/tonyhaile",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tonyhaile&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECHwQAQ",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1428b955b4030fddb7c8bc596068319eb5e.png",
+      "snippet": "Tony Haile. New York, New York, United States. 6K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Tony Haile"
+    },
+    {
+      "position": 85,
+      "title": "Gordon Saft - Founder and CEO - Artnership",
+      "link": "https://www.linkedin.com/in/gordonsaft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gordonsaft&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECHsQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142cd88cd8562840f03521d31248fa60483.png",
+      "snippet": "Founder & CEO of Artnership || ex-Google, Meta, The Atavist. Artnership Princeton University. New York, New York, United States. 2K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Founder and CEO",
+            "Artnership"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gordon Saft"
+    },
+    {
+      "position": 86,
+      "title": "Nick Soman - Decent",
+      "link": "https://www.linkedin.com/in/nicksoman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nicksoman&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJcBEAE",
+      "displayed_link": "15.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1428637f00b2ed65d5ec6aa0bb78436721f.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to follow · Report this profile; Close menu. About. Founder and CEO at Decent. Your ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mill Valley, California, United States",
+            "Decent"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Soman"
+    },
+    {
+      "position": 87,
+      "title": "Steph Korey Goodwin - Co-Founder - Charmspring",
+      "link": "https://www.linkedin.com/in/stephkoreygoodwin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephkoreygoodwin&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJYBEAE",
+      "displayed_link": "8.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1420738256c84a8d80826cb9ad8184c37b3.png",
+      "snippet": "Entrepreneur & Investor - Co-founder of Charmspring · Steph Korey Goodwin is an entrepreneur and angel investor ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Steph Korey Goodwin"
+    },
+    {
+      "position": 88,
+      "title": "Ankur Jain - Bilt Technologies - A Kairos Company",
+      "link": "https://www.linkedin.com/in/ankurjainkairos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ankurjainkairos&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJQBEAE",
+      "displayed_link": "9.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142fea12b9da7215e0664c7b6a43eee5781.png",
+      "snippet": "Ankur Jain is founder and CEO of Bilt Rewards - the first major loyalty program that… · ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "founder",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Bilt Technologies",
+            "A Kairos Company"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ankur Jain"
+    },
+    {
+      "position": 89,
+      "title": "Joe Lonsdale - 8VC",
+      "link": "https://www.linkedin.com/in/jtlonsdale",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jtlonsdale&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCJkBEAE",
+      "displayed_link": "28.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142fd133fb291147bc14f4dab17555c4da2.png",
+      "snippet": "Experience: 8VC · Education: Stanford University · Location: United States · 500+ connections on LinkedIn ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "8VC"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joe Lonsdale"
+    },
+    {
+      "position": 90,
+      "title": "Greg Shuey - Stryde - Ecommerce Marketing Agency",
+      "link": "https://www.linkedin.com/in/greg-shuey",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/greg-shuey&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCK8BEAE",
+      "displayed_link": "10.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14216b13a3352a44655943dc8fc8a467f71.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Lehi, Utah, United States. -. Lehi, Utah, United States. -. Greater Salt ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Lehi, Utah, United States",
+            "Stryde",
+            "Ecommerce Marketing Agency"
+          ]
+        }
+      },
+      "source": "LinkedIn · Greg Shuey"
+    },
+    {
+      "position": 91,
+      "title": "Ajay Goel - Dayton, Ohio, United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/ajaygoel999",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ajaygoel999&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCK4BEAE",
+      "displayed_link": "10.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142728496cb3da139766b13793e2b2bfb3a.png",
+      "snippet": "Ajay Goel. Dayton, Ohio, United States. 10K followers 500+ connections. See ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Ajay Goel"
+    },
+    {
+      "position": 92,
+      "title": "Sudarshan Kamath - smallest.ai",
+      "link": "https://www.linkedin.com/in/sudarshankamath",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sudarshankamath&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCLEBEAE",
+      "displayed_link": "44.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1424306aef5f0fd2a825a7b543a551aa828.png",
+      "snippet": "I love the zero-to-one journey. It is a very different problem than going from 1-to-100… · smallest.ai · UC San Diego · United States · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "smallest.ai"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sudarshan Kamath"
+    },
+    {
+      "position": 93,
+      "title": "Raj De Datta - Bloomreach",
+      "link": "https://www.linkedin.com/in/rdedatta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rdedatta&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCLIBEAE",
+      "displayed_link": "13.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14236ec938bd48470a806073bd65454f8a3.png",
+      "snippet": "Raj De Datta is co-founder and CEO of Bloomreach, a leading AI-driven personalization… · ... Continue with GoogleContinue with Google. New to LinkedIn? Join ...",
+      "snippet_highlighted_words": [
+        "co-founder",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Bloomreach"
+          ]
+        }
+      },
+      "source": "LinkedIn · Raj De Datta"
+    },
+    {
+      "position": 94,
+      "title": "Stanley Zhong - Software Engineer - Google",
+      "link": "https://www.linkedin.com/in/stanley-zhong-277440186",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stanley-zhong-277440186&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCMcBEAE",
+      "displayed_link": "570+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f1429edab4ff234b6a71074946c6f3ff2804.png",
+      "snippet": "Founder and CEO of RabbitSign. Google Henry M. Gunn Senior High School. Palo Alto, California, United States. 573 followers 247 connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Palo Alto, California, United States",
+            "Software Engineer",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stanley Zhong"
+    },
+    {
+      "position": 95,
+      "title": "Assaf Rappaport - Wiz",
+      "link": "https://www.linkedin.com/in/assafrappaport",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/assafrappaport&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCM0BEAE",
+      "displayed_link": "40.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142f42e73fc8823c04f1e606de8488d4b7c.png",
+      "snippet": "Assaf Rappaport. Wiz Technion-Machon Technologi Le' Israel. New York, New York, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Wiz"
+          ]
+        }
+      },
+      "source": "LinkedIn · Assaf Rappaport"
+    },
+    {
+      "position": 96,
+      "title": "Jarrod Moses - Founder, President & CEO UEG",
+      "link": "https://www.linkedin.com/in/jarrod-moses-18481378",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jarrod-moses-18481378&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCMsBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14220bc0daaeeb785286445385e1437f257.png",
+      "snippet": "... co-founder of the New York Comedy Festival. · Experience: United ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By clicking ...",
+      "snippet_highlighted_words": [
+        "co-founder",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Jarrod Moses"
+    },
+    {
+      "position": 97,
+      "title": "Immad Akhund - Mercury - Banking for Startups",
+      "link": "https://www.linkedin.com/in/iakhund",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/iakhund&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoFCMwBEAE",
+      "displayed_link": "25K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14245bcd368e4306c10cf279fa0f6ae25dd.png",
+      "snippet": "Immad Akhund. Mercury - Banking for Startups University of Cambridge. San Francisco, California, United States ... Continue with GoogleContinue with Google. New ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Mercury",
+            "Banking for Startups"
+          ]
+        }
+      },
+      "source": "LinkedIn · Immad Akhund"
+    },
+    {
+      "position": 98,
+      "title": "Bryan Johnson - Don't Die Certified",
+      "link": "https://www.linkedin.com/in/bryanrjohnson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bryanrjohnson&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECCcQAQ",
+      "displayed_link": "80.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142fda46dd51d186aa2627539fdfbea0ec2.png",
+      "snippet": "Founder/CEO of Blueprint, Don't Die, Kernel, OS Fund and ( ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles County, California, United States",
+            "Don't Die Certified"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bryan Johnson"
+    },
+    {
+      "position": 99,
+      "title": "Arvind Jain - CEO - Glean",
+      "link": "https://www.linkedin.com/in/jain-arvind",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jain-arvind&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECCgQAQ",
+      "displayed_link": "35.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f14239955a29410480707fc08f24b6b3dac4.png",
+      "snippet": "Co-Founder. Rubrik, Inc. 2014 - Present 11 years. Google Graphic. Distinguished Engineer. Google. 2003 - 2014 11 years. Riverbed Technology Graphic. Founding ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Arvind Jain"
+    },
+    {
+      "position": 100,
+      "title": "Shayan Mozaffar - Founder, CEO and CIO - 10x10y LLC",
+      "link": "https://www.linkedin.com/in/shayanmozaffar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shayanmozaffar&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQFnoECCYQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9be0376a2211529aa91/images/e7b8a6194c794bac765949aaf124f142703ebc81928c33d9db59fb08a828dd9c.png",
+      "snippet": "Founder, CEO and CIO at 10x10y · Experience: 10x10y LLC · Education: Columbia University - Columbia Business School · Location: United States · 500+ ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "United States"
+      ],
+      "source": "LinkedIn · Shayan Mozaffar"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=vvndZ5TALtbh0PEP8rqGwAc&start=100&sa=N&sstk=Af40H4X14GjpI11dRLBu2VAma5xNnuW_YSfjQOWUQ0DkUVtpav7zdn8rTZATpY81tCovIq4Rbr64EPj4Cmjrg-yk0YkJhDvE9zAlsA&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQ8NMDegUIrgIQDA",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=vvndZ5TALtbh0PEP8rqGwAc&start=100&sa=N&sstk=Af40H4X14GjpI11dRLBu2VAma5xNnuW_YSfjQOWUQ0DkUVtpav7zdn8rTZATpY81tCovIq4Rbr64EPj4Cmjrg-yk0YkJhDvE9zAlsA&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQ8tMDegUIrgIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=vvndZ5TALtbh0PEP8rqGwAc&start=200&sa=N&sstk=Af40H4X14GjpI11dRLBu2VAma5xNnuW_YSfjQOWUQ0DkUVtpav7zdn8rTZATpY81tCovIq4Rbr64EPj4Cmjrg-yk0YkJhDvE9zAlsA&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQ8tMDegUIrgIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=vvndZ5TALtbh0PEP8rqGwAc&start=300&sa=N&sstk=Af40H4X14GjpI11dRLBu2VAma5xNnuW_YSfjQOWUQ0DkUVtpav7zdn8rTZATpY81tCovIq4Rbr64EPj4Cmjrg-yk0YkJhDvE9zAlsA&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQ8tMDegUIrgIQCA",
+      "5": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=vvndZ5TALtbh0PEP8rqGwAc&start=400&sa=N&sstk=Af40H4X14GjpI11dRLBu2VAma5xNnuW_YSfjQOWUQ0DkUVtpav7zdn8rTZATpY81tCovIq4Rbr64EPj4Cmjrg-yk0YkJhDvE9zAlsA&ved=2ahUKEwiUl7ygrZyMAxXWMDQIHXKdAXgQ8tMDegUIrgIQCg"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=400"
+    }
+  }
+}

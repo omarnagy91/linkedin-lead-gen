@@ -1,0 +1,2262 @@
+{
+  "search_metadata": {
+    "id": "67ddfa66ce73b9cb88249ff1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/266b128e8fbb8b51/67ddfa66ce73b9cb88249ff1.json",
+    "created_at": "2025-03-21 23:46:46 UTC",
+    "processed_at": "2025-03-21 23:46:46 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/266b128e8fbb8b51/67ddfa66ce73b9cb88249ff1.html",
+    "total_time_taken": 12.59
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Amazon\" AND \"United States\" AND (current OR present) AND (\"President\" OR \"Chairman\" OR \"Chief Executive\" OR \"Principal Owner\" OR \"Managing Member\" OR \"Fellow\" OR \"Senior Fellow\" OR \"Distinguished Engineer\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Amazon\" AND \"United States\" AND (current OR present) AND (\"President\" OR \"Chairman\" OR \"Chief Executive\" OR \"Principal Owner\" OR \"Managing Member\" OR \"Fellow\" OR \"Senior Fellow\" OR \"Distinguished Engineer\")",
+    "total_results": 11600000,
+    "time_taken_displayed": 1.2,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.linkedin.com/in/jasonbuechel",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3324sq8u89Ln_Uk5iVES4SNfxSRvk_BvuPQksig6e_XAs7olg0lNF3GM&s",
+      "original": "https://media.licdn.com/dms/image/C5603AQFlTa-Pwvt_cw/profile-displayphoto-shrink_200_200/0/1651083348236?e=2147483647&v=beta&t=nmYtY8mbnfEnbQYYEj4hTfyM3-J-NlVL9APitAnE9-E",
+      "title": "Jason Buechel - Vice President, Amazon Worldwide Grocery ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/beth-galetti-60b1106",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_tIUBgQSBc8EehzicFbR1I-KwCtacB3s4a-K1vgr1m88dbYeLiObc1ss&s",
+      "original": "https://media.licdn.com/dms/image/C4E03AQG1UL7JYBrw2Q/profile-displayphoto-shrink_200_200/0/1517669539656?e=2147483647&v=beta&t=RgT6leDLRhVjOWrGgq0azNEf7DkItjs3nKI_U93Szz4",
+      "title": "Beth Galetti - SVP, People eXperience and Technology ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/dan-scharf-533129a",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReSk-xYJdSzjQK5K6C0G-Yll8N2CYfoY5SGEEPNpMM9J8E7roAn16O5_w&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5603AQGCk0SQ3scImQ/profile-displayphoto-shrink_200_200/B56ZOz7YdIGkAY-/0/1733890509812?e=2147483647&v=beta&t=AsVhVMaaCNxXq2-mXc-iAFBaX1FpzZQPS0jjzylVHVk",
+      "title": "Dan Scharf - VP, Head of Global Business Operations - Amazon ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/adam-rounsville",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEGLJiFs_YahNQsDRe7UmNF6QEw-vHEnLveZ_cD9NHUUGZCL0MjEfPG_0&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5603AQEMEFU5YTgDig/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1694455840995?e=2147483647&v=beta&t=8XG8KeW1vAZ0bVtVBsNX4_oLct0s3LIUngfUAklkoug",
+      "title": "Adam Rounsville - Amazon Web Services (AWS) | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/davehclark",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2r-zPbit56YTR_8VezeJgR0QaeSqka5umXStcIt8lUkhA0G0mG-5_n9s&s",
+      "original": "https://media.licdn.com/dms/image/D5603AQHEPuFONZXZrw/profile-displayphoto-shrink_200_200/0/1718242172692?e=2147483647&v=beta&t=rELUvAH0gncATjMJQr4qQnYn1tuceBa4p-SQ0AzzhCQ",
+      "title": "Dave Clark - Founder and CEO - Auger | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/majukuruvilla",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUPgkgZGlGGpTD7ufYltRa5fU6GiHIASq0JClrnHQfIa2IndAuU_Fiex0&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5603AQFzj8gPTY5wWA/profile-displayphoto-shrink_200_200/B56ZWplRP7GQAY-/0/1742306874656?e=2147483647&v=beta&t=6Dkyb0DZlXh3LCKK1e-xgi-aODRNTkotZAzgBOlG0x8",
+      "title": "Maju Kuruvilla✨ - Founder & CEO - Spangle | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/sarah-c-rhoads-a9385029",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUzOLNeqouarpSV3eNbqVjuI7NgvUnfuWCTx01UnMM0fX8OpgvCw3JGY&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5603AQFn0P62g-Zr0A/profile-displayphoto-shrink_200_200/B56ZWhgfdwGUAY-/0/1742171404589?e=2147483647&v=beta&t=08DHaD3FeYoYqaU_ccMZ_Y7YDNFzK48idS9M6mjOXEc",
+      "title": "Sarah C. Rhoads - Amazon | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/stephen-hanly",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaihGHBMA3hq0VhAkE6j2MwhQvNjVD1yCfHU9ggwCdN_66VuI4m8XKn1o&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E03AQEaZ1p2l4MzBQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1668384846353?e=2147483647&v=beta&t=IwTHKKJYOu3SHZpPoVESNIcWgxUG7l9OLMNzaX5p5sM",
+      "title": "Stephen Hanly - Senior Technical Product Manager - Amazon ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/j-ofori-agboka-4678844",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUXVan5kauFl3Uc1JTZUE-DiAjV9HQWYrEEhcz13oo_aEhas8xNrx07BE&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5605AQGkNFkxG6DIuQ/videocover-high/B56ZW0a3WKHsBs-/0/1742488851956?e=2147483647&v=beta&t=pRAhcdLJnxQoEO_Jdx5RLjd21fwyPfJfTKuq3IsGZ5o",
+      "title": "J. Ofori Agboka - Amazon | LinkedIn",
+      "source_name": "LinkedIn"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "James Gosling - Amazon Web Services",
+      "link": "https://www.linkedin.com/in/jamesgosling",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jamesgosling&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECAkQAQ",
+      "displayed_link": "35.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba1c5ef58d1f30b8247860b0a036840021.png",
+      "snippet": "Redwood City, California, United States. 36K followers 500 ... The Economist magazine. Sep 2002. James Gosling, vice-president and fellow of Sun Microsystems.",
+      "snippet_highlighted_words": [
+        "United States",
+        "president",
+        "fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redwood City, California, United States",
+            "Amazon Web Services"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Gosling"
+    },
+    {
+      "position": 2,
+      "title": "Laura Grit - Amazon",
+      "link": "https://www.linkedin.com/in/lauragrit",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lauragrit&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECBgQAQ",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba5da4db3fd27ad3d22519f210c654011f.png",
+      "snippet": "Laura Grit. Amazon Duke University. Seattle, Washington, United States. 3K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Laura Grit"
+    },
+    {
+      "position": 3,
+      "title": "Dan Grossman - Amazon",
+      "link": "https://www.linkedin.com/in/dangrossman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dangrossman&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECBsQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba3704beea12b0e2449395ddedd276d52a.png",
+      "snippet": "Dan Grossman. Amazon. San Francisco, California, United States. 2K followers 500+ connections. See your mutual connections. View mutual connections with Dan.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Grossman"
+    },
+    {
+      "position": 4,
+      "title": "Amit Agarwal - Palo Alto, California, United States",
+      "link": "https://www.linkedin.com/in/amitagarwalamazon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amitagarwalamazon&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECBoQAQ",
+      "displayed_link": "24K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba15facc606cd2afdae976efa41dbd3db5.png",
+      "snippet": "Amit Agarwal. Palo Alto, California, United States. 24K followers 337 connections. See your mutual connections. View mutual connections with Amit. Sign in ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Amit Agarwal"
+    },
+    {
+      "position": 5,
+      "title": "Doug Herrington - CEO, Worldwide Amazon Stores",
+      "link": "https://www.linkedin.com/in/doug-herrington",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/doug-herrington&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECBkQAQ",
+      "displayed_link": "85.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba3b804fbcfa557f070876a3ad9d8f1143.png",
+      "snippet": "Seattle, Washington, United States. 85K followers 500+ ... Herrington moved into his role as CEO of WW Amazon Stores after serving as Senior Vice President ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Amazon",
+        "President"
+      ],
+      "source": "LinkedIn · Doug Herrington"
+    },
+    {
+      "position": 6,
+      "title": "Dave Clark - Founder and CEO - Auger",
+      "link": "https://www.linkedin.com/in/davehclark",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/davehclark&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECBwQAQ",
+      "displayed_link": "55.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bab2f9761971924610389926b8b0fd3e0e.png",
+      "snippet": "Implemented robotics at scale through Amazon Robotics, launched Amazon Flex ... United States ambassadors. Alumni Promise Award. University of Tennessee.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "source": "LinkedIn · Dave Clark"
+    },
+    {
+      "position": 7,
+      "title": "Beth Galetti - SVP, People eXperience and Technology",
+      "link": "https://www.linkedin.com/in/beth-galetti-60b1106",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/beth-galetti-60b1106&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECB0QAQ",
+      "displayed_link": "99.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba863fd312117e2b2c715016cadcf10c4c.png",
+      "snippet": "Beth Galetti is the Senior Vice President of People eXperience and Technology at Amazon. Her background consists of a variety of senior leadership positions ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Beth Galetti"
+    },
+    {
+      "position": 8,
+      "title": "Steve Downer - Chairman, Executive Board Member",
+      "link": "https://www.linkedin.com/in/stephen-downer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephen-downer&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECCoQAQ",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bacef80a10b6e125d1fd865bcb153ab351.png",
+      "snippet": "Vice President, Amazon. Consumer Technology Association Northwestern University - Kellogg School of Management. Seattle, Washington, United States ... Chairman ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "United States",
+        "Chairman"
+      ],
+      "source": "LinkedIn · Steve Downer"
+    },
+    {
+      "position": 9,
+      "title": "Mike Hopkins - Head of Prime Video & Amazon MGM Studios",
+      "link": "https://www.linkedin.com/in/mike-hopkins-543a214",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mike-hopkins-543a214&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJUBEAE",
+      "displayed_link": "60.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba911b903f71e68ecff77b420981654a45.png",
+      "snippet": "Experience · Head of Prime Video & Amazon MGM Studios · Chairman, Sony Pictures Television · CEO · President.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Chairman",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Santa Monica, California, United States",
+            "Head of Prime Video & Amazon MGM Studios",
+            "Prime Video & Amazon MGM Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Hopkins"
+    },
+    {
+      "position": 10,
+      "title": "Swami Sivasubramanian - VP, AWS Agentic AI",
+      "link": "https://www.linkedin.com/in/swaminathansivasubramanian",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/swaminathansivasubramanian&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCPcBEAE",
+      "displayed_link": "135.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2baaf79b1c5c54a2b9c85be5c31e7fc81d2.png",
+      "snippet": "... Amazon S3, Amazon's Paxos based lock service, original Amazon Dynamo etc. I ... The National AI Advisory Committee (NAIAC) advises the U.S. President ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon's",
+        "Amazon",
+        "President"
+      ],
+      "source": "LinkedIn · Swami Sivasubramanian"
+    },
+    {
+      "position": 11,
+      "title": "Victor Reinoso - Amazon",
+      "link": "https://www.linkedin.com/in/vreinoso",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vreinoso&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECDAQAQ",
+      "displayed_link": "17.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba12ec1b58ead1787eabb400eff01ef717.png",
+      "snippet": "Experience · Amazon Graphic · Amazon. Arlington, Virginia, United States · -. Cambridge, Massachusetts, United States · -. Virtual · -. Aspen, Colorado · -.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington DC-Baltimore Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Victor Reinoso"
+    },
+    {
+      "position": 12,
+      "title": "Brigid Johnson - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/brigid-johnson-36121148",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brigid-johnson-36121148&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCMYBEAE",
+      "displayed_link": "7.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba446512b51b4b90138a8a130145d32846.png",
+      "snippet": "Experience · Amazon Web Services (AWS) Graphic · Amazon Web Services (AWS). Seattle, Washington, United States · -. Seattle, Washington, United States · -. Greater ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brigid Johnson"
+    },
+    {
+      "position": 13,
+      "title": "Jamil Ghani - Amazon",
+      "link": "https://www.linkedin.com/in/jamilghani",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jamilghani&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCPwBEAE",
+      "displayed_link": "12.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba905b9847541cb46211094cef0399dd8c.png",
+      "snippet": "Driving Transformative Growth and Operational Excellence I am a seasoned executive… · Amazon ... Activities and Societies: President, Crimson Key Society; Board ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jamil Ghani"
+    },
+    {
+      "position": 14,
+      "title": "Justin Honaman - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/justinhonaman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/justinhonaman&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJcCEAE",
+      "displayed_link": "11.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba90d6b8c3869fade2514158401ff40997.png",
+      "snippet": "Justin Honaman. Amazon Web Services (AWS) Stanford University Graduate School of Business. Atlanta, Georgia, United States ... Amazon AIML + GenAI Graphic ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta, Georgia, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Justin Honaman"
+    },
+    {
+      "position": 15,
+      "title": "Paul Vixie - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/paulvixie",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/paulvixie&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECDEQAQ",
+      "displayed_link": "11.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bacddaf659b65b66a0f7a9cb221a528d95.png",
+      "snippet": "Paul Vixie. Amazon Web Services (AWS) Keio University. Redwood City, California, United States. 11K followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redwood City, California, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Vixie"
+    },
+    {
+      "position": 16,
+      "title": "Werner Vogels - Amazon.com",
+      "link": "https://www.linkedin.com/in/wernervogels",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/wernervogels&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECGQQAQ",
+      "displayed_link": "71.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2baf8999393eaee6e8f90571e339378ec4d.png",
+      "snippet": "Werner Vogels. Amazon.com Vrije Universiteit, Amsterdam. Seattle, Washington, United States. 72K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon.com"
+          ]
+        }
+      },
+      "source": "LinkedIn · Werner Vogels"
+    },
+    {
+      "position": 17,
+      "title": "Jeff Barr - Amazon Web Services",
+      "link": "https://www.linkedin.com/in/jeffbarr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeffbarr&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJwBEAE",
+      "displayed_link": "117.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba9a9b0d9b9af84f2933d306aec0d321d4.png",
+      "snippet": "Jeff Barr. Amazon Web Services University of Washington. Seattle, Washington, United States. 118K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Web Services"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff Barr"
+    },
+    {
+      "position": 18,
+      "title": "Mary Beth Westmoreland - Amazon",
+      "link": "https://www.linkedin.com/in/marybethwestmoreland",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marybethwestmoreland&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCMsBEAE",
+      "displayed_link": "8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba31cf1ca6d65a8eab8f8d2299ab3d2d96.png",
+      "snippet": "Mary Beth Westmoreland. Amazon Immaculata University. Seattle, Washington, United States. 8K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mary Beth Westmoreland"
+    },
+    {
+      "position": 19,
+      "title": "Jason Buechel - Vice President, Amazon Worldwide Grocery",
+      "link": "https://www.linkedin.com/in/jasonbuechel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jasonbuechel&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCN0BEAE",
+      "displayed_link": "39.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba75ffec886d83d39a456e23bf36f4aae4.png",
+      "snippet": "... President of Amazon Worldwide Grocery Stores and as Chief Executive Officer ... United States, Canada and the United Kingdom, and overseeing the company's ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Chief Executive",
+        "United States"
+      ],
+      "source": "LinkedIn · Jason Buechel"
+    },
+    {
+      "position": 20,
+      "title": "Daniel Gross - Amazon",
+      "link": "https://www.linkedin.com/in/daniel-gross-081237b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/daniel-gross-081237b&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCPoBEAE",
+      "displayed_link": "4.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba354dc87dd5b74ba00fe24e7d70472b78.png",
+      "snippet": "Daniel Gross, Amazon, Yale School of Management, United States, 4K followers, 500+ connections, See your mutual connections.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Gross"
+    },
+    {
+      "position": 21,
+      "title": "Matthew Wilson - Amazon Web Services",
+      "link": "https://www.linkedin.com/in/matthewswilson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matthewswilson&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJQCEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bad70a72c4d879d3ca2b42323375f422b8.png",
+      "snippet": "Matthew Wilson. Amazon Web Services NC State University. Seattle, Washington, United States. 3K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Web Services"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthew Wilson"
+    },
+    {
+      "position": 22,
+      "title": "J. Ofori Agboka - Amazon",
+      "link": "https://www.linkedin.com/in/j-ofori-agboka-4678844",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/j-ofori-agboka-4678844&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCLsCEAE",
+      "displayed_link": "17.2K+ followers",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsCVv9IvF2pjz-kkVurFojyt0LJTIWzer-cAKZ94XVDfhUHTWoRoVgZfg&s",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba64c20bb626a01c4dec3888fd450b20fa.png",
+      "snippet": "J. Ofori Agboka. Amazon Louisiana State University. United States. 17K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsCVv9IvF2pjz-kkVurFojyt0LJTIWzer-cAKZ94XVDfhUHTWoRoVgZfg&s"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · J. Ofori Agboka"
+    },
+    {
+      "position": 23,
+      "title": "Rohit Prasad - Amazon",
+      "link": "https://www.linkedin.com/in/rohitprasad01",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rohitprasad01&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECEUQAQ",
+      "displayed_link": "21.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba53bd2d208102aa3bafcfd4482d322d65.png",
+      "snippet": "Rohit Prasad. Amazon MIT Sloan School of Management. Lexington, Massachusetts, United States. 22K followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Lexington, Massachusetts, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rohit Prasad"
+    },
+    {
+      "position": 24,
+      "title": "Maju Kuruvilla✨ - Founder & CEO - Spangle",
+      "link": "https://www.linkedin.com/in/majukuruvilla",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/majukuruvilla&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECEMQAQ",
+      "displayed_link": "20.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba8151e4e8c67d5729b42b799fce5405ae.png",
+      "snippet": "Experience · Founder & CEO · Chief Executive Officer · Chief Technology Officer · Vice President / GM · Director Of Software Development · CTO · Software Engineer.",
+      "snippet_highlighted_words": [
+        "Chief Executive",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Founder & CEO",
+            "Spangle"
+          ]
+        }
+      },
+      "source": "LinkedIn · Maju Kuruvilla✨"
+    },
+    {
+      "position": 25,
+      "title": "Dharmesh Mehta - Amazon",
+      "link": "https://www.linkedin.com/in/dharmeshmmehta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dharmeshmmehta&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECGIQAQ",
+      "displayed_link": "49.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2babb2087f95791310f6e685364ee98894c.png",
+      "snippet": "Dharmesh Mehta. Amazon Harvard Business School. Seattle, Washington, United States. 50K followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dharmesh Mehta"
+    },
+    {
+      "position": 26,
+      "title": "Gautam Patel - Vice President, Product Management",
+      "link": "https://www.linkedin.com/in/gdpatel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gdpatel&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECHwQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba75d87f960cd10acb39b1ee3e7f562fb6.png",
+      "snippet": "Gautam Patel. Vice President, Product Management at Capital One | ex-Amazon | ex-BCG | INSEAD Alum. Capital One INSEAD. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Vice President, Product Management",
+            "Capital One"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gautam Patel"
+    },
+    {
+      "position": 27,
+      "title": "Adam Gray - Amazon",
+      "link": "https://www.linkedin.com/in/adam-gray-23b4108",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/adam-gray-23b4108&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJgBEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba5e5a6642f4bcf40781a371b11e9fca68.png",
+      "snippet": "Adam Gray. Amazon University of Michigan - Stephen M. Ross School of Business. Seattle, Washington, United States. 3K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Gray"
+    },
+    {
+      "position": 28,
+      "title": "Colin Bryar - Working Backwards: Insights, Stories, and ...",
+      "link": "https://www.linkedin.com/in/colinbryar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/colinbryar&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCK8BEAE",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba6ace864bae999e5e2c670a2a522614c7.png",
+      "snippet": "Experience. Working Backwards: Insights, Stories, and Secrets from Inside Amazon. Seattle, Washington, United States. -. Seattle, Washington, United States. -.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Working Backwards: Insights, Stories, and Secrets from Inside Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Colin Bryar"
+    },
+    {
+      "position": 29,
+      "title": "Hunter Present - Innovation and Design Engineer - Amazon",
+      "link": "https://www.linkedin.com/in/hunterpresent",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hunterpresent&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCMcBEAE",
+      "displayed_link": "190+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba3005f59974b0e7b15342024d03fb78c7.png",
+      "snippet": "... United States representative at the World Individual Debate and Public ... Amazon · Education: Georgia Institute of Technology · Location: Greater ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Boston",
+            "Innovation and Design Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hunter Present"
+    },
+    {
+      "position": 30,
+      "title": "Sarah C. Rhoads - Amazon",
+      "link": "https://www.linkedin.com/in/sarah-c-rhoads-a9385029",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarah-c-rhoads-a9385029&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCN8BEAE",
+      "displayed_link": "6.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba33b25671f9684e1426143299abb3152e.png",
+      "snippet": "Rhoads. Amazon United States Naval Academy. Seattle, Washington, United ... Rhoads, Vice President, Amazon Global Air. National Air and Space Smithsonian ...",
+      "snippet_highlighted_words": [
+        "Amazon United States",
+        "United",
+        "President",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah C. Rhoads"
+    },
+    {
+      "position": 31,
+      "title": "Stephen Bruno - Prime Video & Amazon Studios",
+      "link": "https://www.linkedin.com/in/stephenbruno",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephenbruno&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCN4BEAE",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bacd76c9cbd7f979506a0f64ca5489a949.png",
+      "snippet": "Experience: Prime Video & Amazon Studios ... Stephen Bruno. Prime Video & Amazon Studios Boston University. Beverly Hills, California, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Beverly Hills, California, United States",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Bruno"
+    },
+    {
+      "position": 32,
+      "title": "Joseph Quinlivan - Amazon",
+      "link": "https://www.linkedin.com/in/joseph-quinlivan-a254486",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joseph-quinlivan-a254486&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCOIBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba551ed8e5884e1af24d3de9c30cc09b3c.png",
+      "snippet": "Amazon · Worcester Polytechnic Institute · Greater Boston · 500+ connections on ... Experience. Amazon Graphic · Amazon. Boston, Massachusetts, United States. -.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Boston",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joseph Quinlivan"
+    },
+    {
+      "position": 33,
+      "title": "Hung Nguyen - Amazon",
+      "link": "https://www.linkedin.com/in/hungnguyen1895",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hungnguyen1895&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCPsBEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba5072955314f9c4947f84ddef499f1525.png",
+      "snippet": "I just graduated with a Bachelor's degree in Computer Science with a 3.9GPA. I have… Experience. Amazon Graphic · Amazon. -. Brandon, Florida, United States ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Falls Church, Virginia, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hung Nguyen"
+    },
+    {
+      "position": 34,
+      "title": "Ozgur Dogan - Amazon",
+      "link": "https://www.linkedin.com/in/ozgurdogan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ozgurdogan&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCIwCEAE",
+      "displayed_link": "4.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2baae94c6d4f84fc3f85e455b620cb6af10.png",
+      "snippet": "Ozgur Dogan. Amazon Carnegie Mellon University - Tepper School of Business. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ozgur Dogan"
+    },
+    {
+      "position": 35,
+      "title": "Muhammad Moeez Khan - Software Development Engineer",
+      "link": "https://www.linkedin.com/in/moeez-khan-",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/moeez-khan-&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJUCEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba877b2b1df6a61d355371bc4556f3ac7e.png",
+      "snippet": "Experience ; Software Development Engineer. Amazon. Jan 2025 - Present 3 months. Dallas, Texas, United States ; Software Development Engineering Intern. Amazon ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas, Texas, United States",
+            "Software Development Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Muhammad Moeez Khan"
+    },
+    {
+      "position": 36,
+      "title": "Stephen Schmidt - Amazon",
+      "link": "https://www.linkedin.com/in/stephenschmidt1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephenschmidt1&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJwCEAE",
+      "displayed_link": "14.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba3f62be2fd65911533e6990cf43d6704b.png",
+      "snippet": "Stephen Schmidt. Amazon Haverford College. Herndon, Virginia, United States. 14K followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Herndon, Virginia, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Schmidt"
+    },
+    {
+      "position": 37,
+      "title": "Ty Rogers - Vice President, Global Corporate ...",
+      "link": "https://www.linkedin.com/in/ty-rogers-21a98a17",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ty-rogers-21a98a17&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCKoCEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba9f8494ad68bae00921664f7d019f146b.png",
+      "snippet": "Vice President, Global Corporate Communications. Amazon. Jan 2022 - Present 3 years 3 months. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Vice President, Global Corporate Communications",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ty Rogers"
+    },
+    {
+      "position": 38,
+      "title": "Keisha Boyd - Chapter President - Amazon Black ...",
+      "link": "https://www.linkedin.com/in/keisha-boyd-32b1b638",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/keisha-boyd-32b1b638&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCKkCEAE",
+      "displayed_link": "13.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba13cd0c30dfb137da96f6a80848cfed3f.png",
+      "snippet": "Atlanta, Georgia, United States. President for Atlanta's (BEN) Black Employee Network at Amazon ... fellow recruiters and applicants •Provide expert level ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "President",
+        "Amazon",
+        "fellow"
+      ],
+      "source": "LinkedIn · Keisha Boyd"
+    },
+    {
+      "position": 39,
+      "title": "Pat Gelsinger - Chairman Of The Board - Gloo",
+      "link": "https://www.linkedin.com/in/patgelsinger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/patgelsinger&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECEYQAQ",
+      "displayed_link": "289.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bad1e0f2001a8040a502c5c6e1b2151a9d.png",
+      "snippet": "Experience · Chairman Of The Board · Chairman Of The Board · Chief Executive Officer · CEO · President and COO · Sr. VP & GM, Digital Enterprise Group · CTO.",
+      "snippet_highlighted_words": [
+        "Chairman",
+        "Chairman",
+        "Chief Executive",
+        "President"
+      ],
+      "source": "LinkedIn · Pat Gelsinger"
+    },
+    {
+      "position": 40,
+      "title": "Dilip Kumar - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/dilipskumar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dilipskumar&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECEsQAQ",
+      "displayed_link": "8.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba6f05918d4e2cf34c3e1abb85b831e7db.png",
+      "snippet": "Dilip Kumar. Amazon Web Services (AWS) The Wharton School. Seattle, Washington, United States ... Awarded for spearheading the expansion of Just Walk Out and ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dilip Kumar"
+    },
+    {
+      "position": 41,
+      "title": "Krishan Bhatia - Amazon",
+      "link": "https://www.linkedin.com/in/krishanbhatia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/krishanbhatia&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECGEQAQ",
+      "displayed_link": "4.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bae4432ae3f5ccbc5bbbe026651132080e.png",
+      "snippet": "Krishan Bhatia. Amazon Georgetown University. New York, New York, United States ... president of global video advertising. It was a sign of the company's wish ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "president"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Krishan Bhatia"
+    },
+    {
+      "position": 42,
+      "title": "Srikanth Kandula - Senior Principal Engineer",
+      "link": "https://www.linkedin.com/in/srikanthkandula",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/srikanthkandula&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECF4QAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2badef7453b13a06836b7a454965d212b76.png",
+      "snippet": "Senior Principal at AWS (ex MSR, MIT PhD Course 6) · I am a Senior Principal Engineer at Amazon Web Services ... Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Senior Principal Engineer",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Srikanth Kandula"
+    },
+    {
+      "position": 43,
+      "title": "Bharath Srinivasan - Amazon",
+      "link": "https://www.linkedin.com/in/bharath-srinivasan-82399428",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bharath-srinivasan-82399428&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECHgQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bad31bc9db28f53c0fe22a19e9d4b8d0b1.png",
+      "snippet": "Bharath Srinivasan. Amazon Georgia Institute of Technology. Seattle, Washington, United States ... Activities and Societies: President of the Mechanical ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bharath Srinivasan"
+    },
+    {
+      "position": 44,
+      "title": "Rajiv Mehta - Amazon",
+      "link": "https://www.linkedin.com/in/rmmehta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rmmehta&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECHkQAQ",
+      "displayed_link": "5.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba29733113e113acea6712203eec5e70f3.png",
+      "snippet": "Rajiv Mehta. Amazon University of Florida - Warrington College of Business. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rajiv Mehta"
+    },
+    {
+      "position": 45,
+      "title": "Michael Punke - Amazon",
+      "link": "https://www.linkedin.com/in/michael-punke-974446101",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-punke-974446101&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECH0QAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba7f07460402e87d646e1ba723dbfa03fd.png",
+      "snippet": "Amazon · Cornell Law School · Missoula · 500+ connections on LinkedIn ... Michael Punke. Amazon Cornell Law School. Missoula, Montana, United States. 2K ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Missoula, Montana, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Punke"
+    },
+    {
+      "position": 46,
+      "title": "Neil Lindsay - Amazon",
+      "link": "https://www.linkedin.com/in/neil-lindsay-7193831",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/neil-lindsay-7193831&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJQBEAE",
+      "displayed_link": "18.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba0f4977e8b49751e010ac034e26b128f3.png",
+      "snippet": "... President of Amazon Health Services, which aims to make… Experience. Amazon Graphic. Amazon. Seattle, Washington, United States. -. Seattle, Washington, United ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "United States",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Neil Lindsay"
+    },
+    {
+      "position": 47,
+      "title": "Sean Wall - Corporate Fellow - Amazon",
+      "link": "https://www.linkedin.com/in/sean-wall-888022232?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sean-wall-888022232%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCKIBEAE",
+      "displayed_link": "240+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2babf82e6791ce12fb87cf5946a7049e851.png",
+      "snippet": "Amazon Fellow | Operations Management | Project Management | Risk Management | Navy EOD Veteran. Amazon Radford University. Bremerton, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Amazon Fellow",
+        "Amazon",
+        "United States"
+      ],
+      "source": "LinkedIn · Sean Wall"
+    },
+    {
+      "position": 48,
+      "title": "Tracy Pellett - GoPlay Logistics (Amazon Partnership",
+      "link": "https://www.linkedin.com/in/tracy-pellett-58123bb3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tracy-pellett-58123bb3&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCKsBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba748b5a5f68ce3e36dd429abd17eae89e.png",
+      "snippet": "President Emeritus. GoPlay Logistics (Amazon Partnership - Workforce Development) Brigham Young University. St Simons Island, Georgia, United States. 2K ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "United States"
+      ],
+      "source": "LinkedIn · Tracy Pellett"
+    },
+    {
+      "position": 49,
+      "title": "Francessca Vasquez - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/francesscavasquez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/francesscavasquez&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCLQBEAE",
+      "displayed_link": "22.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba2897744753989c4c266606855822d9ca.png",
+      "snippet": "Francessca Vasquez is Vice President, Professional Services and GenAI Innovation Center… · Amazon ... Seattle, Washington, United States. 23K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Francessca Vasquez"
+    },
+    {
+      "position": 50,
+      "title": "Meggie Choi - Drama Series Executive - Prime Video & ...",
+      "link": "https://www.linkedin.com/in/meggiechoi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/meggiechoi&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCMkBEAE",
+      "displayed_link": "200+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba71600db689ea505cfdbd1034ca892edc.png",
+      "snippet": "Vice President, Current Programming. Paramount Television Studios. Sep 2020 - Jul 2022 1 year 11 months. Los Angeles, California, United States. Manage the day ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Current",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Drama Series Executive",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Meggie Choi"
+    },
+    {
+      "position": 51,
+      "title": "Daniel Slepak - Head of Marketplace, Prime Video Canada ...",
+      "link": "https://www.linkedin.com/in/danielslepak",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danielslepak&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCMgBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba257ba897a952d9236bfdd40041e3f4c1.png",
+      "snippet": "Head of Marketplace (Channels+TVOD), Prime Video Canada, Australia, and New Zealand · Amazon ... Vice President, Digital Distribution. Sony Pictures ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Head of Marketplace, Prime Video Canada, Australia, and New Zealand",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Slepak"
+    },
+    {
+      "position": 52,
+      "title": "Stephen Hanly - Senior Technical Product Manager",
+      "link": "https://www.linkedin.com/in/stephen-hanly",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephen-hanly&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCNIBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bade0bc4b8ad156b68d7403ab3b8e3acd1.png",
+      "snippet": "At Amazon Robotics I am leading my 40+ fellow product managers to evolve the ... Vice President of Product. Mide Technology Corporation. Feb 2019 - Jul ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "fellow",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Winchester, Massachusetts, United States",
+            "Senior Technical Product Manager",
+            "Amazon Global Robotics"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Hanly"
+    },
+    {
+      "position": 53,
+      "title": "Prakash Rochlani - Amazon",
+      "link": "https://www.linkedin.com/in/prakash-rochlani-b844414",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/prakash-rochlani-b844414&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECCsQAQ",
+      "displayed_link": "14.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba323c56cf59b1f37d0b076f040b32fc5c.png",
+      "snippet": "Supply Chain, General Management, P&L, Business Development , Operations, eCommerce… · Experience: Amazon ... Nashville, Tennessee, United States. -. Nashville, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Nashville, Tennessee, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Prakash Rochlani"
+    },
+    {
+      "position": 54,
+      "title": "Ruhi Sarikaya - Amazon",
+      "link": "https://www.linkedin.com/in/ruhisarikaya",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ruhisarikaya&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCNwBEAE",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba8467af38451b5dc6c00db2953539fa50.png",
+      "snippet": "Amazon Graphic · Amazon. Seattle, Washington, United States. -. Greater Seattle Area. -. Redmond, WA. -. Yorktown Heights, NY. -. Education. Duke University ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ruhi Sarikaya"
+    },
+    {
+      "position": 55,
+      "title": "John Huang - Vice President of Global Product Development",
+      "link": "https://www.linkedin.com/in/john-huang-84a2a71ba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-huang-84a2a71ba&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCOABEAE",
+      "displayed_link": "110+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba632b62525d527ad51ee64f40115b2ac6.png",
+      "snippet": "Vice President of Global Product Development. Amazon. 2021 - Present 4 years. Mountain View, California, United States.",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Vice President of Global Product Development",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Huang"
+    },
+    {
+      "position": 56,
+      "title": "Ari Entin - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/arientin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/arientin&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCOEBEAE",
+      "displayed_link": "6.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba7c47805d7595445070cf125a7773bd44.png",
+      "snippet": "Ari Entin. Amazon Web Services (AWS) University of Arizona. San Jose, California, United States. 6K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Jose, California, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ari Entin"
+    },
+    {
+      "position": 57,
+      "title": "Lee Roach - Corporate Counsel, Litigation and Regulatory ...",
+      "link": "https://www.linkedin.com/in/john-l-roach",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-l-roach&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCPABEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba3ef8f05d5577be006eba16de1d0cd78f.png",
+      "snippet": "Corporate Counsel, Litigation and Regulatory (Antitrust) at Amazon ... Special Assistant. Office of the Vice President of the United States. 2004 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Corporate Counsel, Litigation and Regulatory (Antitrust)",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lee Roach"
+    },
+    {
+      "position": 58,
+      "title": "David Li - Vice President of Technology - Amazon",
+      "link": "https://www.linkedin.com/in/david-li-263825171",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-li-263825171&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCPIBEAE",
+      "displayed_link": "220+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2baf3a85fd9a168f16b88de456a036a1aab.png",
+      "snippet": "Vice President of Technology · Experience: Amazon · Education: London Business School · Location: United States · 222 connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Vice President of Technology",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Li"
+    },
+    {
+      "position": 59,
+      "title": "Ashe McGovern - Head of Global LGBTQIA+ Affairs - Amazon",
+      "link": "https://www.linkedin.com/in/ashemcgovern",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ashemcgovern&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCPkBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba6a79eec1ae574ec2ec5b65c7f4eec4de.png",
+      "snippet": "Head of Global LGBTQIA+ Affairs at Amazon. Amazon Cornell Law School. New York, New York, United States ... Equal Justice Works Fellow, LGBT Law Project. New York ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States",
+        "Fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Head of Global LGBTQIA+ Affairs",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ashe McGovern"
+    },
+    {
+      "position": 60,
+      "title": "Holly Mesrobian - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/holly-mesrobian-a1b710",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/holly-mesrobian-a1b710&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCP0BEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba3eca9aa270f4591df2354fce6633d2e7.png",
+      "snippet": "Location: United States · 500+ connections on LinkedIn. View Holly Mesrobian's profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Holly Mesrobian"
+    },
+    {
+      "position": 61,
+      "title": "Richard Hua - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/richhua",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/richhua&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCI0CEAE",
+      "displayed_link": "18.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2babd94d53818e19be7063b4f683b34b423.png",
+      "snippet": "Richard Hua. Amazon Web Services (AWS) UC Berkeley. San Mateo, California, United States ... President's Distinguished status for the first time in its history ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "President's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Mateo, California, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Hua"
+    },
+    {
+      "position": 62,
+      "title": "Adam Rounsville - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/adam-rounsville",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/adam-rounsville&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJMCEAE",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bacbdbb2cc0f21869983535633ce441975.png",
+      "snippet": "Adam Rounsville. Amazon Web Services (AWS) Brigham Young University. Seattle, Washington, United States ... Vice President. BYU Tech Society. Jan 2023 - Apr ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Rounsville"
+    },
+    {
+      "position": 63,
+      "title": "Scott Mullins - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/escottmullins",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/escottmullins&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJYCEAE",
+      "displayed_link": "11.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2baba4bbc21291da85ffbe94fa1468a33af.png",
+      "snippet": "Scott Mullins. Amazon Web Services (AWS) Texas A&M University. New York, New York, United States ... President. 2015 - Present. I serve as President of the New ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "President",
+        "Present",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Scott Mullins"
+    },
+    {
+      "position": 64,
+      "title": "Jorge Grey - Cloud Engineer Fellow - Amazon",
+      "link": "https://www.linkedin.com/in/jorge-grey",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jorge-grey&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJICEAE",
+      "displayed_link": "120+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2babde8ca651b3d395af74a97b31ee005e1.png",
+      "snippet": "Experience. Amazon Graphic. Cloud Engineer Fellow. Amazon. Apr 2024 - Present 1 year. New York, United States. Completing coursework in cloud computing ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Fellow",
+        "Amazon",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Jorge Grey"
+    },
+    {
+      "position": 65,
+      "title": "Larry McGrath - Amazon",
+      "link": "https://www.linkedin.com/in/larrysmcgrath",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/larrysmcgrath&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCKcCEAE",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2badf161137ec78ad5ce0b405ee240610da.png",
+      "snippet": "Drawing on my PhD in… · Experience: Amazon · Education ... Larry McGrath. Amazon University of California, Berkeley. Los Angeles, California, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Larry McGrath"
+    },
+    {
+      "position": 66,
+      "title": "Ana Victoria Chavez - Area Manager ll - Amazon",
+      "link": "https://www.linkedin.com/in/ana-victoria-chavez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ana-victoria-chavez&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCKgCEAE",
+      "displayed_link": "520+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2baf79a37fd76e34b204ea61afd2c5713b2.png",
+      "snippet": "El Paso, Texas, United States. Corralito Steakhouse Graphic. Bartender ... UTEP Chapter president. Aug 2019 - Present. International Council on Systems ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "president",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "El Paso, Texas, United States",
+            "Area Manager ll",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ana Victoria Chavez"
+    },
+    {
+      "position": 67,
+      "title": "Mike Cvet - Principal Software Engineer - Meta",
+      "link": "https://www.linkedin.com/in/mike-cvet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mike-cvet&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCKwCEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2baf20d2d1dc92efb24f34c7e3b3449d9e6.png",
+      "snippet": "... Distinguished Engineer at LinkedIn, focused on developer experience and ... United States · 500+ connections on LinkedIn. View Mike Cvet's profile on ...",
+      "snippet_highlighted_words": [
+        "Distinguished Engineer",
+        "United States"
+      ],
+      "source": "LinkedIn · Mike Cvet"
+    },
+    {
+      "position": 68,
+      "title": "Chris Atkins - Amazon",
+      "link": "https://www.linkedin.com/in/chris-atkins-03aa629",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chris-atkins-03aa629&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCKsCEAE",
+      "displayed_link": "6.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2badc8fafd28e9ddfc72fa8f8310cf168b6.png",
+      "snippet": "I work with Amazon's global operations network to help us achieve net zero carbon… · Experience: Amazon · Education: United States Military Academy at West ...",
+      "snippet_highlighted_words": [
+        "Amazon's",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Boston, Massachusetts, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Atkins"
+    },
+    {
+      "position": 69,
+      "title": "Cayden Present - Flight Test/Part 135 Drone Operator in ...",
+      "link": "https://www.linkedin.com/in/cayden-present",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cayden-present&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCMICEAE",
+      "displayed_link": "310+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba0bc87ebecc86abe694125452a0551a7c.png",
+      "snippet": "... Amazon · Embry-Riddle Aeronautical University · United States · 312 ... current selection. Jobs; People; Learning. Clear text. Clear text. Clear text.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "current"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "flight_test_part_drone_operator_in_command": 135
+          },
+          "extensions": [
+            "United States",
+            "Flight Test/Part 135 Drone Operator in Command",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Cayden Present"
+    },
+    {
+      "position": 70,
+      "title": "Gunnar Kudrjavets - Principal Software Engineer",
+      "link": "https://www.linkedin.com/in/gunnarku",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gunnarku&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCL4CEAE",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2baaeb0fc8286607fb948b6767ab828ea5a.png",
+      "snippet": "Amazon Web Services (AWS). Mar 2024 - Present 1 year 1 month. Seattle, Washington, United States. The main ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Principal Software Engineer",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gunnar Kudrjavets"
+    },
+    {
+      "position": 71,
+      "title": "Jeffrey Kratz - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/jeffreykratz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeffreykratz&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECEcQAQ",
+      "displayed_link": "21.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bacc33b57b56f754f18cd8a6090afe2b3b.png",
+      "snippet": "United States. -. United States. -. United States. -. Redmond ... Representing Amazon Web Services Board of Directors position at President Eisenhower's BCIU.",
+      "snippet_highlighted_words": [
+        "United States",
+        "United States",
+        "United States",
+        "Amazon",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeffrey Kratz"
+    },
+    {
+      "position": 72,
+      "title": "Scott Dresser - Amazon",
+      "link": "https://www.linkedin.com/in/scott-dresser-76767a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/scott-dresser-76767a&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECEgQAQ",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba6f2e0b4b6ba9b2a3832f89c4b6e8d6af.png",
+      "snippet": "At Amazon Robotics, we are continually reimagining what Now looks like ... Scott Dresser. Amazon Stanford University. Boxborough, Massachusetts, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Boxborough, Massachusetts, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Scott Dresser"
+    },
+    {
+      "position": 73,
+      "title": "Morgan E. - Risk Manager II, Compliance & Safety Program ...",
+      "link": "https://www.linkedin.com/in/mevans30",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mevans30&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECEQQAQ",
+      "displayed_link": "320+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba4ea878d8189a610a54fb0b00aaf5abe6.png",
+      "snippet": "Seattle, Washington, United States ... Vice President & Distinguished Scientist, Physical Stores Director of Engineering, Product, & Technology, Amazon Dash Carts",
+      "snippet_highlighted_words": [
+        "United States",
+        "President",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Coupeville, Washington, United States",
+            "Risk Manager II, Compliance & Safety Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Morgan E."
+    },
+    {
+      "position": 74,
+      "title": "Heather Curtis - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/heather-curtis-18284253",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/heather-curtis-18284253&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECEkQAQ",
+      "displayed_link": "790+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bacbed3a6369507a0c0bb419c501356ed7.png",
+      "snippet": "... Amazon MGM Studios · Education: University of Southern California ... Vice President, Current Series. MGM International Television Productions. May ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "Current"
+      ],
+      "source": "LinkedIn · Heather Curtis"
+    },
+    {
+      "position": 75,
+      "title": "Adam Baker - Amazon",
+      "link": "https://www.linkedin.com/in/adamrbaker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/adamrbaker&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECF8QAQ",
+      "displayed_link": "8.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bae4eb26f940e6506b78816892e71c7b35.png",
+      "snippet": "Adam Baker. Amazon Carnegie Mellon University - Tepper School of Business. Austin, Texas, United States ... President of the Operations Management Club. 1994 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Baker"
+    },
+    {
+      "position": 76,
+      "title": "Mohammad Sharif - Software Development Engineer II",
+      "link": "https://www.linkedin.com/in/mohammadahmadsharif",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mohammadahmadsharif&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECF0QAQ",
+      "displayed_link": "380+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bae6d1672ed88669f65d7a705ed2a018f1.png",
+      "snippet": "Software Development Engineer II at Amazon · I am a graduate from San ... Vice President 2017 - 2018. Aug 2016 - Present. Work alongside fellow officers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "Present",
+        "fellow"
+      ],
+      "source": "LinkedIn · Mohammad Sharif"
+    },
+    {
+      "position": 77,
+      "title": "John Culkin - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/johnjculkin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/johnjculkin&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECGAQAQ",
+      "displayed_link": "10.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba2c885d9c76171a099b504a189bd7dfb6.png",
+      "snippet": "John Culkin. Amazon Web Services (AWS) University of Notre Dame. Scranton, Pennsylvania, United States ... President. Scranton Notre Dame Club. Jan 2011 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Scranton, Pennsylvania, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Culkin"
+    },
+    {
+      "position": 78,
+      "title": "Tyler Kusma - Software Development Engineer II",
+      "link": "https://www.linkedin.com/in/tyler-kusma",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tyler-kusma&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECGMQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2baad004f2f10ae18f53b2fa29934a4b92c.png",
+      "snippet": "Software Engineer at Amazon Web Services (AWS) · I am an experienced programmer who is a ... President of the United States. Courses. Algorithms. CSCI 3212 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Arlington, Virginia, United States",
+            "Software Development Engineer II",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tyler Kusma"
+    },
+    {
+      "position": 79,
+      "title": "John Beavers - President - Amazon Conservation ...",
+      "link": "https://www.linkedin.com/in/john-beavers-b8811614",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-beavers-b8811614&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECHYQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba1d274cdbba95c0cfdad7a5e654ec467d.png",
+      "snippet": "President at Amazon Conservation Association · Experience: Amazon ... Washington, District of Columbia, United States. 1K followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "President",
+            "Amazon Conservation Association"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Beavers"
+    },
+    {
+      "position": 80,
+      "title": "Carol Anderson - Operations Engineer - Amazon",
+      "link": "https://www.linkedin.com/in/carol-anderson-886bb1a4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/carol-anderson-886bb1a4&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECHcQAQ",
+      "displayed_link": "460+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bab1b2f76fdd55b219e08c0b4607db9dc1.png",
+      "snippet": "Amazon. May 2018 - Nov 2019 1 year 7 months. Staten Island, New York, United States ... Current president of RIT's Colleges Against Cancer Club over seeing both ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "Current president"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Yonkers, New York, United States",
+            "Operations Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carol Anderson"
+    },
+    {
+      "position": 81,
+      "title": "Rishi Phatak - SDE 2 - Amazon",
+      "link": "https://www.linkedin.com/in/rishi-phatak",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rishi-phatak&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECHoQAQ",
+      "displayed_link": "540+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba7260d7d858ca47bfac4dca4b48fd6acd.png",
+      "snippet": "Rishi Phatak. Software Engineer at Amazon. Amazon Texas A&M University. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "sde": 2
+          },
+          "extensions": [
+            "Seattle, Washington, United States",
+            "SDE 2",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rishi Phatak"
+    },
+    {
+      "position": 82,
+      "title": "Matthew Kline - VP AWS Legal - Amazon Web Services ...",
+      "link": "https://www.linkedin.com/in/matthew-kline-a1b2909",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matthew-kline-a1b2909&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECHsQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba59b7b573dab7d6ec298080f2fe9faa32.png",
+      "snippet": "VP AWS Legal at Amazon. Amazon Web Services (AWS) Columbia Law School. Seattle, Washington, United States. 1K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "VP AWS Legal",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthew Kline"
+    },
+    {
+      "position": 83,
+      "title": "Jamal Wilson - Director, Hardware Product Development",
+      "link": "https://www.linkedin.com/in/jamal-wilson-38892a5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jamal-wilson-38892a5&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCI0BEAE",
+      "displayed_link": "4.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2baf29de0c68341aa1c9fd85baf989bc08f.png",
+      "snippet": "Amazon Executive | Executive Product Development Leader · Bold and engaging Executive leader ... 2002. Georgia Tech President's Fellow (2002-2006). -. 2002.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "President's Fellow"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Boston",
+            "Director, Hardware Product Development",
+            "Mechatronics / Robotics",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jamal Wilson"
+    },
+    {
+      "position": 84,
+      "title": "Aaron Martin - Amazon",
+      "link": "https://www.linkedin.com/in/aaronmartinfc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aaronmartinfc&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJIBEAE",
+      "displayed_link": "31K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2baaba20cd39e5ba75e3b03fb4fdb2dfcee.png",
+      "snippet": "Aaron is currently Vice President of Healthcare at Amazon where he works closely with… · Amazon · Greater Seattle Area · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aaron Martin"
+    },
+    {
+      "position": 85,
+      "title": "Lindo St. Angel - Los Gatos, California, United States",
+      "link": "https://www.linkedin.com/in/lindostangel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lindostangel&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJEBEAE",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba287f8524c57a080cf32eb96cdaedc1d8.png",
+      "snippet": "Angel. Los Gatos, California, United States. 5K followers 500+ connections ... Amazon Tap) from that point to the present. See project · Amazon Fire TV. Nov ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Amazon",
+        "present",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Lindo St. Angel"
+    },
+    {
+      "position": 86,
+      "title": "Jay Shankar - Amazon",
+      "link": "https://www.linkedin.com/in/jayshankar1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jayshankar1&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCJMBEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba73ec92f8b6580f0b72e697954a460aae.png",
+      "snippet": "Amazon · Seattle · 500+ connections on LinkedIn. View Jay Shankar's profile ... Jay Shankar. Amazon. Seattle, Washington, United States. 4K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jay Shankar"
+    },
+    {
+      "position": 87,
+      "title": "Danyel Surrency Jones - Amazon",
+      "link": "https://www.linkedin.com/in/danyelsurrencyjones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danyelsurrencyjones&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCKkBEAE",
+      "displayed_link": "9.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba5a936f0b94fc5d649ed4af10b6aa444f.png",
+      "snippet": "I'm a builder, transformational leader and business strategist with over two decades of… · Amazon ... Dallas, Texas, United States. -. Texas, United States. -.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas-Fort Worth Metroplex",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Danyel Surrency Jones"
+    },
+    {
+      "position": 88,
+      "title": "Angelina Howard - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/angelinalhoward",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/angelinalhoward&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCKwBEAE",
+      "displayed_link": "11K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bac52622d605a1552fc884ef3b42cbc4da.png",
+      "snippet": "Angelina Howard. Amazon Web Services (AWS) Colorado State University. Seattle, Washington, United States ... President. Angelina brings positive, team-building ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Angelina Howard"
+    },
+    {
+      "position": 89,
+      "title": "Ricky L. Freeman - Amazon",
+      "link": "https://www.linkedin.com/in/ricky-l-freeman-7a143b84",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ricky-l-freeman-7a143b84&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCK0BEAE",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba85075f8a9910fa48aa1e9310928b01be.png",
+      "snippet": "President and Fortune 50 Executive; former VP, Global Services for Boeing ... Freeman. Amazon The Wharton School. Phoenix, Arizona, United States. 4K ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Phoenix, Arizona, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ricky L. Freeman"
+    },
+    {
+      "position": 90,
+      "title": "Atif Rafiq - CEO & Co-founder - Ritual",
+      "link": "https://www.linkedin.com/in/atif1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/atif1&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCKoBEAE",
+      "displayed_link": "486.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2baf26f05c64857c3ddea614c7e96f8e281.png",
+      "snippet": "President | Ex-Amazon, C Suite in Fortune 500, startup CEO | Board Director ... Sunnyvale, California, United States. Running product marketing, biz dev ...",
+      "snippet_highlighted_words": [
+        "President",
+        "Amazon",
+        "United States"
+      ],
+      "source": "LinkedIn · Atif Rafiq"
+    },
+    {
+      "position": 91,
+      "title": "Roger E. Wehner - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/roger-e-wehner-9957374",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/roger-e-wehner-9957374&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCLMBEAE",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba1f53775fa73f4a56632e0f06583598a6.png",
+      "snippet": "Amazon Web Services (AWS) Graphic · Amazon Web Services (AWS). -. Seattle, Washington, United States. -. Greater Seattle Area. -. Birmingham, Alabama. -. Mobile ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "source": "LinkedIn · Roger E. Wehner"
+    },
+    {
+      "position": 92,
+      "title": "Diego Piacentini - DoorDash",
+      "link": "https://www.linkedin.com/in/diego-piacentini",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/diego-piacentini&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCMEBEAE",
+      "displayed_link": "9.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bad945be3e25ca922c415715c237e01698.png",
+      "snippet": "Seattle, Washington, United States. -. London Area, United Kingdom. -. Greater Seattle Area. -. Rome Area, Italy. -. Greater Seattle Area. -. Paris Area, France ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "DoorDash"
+          ]
+        }
+      },
+      "source": "LinkedIn · Diego Piacentini"
+    },
+    {
+      "position": 93,
+      "title": "Amna Mahmud - Amazon",
+      "link": "https://www.linkedin.com/in/mahmudamna",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mahmudamna&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCMMBEAE",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba98324f6dfd2159f657522e3fc130977a.png",
+      "snippet": "Amna Mahmud. Amazon Northwestern University - Kellogg School of Management. Seattle, Washington, United States ... President / Vice President; 3) Society of Women ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "President",
+        "President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amna Mahmud"
+    },
+    {
+      "position": 94,
+      "title": "Josh White - Executive Communications - Amazon",
+      "link": "https://www.linkedin.com/in/josh-white-3ab6b76",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/josh-white-3ab6b76&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCMQBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba6c84a8a222b0c869edd45cc70e73d7af.png",
+      "snippet": "CEO Communications at Amazon. Amazon University of Michigan. Arlington, Virginia, United States. 2K followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Arlington, Virginia, United States",
+            "Executive Communications",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Josh White"
+    },
+    {
+      "position": 95,
+      "title": "Anubhav Singh - Senior Distinguished Engineer - Walmart ...",
+      "link": "https://www.linkedin.com/in/anubhavsingh91",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/anubhavsingh91&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoFCPgBEAE",
+      "displayed_link": "870+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba06e7d1ea1caf9a414867b920b09346ff.png",
+      "snippet": "Senior Distinguished Engineer. Walmart Global Tech. Apr 2024 - Present 1 year. Bellevue, Washington, United States. Amazon Graphic. Engineering. Amazon. Jan ...",
+      "snippet_highlighted_words": [
+        "Distinguished Engineer",
+        "Present",
+        "United States",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Senior Distinguished Engineer",
+            "Walmart Global Tech"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anubhav Singh"
+    },
+    {
+      "position": 96,
+      "title": "Carla Vernón - The Honest Company",
+      "link": "https://www.linkedin.com/in/carlainspired",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/carlainspired&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECC4QAQ",
+      "displayed_link": "31.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba2422a02d1c406bc7918cd3d1f77e50c6.png",
+      "snippet": "Minneapolis, Minnesota, United States. -. Minneapolis, Minnesota, United ... Carla Vernón, vice president, consumables category at Amazon, shares the ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "United",
+        "president",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Minneapolis, Minnesota, United States",
+            "The Honest Company"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carla Vernón"
+    },
+    {
+      "position": 97,
+      "title": "Tom Soderstrom - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/tomsoderstrom",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tomsoderstrom&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECC8QAQ",
+      "displayed_link": "7.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bac87bced250f95635c7562c209d1e2483.png",
+      "snippet": "Tom Soderstrom. Amazon Web Services (AWS) Occidental College. Los Angeles County, California, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles County, California, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tom Soderstrom"
+    },
+    {
+      "position": 98,
+      "title": "Aaron Basko - Vice President for University Outreach",
+      "link": "https://www.linkedin.com/in/abasko",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/abasko&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECC0QAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2bab45bc4673453302535235714cbe0fa68.png",
+      "snippet": "If it is your dream to study in the United States this book is for you. Written by Aaron Basko, a vice president and senior admissions officer with over 25 ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "president"
+      ],
+      "source": "LinkedIn · Aaron Basko"
+    },
+    {
+      "position": 99,
+      "title": "Kathryn Sheehan - Amazon",
+      "link": "https://www.linkedin.com/in/kathrynsheehan1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kathrynsheehan1&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQFnoECCwQAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa66ce73b9cb88249ff1/images/25114d8cdf639befd0c787555567d2ba102723a69c10e56e56e7e5802143a592.png",
+      "snippet": "Kathryn Sheehan. Amazon University of Virginia School of Law. Seattle, Washington, United States. 3K followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kathryn Sheehan"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?num=100&sca_esv=b275642f2649e319&gl=us&q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&udm=2&source=univ&fir=PCmdr8P-5z2ERM%252Cjb3FePPA-OxC6M%252C_%253BM-_TSGKI8npxVM%252CrilygXXhsugaoM%252C_%253BJcrOh5awYAsc9M%252Ccl-M_rHfFslYtM%252C_%253Bl1LYDzTIW84hWM%252CO63hGK59Y80WBM%252C_%253BMNZtRdm83_Na3M%252C0vryxTrvPbwmbM%252C_%253BhokHQ432fElxdM%252CtPj_cbp9thNG5M%252C_%253BRrPl3bg8l5qNyM%252C0OT2v3VRqY77hM%252C_%253BGcBgCZ7MokZEQM%252CuxBkfQcEN-LuiM%252C_%253BwJCg8L6DE43MbM%252CsJ0FQa_WvX6mdM%252C_&usg=AI4_-kRtxGSX8WJqDR1l8ntSxR3mrkEMLg&sa=X&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQ7Al6BAh0EAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29",
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=cfrdZ_7sIvLJ0PEP5qqK0A8&start=100&sa=N&sstk=Af40H4VuPlqT9EPvAbtrqCZBQUE7DAtOKv7PUK__Z9I7olX4MjxTKmKVntAa8CVsM6l8BPKivgadVG2yQExdnXMTYGudC2THRIsZ9g&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQ8NMDegUIwQIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=cfrdZ_7sIvLJ0PEP5qqK0A8&start=100&sa=N&sstk=Af40H4VuPlqT9EPvAbtrqCZBQUE7DAtOKv7PUK__Z9I7olX4MjxTKmKVntAa8CVsM6l8BPKivgadVG2yQExdnXMTYGudC2THRIsZ9g&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQ8tMDegUIwQIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=cfrdZ_7sIvLJ0PEP5qqK0A8&start=200&sa=N&sstk=Af40H4VuPlqT9EPvAbtrqCZBQUE7DAtOKv7PUK__Z9I7olX4MjxTKmKVntAa8CVsM6l8BPKivgadVG2yQExdnXMTYGudC2THRIsZ9g&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQ8tMDegUIwQIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=cfrdZ_7sIvLJ0PEP5qqK0A8&start=300&sa=N&sstk=Af40H4VuPlqT9EPvAbtrqCZBQUE7DAtOKv7PUK__Z9I7olX4MjxTKmKVntAa8CVsM6l8BPKivgadVG2yQExdnXMTYGudC2THRIsZ9g&ved=2ahUKEwi-6d31rZyMAxXyJDQIHWaVAvoQ8tMDegUIwQIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22President%22+OR+%22Chairman%22+OR+%22Chief+Executive%22+OR+%22Principal+Owner%22+OR+%22Managing+Member%22+OR+%22Fellow%22+OR+%22Senior+Fellow%22+OR+%22Distinguished+Engineer%22%29&start=300"
+    }
+  }
+}

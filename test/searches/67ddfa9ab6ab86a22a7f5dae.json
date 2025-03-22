@@ -1,0 +1,2276 @@
+{
+  "search_metadata": {
+    "id": "67ddfa9ab6ab86a22a7f5dae",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/602eb9c74a33502e/67ddfa9ab6ab86a22a7f5dae.json",
+    "created_at": "2025-03-21 23:47:38 UTC",
+    "processed_at": "2025-03-21 23:47:38 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/602eb9c74a33502e/67ddfa9ab6ab86a22a7f5dae.html",
+    "total_time_taken": 2.46
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Amazon\" AND \"United Kingdom\" AND (current OR present) AND (\"Practice Director\" OR \"VP\" OR \"Vice President\" OR \"Senior Vice President\" OR \"SVP\" OR \"EVP\" OR \"Executive Vice President\" OR \"Assistant Vice President\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Amazon\" AND \"United Kingdom\" AND (current OR present) AND (\"Practice Director\" OR \"VP\" OR \"Vice President\" OR \"Senior Vice President\" OR \"SVP\" OR \"EVP\" OR \"Executive Vice President\" OR \"Assistant Vice President\")",
+    "total_results": 894000,
+    "time_taken_displayed": 1.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "John Boumphrey - VP Country Manager UK & Ireland",
+      "link": "https://uk.linkedin.com/in/johnboumphrey",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/johnboumphrey&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECBUQAQ",
+      "displayed_link": "36.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa4e766fd1b6ad37327e29ba2de157040e.png",
+      "snippet": "John Boumphrey is an influencer. VP, UK & Ireland Country Manager, Amazon. Amazon INSEAD. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "VP",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "VP Country Manager UK & Ireland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Boumphrey"
+    },
+    {
+      "position": 2,
+      "title": "Uwem Ukpong - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/uwem-ukpong",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/uwem-ukpong&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECBcQAQ",
+      "displayed_link": "21.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa13f74361ebf4bcf9b7f88c40e604f2a4.png",
+      "snippet": "Uwem Ukpong is Vice President of Global Services at Amazon Web Services (AWS). ... London, United Kingdom. -. Paris Area, France. -. Houston, Texas Area. -. Rio ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Houston, Texas, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Uwem Ukpong"
+    },
+    {
+      "position": 3,
+      "title": "Aurelie de Troyer - SVP Head of UK & Europe Content ...",
+      "link": "https://uk.linkedin.com/in/aureliedetroyer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/aureliedetroyer&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECBsQAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa6f433854e9962355126dd8a7d71d4e71.png",
+      "snippet": "Amazon Graphic. SVP Head of UK Content (Amazon Audible). Amazon. Jan 2019 - Nov 2023 4 years 11 months. London, United Kingdom. AMC Networks Graphic. VP Global ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "SVP",
+        "Amazon",
+        "Amazon",
+        "United Kingdom",
+        "VP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "SVP Head of UK & Europe Content (Amazon Audible)",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aurelie de Troyer"
+    },
+    {
+      "position": 4,
+      "title": "Piers Heaton-Armstrong - Amazon",
+      "link": "https://uk.linkedin.com/in/piersheatonarmstrong",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/piersheatonarmstrong&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECBwQAQ",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa6d16328016a649d1dae758e106657574.png",
+      "snippet": "Piers Heaton-Armstrong. Amazon. London, England, United Kingdom. 3K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Piers Heaton-Armstrong"
+    },
+    {
+      "position": 5,
+      "title": "Alison Kay - VP / Managing Director AWS UKI",
+      "link": "https://uk.linkedin.com/in/alison-kay",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alison-kay&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECBgQAQ",
+      "displayed_link": "317.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faf1ab240cc17b5f0d476951063a155690.png",
+      "snippet": "Experience. Amazon Web Services (AWS) Graphic. VP / Managing Director AWS UKI. Amazon Web Services (AWS). Nov 2024 - Present 5 months. London, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "VP",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Alison Kay"
+    },
+    {
+      "position": 6,
+      "title": "Jeff Helbling - VP, Amazon Shipping Business",
+      "link": "https://uk.linkedin.com/in/jeff-helbling-0753564",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jeff-helbling-0753564&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECCEQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fae993cad6bef510c8997b7c07cf64b3f0.png",
+      "snippet": "Experience. Amazon. 13 years 3 months · Amazon Graphic. VP, Amazon Shipping Business. Amazon. Jul 2024 - Present 9 months. London, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "VP",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "VP, Amazon Shipping Business",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff Helbling"
+    },
+    {
+      "position": 7,
+      "title": "Claire Paull - Amazon",
+      "link": "https://www.linkedin.com/in/claire-paull-88734388",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/claire-paull-88734388&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECCwQAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa75942747ffa4837aa5f53844b69106d0.png",
+      "snippet": "Results driven leader with 20+ years of experience in general management, marketing and… · Experience: Amazon ... London, United Kingdom. -. -. Los Angeles. -.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Claire Paull"
+    },
+    {
+      "position": 8,
+      "title": "Kurt Camilleri - VP Controller, Digital businesses including ...",
+      "link": "https://www.linkedin.com/in/kurt-camilleri-76733220",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kurt-camilleri-76733220&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCN4BEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa93091f8c37d0efb101e9de89fee0fe93.png",
+      "snippet": "VP Controller, Digital businesses including Entertainment, Advertising and Prime at Amazon · Seasoned Finance executive with over 25 years of experience ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "VP Controller, Digital businesses including Entertainment, Ads & Prime",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kurt Camilleri"
+    },
+    {
+      "position": 9,
+      "title": "M J - Vice President of Sales - Amazon",
+      "link": "https://uk.linkedin.com/in/m-j-9ba506208?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/m-j-9ba506208%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECC4QAQ",
+      "displayed_link": "https://uk.linkedin.com › ...",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fae072040303fa436c86cf247d44b1e5f8.png",
+      "snippet": "M J. Senior Vice President at Amazon. Amazon Queen Mary University of London. London, England, United Kingdom. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Vice President of Sales",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn"
+    },
+    {
+      "position": 10,
+      "title": "Ganesh Rao - Amazon",
+      "link": "https://uk.linkedin.com/in/ganeshrao55",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ganeshrao55&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCJABEAE",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa4423676292c2a4ef6c75b9fd76da6399.png",
+      "snippet": "Ganesh Rao. Amazon Northwestern University - Kellogg School of Management. London, England, United Kingdom. 3K ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ganesh Rao"
+    },
+    {
+      "position": 11,
+      "title": "Seema Talwar - Head of EU Content Operations",
+      "link": "https://uk.linkedin.com/in/seema-talwar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/seema-talwar&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCOABEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faf22b68f6b968b768b6108ce8a53f596d.png",
+      "snippet": "... Amazon · The University of Wolverhampton · London Area, United Kingdom ... Senior Vice President International Operations. Twentieth Century Fox - a ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Senior Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Head of EU Content Operations | Prime Video",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Seema Talwar"
+    },
+    {
+      "position": 12,
+      "title": "Genevieve Alstadt - Executive Assistant to Vice President",
+      "link": "https://uk.linkedin.com/in/genevieverogers1234",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/genevieverogers1234&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCJICEAE",
+      "displayed_link": "510+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fae7c787713ee798df0c9a37b41c8e2a1a.png",
+      "snippet": "EA to VP at Amazon · Resourceful and solutions-oriented Executive Assistant, confident ... United Kingdom · 500+ connections on LinkedIn. View Genevieve ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Executive Assistant to Vice President",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Genevieve Alstadt"
+    },
+    {
+      "position": 13,
+      "title": "Jason Buechel - Vice President, Amazon Worldwide Grocery",
+      "link": "https://www.linkedin.com/in/jasonbuechel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jasonbuechel&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECCkQAQ",
+      "displayed_link": "39.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa4309eab113eaf8092290befc3c603983.png",
+      "snippet": "Vice President, Amazon Worldwide Grocery Stores, and CEO, Whole Foods ... Executive Vice President and Chief Information Officer. Whole Foods Market.",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Amazon",
+        "Executive Vice President"
+      ],
+      "source": "LinkedIn · Jason Buechel"
+    },
+    {
+      "position": 14,
+      "title": "Will Fernandez - EVP, Global Strategic Growth - WPP",
+      "link": "https://uk.linkedin.com/in/whfernandez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/whfernandez&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECGkQAQ",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faf8cc1e5cc65b764bb2715af3ed1cc7a2.png",
+      "snippet": "EVP, Global Strategic Growth · Global Growth Lead - WPP Team OpenDoor (Amazon) · EMEA Regional Director (WPP TeamGSK) · WPP Fellow · Trustee · Global Client Lead.",
+      "snippet_highlighted_words": [
+        "EVP",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Will Fernandez"
+    },
+    {
+      "position": 15,
+      "title": "Rachel Repper - Amazon Business",
+      "link": "https://uk.linkedin.com/in/rachel-repper-7217639",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rachel-repper-7217639&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCJEBEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fae41cbce06dd686b590085e1139dd5fbc.png",
+      "snippet": "Amazon - previously DHL Vice President, Trading Director, Director of Sales ... United Kingdom · 500+ connections on LinkedIn. View Rachel Repper's ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Vice President",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon Business",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rachel Repper"
+    },
+    {
+      "position": 16,
+      "title": "Andrew Shipps - Publicity Principal, International",
+      "link": "https://uk.linkedin.com/in/andrewshipps",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrewshipps&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCMEBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa90cde32860d1418018be4c4cb1eac04c.png",
+      "snippet": "International Marketing, Publicity and Communications Executive - Recent Senior Vice President, Marketing, Warner Bros. ... London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Publicity Principal, International",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Shipps"
+    },
+    {
+      "position": 17,
+      "title": "Marie Thomas - Prime Video & Amazon Studios",
+      "link": "https://uk.linkedin.com/in/marieannethomas/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/marieannethomas/en&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCN8BEAE",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa334f55a77e5a7ff0fe918efd334b987e.png",
+      "snippet": "Prime Video & Amazon Studios · Finsbury Park · 500 ... Marie Thomas. Prime Video & Amazon Studios University of Liverpool. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marie Thomas"
+    },
+    {
+      "position": 18,
+      "title": "Andrew Ford - Director - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/andrew-ford-b573a81a4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrew-ford-b573a81a4&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCPgBEAE",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa5f666e5ff215dbd984c29a005991f158.png",
+      "snippet": "Andrew Ford. Vice President of Sales. Amazon Web Services (AWS) Durham University. London, England, United Kingdom. 561 followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Ford"
+    },
+    {
+      "position": 19,
+      "title": "Andrew Milliken - Amazon",
+      "link": "https://uk.linkedin.com/in/andrew-milliken-83970a3b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrew-milliken-83970a3b&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCJMCEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa66dbe6f70c7c26edea2acdaf549fdddc.png",
+      "snippet": "Andrew Milliken. Amazon INSEAD. Greater London, England, United Kingdom. 1K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Milliken"
+    },
+    {
+      "position": 20,
+      "title": "Chris Harris - Director, Worldwide Engineering & Automation",
+      "link": "https://uk.linkedin.com/in/chharris",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chharris&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCK4CEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa12bc7ebbb66e787ee9349261ce7707c8.png",
+      "snippet": "Director, Worldwide Engineering & Automation. Amazon The Open University. England, United Kingdom ... amazon's EU fulfillment center fleet. Delivery of a global ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "amazon's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "England, United Kingdom",
+            "Director, Worldwide Engineering & Automation",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Harris"
+    },
+    {
+      "position": 21,
+      "title": "Pablo Donati - VP, PXT ( HR ) Amazon Web Services",
+      "link": "https://www.linkedin.com/in/pablo-donati-4719ab",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/pablo-donati-4719ab&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECCsQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa5f7f57164487b091a303cdcc3b7c292a.png",
+      "snippet": "VP, PXT ( HR ) Amazon Web Services. Amazon Web Services (AWS). Feb 2024 ... Supporting EVP and CEO Turbomachinery and process solutions . Global HR VP ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "Amazon",
+        "Amazon",
+        "EVP",
+        "VP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "VP, PXT ( HR ) Amazon Web Services",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pablo Donati"
+    },
+    {
+      "position": 22,
+      "title": "Anil Verma - Amazon",
+      "link": "https://uk.linkedin.com/in/anil-verma-2aa1b85",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/anil-verma-2aa1b85&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECEIQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fae7b71d46b9b19be85732580317bf0ed0.png",
+      "snippet": "Anil Verma. Amazon University of Michigan - Stephen M. Ross School of Business. United Kingdom. 2K ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anil Verma"
+    },
+    {
+      "position": 23,
+      "title": "Debbie McGeeney - Executive Assistant to VP EU OHL",
+      "link": "https://uk.linkedin.com/in/debbie-mcgeeney-a401b44",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/debbie-mcgeeney-a401b44&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECGQQAQ",
+      "displayed_link": "850+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fac30609545e3078fe390646b115b00f02.png",
+      "snippet": "Amazon UK Graphic. EA to VP, Amazon Video. Amazon UK. Jan 2014 - Mar 2019 5 years 3 months. London, United Kingdom. • Exclusive complex international calendar ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "VP",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Executive Assistant to VP EU OHL",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Debbie McGeeney"
+    },
+    {
+      "position": 24,
+      "title": "Rohan Oommen - Amazon",
+      "link": "https://www.linkedin.com/in/rohanoommen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rohanoommen&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECHoQAQ",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fab54e994cefc8fa7860b4afc555aaaa24.png",
+      "snippet": "Experience · Amazon Graphic. Amazon. Seattle, USA · -. Seattle, USA · -. Seattle, USA · -. London, United Kingdom · -. Redmond, USA · -. New Delhi, India ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rohan Oommen"
+    },
+    {
+      "position": 25,
+      "title": "Sarah C. Rhoads - Amazon",
+      "link": "https://www.linkedin.com/in/sarah-c-rhoads-a9385029",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarah-c-rhoads-a9385029&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCJoBEAE",
+      "displayed_link": "6.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faa5db17a95f1a617cdf4d99e317f90e43.png",
+      "snippet": "London, England, United Kingdom. -. Swansea Bay, Wales, United Kingdom ... Rhoads, Vice President, Amazon Global Air. National Air and Space Smithsonian ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "United Kingdom",
+        "Vice President",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah C. Rhoads"
+    },
+    {
+      "position": 26,
+      "title": "Keith Anderson - VP Product & Engineering - Oxa",
+      "link": "https://uk.linkedin.com/in/keith-henry-anderson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/keith-henry-anderson&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCKcBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583facd1496b94014232c980b99b96a185954.png",
+      "snippet": "Experience · VP Product & Engineering · Science and Engineering leader, Amazon Advertising · Senior Manager, Inherent Relationships · Software Development Manager, ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Keith Anderson"
+    },
+    {
+      "position": 27,
+      "title": "Christoph Hartmann - Amazon Games",
+      "link": "https://www.linkedin.com/in/christoph-hartmann-083926170",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christoph-hartmann-083926170&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCMABEAE",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa7ae84103a674b0ce8e4a6ab4bb369189.png",
+      "snippet": "Leading Amazon Games, including internal development and external publishing ... London, England, United Kingdom. Education. Munich Business School Graphic ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon Games"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christoph Hartmann"
+    },
+    {
+      "position": 28,
+      "title": "John Stone - Vice President and Associate General ...",
+      "link": "https://www.linkedin.com/in/john-stone-47806b1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-stone-47806b1&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCN0BEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa7f54db2faa4eae5b363dfbf03e3509a6.png",
+      "snippet": "Vice President and Associate General Counsel, Worldwide Operations at Amazon ... VP building a large, global team. I also had the opportunity to lead ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Amazon",
+        "VP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Vice President and Associate General Counsel, Worldwide Operations",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Stone"
+    },
+    {
+      "position": 29,
+      "title": "Peter Larsen - Amazon",
+      "link": "https://www.linkedin.com/in/peterlarsen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/peterlarsen&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCOMBEAE",
+      "displayed_link": "10.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fac15256272855a0ace604dfbcc841d101.png",
+      "snippet": "I build v1 hardware and software products and the global teams that make them happen, in… · Experience: Amazon ... London, United Kingdom. -. San Francisco Bay ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Larsen"
+    },
+    {
+      "position": 30,
+      "title": "Kevin Addley - SVP Consumer - Future",
+      "link": "https://uk.linkedin.com/in/kevinaddley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kevinaddley&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCPcBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa62080dfc4cca53a170533dc5f2b2e27e.png",
+      "snippet": "VP Marketing & Growth | GM | Subscriptions, Media, Ecommerce, International Expansion | Future | Audible | Amazon · Marketing leader with deep experience ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "SVP Consumer",
+            "Future"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin Addley"
+    },
+    {
+      "position": 31,
+      "title": "Paul Elliott - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/paulnelliott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paulnelliott&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCPkBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faf3dc45581fb7b362b73b3736be8ea570.png",
+      "snippet": "Amazon Web Services (AWS) is the world's most comprehensive and broadly ... United Kingdom · 500+ connections on LinkedIn. View Paul Elliott's profile ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Strategic Customer Engagement Lead",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Elliott"
+    },
+    {
+      "position": 32,
+      "title": "John Felton - Amazon",
+      "link": "https://www.linkedin.com/in/john-felton-412539a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-felton-412539a&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCIECEAE",
+      "displayed_link": "14.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa8330e36d057fee6bd9ae26f793964524.png",
+      "snippet": "Amazon · Harvard Business School · Seattle · 500+ connections on LinkedIn ... -. -. London, United Kingdom. -. -. -. -. Education. Harvard Business School Graphic ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Felton"
+    },
+    {
+      "position": 33,
+      "title": "David Murphy - Prime Video & Amazon Studios",
+      "link": "https://uk.linkedin.com/in/david-a-murphy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/david-a-murphy&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCJQCEAE",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa66ab57fb9363ecc6997c181b4c1ceac7.png",
+      "snippet": "Experience · Head of Production · Senior Production Executive · SVP International Production and Acquisitions · VP International Local Production · VP Finance & ...",
+      "snippet_highlighted_words": [
+        "SVP",
+        "VP",
+        "VP"
+      ],
+      "source": "LinkedIn · David Murphy"
+    },
+    {
+      "position": 34,
+      "title": "Philip Maffey - SVP Global Delivery - Amazon and Logistics",
+      "link": "https://uk.linkedin.com/in/philmaffey",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/philmaffey&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCKECEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faef5d1cc59efbc17efffe247bdaa0b6d0.png",
+      "snippet": "SVP Global Delivery - Amazon and Logistics. The Adecco Group University of Nottingham. Rugby, England, United Kingdom ... - Present 3 years 3 months. United ...",
+      "snippet_highlighted_words": [
+        "SVP",
+        "Amazon",
+        "United Kingdom",
+        "Present",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Rugby, England, United Kingdom",
+            "SVP Global Delivery",
+            "Amazon and Logistics",
+            "The Adecco Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Philip Maffey"
+    },
+    {
+      "position": 35,
+      "title": "Mahendra Nerurkar - Amazon",
+      "link": "https://in.linkedin.com/in/mahendra-nerurkar-049593",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/mahendra-nerurkar-049593&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCK0CEAE",
+      "displayed_link": "11.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa6ca72278f911764da2108780b3770fa0.png",
+      "snippet": "Mahendra Nerurkar is the Vice President for Payments at Amazon, leading Amazon's ... London, United Kingdom. Education. Northwestern University - Kellogg ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Amazon",
+        "Amazon's",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mahendra Nerurkar"
+    },
+    {
+      "position": 36,
+      "title": "Jonathan Allen - Director, Enterprise Strategy - Amazon ...",
+      "link": "https://uk.linkedin.com/in/jonatallen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jonatallen&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCLgCEAE",
+      "displayed_link": "10.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa93dfe1e2871e393cc4d92bb9b6bd1fef.png",
+      "snippet": "Director @ Amazon Web Services | CIO MBA, Cloud Strategy · I love to build things and lead change. I began my career as a software engineer, ...",
+      "snippet_highlighted_words": [
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director, Enterprise Strategy",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Allen"
+    },
+    {
+      "position": 37,
+      "title": "James Beaumont - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/jamesmichaelbeaumont",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jamesmichaelbeaumont&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECC8QAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa49a9627cec6561280d41549eb2363283.png",
+      "snippet": "Specialising in building high availability, scalable solutions and in life service management using Amazon Cloud. I have to make sure all products and projects ...",
+      "snippet_highlighted_words": [
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Royal Leamington Spa, England, United Kingdom",
+            "Director of Enterprise Support EMEA at AWS",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Beaumont"
+    },
+    {
+      "position": 38,
+      "title": "Ashwani Kapur - Vice President Marketing - Amazon",
+      "link": "https://www.linkedin.com/in/ashwani-kapur-9985401ab",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ashwani-kapur-9985401ab&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECEUQAQ",
+      "displayed_link": "90+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa88db9f982c049e0d20caba3b4dff19ff.png",
+      "snippet": "Vice President Marketing at Amazon · Amazon · Stanford University · United States · 70 connections on LinkedIn ... Sep 2011 - Present 13 years 7 months.",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Amazon",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Vice President Marketing",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ashwani Kapur"
+    },
+    {
+      "position": 39,
+      "title": "Julia Lauritzen - Bedford, England, United Kingdom",
+      "link": "https://uk.linkedin.com/in/julia-lauritzen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/julia-lauritzen&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECFMQAQ",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa63d5648d7706b7a569d5e02b3ae3a575.png",
+      "snippet": "Vice President Amazon Sales EU / Director / General Manager & Amazon ... London, United Kingdom. Amazon Graphic. Buyer. Amazon. Mar 2008 - Mar 2009 1 year ...",
+      "snippet_highlighted_words": [
+        "Vice President Amazon",
+        "Amazon",
+        "United Kingdom",
+        "Amazon",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Julia Lauritzen"
+    },
+    {
+      "position": 40,
+      "title": "Tara Erer - Prime Video & Amazon Studios",
+      "link": "https://uk.linkedin.com/in/tara-erer-23282130",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tara-erer-23282130&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECF8QAQ",
+      "displayed_link": "590+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa14579f2308030ac6a7cb71f278362baf.png",
+      "snippet": "Head of UK & Northern Europe Originals · Prime Video & Amazon Studios · Columbia University in the City of New York · United Kingdom ... SVP, International Sales.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "SVP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Head of UK & Northern Europe Originals",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tara Erer"
+    },
+    {
+      "position": 41,
+      "title": "Priya Prakash - Category Leader Amazon Business",
+      "link": "https://www.linkedin.com/in/priyaprak/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/priyaprak/&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECGMQAQ",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fad6144b1dfe431a8e6269304ce97fb99b.png",
+      "snippet": "London, United Kingdom ... 2016. Activities and Societies: LBS MBA Ambassador Treasurer, Energy Club VP, Professional Events, India Club VP, Events, Photography ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "VP",
+        "VP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Category Leader Amazon Business",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Priya Prakash"
+    },
+    {
+      "position": 42,
+      "title": "Alexander Dodd - Vice President - Global transformational ...",
+      "link": "https://uk.linkedin.com/in/alexander-dodd-7712a582",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alexander-dodd-7712a582&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECHUQAQ",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa26ef5ace0eda0d881754ed35aa83a78a.png",
+      "snippet": "Vice President - Global Transformation office. · Highly adaptable ... Leading one of the largest Amazon Logistics teams in the UK, within one of the ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Glossop, England, United Kingdom",
+            "Vice President",
+            "Global transformational office",
+            "Barclays UK"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexander Dodd"
+    },
+    {
+      "position": 43,
+      "title": "Paul McCann - Senior Manager: Global Specialty Recruiting",
+      "link": "https://uk.linkedin.com/in/pmccann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pmccann&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECHkQAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa7736512789bed89ea2d9b176471a048e.png",
+      "snippet": "... amazon.jobs · Amazon · London Area, United Kingdom · 500+ connections on ... We hire Amazon's top 1% of technical leaders - Principal, Sr Principal/Director and ...",
+      "snippet_highlighted_words": [
+        "amazon",
+        "Amazon",
+        "United Kingdom",
+        "Amazon's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Senior Manager: Global Specialty Recruiting",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul McCann"
+    },
+    {
+      "position": 44,
+      "title": "Rachel Dixon - United Kingdom | Professional Profile",
+      "link": "https://uk.linkedin.com/in/rachel-dixon-getting-things-done",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rachel-dixon-getting-things-done&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCIMBEAE",
+      "displayed_link": "460+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa977375e09401e2ceeeb5f45336e5a1c2.png",
+      "snippet": "Principal Technical Program Manager at Amazon Prime Video - Resilience, Availability · Amazon · United Kingdom · 466 connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Rachel Dixon"
+    },
+    {
+      "position": 45,
+      "title": "Andrew Smithers - Vice President eCommerce - Reckitt",
+      "link": "https://uk.linkedin.com/in/andrew-smithers-a7729136",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrew-smithers-a7729136&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCJkBEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faf8dedf474f356c78e70b268e2daadd15.png",
+      "snippet": "Vice President @ Reckitt | Responsible for Global eCommerce, Global Amazon ... United Kingdom · 500+ connections on LinkedIn. View Andrew Smithers' profile ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Vice President eCommerce",
+            "Reckitt"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Smithers"
+    },
+    {
+      "position": 46,
+      "title": "John McEwen - General Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/john-mcewen-80b35132",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/john-mcewen-80b35132&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCKUBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa0a6629c8e3555218bde531cd46f9b08a.png",
+      "snippet": "... Amazon Operations focusing on Robotics Customer Fulfillment, leading a ... Amazon. Mar 2024 - Present 1 year 1 month. Greater London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "General Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John McEwen"
+    },
+    {
+      "position": 47,
+      "title": "Tracey Markham - Non Executive Director",
+      "link": "https://uk.linkedin.com/in/traceymarkham",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/traceymarkham&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCLUBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faa803d25b2d359f7d7d33beafdd09539a.png",
+      "snippet": "SVP, Country Manager at Audible (an Amazon company). The Bar Standards Board. Greater London, England, United Kingdom ... Nov 2007 - Present 17 years 5 months.",
+      "snippet_highlighted_words": [
+        "SVP",
+        "Amazon",
+        "United Kingdom",
+        "Present"
+      ],
+      "source": "LinkedIn · Tracey Markham"
+    },
+    {
+      "position": 48,
+      "title": "Natalie Manning - VP Compliance and Risk UK and Europe",
+      "link": "https://uk.linkedin.com/in/natalie-manning-b50a8487",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/natalie-manning-b50a8487&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCLEBEAE",
+      "displayed_link": "840+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fada4ec51073bde3beeb9b85c503603d76.png",
+      "snippet": "Experience · VP Compliance and Risk UK and Europe · Chief Compliance Officer and MLRO - Amazon Payments · Senior Compliance Manager -Amazon Payments · Head of Risk ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "VP Compliance and Risk UK and Europe",
+            "Mastercard"
+          ]
+        }
+      },
+      "source": "LinkedIn · Natalie Manning"
+    },
+    {
+      "position": 49,
+      "title": "Dan Perlet - Amazon",
+      "link": "https://www.linkedin.com/in/danperlet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danperlet&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCM0BEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa9c1fbe10e85acd805f82a87be3c889e0.png",
+      "snippet": "Corporate affairs and marketing communications leader with a successful track record of… · Amazon ... London, United Kingdom. -. London, United Kingdom. -. London ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Perlet"
+    },
+    {
+      "position": 50,
+      "title": "Jade Higgins - Executive Assistant to Vice President ...",
+      "link": "https://uk.linkedin.com/in/jade-higgins-931a4329",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jade-higgins-931a4329&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCMsBEAE",
+      "displayed_link": "570+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa09e544e72f07f45dc9bed7e46e209006.png",
+      "snippet": "Executive Assistant to Vice President, Hardlines at Amazon UK · Experience: Amazon ... United Kingdom · 500+ connections on LinkedIn. View Jade Higgins ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Executive Assistant to Vice President, Hardlines",
+            "Amazon UK"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jade Higgins"
+    },
+    {
+      "position": 51,
+      "title": "Tony Hoggett - Wonder",
+      "link": "https://www.linkedin.com/in/tony-hoggett-50624035",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tony-hoggett-50624035&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCNwBEAE",
+      "displayed_link": "31.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa7a0f0e0ad2b6c5d657cab8717b2f55e6.png",
+      "snippet": "Welwyn Garden City, Hertfordshire, United Kingdom. -. -. UK. -. United Kingdom. -. United Kingdom. -. Izmir. -. Beijing. -. Guangzhou. -. United ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "United Kingdom",
+        "United Kingdom",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Wonder"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tony Hoggett"
+    },
+    {
+      "position": 52,
+      "title": "Darren Lumb - Senior Product Marketing Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/darren-lumb-96b81476",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/darren-lumb-96b81476&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCNsBEAE",
+      "displayed_link": "580+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faaf93a5fa8f5079fb51bacdece9e837be.png",
+      "snippet": "Senior Digital Marketing Manager (VP) - Head of Current Accounts, Insurance Packs & Digital Adoption ... Senior Omni-Channel Commercial Manager, Vice President.",
+      "snippet_highlighted_words": [
+        "VP",
+        "Current",
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Senior Product Marketing Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Darren Lumb"
+    },
+    {
+      "position": 53,
+      "title": "Bethany Dotson - VP, Product Marketing Strategy and ...",
+      "link": "https://www.linkedin.com/in/bethany-dotson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bethany-dotson&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCOQBEAE",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583facd9262e478a2c04e4a1e6eba1bc11b6c.png",
+      "snippet": "Experience · VP, Product Marketing Strategy and Operations · Global Head of Marketing Operations & Customer Insights, Amazon Freight & Amazon Shipping · Global ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Detroit, Michigan, United States",
+            "VP, Product Marketing Strategy and Operations",
+            "Thomson Reuters"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bethany Dotson"
+    },
+    {
+      "position": 54,
+      "title": "Matt Lloyd - Head Of Brand Marketing, Prime Video EMEA.",
+      "link": "https://uk.linkedin.com/in/matt-lloyd-6a46838",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matt-lloyd-6a46838&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCO8BEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa5d20fe2a6aa8b2c048e6de7950cb5761.png",
+      "snippet": "... Amazon · Education: University of Westminster · Location: Stansted ... London, England, United Kingdom. Amazon Graphic. EMEA Head of ATL for Prime Video.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Stansted Mountfitchet, England, United Kingdom",
+            "Head Of Brand Marketing, Prime Video EMEA.",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Lloyd"
+    },
+    {
+      "position": 55,
+      "title": "Stephen Wade - Director Ops Tech Solutions at Amazon",
+      "link": "https://uk.linkedin.com/in/stephen-wade-94506327",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stephen-wade-94506327&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCPYBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa50aef2c7a1f1a7abf2f78ae96e5e0e7c.png",
+      "snippet": "Director Ops Tech Solutions at Amazon · Experience: Amazon · Location: United Kingdom · 500+ connections on LinkedIn. View Stephen Wade's profile on ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Director Ops Tech Solutions at Amazon",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Wade"
+    },
+    {
+      "position": 56,
+      "title": "Rhys Smith - VP Business Services - AVK/SEG Limited",
+      "link": "https://uk.linkedin.com/in/rhyssmith1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rhyssmith1&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCPsBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fad28292676081688107a13d784e276f86.png",
+      "snippet": "VP Business Services at AVK · Highly experienced leader and ... Amazon Graphic. Customer Experience. Amazon. 2022 - 2024 2 years. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "VP",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "VP Business Services",
+            "AVK/SEG Limited"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rhys Smith"
+    },
+    {
+      "position": 57,
+      "title": "Marty Chatfield - Vice President of Human Resources",
+      "link": "https://www.linkedin.com/in/marty-chatfield-8a4a32153",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marty-chatfield-8a4a32153&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCPoBEAE",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa94cd9df99dcc90d88ae31b1f9ddbd415.png",
+      "snippet": "Vice President of Human Resources at Amazon · Strengths are in aligning ... 2011 - Present 14 years. Responsible for recruiting activities in the United ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Vice President of Human Resources",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marty Chatfield"
+    },
+    {
+      "position": 58,
+      "title": "Michael Punke - Amazon",
+      "link": "https://www.linkedin.com/in/michael-punke-974446101",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-punke-974446101&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCIACEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa874eaf22a46782b9f59de1df1f54a13d.png",
+      "snippet": "Amazon · Cornell Law School · Missoula · 500+ connections on LinkedIn. View Michael Punke's profile on LinkedIn, a professional community of 1 billion ...",
+      "snippet_highlighted_words": [
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Missoula, Montana, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Punke"
+    },
+    {
+      "position": 59,
+      "title": "Ruba Borno - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/rubaborno",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rubaborno&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCIoCEAE",
+      "displayed_link": "34.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faed921af14fb046c681d430a15382935e.png",
+      "snippet": "Location: United States · 500+ connections on LinkedIn. View Ruba Borno's profile on LinkedIn, a professional community of 1 billion members.",
+      "source": "LinkedIn · Ruba Borno"
+    },
+    {
+      "position": 60,
+      "title": "Monica Ariño - Board Trustee - Angel Shed Theatre",
+      "link": "https://uk.linkedin.com/in/monicaarino",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/monicaarino&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCJECEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faffea25600000a7b3866c1d204d1815b0.png",
+      "snippet": "Jan 2025 - Present 3 months. London Area, United Kingdom. Amazon Graphic. Director of Public Policy, UK & Turkey. Amazon. Apr 2020 - Present 5 years. London ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "Amazon",
+        "Amazon",
+        "Present"
+      ],
+      "source": "LinkedIn · Monica Ariño"
+    },
+    {
+      "position": 61,
+      "title": "Tony Rexha - Senior VP of Operations - Amazon",
+      "link": "https://www.linkedin.com/in/tony-rexha-9145b4192",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tony-rexha-9145b4192&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCJYCEAE",
+      "displayed_link": "270+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa4932286df6623574ca1c61c82fe9e3dd.png",
+      "snippet": "Senior VP of Operations - Amazon · Amazon · City University of New York ... Amazon. Feb 2020 - Present 5 years 2 months. New Jersey, United States. Atlas ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Senior VP of Operations",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tony Rexha"
+    },
+    {
+      "position": 62,
+      "title": "Nick Jones - Amazon",
+      "link": "https://www.linkedin.com/in/nick-jones-ab22b623",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nick-jones-ab22b623&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCJUCEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fad548396cba53b629543be6be6db1431d.png",
+      "snippet": "Amazon Graphic · Amazon. Greater Seattle Area · -. Seattle, Washington, United States · -. Seattle, Washington · - · -. London, United Kingdom · - · -. Bellevue, wa ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Woodinville, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Jones"
+    },
+    {
+      "position": 63,
+      "title": "Heidi Wainwright - SVP - Head of Global Agency Strategy",
+      "link": "https://uk.linkedin.com/in/heidiwainwright",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/heidiwainwright&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCKICEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa1e1f1802895a025d157223375a329a77.png",
+      "snippet": "SVP - Head of Global Agency Strategy · Resolve · United Kingdom · 500+ connections on LinkedIn ... Amazon DSP Campaigns Certification · Amazon. Issued Jun ...",
+      "snippet_highlighted_words": [
+        "SVP",
+        "United Kingdom",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "SVP",
+            "Head of Global Agency Strategy",
+            "Resolve"
+          ]
+        }
+      },
+      "source": "LinkedIn · Heidi Wainwright"
+    },
+    {
+      "position": 64,
+      "title": "Zachary B. - Vice President, International Finance - Fanatics",
+      "link": "https://uk.linkedin.com/in/zachary-b-40b07211",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/zachary-b-40b07211&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCKUCEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa00d6e94515f5e1e1182f62f520d81e26.png",
+      "snippet": "Vice President, International Finance · Jan 2025 - Present 3 months. Greater London, England, United Kingdom ; Senior Vice President, Corporate FP&A · Jan 2021 - ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Present",
+        "United Kingdom",
+        "Senior Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Vice President, International Finance",
+            "Fanatics"
+          ]
+        }
+      },
+      "source": "LinkedIn · Zachary B."
+    },
+    {
+      "position": 65,
+      "title": "James Gilbert - Vice President - Firmwide Business ...",
+      "link": "https://uk.linkedin.com/in/james-r-gilbert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/james-r-gilbert&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCK8CEAE",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fafeb9d6f803ad485cae44199746980c5b.png",
+      "snippet": "Experience: J.P. Morgan · Education: The Open University · Location: London Area, United Kingdom · 425 connections on LinkedIn ... Amazon. Sep 2022 - Feb ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Vice President",
+            "Firmwide Business Resiliency",
+            "J.P. Morgan"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Gilbert"
+    },
+    {
+      "position": 66,
+      "title": "Erol Arkan - Technology and Data Solutions Leader ...",
+      "link": "https://uk.linkedin.com/in/erolarkan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/erolarkan&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCLMCEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fac215c7e41b15f17a8f23cab404fdf329.png",
+      "snippet": "... Amazon · Location ... Aug 2022 - Present 2 years 8 months. London, England, United Kingdom. BCD Travel Graphic. Vice President, Global Solutions Engineering.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Technology and Data Solutions Leader, Amazon Travel",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Erol Arkan"
+    },
+    {
+      "position": 67,
+      "title": "Leena Nair - Global Chief Executive Officer - CHANEL",
+      "link": "https://uk.linkedin.com/in/nairleena",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nairleena&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCLICEAE",
+      "displayed_link": "472.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa2c42013d76e2903f215fbe910c2912a4.png",
+      "snippet": "SVP Leadership and Organisation Development and Global Head of Diversity and Inclusion ... Executive Director HUL and VP HR South Asia. Unilever. Jun 2007 ...",
+      "snippet_highlighted_words": [
+        "SVP",
+        "VP"
+      ],
+      "source": "LinkedIn · Leena Nair"
+    },
+    {
+      "position": 68,
+      "title": "Jim Sterner - Amazon",
+      "link": "https://www.linkedin.com/in/jimsterner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jimsterner&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCLECEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa0636fd84260ea1d848faa9fab42b9d3d.png",
+      "snippet": "Experience: Amazon · Education: University of California, Irvine - The Paul ... London, United Kingdom. -. Seattle, WA. -. Seattle, WA. -. Seattle, WA. -. -. - ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Culver City, California, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jim Sterner"
+    },
+    {
+      "position": 69,
+      "title": "Lindis Barry - Sr. Global Marketing Manager - Amazon Web ...",
+      "link": "https://www.linkedin.com/in/lindis-barry-08896a111",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lindis-barry-08896a111&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECEMQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faeea5a5f89e8e3dc499901cf8d372fb49.png",
+      "snippet": "... Amazon ... International Business. Activities and Societies: Leadership and Campus Activities: Executive Vice President for Northeastern University Marketing ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Executive Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Sr. Global Marketing Manager",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lindis Barry"
+    },
+    {
+      "position": 70,
+      "title": "Nick Martin - Senior Vice President, EMEA & APAC - Medallia",
+      "link": "https://uk.linkedin.com/in/nicksmartin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nicksmartin&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECEQQAQ",
+      "displayed_link": "4.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa5e67061f8133374ceabade65de3e589a.png",
+      "snippet": "Senior Vice President, EMEA & APAC. Medallia. Oct 2023 ; Head of Enterprise Industries. Amazon Web Services (AWS). Sep 2021 ; Google Cloud, Head of Retail, CPG ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior Vice President, EMEA & APAC",
+            "Medallia"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Martin"
+    },
+    {
+      "position": 71,
+      "title": "Alexander Hennessy - Vice President, Ecommerce & ...",
+      "link": "https://www.linkedin.com/in/alexanderhennessy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alexanderhennessy&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECEcQAQ",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa027996e07deda343592466aa3794d0ab.png",
+      "snippet": "Experience · Vice President, Ecommerce & Customer Strategy · Senior Director, Marketplaces · Senior Product Manager · Manager, Account Management · Manager, Vendor ...",
+      "snippet_highlighted_words": [
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Vice President, Ecommerce & Customer Strategy",
+            "tonies® USA"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexander Hennessy"
+    },
+    {
+      "position": 72,
+      "title": "Douglas Garner - MBA Recruitment and Program Manager",
+      "link": "https://uk.linkedin.com/in/douglas-garner-b983a549",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/douglas-garner-b983a549&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECE0QAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa0db9f3184143ceb27d5367e8f0bdbdee.png",
+      "snippet": "Student Programs - MBA Recruitment and Program Manager at Amazon. Amazon Canterbury Christ Church University. London, England, United Kingdom. 2K followers 500 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "MBA Recruitment and Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Douglas Garner"
+    },
+    {
+      "position": 73,
+      "title": "Taylor Mirkarimi - DEI Program Manager | EMEA Talent ...",
+      "link": "https://uk.linkedin.com/in/taylor-mirkarimi-bsc-msc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/taylor-mirkarimi-bsc-msc&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECEYQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa90d0e17d4d90403c27636f1c45d6159e.png",
+      "snippet": "... Amazon, I am responsible for embedding DEI strategy and programs at the core of the company's recruitment workflows. Concurrently, I serves as Vice President ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "DEI Program Manager | EMEA Talent Aquisition",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Taylor Mirkarimi"
+    },
+    {
+      "position": 74,
+      "title": "Luciana Gurgel - Board Member Partner",
+      "link": "https://www.linkedin.com/in/luciana-gurgel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/luciana-gurgel&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECE4QAQ",
+      "displayed_link": "410+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583facc53047cc03de7e5c2a60349284561e6.png",
+      "snippet": "Vice President Public Relations at Amazon · Broad-based business professional with analytical expertise ... VP Public Relations Latam. Amazon. Sep 2021 ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Amazon",
+        "VP",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Luciana Gurgel"
+    },
+    {
+      "position": 75,
+      "title": "Ian Meyers - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/ianmeyers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ianmeyers&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECGAQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fab320af0eba4739f64cd084b22f224197.png",
+      "snippet": "I'm responsible for the Product Management and Engineering of AWS' Open Source Analytics… · Experience: Amazon ... United Kingdom. -. UK. -. -. -. -. -. Licenses ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ian Meyers"
+    },
+    {
+      "position": 76,
+      "title": "John Farrell - Chief Merchant - Amazon",
+      "link": "https://www.linkedin.com/in/john-farrell-9b0a8014",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-farrell-9b0a8014&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECF0QAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fabc69a1a8b55cce330f28904f05d80682.png",
+      "snippet": "... Amazon · Education: University of St. Andrews · Location: Greater Seattle ... London, United Kingdom. Customer Director Unilever UK Trading Director ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · John Farrell"
+    },
+    {
+      "position": 77,
+      "title": "Gary Olliffe - Distinguished Vice President, Analyst - Gartner",
+      "link": "https://uk.linkedin.com/in/garyo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/garyo&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECF4QAQ",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faf5c909d9c11513fcbf7cf814bb2a3a94.png",
+      "snippet": "Distinguished VP, Analyst at Gartner · As a Distinguished Vice President ... United Kingdom · 500+ connections on LinkedIn. View Gary Olliffe's profile on ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "Vice President",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Distinguished Vice President, Analyst",
+            "Gartner"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gary Olliffe"
+    },
+    {
+      "position": 78,
+      "title": "Chandru Lakshminarayanan - Head of Programming ...",
+      "link": "https://uk.linkedin.com/in/chandru-lakshminarayanan-3283749",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chandru-lakshminarayanan-3283749&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECGwQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa2105f9c2358a70cf032fb7dc757a0288.png",
+      "snippet": "Head of Programming Strategy, EMEA, Prime Video and Amazon Studios · Prime Video & Amazon Studios · United Kingdom ... Vice President- Programming, Commercial & ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom",
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Head of Programming Strategy, EMEA, Prime Video & Amazon Studios",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chandru Lakshminarayanan"
+    },
+    {
+      "position": 79,
+      "title": "Mike Lavigne - Vice President, Global Customer ...",
+      "link": "https://uk.linkedin.com/in/lavigne",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lavigne&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECHYQAQ",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fab86b8c9d5c2d0b90c28faccfdaec9b6b.png",
+      "snippet": "Vice President, Global Customer Experience & Digital Transformation ... United Kingdom · 500+ connections on LinkedIn. View Mike Lavigne's profile ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Vice President, Global Customer Experience & Digital Transformation",
+            "Nissan Motor Corporation"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Lavigne"
+    },
+    {
+      "position": 80,
+      "title": "Ed Walker - Head of Video Studios - Amazon",
+      "link": "https://www.linkedin.com/in/ed-walker-4b270843",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ed-walker-4b270843&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECHcQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa48c3e0d086044014b427170d66db58f0.png",
+      "snippet": "V.P of Live Production. Vevo. Jun 2016 - Present 8 years 10 months. Greater New ... VEVO. Nov 2013 - Jun 2016 2 years 8 months. London, United Kingdom. I had ...",
+      "snippet_highlighted_words": [
+        "V.P",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Ed Walker"
+    },
+    {
+      "position": 81,
+      "title": "Matt Newman - Amazon",
+      "link": "https://www.linkedin.com/in/mdnewman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mdnewman&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCIIBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa4f170391011722a36385fb83de6f4eef.png",
+      "snippet": "London, United Kingdom. -. London, United Kingdom. -. Greater Seattle Area ... Activities and Societies: Vice President - Entrepreneurship and Venture Club ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "United Kingdom",
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Newman"
+    },
+    {
+      "position": 82,
+      "title": "Prachi G. - Planet",
+      "link": "https://uk.linkedin.com/in/prachigarg1831",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/prachigarg1831&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCIoBEAE",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa282e0d727cc508f943d826f62c0d0aaa.png",
+      "snippet": "As a customer-focused and growth-oriented VP of Product with over 15 years of diverse… · Planet · Imperial College Business School · United Kingdom · 500+ ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Planet"
+          ]
+        }
+      },
+      "source": "LinkedIn · Prachi G."
+    },
+    {
+      "position": 83,
+      "title": "Declan Moore - International, Wondery",
+      "link": "https://www.linkedin.com/in/declanmoore1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/declanmoore1&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCIsBEAE",
+      "displayed_link": "4.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa951cc50a9b99addea40e84aca75b0560.png",
+      "snippet": "EVP, President of Publishing, Travel & Digital Media. National Geographic ... Senior Vice President, International. National Geographic Society. Oct 2009 ...",
+      "snippet_highlighted_words": [
+        "EVP",
+        "Senior Vice President"
+      ],
+      "source": "LinkedIn · Declan Moore"
+    },
+    {
+      "position": 84,
+      "title": "Willem Visser - VP of Technology, Software Development",
+      "link": "https://www.linkedin.com/in/willem-visser-677a4515",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/willem-visser-677a4515&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCJIBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa82814d35f35489a9bb6cff101ac3aee2.png",
+      "snippet": "VP - AWS EC2 · Amazon is filled with very talented people, and being a part of this is truly an exciting and exhilarating opportunity.",
+      "snippet_highlighted_words": [
+        "VP",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "VP of Technology, Software Development",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Willem Visser"
+    },
+    {
+      "position": 85,
+      "title": "Mason Rudy - YOOX NET-A-PORTER",
+      "link": "https://uk.linkedin.com/in/mason-rudy-a4565390",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mason-rudy-a4565390&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCJgBEAE",
+      "displayed_link": "440+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faca671612aa2f63478bc62481b6fedf95.png",
+      "snippet": "... United Kingdom · 420 connections on LinkedIn. View Mason Rudy's profile on ... and Amazon operations. I am focused on customer-supplier relationships ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "UK Operations Director",
+            "YOOX NET-A-PORTER"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mason Rudy"
+    },
+    {
+      "position": 86,
+      "title": "Nathan Hill - Amazon",
+      "link": "https://www.linkedin.com/in/nathan-hill-00a29311",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nathan-hill-00a29311&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCJcBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa4b64be55731330bbcca17f6d09dc797d.png",
+      "snippet": "Amazon · Seattle · 500+ connections on LinkedIn. View Nathan Hill's ... London, United Kingdom. -. -. Washington D.C. Metro Area. -. Education. The London ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nathan Hill"
+    },
+    {
+      "position": 87,
+      "title": "Jagpreet Mahajan - Senior Software Development Manager",
+      "link": "https://uk.linkedin.com/in/jagpreetkhanuja",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jagpreetkhanuja&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCKYBEAE",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa339263b712749961067aa4717ce672e7.png",
+      "snippet": "Amazon. 14 years 5 months. Amazon Graphic. Senior Software Development Manager. Amazon. May 2022 - Present 2 years 11 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Software Development Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jagpreet Mahajan"
+    },
+    {
+      "position": 88,
+      "title": "Max Macintosh - Vice President of Sales - Zeta Global",
+      "link": "https://uk.linkedin.com/in/maxmacintosh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/maxmacintosh&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCKgBEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fae44501c4764607101f95635926761b06.png",
+      "snippet": "Vice President of Sales, Programmatic. Zeta Global UK · As the VP of Sales, Programmatic, I lead the team that manages the strategic and commercial ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "VP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Vice President of Sales",
+            "Zeta Global"
+          ]
+        }
+      },
+      "source": "LinkedIn · Max Macintosh"
+    },
+    {
+      "position": 89,
+      "title": "Jon Tilson - Senior VAT Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/jon-tilson-a2754248",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jon-tilson-a2754248&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCLABEAE",
+      "displayed_link": "520+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa53ade091651678b2868022fdf805ebd1.png",
+      "snippet": "Senior VAT Manager at Amazon · Amazon · University of Exeter · United Kingdom · 500+ connections on LinkedIn. View Jon Tilson's profile on LinkedIn, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior VAT Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jon Tilson"
+    },
+    {
+      "position": 90,
+      "title": "Tim Zawislack - Chief Digital Officer, Senior Vice President ...",
+      "link": "https://www.linkedin.com/in/tim-zawislack",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tim-zawislack&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCK8BEAE",
+      "displayed_link": "7.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fac5f65ea19db421bf998819a427fb68b9.png",
+      "snippet": "Understanding Amazon Marketing Cloud's… 7. 2 Comments. See all articles ... Senior Vice President, Ecommerce & Marketing. Jimmy Jazz. 2019 - Jan 2022 3 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Senior Vice President"
+      ],
+      "source": "LinkedIn · Tim Zawislack"
+    },
+    {
+      "position": 91,
+      "title": "Dan Cohen - bp",
+      "link": "https://uk.linkedin.com/in/danc0hen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/danc0hen&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCLQBEAE",
+      "displayed_link": "5.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa95c4ac4fcf0653dab1642e4d474fa786.png",
+      "snippet": "As the VP of Product Management at bp, I lead a team of product managers, engineers, and… · bp · United Kingdom ... I don't think I'm giving away any Amazon ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "bp"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Cohen"
+    },
+    {
+      "position": 92,
+      "title": "Nadine El Ghoul - Program Manager - Worldwide Gift Cards",
+      "link": "https://www.linkedin.com/in/nadine-el-ghoul",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nadine-el-ghoul&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCMIBEAE",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa5f8f0dcf69b0fdb0d2c39f2be9c2c715.png",
+      "snippet": "Program Manager, Gift Cards at Amazon · Amazon · Seattle University · Seattle · 500+ connections on LinkedIn ... 1 year 8 months. London, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Program Manager",
+            "Worldwide Gift Cards",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nadine El Ghoul"
+    },
+    {
+      "position": 93,
+      "title": "George Murgatroyd - General Manager & Vice President ...",
+      "link": "https://uk.linkedin.com/in/gmurgatroyd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gmurgatroyd&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCMgBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faa14f45c81b52026bc17e95894a4f9d40.png",
+      "snippet": "General Manager & Vice President, Digital Technologies Business Unit. Medtronic. Feb 2023 - Present 2 years 2 months. Greater London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "General Manager & Vice President, Digital Technologies Business Unit",
+            "Medtronic"
+          ]
+        }
+      },
+      "source": "LinkedIn · George Murgatroyd"
+    },
+    {
+      "position": 94,
+      "title": "David Hare - Prime Video & Amazon Studios",
+      "link": "https://uk.linkedin.com/in/davidhare100",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/davidhare100&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCMcBEAE",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fafe793891da6b464ad6d6891148d4206b.png",
+      "snippet": "Prime Video & Amazon Studios. Jan 2023 - Present 2 years 3 months. London, England, United Kingdom. MGM Graphic. Vice President, Digital Distribution, EMEA. MGM.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "Vice President"
+      ],
+      "source": "LinkedIn · David Hare"
+    },
+    {
+      "position": 95,
+      "title": "Tyler Swartz - Principal Advertising Technology Consultant",
+      "link": "https://uk.linkedin.com/in/tyler-swartz-tech",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tyler-swartz-tech&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCMwBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa9e945b0cd47635699d0871752ae5ec45.png",
+      "snippet": "Principal Advertising Technology Consultant · Amazon · University of North Florida · London · 500+ connections on LinkedIn ... London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Advertising Technology Consultant",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tyler Swartz"
+    },
+    {
+      "position": 96,
+      "title": "Joe Williams - VP of Revenue - DSMN8",
+      "link": "https://uk.linkedin.com/in/atjoewilliams",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/atjoewilliams&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoFCM4BEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583faa3ed4f0b2d3085d3e0358ef4549059ce.png",
+      "snippet": "VP of Revenue | Strategic Leader | Driving growth in SaaS | M&A · DSMN8 - The Employee Advocacy Platform · United Kingdom ... SVP, Strategic Development.",
+      "snippet_highlighted_words": [
+        "VP",
+        "United Kingdom",
+        "SVP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "dsmn": 8
+          },
+          "extensions": [
+            "United Kingdom",
+            "VP of Revenue",
+            "DSMN8",
+            "The Employee Advocacy Platform"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joe Williams"
+    },
+    {
+      "position": 97,
+      "title": "Laura-Claudia C. - Senior Vendor Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/lauracarp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lauracarp&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECCgQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa5d4fa544828a475704839519b5047166.png",
+      "snippet": "Sr. Vendor Manager @ Amazon · Experience: Amazon · Education: UCL · Location: United Kingdom ... 2014 - 2018. Activities and Societies: Consulting VP at UCL ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom",
+        "VP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior Vendor Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Laura-Claudia C."
+    },
+    {
+      "position": 98,
+      "title": "Adam Cardew - VP, Digital & Audience Development",
+      "link": "https://uk.linkedin.com/in/adam-cardew",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/adam-cardew&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECCcQAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fac2ed955993dea341df6f4eb1c58292a3.png",
+      "snippet": "VP, Digital & Audience Development @ 4th Floor Creative (Sony Music UK). Sony Music Entertainment University of Gloucestershire. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "VP",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "VP, Digital & Audience Development",
+            "Sony Music Entertainment"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Cardew"
+    },
+    {
+      "position": 99,
+      "title": "Jane J.H. Kim - Sr Product Manager, Scope 3 Supplier ...",
+      "link": "https://www.linkedin.com/in/jane-j-h-kim-b553865a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jane-j-h-kim-b553865a&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECC0QAQ",
+      "displayed_link": "680+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fa695bc9ca9bd032e604fa97c4b7991ab0.png",
+      "snippet": "Sr Product Manager, Scope 3 Supplier Decarbonization (WW Ops) · Sr Product Manager, Supply Chain Decarbonization (Amazon Private Brands) · Vice President ( ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Sr Product Manager, Scope 3 Supplier Decarbonization (WW Ops)",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jane J.H. Kim"
+    },
+    {
+      "position": 100,
+      "title": "Joshua Prince - VP, Global Sales - DAZN",
+      "link": "https://uk.linkedin.com/in/joshua-prince-9ab22267",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/joshua-prince-9ab22267&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQFnoECCoQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa9ab6ab86a22a7f5dae/images/8395739b1d9a156e897d5142695583fad74c7c0b74be246913ba50091011789c.png",
+      "snippet": "VP, Global Sales. DAZN. Mar 2025 - Present 1 month. London Area, United Kingdom. Amazon. 5 years 2 months · Amazon Graphic. Agency Development Manager (WPP).",
+      "snippet_highlighted_words": [
+        "VP",
+        "Present",
+        "United Kingdom",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "VP, Global Sales",
+            "DAZN"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joshua Prince"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=mvrdZ4yBOf7n5NoP-ZW0iQY&start=100&sa=N&sstk=Af40H4WH89QbiPegHNeL4LjsD03DlJDP7xaABrD8LGC6_44fgJ-_CIzAvmNCTK2s_FlefNfJtUrOpdVOKg-I6awvXJ1mJkfmzRXRXg&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQ8NMDegQIChAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=mvrdZ4yBOf7n5NoP-ZW0iQY&start=100&sa=N&sstk=Af40H4WH89QbiPegHNeL4LjsD03DlJDP7xaABrD8LGC6_44fgJ-_CIzAvmNCTK2s_FlefNfJtUrOpdVOKg-I6awvXJ1mJkfmzRXRXg&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=mvrdZ4yBOf7n5NoP-ZW0iQY&start=200&sa=N&sstk=Af40H4WH89QbiPegHNeL4LjsD03DlJDP7xaABrD8LGC6_44fgJ-_CIzAvmNCTK2s_FlefNfJtUrOpdVOKg-I6awvXJ1mJkfmzRXRXg&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=mvrdZ4yBOf7n5NoP-ZW0iQY&start=300&sa=N&sstk=Af40H4WH89QbiPegHNeL4LjsD03DlJDP7xaABrD8LGC6_44fgJ-_CIzAvmNCTK2s_FlefNfJtUrOpdVOKg-I6awvXJ1mJkfmzRXRXg&ved=2ahUKEwiMtrqJrpyMAxX-M1kFHfkKLWEQ8tMDegQIChAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&start=300"
+    }
+  }
+}

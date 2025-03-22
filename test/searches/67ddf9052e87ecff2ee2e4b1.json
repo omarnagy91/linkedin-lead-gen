@@ -1,0 +1,2310 @@
+{
+  "search_metadata": {
+    "id": "67ddf9052e87ecff2ee2e4b1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a0e5b65ffd01b29b/67ddf9052e87ecff2ee2e4b1.json",
+    "created_at": "2025-03-21 23:40:53 UTC",
+    "processed_at": "2025-03-21 23:40:53 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a0e5b65ffd01b29b/67ddf9052e87ecff2ee2e4b1.html",
+    "total_time_taken": 4.94
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"United States\" AND (current OR present) AND (\"Associate Vice President\" OR \"AVP\" OR \"Partner\" OR \"Senior Partner\" OR \"Managing Partner\" OR \"Principal\" OR \"Founding Partner\" OR \"Associate Partner\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"United States\" AND (current OR present) AND (\"Associate Vice President\" OR \"AVP\" OR \"Partner\" OR \"Senior Partner\" OR \"Managing Partner\" OR \"Principal\" OR \"Founding Partner\" OR \"Associate Partner\")",
+    "total_results": 9790000,
+    "time_taken_displayed": 0.8,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Nina Harding - Corporate Vice President, Microsoft ...",
+      "link": "https://www.linkedin.com/in/nina-harding-microsoft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nina-harding-microsoft&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECAsQAQ",
+      "displayed_link": "13.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5661c9c4a874c6478910b9f2cbda35a9706.png",
+      "snippet": "Corporate Vice President, Microsoft, Americas, Global Partner Solutions. Microsoft. Oct 2022 - Present 2 years 6 months. United States. As ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "North Palm Beach, Florida, United States",
+            "Corporate Vice President, Microsoft, Americas, Global Partner Solutions",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nina Harding"
+    },
+    {
+      "position": 2,
+      "title": "Brad Smith - President - Microsoft",
+      "link": "https://www.linkedin.com/in/bradsmi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bradsmi&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECCYQAQ",
+      "displayed_link": "339.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566dde32fd2561a025e43e944f71778f269.png",
+      "snippet": "... Microsoft ... Associate and then Partner. Covington & Burling. Sep 1986 - Nov 1993 7 years 3 months. Law Clerk to Judge Charles M. Metzner. United States Federal ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Partner",
+        "United States"
+      ],
+      "source": "LinkedIn · Brad Smith"
+    },
+    {
+      "position": 3,
+      "title": "Kathleen Hogan - EVP, Office of Strategy and Transformation",
+      "link": "https://www.linkedin.com/in/kathleenthogan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kathleenthogan&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECBoQAQ",
+      "displayed_link": "153.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566a74bd962d1a53fc3102856e86e134002.png",
+      "snippet": "... Microsoft · Stanford University Graduate School of Business · United States ... Partner. McKinsey & Company. 1994 - 2003 9 years. Development Manager. Oracle.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Partner"
+      ],
+      "source": "LinkedIn · Kathleen Hogan"
+    },
+    {
+      "position": 4,
+      "title": "Alysa Taylor - Microsoft",
+      "link": "https://www.linkedin.com/in/alysa-taylor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alysa-taylor&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECB0QAQ",
+      "displayed_link": "25.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566eb56bcc77055a8ea3bbbd013fdfcec68.png",
+      "snippet": "Alysa Taylor. Microsoft University of Colorado at Boulder. Bellevue, Washington, United States. 26K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alysa Taylor"
+    },
+    {
+      "position": 5,
+      "title": "Mark Linton - Microsoft",
+      "link": "https://www.linkedin.com/in/mark-linton-7678374a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mark-linton-7678374a&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECBwQAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5667185acc04fe22ff872ebe7362e6df729.png",
+      "snippet": "Mark Linton. Microsoft UNSW. Kirkland, Washington, United States. 3K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Linton"
+    },
+    {
+      "position": 6,
+      "title": "Sarah Bond - Microsoft",
+      "link": "https://www.linkedin.com/in/sarahrbond",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarahrbond&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECBsQAQ",
+      "displayed_link": "50.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c56606fd40313aced5a2b6617b7dedea9619.png",
+      "snippet": "Sarah Bond is the President of Xbox, managing the P&L for Microsoft's… · Experience: Microsoft ... United States. -. Redmond, WA. -. Greater Seattle Area. -.",
+      "snippet_highlighted_words": [
+        "Microsoft's",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Bond"
+    },
+    {
+      "position": 7,
+      "title": "Scott Hanselman - Microsoft",
+      "link": "https://www.linkedin.com/in/shanselman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shanselman&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECCwQAQ",
+      "displayed_link": "99.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5660bad05f48cfb7028559174b5e9b84ad8.png",
+      "snippet": "Scott Hanselman. Microsoft. Portland, Oregon, United States. 100K followers 500+ connections. See your mutual connections. View mutual connections with Scott.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Portland, Oregon, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Scott Hanselman"
+    },
+    {
+      "position": 8,
+      "title": "Jonathan (Jon) Palmer - Microsoft",
+      "link": "https://www.linkedin.com/in/jonathan-jon-palmer-382a54b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jonathan-jon-palmer-382a54b&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCJkBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566a538645df3d91165092136e545cfefdb.png",
+      "snippet": "Jonathan (Jon) Palmer. Microsoft University of California, Berkeley - School of Law. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan (Jon) Palmer"
+    },
+    {
+      "position": 9,
+      "title": "Satya Nadella - Chairman and CEO - Microsoft",
+      "link": "https://www.linkedin.com/in/satyanadella",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/satyanadella&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCOcBEAE",
+      "displayed_link": "11.3M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566a2bfc8c29b713298a7c5dd810199543f.png",
+      "snippet": "Chairman and CEO at Microsoft. Microsoft The University of Chicago Booth School of Business. Redmond, Washington, United States. 11M followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Satya Nadella"
+    },
+    {
+      "position": 10,
+      "title": "Kevin McCarthy - Seattle, Washington, United States",
+      "link": "https://www.linkedin.com/in/kevin-mccarthy-3147594",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kevin-mccarthy-3147594&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECCoQAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5668eb25e056302ee63f05c2dfeda61a485.png",
+      "snippet": "Kevin McCarthy. Retired - Vice President - Global Partner Solutions (GPS) Incentives & Investments at Microsoft. Microsoft University College Dublin ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Kevin McCarthy"
+    },
+    {
+      "position": 11,
+      "title": "Chris Capossela - Member of the Board of Directors",
+      "link": "https://www.linkedin.com/in/chriscapossela",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chriscapossela&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCMwBEAE",
+      "displayed_link": "181.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5665bc4b85348b3fd034bff1ffd930ab50f.png",
+      "snippet": "I also ran digital direct sales and retail partner sales for all Microsoft ... United States Tennis Association · Location: Seattle · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "partner",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Chris Capossela"
+    },
+    {
+      "position": 12,
+      "title": "Asha Sharma - Microsoft",
+      "link": "https://www.linkedin.com/in/aboutasha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aboutasha&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCOgBEAE",
+      "displayed_link": "81.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566865d5bbf200176fbde862954dd3c5be7.png",
+      "snippet": "Asha Sharma. Microsoft University of Minnesota - Carlson School of Management. United States. 82K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Asha Sharma"
+    },
+    {
+      "position": 13,
+      "title": "Christy Smith - Partner Engagement - Microsoft",
+      "link": "https://www.linkedin.com/in/christinesmith-msl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christinesmith-msl&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCIMCEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566a6e942cdf93b000bd2509e425167b1ab.png",
+      "snippet": "Partner Engagement. Microsoft. Mar 2023 - Present 2 years 1 month. United States. Developing ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Christy Smith"
+    },
+    {
+      "position": 14,
+      "title": "Lydia Smyers - Microsoft",
+      "link": "https://www.linkedin.com/in/lydiasmyers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lydiasmyers&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECDIQAQ",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5665b5d5ea473671f0cd1f2178fb261f2c3.png",
+      "snippet": "Experience. Microsoft Graphic. Microsoft. -. Boston, Massachusetts, United States. - ... John Shell. “Few people have the breadth of partner and marketing ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Boston",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lydia Smyers"
+    },
+    {
+      "position": 15,
+      "title": "Robert Aichner - Partner Director of Product Management",
+      "link": "https://www.linkedin.com/in/robertaichner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robertaichner&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECGEQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c56607dd6ffe3694bbfae6923374151fc5c6.png",
+      "snippet": "Robert Aichner. Partner Director of Product Management, IC3 AI and Real-Time Communications. Microsoft Friedrich-Alexander-Universität Erlangen-Nürnberg ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Partner Director of Product Management",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert Aichner"
+    },
+    {
+      "position": 16,
+      "title": "Julie Brill - Chief Privacy Officer and Corporate Vice ...",
+      "link": "https://www.linkedin.com/in/julie-brill",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/julie-brill&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCJsBEAE",
+      "displayed_link": "17.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566bb9b089588ec8ace87533d8ad0759f31.png",
+      "snippet": "Experience · Microsoft. 7 years 8 months. Microsoft Graphic · Hogan Lovells Graphic. Partner and Co-Director, Privacy and Cybersecurity Practice. Hogan Lovells.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Chief Privacy Officer and Corporate Vice President Global Privacy, Safety, and Regulatory Affairs",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julie Brill"
+    },
+    {
+      "position": 17,
+      "title": "Andrew Ritz - VP Engineering - Microsoft",
+      "link": "https://www.linkedin.com/in/andrewritz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrewritz&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCM8BEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5664f5487d99f6c1407f4efa2d8c838d607.png",
+      "snippet": "Redmond, Washington, United States. Microsoft Graphic. Partner General Manager. Microsoft. Feb 2022 - Mar 2025 3 years 2 months. Redmond, Washington, United ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft",
+        "Partner",
+        "Microsoft",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "VP Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Ritz"
+    },
+    {
+      "position": 18,
+      "title": "Daniel Rippey - Microsoft",
+      "link": "https://www.linkedin.com/in/daniel-rippey",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/daniel-rippey&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCO0BEAE",
+      "displayed_link": "4.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566c5980953d1cce0b2301e3e92b88fd845.png",
+      "snippet": "Developing Young Leaders in the United States Army. Association of the United States Army October 14, 2015. See publication. Projects. Microsoft Partner Network.",
+      "snippet_highlighted_words": [
+        "United States",
+        "United States",
+        "Microsoft Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Rippey"
+    },
+    {
+      "position": 19,
+      "title": "Sanjay P. - Principal Partner Technology Strategist - Microsoft",
+      "link": "https://www.linkedin.com/in/sanjay-p-74028236?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sanjay-p-74028236%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCIYCEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566233f93c7ddbded05392a10e1e1765da5.png",
+      "snippet": "Principal Partner Technology Strategist at Microsoft. Microsoft. Piscataway, New Jersey, United States. 1K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Principal Partner",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Piscataway, New Jersey, United States",
+            "Principal Partner Technology Strategist",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sanjay P."
+    },
+    {
+      "position": 20,
+      "title": "James K. - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/jameskeyholisticsecurity",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jameskeyholisticsecurity&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCIUCEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5665b8c3517f0b1cef386d4862274bf1926.png",
+      "snippet": "Principal Product Manager | Security CxE Partner Team | Microsoft Security Copilot. Microsoft. Magnolia, Texas, United States. 2K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Partner",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Magnolia, Texas, United States",
+            "Principal Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · James K."
+    },
+    {
+      "position": 21,
+      "title": "Lucas A. Meyer - Principal Research Scientist - Microsoft",
+      "link": "https://www.linkedin.com/in/lucasameyer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lucasameyer&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCKMCEAE",
+      "displayed_link": "15.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5663ebe99ef517812d483279a58bf65bbfd.png",
+      "snippet": "Principal Research Scientist @ Microsoft | AI, NLP, LLMs. Microsoft University of Washington. United States. 16K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Lucas A. Meyer"
+    },
+    {
+      "position": 22,
+      "title": "Justin Slade - Partner Enablement Solutions Strategy ...",
+      "link": "https://www.linkedin.com/in/justin-slade",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/justin-slade&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECEsQAQ",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5665a811d4b682372a48c866af46e273a23.png",
+      "snippet": "Justin Slade. Partner Enablement Solutions Strategy Director. Microsoft. Kirkland, Washington, United States. 426 followers ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Partner Enablement Solutions Strategy Director",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Justin Slade"
+    },
+    {
+      "position": 23,
+      "title": "Joe Binder - Partner Program Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/joe-binder-ba781ab2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joe-binder-ba781ab2&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECEcQAQ",
+      "displayed_link": "610+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5662a0c3810c836534bcd669bc2b2bb9a65.png",
+      "snippet": "Microsoft Graphic. Partner Program Manager. Microsoft. Mar 2020 - Present 5 years 1 month. United States. Microsoft Graphic. Principal Program Manager.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Partner Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joe Binder"
+    },
+    {
+      "position": 24,
+      "title": "Anthony Cangialosi - Principal Group PM - Microsoft",
+      "link": "https://www.linkedin.com/in/acangialosi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/acangialosi&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECGYQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566f903d4c086bc572c52c7d50db4d1115b.png",
+      "snippet": "Microsoft Graphic. Principal Group PM. Microsoft. Sep 2019 - Present 5 years 7 months. Redmond, Washington, United States. Microsoft Graphic. Principal PM ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Group PM",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anthony Cangialosi"
+    },
+    {
+      "position": 25,
+      "title": "Dan Parish - Partner Director of PM - Microsoft",
+      "link": "https://www.linkedin.com/in/danparish",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danparish&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCIEBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c56656255e211ffd4607966d9b770a1517d3.png",
+      "snippet": "Partner Group Product Manager. Microsoft. Mar 2023 - Sep 2024 1 year 7 months. Redmond, Washington, United States. Microsoft Graphic. Principal Group PM Manager.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "United States",
+        "Microsoft",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Partner Director of PM",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Parish"
+    },
+    {
+      "position": 26,
+      "title": "Brian Day - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/brianday",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brianday&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCJcBEAE",
+      "displayed_link": "770+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5667c786239090103b6d9725246bdeac769.png",
+      "snippet": "My present role as a Principal Program Manager in the O365 Enterprise and Cloud team allows me to partner across multiple organizations inside Microsoft. We ...",
+      "snippet_highlighted_words": [
+        "present",
+        "Principal",
+        "partner",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Brian Day"
+    },
+    {
+      "position": 27,
+      "title": "Daniel Pickworth - Partner GM Technical Strategy and ...",
+      "link": "https://www.linkedin.com/in/danipick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danipick&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCLIBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566abfee6c1d68a52e57f32bc8340611596.png",
+      "snippet": "Partner GM Technical Strategy and Innovation. Microsoft. Aug 2024 - Present 8 months. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Partner GM Technical Strategy and Innovation",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Pickworth"
+    },
+    {
+      "position": 28,
+      "title": "Ahmed Awadallah - Partner Research Manager, AI Frontiers",
+      "link": "https://www.linkedin.com/in/ahmed-awadallah-a355a27",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ahmed-awadallah-a355a27&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCNMBEAE",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5667f6ee1712b17d9c783da821663be6733.png",
+      "snippet": "Experience ; Partner Research Manager, AI Frontiers · 2023 - Present 2 years ; Senior Principal Research Manager, Microsoft Research · 2019 - 2023 4 years.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Present",
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Partner Research Manager, AI Frontiers",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ahmed Awadallah"
+    },
+    {
+      "position": 29,
+      "title": "Sunitha Muthukrishna - Principal Program Manager",
+      "link": "https://www.linkedin.com/in/sunithamuthukrishna",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sunithamuthukrishna&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCNQBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566f886b8257ad8a40cc5c3ce1937af3d7c.png",
+      "snippet": "Principal Product Manager @ Microsoft | Improving Customer Experiences ... Redmond, Washington, United States. 1K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Principal Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sunitha Muthukrishna"
+    },
+    {
+      "position": 30,
+      "title": "Anne George - Partner Marketing Director - Microsoft",
+      "link": "https://www.linkedin.com/in/annegeorge888",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/annegeorge888&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCOkBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566cb4745d12ffaf0767f0635d95e5d24a5.png",
+      "snippet": "Partner Marketing Director. Microsoft. Mar 2018 - Present 7 years 1 month. United States. Apps ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sammamish, Washington, United States",
+            "Partner Marketing Director",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anne George"
+    },
+    {
+      "position": 31,
+      "title": "Nagarajan Natarajan - Microsoft Research India",
+      "link": "https://www.linkedin.com/in/nagarajan-natarajan-862aa47",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nagarajan-natarajan-862aa47&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCO8BEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566b1940da4f85f9f942900a041ee65c6ce.png",
+      "snippet": "Experience · Principal Researcher. Microsoft Research India. Bengaluru Area, India · Microsoft Research India. 9 years 4 months · University of Texas at Austin ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Nagarajan Natarajan"
+    },
+    {
+      "position": 32,
+      "title": "Brent Jensen - Principal Data Scientist Manager - Microsoft ...",
+      "link": "https://www.linkedin.com/in/brentmjensen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brentmjensen&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCIoCEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566998db76cd75c5c2deae6c63485ee5a3e.png",
+      "snippet": "Brent Jensen. Principal Data Scientist Manager In Azure. Microsoft Azure Harrisburg University of Science and Technology. Redmond, ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Brent Jensen"
+    },
+    {
+      "position": 33,
+      "title": "Megan McFeely, CSM, CSPO - Principal PM Manager",
+      "link": "https://www.linkedin.com/in/megan-mcfeely-csm-cspo-972a203",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/megan-mcfeely-csm-cspo-972a203&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCIcCEAE",
+      "displayed_link": "830+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566fee5b72350f9ef5669231c1d2030ea08.png",
+      "snippet": "Principal PM Manager. Microsoft. Jul 2024 - Present 9 months. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Principal PM Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Megan McFeely, CSM, CSPO"
+    },
+    {
+      "position": 34,
+      "title": "Dileep Singh - Principal GPM - Microsoft",
+      "link": "https://www.linkedin.com/in/rulesrchanged",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rulesrchanged&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCKACEAE",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5665536953dc8d46b6ef82e2a88e03697ae.png",
+      "snippet": "Dileep Singh. Principal Program Manager Lead at Microsoft. Microsoft MNNIT,Allahabad. Bellevue, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Principal GPM",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dileep Singh"
+    },
+    {
+      "position": 35,
+      "title": "Ed Stewart M.B.A. - CE CyberSecurity Assurance CO+I",
+      "link": "https://www.linkedin.com/in/ed-stewart-m-b-a-165192aa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ed-stewart-m-b-a-165192aa&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCKICEAE",
+      "displayed_link": "430+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566486c91980a5b9fb0e7e4bc075cf02fc1.png",
+      "snippet": "Ed Stewart M.B.A.. Principal CE CyberSecurity Assurance CO+I. Microsoft Loyola University Chicago. Seattle, Washington, United ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal CE Cyber-Security Assurance, CO+I",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ed Stewart M.B.A."
+    },
+    {
+      "position": 36,
+      "title": "Maria Thomson - Director, Microsoft Intelligent Security ...",
+      "link": "https://www.linkedin.com/in/thomsonmaria",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/thomsonmaria&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCKgCEAE",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c56687467296b9fea55fa81869c196b29702.png",
+      "snippet": "Maria Thomson. Director, Microsoft Intelligent Security Association. Microsoft Bracken High School. Bothell, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bothell, Washington, United States",
+            "Director, Microsoft Intelligent Security Association",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Maria Thomson"
+    },
+    {
+      "position": 37,
+      "title": "Chad Fischer - Associate General Counsel - Microsoft",
+      "link": "https://www.linkedin.com/in/chadjfischer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chadjfischer&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCLsCEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c56640d33ef11b2c1e210b59fde2d63028ea.png",
+      "snippet": "Redmond, Washington, United States ... Lead a great team that provides legal support to part of the Microsoft Customer and Partner Solutions organization.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft",
+        "Partner"
+      ],
+      "source": "LinkedIn · Chad Fischer"
+    },
+    {
+      "position": 38,
+      "title": "Becky West - Principal Group Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/westbecky",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/westbecky&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECEwQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566771a19a317345c3da101d5628ddcee40.png",
+      "snippet": "Technology Leader | Principal Group Program Manager at Microsoft. Microsoft Harvard Business School. Woodinville, Washington, United States. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Woodinville, Washington, United States",
+            "Principal Group Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Becky West"
+    },
+    {
+      "position": 39,
+      "title": "Adam D. Troy - Partner Technical Advisor - Microsoft",
+      "link": "https://www.linkedin.com/in/dradamtroy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dradamtroy&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECEkQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566a6865bb46f60b1e3568dd2f1abfc688e.png",
+      "snippet": "Partner Technical Advisor. Microsoft. Sep 2023 - Present 1 year 7 months. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Partner Technical Advisor",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam D. Troy"
+    },
+    {
+      "position": 40,
+      "title": "James Tee - Principal Design Manager, Azure AI Foundry",
+      "link": "https://www.linkedin.com/in/jamestee01",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jamestee01&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECEoQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566886ef27017fea71eea5c975c7ecbb20f.png",
+      "snippet": "Microsoft. 11 years 6 months · Microsoft Graphic. Principal Design Manager, Azure AI Foundry. Microsoft. May 2023 - Present 1 year 11 months. United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Design Manager, Azure AI Foundry",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Tee"
+    },
+    {
+      "position": 41,
+      "title": "Evan Basalik - Senior Principal Escalation Engineer",
+      "link": "https://www.linkedin.com/in/evanbasalik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/evanbasalik&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECGQQAQ",
+      "displayed_link": "640+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5663d189e02c9c9ac66f394ee1f8e052859.png",
+      "snippet": "Microsoft. Jul 2024 - Present 9 months. North Carolina, United States. Microsoft Graphic. Principal Reliability Engineer Manager. Microsoft. Jul 2019 - Jul 2024 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft",
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Belmont, North Carolina, United States",
+            "Senior Principal Escalation Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Evan Basalik"
+    },
+    {
+      "position": 42,
+      "title": "Vishnu Navda - Partner Applied Science Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/navda",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/navda&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECGMQAQ",
+      "displayed_link": "930+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c56695f2c9772cbddca1eb0f47de8a3f4977.png",
+      "snippet": "Redmond, Washington, United States. Thrilled to announce my recent promotion to Partner at Microsoft, where I'm responsible for #Microsoft Shopping on Mobile!",
+      "snippet_highlighted_words": [
+        "United States",
+        "Partner",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Partner Applied Science Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vishnu Navda"
+    },
+    {
+      "position": 43,
+      "title": "Mark Nelson - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/marknelsonwa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marknelsonwa&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECHwQAQ",
+      "displayed_link": "430+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566d5aec6c2f78634f7849c941322b3ecd2.png",
+      "snippet": "Mark Nelson. Principal Product Manager at Microsoft Corporation. Microsoft Rensselaer Polytechnic Institute. Kirkland, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Principal Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Nelson"
+    },
+    {
+      "position": 44,
+      "title": "Vince Menzione - Ultimate Partner",
+      "link": "https://www.linkedin.com/in/vincemenzione",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vincemenzione&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECH8QAQ",
+      "displayed_link": "17.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5663f17fa878cda6cebfa2f890c4e78e48d.png",
+      "snippet": "Microsoft Worldwide Partner Conference (2009, 2010, 2011, 2012) CRN XChange Public Sector Summit (2010, 2011) Federal News Radio – “How Microsoft's Azure ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Partner",
+        "Microsoft's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Jupiter, Florida, United States",
+            "Ultimate Partner"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vince Menzione"
+    },
+    {
+      "position": 45,
+      "title": "Ginger Larson - Senior Partner Development Manager",
+      "link": "https://www.linkedin.com/in/ginger-larson-0b107013",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ginger-larson-0b107013&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCIMBEAE",
+      "displayed_link": "980+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5662785caf338d516b14e294cec38f38c3e.png",
+      "snippet": "Senior Partner Development Manager | Chairwoman @ Blacks at Microsoft Customer and Partner Solutions. Microsoft. New York, New York, United States. 977 ...",
+      "snippet_highlighted_words": [
+        "Senior Partner",
+        "Microsoft",
+        "Partner",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Ginger Larson"
+    },
+    {
+      "position": 46,
+      "title": "Julie Sanford - Microsoft",
+      "link": "https://www.linkedin.com/in/julieksanford",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/julieksanford&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCJoBEAE",
+      "displayed_link": "4.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5668c5f4643d8ab27c78d45a73298e5e998.png",
+      "snippet": "Julie Sanford. Microsoft Ryerson University. Redmond, Washington, United States ... partner experience across all segments of Microsoft's partner ecosystem. She ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "partner",
+        "Microsoft's partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julie Sanford"
+    },
+    {
+      "position": 47,
+      "title": "Chris Merwin - Principal Program Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/chrismerwin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chrismerwin&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCJ4BEAE",
+      "displayed_link": "730+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566762f42ba608af90b6a13336c942db46a.png",
+      "snippet": "Principal Program Manager at Microsoft. Microsoft. Bothell, Washington, United States. 739 followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bothell, Washington, United States",
+            "Principal Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Merwin"
+    },
+    {
+      "position": 48,
+      "title": "S. Cameron Greene - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/s-cameron-greene",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/s-cameron-greene&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCLQBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566df96a3b7a06702ecb1491a8738493528.png",
+      "snippet": "Principal Product Manager: Responsible AI. Microsoft NYU Stern School of Business. Atlanta, Georgia, United States. 1K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta, Georgia, United States",
+            "Principal Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · S. Cameron Greene"
+    },
+    {
+      "position": 49,
+      "title": "Shakur K. - Sr Partner Solutions Manager M365, Copilot, ...",
+      "link": "https://www.linkedin.com/in/shakur-k-53b1469?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shakur-k-53b1469%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCLMBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566644cbdc7c9fd165ceb2f8aa7ef6cc1f0.png",
+      "snippet": "Fort Lauderdale, Florida, United States ... Maintain partner's commitment, align expectations on Microsoft partnership and engagement, for long-term partner ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "partner's",
+        "Microsoft",
+        "partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Fort Lauderdale, Florida, United States",
+            "Sr Partner Solutions Manager M365, Copilot, Security",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shakur K."
+    },
+    {
+      "position": 50,
+      "title": "Andreas Mueller - Principal Research SDE - Microsoft",
+      "link": "https://www.linkedin.com/in/andreas-c-mueller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andreas-c-mueller&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCM4BEAE",
+      "displayed_link": "9.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5668b0bfca977012991fd4f72d19bec5f6e.png",
+      "snippet": "Principal Research SDE at Microsoft. Microsoft Rheinische Friedrich-Wilhelms-Universität Bonn / University of Bonn. Los Gatos, California, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Gatos, California, United States",
+            "Principal Research SDE",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andreas Mueller"
+    },
+    {
+      "position": 51,
+      "title": "Tommy Guy - Microsoft",
+      "link": "https://www.linkedin.com/in/guyrt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/guyrt&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCNABEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5666fbc6d80398a1918cabb09f30f8ca28e.png",
+      "snippet": "Experience: Microsoft · Education: University of Toronto · Location ... Tommy Guy. Microsoft University of Toronto. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tommy Guy"
+    },
+    {
+      "position": 52,
+      "title": "Jeff DeVries - Principal Design Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/devriesjeff",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/devriesjeff&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCNIBEAE",
+      "displayed_link": "980+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5669297312c655cc76ce6d93566c2a7bcfb.png",
+      "snippet": "Principal Design Manager @ Microsoft AI. Microsoft Michigan State University. Seattle, Washington, United States. 981 followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Design Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff DeVries"
+    },
+    {
+      "position": 53,
+      "title": "Tyler Quillin - Senior Corporate Counsel - Microsoft",
+      "link": "https://www.linkedin.com/in/tylerquillin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tylerquillin&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECDEQAQ",
+      "displayed_link": "5.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566089158597974f97a28280ab721aba77d.png",
+      "snippet": "Redmond, Washington, United States. Microsoft Graphic. Principal Corporate Counsel. Microsoft. Jul 2022 - Feb 2025 2 years 8 months. Redmond, Washington, United ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Senior Corporate Counsel",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tyler Quillin"
+    },
+    {
+      "position": 54,
+      "title": "Vanessa Arnauld - Principal Product Manager at Microsoft",
+      "link": "https://www.linkedin.com/in/vanessaarnauld",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vanessaarnauld&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCOsBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566911f9d4455e9e96dc154b1ff4f4e3c87.png",
+      "snippet": "Principal Product Manager - HoloLens Product Engineering. Microsoft. Mar 2023 - Present 2 years. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Principal Product Manager",
+            "HoloLens Product Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vanessa Arnauld"
+    },
+    {
+      "position": 55,
+      "title": "Carlos Vallin - Principal Engineer - Data Center RAS",
+      "link": "https://www.linkedin.com/in/cvallin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cvallin&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCOoBEAE",
+      "displayed_link": "530+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566bd35a9438c1aa4be856962f5199bf9e7.png",
+      "snippet": "Carlos Vallin. Principal Engineer - Data Center RAS. Microsoft Georgia Institute of Technology. Austin, Texas, United States ... Customer and partner ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States",
+        "partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Principal Engineer",
+            "Data Center RAS",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carlos Vallin"
+    },
+    {
+      "position": 56,
+      "title": "Flavio Ribeiro - Partner Research Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/flaviopr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/flaviopr&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCOwBEAE",
+      "displayed_link": "640+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c56687fd81ad2f9b83cce120417be0e9b25c.png",
+      "snippet": "Redmond, Washington, United States. Microsoft Graphic. Principal Research Manager. Microsoft. Sep 2017 - Mar 2022 4 years 7 months. Redmond, Washington, United ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Partner Research Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Flavio Ribeiro"
+    },
+    {
+      "position": 57,
+      "title": "Tracy Galloway - Microsoft",
+      "link": "https://www.linkedin.com/in/trgalloway",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/trgalloway&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCO4BEAE",
+      "displayed_link": "18.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5660a951ae0676f8a2a37a844d5e828cdce.png",
+      "snippet": "Tracy Galloway. Microsoft University of Michigan. Breckenridge, Colorado, United States. 19K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Breckenridge, Colorado, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tracy Galloway"
+    },
+    {
+      "position": 58,
+      "title": "Priyanka Khare - Principal PM manager - Microsoft",
+      "link": "https://www.linkedin.com/in/priyankakhare",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/priyankakhare&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCIgCEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c56638033275fd2c1ab3493e8eba0f1f880d.png",
+      "snippet": "Principal PM Manager at Microsoft. Microsoft Kurukshetra University. Austin, Texas, United States. 1K followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Principal PM manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Priyanka Khare"
+    },
+    {
+      "position": 59,
+      "title": "ian Bearman - Principal Engineering Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/manbearian",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/manbearian&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCIICEAE",
+      "displayed_link": "540+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566a5aad0dcb149d29a975a5eae118282c3.png",
+      "snippet": "Principal Software Engineering Manager at Microsoft. Microsoft University of Illinois Urbana-Champaign. Redmond, Washington, United States ... Jul 2022 - Present ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "Present"
+      ],
+      "source": "LinkedIn · ian Bearman"
+    },
+    {
+      "position": 60,
+      "title": "Heather Cook - Microsoft",
+      "link": "https://www.linkedin.com/in/heathernewman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/heathernewman&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCIkCEAE",
+      "displayed_link": "18.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5669089447989346f24b0c5f73e530bef1f.png",
+      "snippet": "Heather Cook. Microsoft. Marina del Rey, California, United States. 18K followers ... Heather received the Rising Star Award for her work on Microsoft Partner ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States",
+        "Microsoft Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Marina del Rey, California, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Heather Cook"
+    },
+    {
+      "position": 61,
+      "title": "Srikanth Kandula - Senior Principal Engineer",
+      "link": "https://www.linkedin.com/in/srikanthkandula",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/srikanthkandula&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCIQCEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566d1d75c2271de6dc6455cb1567a9f28dc.png",
+      "snippet": "I am a Senior Principal Engineer at Amazon Web Services. Earlier, I was a partner researcher in the Networking group at Microsoft Research, Redmond.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "partner",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Senior Principal Engineer",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Srikanth Kandula"
+    },
+    {
+      "position": 62,
+      "title": "Brenda Carter - Redmond, Washington, United States",
+      "link": "https://www.linkedin.com/in/brenda-carter-9938204",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brenda-carter-9938204&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCJ4CEAE",
+      "displayed_link": "6.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566f97981137b6cea27508107dd28b20f31.png",
+      "snippet": "Brenda Carter. Principal technical writer, architect, and illustrator of cybersecurity at Microsoft. Redmond, Washington, United States. 7K followers ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Brenda Carter"
+    },
+    {
+      "position": 63,
+      "title": "Matt Booty - Microsoft",
+      "link": "https://www.linkedin.com/in/mattbooty",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mattbooty&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCJ8CEAE",
+      "displayed_link": "5.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566c542c625d9a1e32e26dbbb00e233887a.png",
+      "snippet": "Privileged to be working with the amazing game development and publishing teams at Xbox! · Experience: Microsoft ... Founded in the United States in 1948, the AES ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Booty"
+    },
+    {
+      "position": 64,
+      "title": "Philip Rosenfield - Principal Research Program Manager",
+      "link": "https://www.linkedin.com/in/philrosenfield",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/philrosenfield&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCJ0CEAE",
+      "displayed_link": "800+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566ed504b64bfe3bee61841d239eeff0a8a.png",
+      "snippet": "Principal Research PM @ Microsoft Research | Biomedical ML and Strategic Research Partnerships | Ph.D in Astronomy · I am a Principal Research Program ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Principal"
+      ],
+      "source": "LinkedIn · Philip Rosenfield"
+    },
+    {
+      "position": 65,
+      "title": "Braz de Pina - Principal Product Designer - Microsoft",
+      "link": "https://www.linkedin.com/in/braz-de-pina-67352923",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/braz-de-pina-67352923&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCKECEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5668885589c9ad4f2ba93901d1600c27f32.png",
+      "snippet": "Principal Designer at Microsoft. Microsoft Pontifícia Universidade Católica de Goiás. Bothell, Washington, United States. 3K followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bothell, Washington, United States",
+            "Principal Product Designer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Braz de Pina"
+    },
+    {
+      "position": 66,
+      "title": "Angie Wilson - Principal Technical PM Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/angie-wilson-ab422b7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/angie-wilson-ab422b7&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCK8CEAE",
+      "displayed_link": "920+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c56669d7dfe524a3639b6c1e024e7845c153.png",
+      "snippet": "Principal TPM Manager at Microsoft · 18 years in the IT security field ... Microsoft. May 2021 - Present 3 years 11 months. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Angie Wilson"
+    },
+    {
+      "position": 67,
+      "title": "Sarah Scott - Director of Worldwide Customer Service ...",
+      "link": "https://www.linkedin.com/in/sarahmc2scott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarahmc2scott&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCLoCEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566fc9733db429689c60c0394c612adb679.png",
+      "snippet": "Seattle, Washington, United States. 2K followers 500+ connections. See your ... I am a Principal PM Manager in the Microsoft Identity and Network Access ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Director of Worldwide Customer Service Security",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Scott"
+    },
+    {
+      "position": 68,
+      "title": "Dr. Andrew C. L. - Customer Success Account Manager",
+      "link": "https://www.linkedin.com/in/dr-andrew-c-l-954130125?trk=public_profile_samename-profile",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dr-andrew-c-l-954130125%3Ftrk%3Dpublic_profile_samename-profile&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCMACEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c56645d34d9356a066f49c244e31acf57819.png",
+      "snippet": "Principal Customer Success Account Manager. Microsoft. Oct 2023 - Present 1 year 6 months. Colorado, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Dr. Andrew C. L."
+    },
+    {
+      "position": 69,
+      "title": "Mare R. - Principal Forensic Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/marerivera?trk=public_post_main-feed-card-text",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marerivera%3Ftrk%3Dpublic_post_main-feed-card-text&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCL8CEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c56687a9c98db7f22a9ed7188681d248d231.png",
+      "snippet": "Microsoft Graphic. Principal Forensic Engineer. Microsoft. May 2024 - Present 11 months. Phoenix, Arizona, United States. Languages. English. Native or ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Principal Forensic Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mare R."
+    },
+    {
+      "position": 70,
+      "title": "Varun Shandilya - Microsoft",
+      "link": "https://www.linkedin.com/in/varun-shandilya-32572a3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/varun-shandilya-32572a3&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECEgQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c56670f9d49e308d7eced6ebc50da3dac3d0.png",
+      "snippet": "Varun Shandilya. Microsoft Punjab Technical University. Sammamish, Washington, United States. 1K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sammamish, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Varun Shandilya"
+    },
+    {
+      "position": 71,
+      "title": "Craig Fox - Principal Design Director. Microsoft Azure ...",
+      "link": "https://www.linkedin.com/in/craigafox",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/craigafox&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECEYQAQ",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5661207a58de4a9e7e65f0999e9668feb9f.png",
+      "snippet": "Principal Design Director, Microsoft Azure Internet of Things. Microsoft. Bellevue, Washington, United States. 919 followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Principal Design Director. Microsoft Azure Internet of Things.",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Craig Fox"
+    },
+    {
+      "position": 72,
+      "title": "Dharmesh Patel - General Manager & Partner, Quality ...",
+      "link": "https://www.linkedin.com/in/dharmeshkp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dharmeshkp&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECE0QAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566970a8ffb74fee3b49e9afd9dc1cb3006.png",
+      "snippet": "General Manager I Partner I Quality Leader I AI Cloud Hardware Infrastructure Microsoft Stanford University About Supplier & Manufacturing Quality; HW ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "General Manager & Partner, Quality Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dharmesh Patel"
+    },
+    {
+      "position": 73,
+      "title": "Autumn Arbury - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/autumnarbury",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/autumnarbury&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECEUQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566dcb336ac4314093b1cb3b9887c998e11.png",
+      "snippet": "Principal Product Manager. Microsoft. Apr 2021 - Present 4 years. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Autumn Arbury"
+    },
+    {
+      "position": 74,
+      "title": "Mustafa Suleyman - CEO, Microsoft AI",
+      "link": "https://www.linkedin.com/in/mustafa-suleyman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mustafa-suleyman&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECGAQAQ",
+      "displayed_link": "308K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566c86c5d5466e44d716775f2a0815398c1.png",
+      "snippet": "CEO, Microsoft AI. Microsoft. Redmond, Washington, United States. 309K ... Venture Partner. Greylock. Jan 2022 - Mar 2024 2 years 3 months. Palo Alto ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "Partner"
+      ],
+      "source": "LinkedIn · Mustafa Suleyman"
+    },
+    {
+      "position": 75,
+      "title": "Rahel E. - PRINCIPAL GROUP ENG MANAGER - Microsoft",
+      "link": "https://www.linkedin.com/in/rahel-e-13889a50",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rahel-e-13889a50&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECGIQAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5667e7a5112d4747207952fe9a8c9aacf2e.png",
+      "snippet": "Seattle, Washington, United States. Microsoft Graphic. Principal Software Development Engineer Manager. Microsoft. Apr 2018 - Mar 2020 2 years. Stryker Graphic ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft",
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "PRINCIPAL GROUP ENG MANAGER",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rahel E."
+    },
+    {
+      "position": 76,
+      "title": "Nishan Naseer - Principal Engineering Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/nishannaseer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nishannaseer&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECGgQAQ",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5669b5ce167544408eb72ec3c2edc442683.png",
+      "snippet": "Principal Engineering Manager @ Microsoft | Driving Cloud Innovation. Microsoft BITS Pilani. Bellevue, Washington, United States. 4K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Principal Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nishan Naseer"
+    },
+    {
+      "position": 77,
+      "title": "Divyachapan Padur - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/dcpadur",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dcpadur&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECGUQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5667d3a727a829a7f8e439247c657a65e6c.png",
+      "snippet": "I am a Principal Product Manager in the Microsoft SharePoint team working on Viva Connections - a completely ... Redmond, Washington, United States ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Principal Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Divyachapan Padur"
+    },
+    {
+      "position": 78,
+      "title": "Julie Kohler - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/julie-kohler",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/julie-kohler&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECGcQAQ",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5664c01bd8ddacc382fdf441da9968bd813.png",
+      "snippet": "Julie Kohler. Principal Product Manager. Microsoft MIT Sloan School of Management. Redmond, Washington, United States. 420 followers 412 connections. See your ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Principal Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julie Kohler"
+    },
+    {
+      "position": 79,
+      "title": "Tim Kerk - Principal Security Program Manager Lead",
+      "link": "https://www.linkedin.com/in/tim-kerk-b371354",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tim-kerk-b371354&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECH0QAQ",
+      "displayed_link": "920+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566200f1440f4b601ca57795143751237f9.png",
+      "snippet": "Principal Program Manager Lead at Microsoft, Microsoft Defender for Endpoint. Microsoft University of Washington. Issaquah, Washington, United States. 922 ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Issaquah, Washington, United States",
+            "Principal Security Program Manager Lead",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tim Kerk"
+    },
+    {
+      "position": 80,
+      "title": "Sebastian Kohlmeier - Principal PM Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/sebastiankohlmeier",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sebastiankohlmeier&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCIABEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566203d802772fd1a72bbe76ea9c389cc38.png",
+      "snippet": "Principal PM Manager - Experimentation & Insights (AI Platform). Microsoft Western Washington University. Edmonds, Washington, United States. 1K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Edmonds, Washington, United States",
+            "Principal PM Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sebastian Kohlmeier"
+    },
+    {
+      "position": 81,
+      "title": "Monalisa Whalin - Principal PM Manager, Azure OpenAI",
+      "link": "https://www.linkedin.com/in/monalisawhalin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/monalisawhalin&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECH4QAQ",
+      "displayed_link": "5.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5662ec20a98da2f001af1511e97c69b8e27.png",
+      "snippet": "... Microsoft—where I turned “what if?” into some of the most groundbreaking AI ... Principal PM Manager, Azure OpenAI. Microsoft. 2022 - Present 3 years.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal PM Manager, Azure OpenAI",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Monalisa Whalin"
+    },
+    {
+      "position": 82,
+      "title": "Karen Richardson - Director, Partner Development - Microsoft",
+      "link": "https://www.linkedin.com/in/karen-richardson-msft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/karen-richardson-msft&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCIIBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5661299a89c3cccab45c1f62c8eaff16c26.png",
+      "snippet": "Microsoft. Mar 2023 - Present 2 years 1 month. Redmond, Washington, United States. Microsoft Graphic. Senior Partner Development Manager. Microsoft. Jul 2020 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft",
+        "Senior Partner",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Fort Collins, Colorado, United States",
+            "Director, Partner Development",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Karen Richardson"
+    },
+    {
+      "position": 83,
+      "title": "Carl Ledbetter - Microsoft Device Design Team",
+      "link": "https://www.linkedin.com/in/carlledbetter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/carlledbetter&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECHsQAQ",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5664979d89194c7bb2d413cbdc0e250994b.png",
+      "snippet": "Redmond, Washington, United States. Microsoft Graphic. Partner Director of Design - Microsoft Device Design Team. Microsoft. Sep 2019 - Present 5 years 7 months.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft",
+        "Partner",
+        "Microsoft",
+        "Microsoft",
+        "Present"
+      ],
+      "source": "LinkedIn · Carl Ledbetter"
+    },
+    {
+      "position": 84,
+      "title": "Sumit Basu - Senior Principal Researcher at Microsoft",
+      "link": "https://www.linkedin.com/in/sumitbasu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sumitbasu&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCJgBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566a26c7a0bf2c682c56d8ab0bfe195f326.png",
+      "snippet": "Senior Principal Researcher at Microsoft. Microsoft Research Massachusetts Institute of Technology. Seattle, Washington, United States. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Senior Principal Researcher",
+            "Microsoft Research"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sumit Basu"
+    },
+    {
+      "position": 85,
+      "title": "Scott Stabbert - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/scottstabbert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/scottstabbert&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCJYBEAE",
+      "displayed_link": "170+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566737a7eb028157ff1694838a6e79f40b7.png",
+      "snippet": "... Microsoft account service (2,000+ partner sites both internal and external). ... United States Navy. Graduate Aviation Officer Candidate School. 1987 - 1987 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "partner",
+        "United States"
+      ],
+      "source": "LinkedIn · Scott Stabbert"
+    },
+    {
+      "position": 86,
+      "title": "Jessica Boos - Principal Design Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/jessica-boos-67521252",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jessica-boos-67521252&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCJwBEAE",
+      "displayed_link": "170+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566b3eec5b303552d5b67c0424a2bd90509.png",
+      "snippet": "Principal Design Manager. Microsoft University of Washington. Seattle, Washington, United States. 179 followers 174 connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Design Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jessica Boos"
+    },
+    {
+      "position": 87,
+      "title": "Ben Chapman - Principal Quantum Hardware Manager",
+      "link": "https://www.linkedin.com/in/ben-chapman-07aa0324",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ben-chapman-07aa0324&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCJ0BEAE",
+      "displayed_link": "890+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5666f8f0f71a57cef93fd1f725def6454f4.png",
+      "snippet": "Physicist · Experience: Microsoft · Education: University of Colorado at Boulder · Location: United States · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Principal Quantum Hardware Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Chapman"
+    },
+    {
+      "position": 88,
+      "title": "Katharine Kennedy - Microsoft",
+      "link": "https://www.linkedin.com/in/katharinetracykennedy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katharinetracykennedy&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCLUBEAE",
+      "displayed_link": "6.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5662485e0c6285ee65a8305b5aadd725582.png",
+      "snippet": "Katharine steers Microsoft's Adobe and ServiceNow global business units. Her leadership… · Microsoft · Harvard Business School Online · United States · 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft's",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katharine Kennedy"
+    },
+    {
+      "position": 89,
+      "title": "Hongbin Liu - Principal Quantum Engineering Manager",
+      "link": "https://www.linkedin.com/in/hbliu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hbliu&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCLEBEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566e7b13128d6ea3cc8350e8e97e4373b21.png",
+      "snippet": "Principal Quantum Engineering Manager. Microsoft. Dec 2022 - Present 2 years 4 months. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Hongbin Liu"
+    },
+    {
+      "position": 90,
+      "title": "Allen Stewart - Partner Director Software Engineering ...",
+      "link": "https://www.linkedin.com/in/allen-stewart",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/allen-stewart&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCLcBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566cc1c13ca216a2e3b03d53ee5cfd4eddf.png",
+      "snippet": "Microsoft Graphic. Partner Director Software Engineering Innovation. Microsoft. Mar 2024 - Present 1 year 1 month. New York City Metropolitan Area. Principal ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Partner",
+        "Microsoft",
+        "Present",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "Partner Director Software Engineering Innovation",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Allen Stewart"
+    },
+    {
+      "position": 91,
+      "title": "Justin Slagle - The Partner Masters",
+      "link": "https://www.linkedin.com/in/justinslagle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/justinslagle&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCLYBEAE",
+      "displayed_link": "9.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5664182cc4d8bef64e81396fe1a21e441b7.png",
+      "snippet": "Irvine, California, United States. 9K followers 500+ ... After spending 10.5 years working at Microsoft in the Partner organization, it was easy…",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Irvine, California, United States",
+            "The Partner Masters"
+          ]
+        }
+      },
+      "source": "LinkedIn · Justin Slagle"
+    },
+    {
+      "position": 92,
+      "title": "Brad Rutkowski - Partner Group Engineering Manager",
+      "link": "https://www.linkedin.com/in/brad-rutkowski",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brad-rutkowski&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCLgBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566e66304d966e25ed4af8942d4ad2ce0bd.png",
+      "snippet": "Partner Group Engineering Manager @ Microsoft | Building Scalable Solutions. Microsoft Western Governors University. Woodinville, Washington, United States. 1K ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Woodinville, Washington, United States",
+            "Partner Group Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brad Rutkowski"
+    },
+    {
+      "position": 93,
+      "title": "Vacha Dave - Principal Applied Scientist - Microsoft",
+      "link": "https://www.linkedin.com/in/vacha-dave-2506879",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vacha-dave-2506879&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCLkBEAE",
+      "displayed_link": "330+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566987d076c8f1b56412fa21c6cc6cfce1e.png",
+      "snippet": "Principal Applied Scientist. Microsoft. Feb 2014 - Present 11 years 2 months. Sunnyvale, California, United States. Fraud Detection for Microsoft Ads Network.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Campbell, California, United States",
+            "Principal Applied Scientist",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vacha Dave"
+    },
+    {
+      "position": 94,
+      "title": "Arnold Dixon - Executive Vice President - LOOK Innovative ...",
+      "link": "https://www.linkedin.com/in/arnolddixon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/arnolddixon&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCM0BEAE",
+      "displayed_link": "540+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566f9b7ea9df2533fd6b5f16f514b9d4104.png",
+      "snippet": "LOOK Innovative Agency | Microsoft Partner. Mar 2013 - Present 12 years 1 month. Brooklyn, New York, United States. LOOK Innovative Agency, a Microsoft Partner ...",
+      "snippet_highlighted_words": [
+        "Microsoft Partner",
+        "Present",
+        "United States",
+        "Microsoft Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brooklyn, New York, United States",
+            "Executive Vice President",
+            "LOOK Innovative Agency | Microsoft Partner"
+          ]
+        }
+      },
+      "source": "LinkedIn · Arnold Dixon"
+    },
+    {
+      "position": 95,
+      "title": "Anna Moran - Director, HR Business Partner - Microsoft",
+      "link": "https://www.linkedin.com/in/annasophiamoran",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/annasophiamoran&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoFCNEBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5669646cee58728be18b061af84070c0c9c.png",
+      "snippet": "Director, HR Business Partner. Microsoft. Mar 2025 - Present 1 month. San Francisco, California, United States. Microsoft Graphic. Senior HR Business Partner.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Director, HR Business Partner",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anna Moran"
+    },
+    {
+      "position": 96,
+      "title": "Miguel Fierro - Principal Data Scientist Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/miguelgfierro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/miguelgfierro&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECC0QAQ",
+      "displayed_link": "76.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566faeee525be4bf2a270c4c3a61f598614.png",
+      "snippet": "... Microsoft · Massachusetts Institute of Technology - Sloan School of Management · United States · 500+ connections on LinkedIn. View Miguel Fierro's profile ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Miguel Fierro"
+    },
+    {
+      "position": 97,
+      "title": "Patrick Leahy - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/pleahy16",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/pleahy16&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECDAQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5661819d7249cf31814ccb500c098b0523e.png",
+      "snippet": "Principal Product Manager. Microsoft. Oct 2023 - Present 1 year 6 months. Redmond, Washington, United States. Principal Product Manager in Microsoft Azure.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Principal Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Patrick Leahy"
+    },
+    {
+      "position": 98,
+      "title": "Todd Allmond - Principal Design Director, Experience ...",
+      "link": "https://www.linkedin.com/in/todd-allmond",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/todd-allmond&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECCsQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566a38de10bec2a4ad2013273da2570d11e.png",
+      "snippet": "Principal Design Director, Experience Strategy & Design (XSD) Studio at Microsoft ... Greenville, South Carolina, United States. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greenville, South Carolina, United States",
+            "Principal Design Director, Experience Research and Design (XSD) Studio",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Todd Allmond"
+    },
+    {
+      "position": 99,
+      "title": "Piyali Jana - Principal Software Development Manager",
+      "link": "https://www.linkedin.com/in/piyalijana",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/piyalijana&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECC8QAQ",
+      "displayed_link": "450+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c566dd91bc4516a22f96c2edc27fdba5f576.png",
+      "snippet": "Principal Software Development Manager at Microsoft. Microsoft University of Florida. Redmond, Washington, United States ... Sep 2019 - Present 5 years 7 months.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Principal Software Development Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Piyali Jana"
+    },
+    {
+      "position": 100,
+      "title": "Yunlong Liu - Principal Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/yunlong-liu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/yunlong-liu&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8QFnoECC4QAQ",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9052e87ecff2ee2e4b1/images/b05c4e84156a3410b5820777c270c5661a938184d02f574327021c79aa35b074.png",
+      "snippet": "Principal Engineer at Microsoft Azure, ex-Amazonian. Microsoft University of Iowa. Seattle, Washington, United States. 423 followers 420 connections. See your ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Yunlong Liu"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=CfndZ96yI4iVvr0P1-qZ-AM&start=100&sa=N&sstk=Af40H4XoKpdTDtxDq3QVDaLFqPHhy0BUkt0O8NM0729Ym5_lnLQ2gZY0zVIdvI4nk_0p6m9In5qC2Dr6VWJoYhUcg7ww9JzPiXqPSw&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8Q8NMDegUIuQIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=CfndZ96yI4iVvr0P1-qZ-AM&start=100&sa=N&sstk=Af40H4XoKpdTDtxDq3QVDaLFqPHhy0BUkt0O8NM0729Ym5_lnLQ2gZY0zVIdvI4nk_0p6m9In5qC2Dr6VWJoYhUcg7ww9JzPiXqPSw&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8Q8tMDegUIuQIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=CfndZ96yI4iVvr0P1-qZ-AM&start=200&sa=N&sstk=Af40H4XoKpdTDtxDq3QVDaLFqPHhy0BUkt0O8NM0729Ym5_lnLQ2gZY0zVIdvI4nk_0p6m9In5qC2Dr6VWJoYhUcg7ww9JzPiXqPSw&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8Q8tMDegUIuQIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=CfndZ96yI4iVvr0P1-qZ-AM&start=300&sa=N&sstk=Af40H4XoKpdTDtxDq3QVDaLFqPHhy0BUkt0O8NM0729Ym5_lnLQ2gZY0zVIdvI4nk_0p6m9In5qC2Dr6VWJoYhUcg7ww9JzPiXqPSw&ved=2ahUKEwie24nKrJyMAxWIiq8BHVd1Bj8Q8tMDegUIuQIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=300"
+    }
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "search_metadata": {
+    "id": "67ddf9d423accc1edfd6f82c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8325f51a7ffed2b2/67ddf9d423accc1edfd6f82c.json",
+    "created_at": "2025-03-21 23:44:20 UTC",
+    "processed_at": "2025-03-21 23:44:20 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8325f51a7ffed2b2/67ddf9d423accc1edfd6f82c.html",
+    "total_time_taken": 2.19
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"United States\" AND (current OR present) AND (\"senior\" OR \"leader\" OR \"executive\" OR \"experienced\") AND \"years experience\"",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"United States\" AND (current OR present) AND (\"senior\" OR \"leader\" OR \"executive\" OR \"experienced\") AND \"years experience\"",
+    "total_results": 4140000,
+    "time_taken_displayed": 0.73,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Keira Anderson - Head of Executive & International ...",
+      "link": "https://www.linkedin.com/in/keiraanderson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/keiraanderson&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQFnoECAsQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9d423accc1edfd6f82c/images/8baef11fa6ca3164294a4b8f12b1e87bf1d83dbfe4f1067d4f514960ca5f0707.png",
+      "snippet": "Head of Corporate & Executive Communications, Google Cloud. Google. Oct 2022 ... Senior Account Executive. Voce Communications, A Porter Novelli Company.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "Google",
+        "Senior",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Head of Executive & International Communications, Google Cloud",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Keira Anderson"
+    },
+    {
+      "position": 2,
+      "title": "Amy Krull - Executive Business Partner - Google",
+      "link": "https://www.linkedin.com/in/amy-krull-4ba800a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amy-krull-4ba800a&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQFnoECBsQAQ",
+      "displayed_link": "860+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9d423accc1edfd6f82c/images/8baef11fa6ca3164294a4b8f12b1e87bcf0b03e67819a5894fab33d8ae9157b3.png",
+      "snippet": "Executive Business Partner at Google · Seasoned senior executive administrative professional with many years experience ... United States. 861 followers 500 ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "senior executive",
+        "years experience",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Philadelphia, Pennsylvania, United States",
+            "Executive Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amy Krull"
+    },
+    {
+      "position": 3,
+      "title": "Francis deSouza - Chief Operating Officer, Google Cloud",
+      "link": "https://www.linkedin.com/in/francisdesouza",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/francisdesouza&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQFnoECCQQAQ",
+      "displayed_link": "77.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9d423accc1edfd6f82c/images/8baef11fa6ca3164294a4b8f12b1e87bffbe65233539878b589dbda5fc5698fd.png",
+      "snippet": "San Francisco, California, United States. 78K followers 500+ connections ... Senior Executive Leadership · NGS · Leadership Development. Show 42 more skills",
+      "snippet_highlighted_words": [
+        "United States",
+        "Senior Executive"
+      ],
+      "source": "LinkedIn · Francis deSouza"
+    },
+    {
+      "position": 4,
+      "title": "Dave Hill - Google",
+      "link": "https://www.linkedin.com/in/davehill1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/davehill1&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQFnoECBoQAQ",
+      "displayed_link": "5.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9d423accc1edfd6f82c/images/8baef11fa6ca3164294a4b8f12b1e87ba35a9d1cae057f51be9fd460a5dee27d.png",
+      "snippet": "Progressive business leader with expertise in driving operational recruitment strategies… · Google · Redmond · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "leader",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dave Hill"
+    },
+    {
+      "position": 5,
+      "title": "Seline H. - Senior People Manager II - Google",
+      "link": "https://www.linkedin.com/in/selineheupink",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/selineheupink&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQFnoECBkQAQ",
+      "displayed_link": "940+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9d423accc1edfd6f82c/images/8baef11fa6ca3164294a4b8f12b1e87b1cd8369c7e945fc2e13b7e0651d049c0.png",
+      "snippet": "Senior Manager Google · People-focused leader with 13 years experience at Google across policy, enforcement, user safety, incident management and executive ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Google",
+        "leader",
+        "years experience",
+        "Google",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Senior People Manager II",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Seline H."
+    },
+    {
+      "position": 6,
+      "title": "Rich Jones - Team Lead and Senior Account Executive",
+      "link": "https://www.linkedin.com/in/richjonesgoogle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/richjonesgoogle&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQFnoECBgQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9d423accc1edfd6f82c/images/8baef11fa6ca3164294a4b8f12b1e87bb5a411644683112576608fdfa5fdd565.png",
+      "snippet": "Team Lead and Senior Account Executive at Google · Sales & Business Development leader with over 15 years experience focused on partnerships with top brands ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Executive",
+        "Google",
+        "leader",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Team Lead and Senior Account Executive",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rich Jones"
+    },
+    {
+      "position": 7,
+      "title": "Sridhar Gollapudi - Google",
+      "link": "https://www.linkedin.com/in/sridhargollapudi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sridhargollapudi&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQFnoECCkQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9d423accc1edfd6f82c/images/8baef11fa6ca3164294a4b8f12b1e87b790a09f12fb4b95f3b2db9e25b25b74e.png",
+      "snippet": "Sridhar Gollapudi, Google, Virginia Tech, About, Results-oriented senior executive with over 28 years' experience in technology solutions.",
+      "snippet_highlighted_words": [
+        "Google",
+        "senior executive",
+        "years' experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Fremont, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sridhar Gollapudi"
+    },
+    {
+      "position": 8,
+      "title": "Louis Milard - Google",
+      "link": "https://www.linkedin.com/in/louismilard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/louismilard&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQFnoECCsQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9d423accc1edfd6f82c/images/8baef11fa6ca3164294a4b8f12b1e87b92f318da340e71fd3d13f115a23b6ecf.png",
+      "snippet": "As a Senior Engineering Leader at Google, I lead the robotics and automation strategy for… · ... Has an eye for detail, experienced running and… Show more.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Leader",
+        "Google",
+        "experienced"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Louis Milard"
+    },
+    {
+      "position": 9,
+      "title": "Kate Rezucha - Manager, Executive & Internal ...",
+      "link": "https://www.linkedin.com/in/katerdreger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katerdreger&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQFnoECC4QAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9d423accc1edfd6f82c/images/8baef11fa6ca3164294a4b8f12b1e87bc64ecf5034b40bfbb522349b79cd26d3.png",
+      "snippet": "Experience · Manager, Executive & Internal Communications, Google Cloud · Global Leader, Data Center Communications · Senior Manager Internal Communications.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Google",
+        "Leader",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Manager, Executive & Internal Communications, Google Cloud",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kate Rezucha"
+    },
+    {
+      "position": 10,
+      "title": "Adam Spacke - Senior Manager, Google Customer Solutions",
+      "link": "https://www.linkedin.com/in/adamspacke",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/adamspacke&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQFnoECCwQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9d423accc1edfd6f82c/images/8baef11fa6ca3164294a4b8f12b1e87b847cb399619645623d70f57693d68001.png",
+      "snippet": "Senior Manager, Google Customer Solutions at Google · High performing, customer-centric and entrepreneurial sales leader with nearly 15 years experience in",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Google",
+        "Google",
+        "leader",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chicago, Illinois, United States",
+            "Senior Manager, Google Customer Solutions",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Spacke"
+    },
+    {
+      "position": 11,
+      "title": "Mike Torres - Google",
+      "link": "https://www.linkedin.com/in/miketorreshq",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/miketorreshq&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQFnoECDAQAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9d423accc1edfd6f82c/images/8baef11fa6ca3164294a4b8f12b1e87bd76c9ebca74aa7807f8c0ade7d0162a5.png",
+      "snippet": "Mike Torres. Google Cornell University. Seattle, Washington, United States ... Tech executive with over 25 years experience leading large, global organizations ( ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States",
+        "executive",
+        "years experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Torres"
+    },
+    {
+      "position": 12,
+      "title": "Jill Jones - Google",
+      "link": "https://www.linkedin.com/in/jillhirzjones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jillhirzjones&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQFnoECCoQAQ",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9d423accc1edfd6f82c/images/8baef11fa6ca3164294a4b8f12b1e87b5034a3866079eba06607bb8dcc873209.png",
+      "snippet": "San Jose, California, United States. 4K followers 500+ connections ... 18+ years experience in Strategy & Operations, Internal, Executive, and Corporate…",
+      "snippet_highlighted_words": [
+        "United States",
+        "years experience",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Jose, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jill Jones"
+    },
+    {
+      "position": 13,
+      "title": "Aaron M. - VP of Network and Communications Systems ...",
+      "link": "https://www.linkedin.com/in/aaron-m-6635aa85",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aaron-m-6635aa85&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQFnoECDEQAQ",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9d423accc1edfd6f82c/images/8baef11fa6ca3164294a4b8f12b1e87bd53c7449f76114b0a18a7126b35a1899.png",
+      "snippet": "Google. Oct 2021 - Present 3 years 6 months. Mountain View, California, United States. As ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "VP of Network and Communications Systems Engineering R&D",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aaron M."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=1fndZ66fGJCWwbkPr9_tyQw&start=100&sa=N&sstk=Af40H4W86ZACQ7SPYRfbG7tjOw318FknEkStUfakUCJ3gfvYBZDPbIpO57Lpfj22VxYDRmf-YLcRVIybuE2LagZ6SpfVRMkq3Svb5g&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQ8NMDegQIJxAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=1fndZ66fGJCWwbkPr9_tyQw&start=100&sa=N&sstk=Af40H4W86ZACQ7SPYRfbG7tjOw318FknEkStUfakUCJ3gfvYBZDPbIpO57Lpfj22VxYDRmf-YLcRVIybuE2LagZ6SpfVRMkq3Svb5g&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQ8tMDegQIJxAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=1fndZ66fGJCWwbkPr9_tyQw&start=200&sa=N&sstk=Af40H4W86ZACQ7SPYRfbG7tjOw318FknEkStUfakUCJ3gfvYBZDPbIpO57Lpfj22VxYDRmf-YLcRVIybuE2LagZ6SpfVRMkq3Svb5g&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQ8tMDegQIJxAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=1fndZ66fGJCWwbkPr9_tyQw&start=300&sa=N&sstk=Af40H4W86ZACQ7SPYRfbG7tjOw318FknEkStUfakUCJ3gfvYBZDPbIpO57Lpfj22VxYDRmf-YLcRVIybuE2LagZ6SpfVRMkq3Svb5g&ved=2ahUKEwju3aGrrZyMAxUQSzABHa9vO8kQ8tMDegQIJxAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=300"
+    }
+  }
+}

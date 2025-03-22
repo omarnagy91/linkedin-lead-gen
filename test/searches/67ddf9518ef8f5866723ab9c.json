@@ -1,0 +1,2365 @@
+{
+  "search_metadata": {
+    "id": "67ddf9518ef8f5866723ab9c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2109c099c20467cf/67ddf9518ef8f5866723ab9c.json",
+    "created_at": "2025-03-21 23:42:09 UTC",
+    "processed_at": "2025-03-21 23:42:09 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/2109c099c20467cf/67ddf9518ef8f5866723ab9c.html",
+    "total_time_taken": 1.48
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"United Kingdom\" AND (current OR present) AND (\"Architect\" OR \"Senior Architect\" OR \"Principal Architect\" OR \"Solution Architect\" OR \"Principal\" OR \"Senior Principal\" OR \"Executive\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"United Kingdom\" AND (current OR present) AND (\"Architect\" OR \"Senior Architect\" OR \"Principal Architect\" OR \"Solution Architect\" OR \"Principal\" OR \"Senior Principal\" OR \"Executive\")",
+    "total_results": 4580000,
+    "time_taken_displayed": 0.98,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Emanuel Caraza - Principal R & D Solution Architect",
+      "link": "https://uk.linkedin.com/in/emanuelcaraza",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/emanuelcaraza&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECAsQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5aad7addce547559d2f90fe39b8b84a2a7.png",
+      "snippet": "Microsoft. 12 years 9 months. Microsoft Graphic. Principal R & D Solution Architect. Microsoft. Jan 2017 - Present 8 years 3 months. London, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Principal",
+        "Solution Architect",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal R & D Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emanuel Caraza"
+    },
+    {
+      "position": 2,
+      "title": "Matt White - Senior Cloud Solution Architect",
+      "link": "https://uk.linkedin.com/in/matt-ffffff",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matt-ffffff&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECB0QAQ",
+      "displayed_link": "4.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5aabaffb93d3d67809fae0031911cf7704.png",
+      "snippet": "Senior Cloud Solution Architect - Global Customer Success Tech Strategy. Microsoft. Nov 2021 - Present 3 years 5 months. United Kingdom. Responsible ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior Cloud Solution Architect",
+            "Global Customer Success Tech Strategy",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt White"
+    },
+    {
+      "position": 3,
+      "title": "AFRODITI PRATTA - Principal Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/afroditipratta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/afroditipratta&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECBsQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ad90d05ad98d61b8f98071dd31c08a1e5.png",
+      "snippet": "Principal Architect @ Microsoft | Design Thinking, Problem Solving, Solution Architecture. Microsoft McGill University. Reading, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Principal Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Principal Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · AFRODITI PRATTA"
+    },
+    {
+      "position": 4,
+      "title": "Robin C - Senior Cloud Solutions Architect - Engineering",
+      "link": "https://uk.linkedin.com/in/robin-clifford",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/robin-clifford&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECBgQAQ",
+      "displayed_link": "610+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ad3733c83aed60d195da8d1a57448850c.png",
+      "snippet": "As a Senior Cloud Solutions Architect at Microsoft, I design and implement cloud solutions for enterprise customers, leveraging my skills and extensive ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Little Bookham, England, United Kingdom",
+            "Senior Cloud Solutions Architect",
+            "Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robin C"
+    },
+    {
+      "position": 5,
+      "title": "Sarah P. - Senior Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/sarah-p-a06370",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarah-p-a06370&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECCEQAQ",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5adb8e1c3e81dd298e33440f958935c55a.png",
+      "snippet": "Senior Cloud Solution Architect @ Microsoft | Enterprise and Solution ... Sep 2019 - Present 5 years 7 months. Reading, United Kingdom. CognitiveScale ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Reading Area",
+            "Senior Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah P."
+    },
+    {
+      "position": 6,
+      "title": "Lee Marsden - Cloud Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/lee-marsden-87970a196",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lee-marsden-87970a196&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECCUQAQ",
+      "displayed_link": "400+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a7d348ca9d4da598fef86049abbc38e4c.png",
+      "snippet": "Lee Marsden. Cloud Solution Architect at Microsoft. Microsoft De Montfort University. Hemel Hempstead, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hemel Hempstead, England, United Kingdom",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lee Marsden"
+    },
+    {
+      "position": 7,
+      "title": "Anil Abraham - Cloud Solution Architect at Microsoft",
+      "link": "https://uk.linkedin.com/in/anil-abraham-5ab10619",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/anil-abraham-5ab10619&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECCwQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a9bba9581eabb4102e90fbb427b5501a3.png",
+      "snippet": "Microsoft Graphic. Principal Cloud Solution Architect - Engineering at Microsoft. Microsoft. Aug 2022 - Aug 2023 1 year 1 month. United Kingdom. Microsoft ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Watford, England, United Kingdom",
+            "Cloud Solution Architect at Microsoft",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anil Abraham"
+    },
+    {
+      "position": 8,
+      "title": "Ajit Kotwal - Principal Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/ajit-kotwal-22693121",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ajit-kotwal-22693121&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECCoQAQ",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a2b8c984216992dd7a7027b8117eb2cf5.png",
+      "snippet": "Experience · Microsoft Graphic. Principal Solution Architect. Microsoft. Feb 2014 - Present 11 years 2 months. United Kingdom · Microsoft Graphic. Principal ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal Solution Architect",
+        "Microsoft",
+        "Present",
+        "United Kingdom",
+        "Microsoft",
+        "Principal"
+      ],
+      "source": "LinkedIn · Ajit Kotwal"
+    },
+    {
+      "position": 9,
+      "title": "Saurabh Bharti - SR. R&D Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/saurabhbharati",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/saurabhbharati&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCOMBEAE",
+      "displayed_link": "10.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a43b507a56a5a110d97832e6d6e26bdd4.png",
+      "snippet": "... Microsoft Certified Trainer (MCT), and Microsoft Certified Solution Architect ... United Kingdom · 500+ connections on LinkedIn. View Saurabh Bharti's ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Solution Architect",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "SR. R&D Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Saurabh Bharti"
+    },
+    {
+      "position": 10,
+      "title": "Savitha Krishnan - Senior Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/savitha-krishnan-692ba4a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/savitha-krishnan-692ba4a&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECC8QAQ",
+      "displayed_link": "240+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ae64f500937d9e1541ec3469173c06de8.png",
+      "snippet": "Savitha Krishnan. Sr Architect at Microsoft. Microsoft Mumbai University. Reading, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Senior Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Savitha Krishnan"
+    },
+    {
+      "position": 11,
+      "title": "Paul Lewis - Microsoft",
+      "link": "https://uk.linkedin.com/in/pjlewisuk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pjlewisuk&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCIUBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5acde98498e2adc174b6232aaf4bca1a5c.png",
+      "snippet": "Greater London, England, United Kingdom. 2K followers 500+ ... I am a Cloud Solutions Architect in the Digital and App Innovation team at Microsoft.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Lewis"
+    },
+    {
+      "position": 12,
+      "title": "Mark Briggs - Principal Program Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/mark-briggs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mark-briggs&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCOIBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5aeb2e99c37f53eae1b218107e5cd27514.png",
+      "snippet": "Principal Program Manager @ Microsoft Azure Engineering · A Cloud Solution Architecture @ Microsoft ... - Feb 2020 3 years 7 months. A Cloud Solution Architect ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Sheffield Area",
+            "Principal Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Briggs"
+    },
+    {
+      "position": 13,
+      "title": "Louis Dalton - Principal Lead Security Architect",
+      "link": "https://uk.linkedin.com/in/louis-dalton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/louis-dalton&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCJICEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a78abbe24dec616bd2cefdf4ae33546ca.png",
+      "snippet": "Experience ; Principal Lead Security Architect - Global Security Strategy. Microsoft. Apr 2021 ; Cloud Solution Architect. Civica. Jan 2021 ; Cloud Solution ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Microsoft",
+        "Solution Architect",
+        "Solution"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Knutsford, England, United Kingdom",
+            "Principal Lead Security Architect",
+            "Global Security Strategy",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Louis Dalton"
+    },
+    {
+      "position": 14,
+      "title": "William D. - Principal Cloud Solutions Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/william-d-05aa737",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/william-d-05aa737&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECCkQAQ",
+      "displayed_link": "690+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ae53e3e34c51c8e897894f3d55d68c663.png",
+      "snippet": "Principal Cloud Solutions Architect at Microsoft. Microsoft University of Hertfordshire. Greater Guildford Area, United Kingdom. 696 followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · William D."
+    },
+    {
+      "position": 15,
+      "title": "Stafford Walton - Microsoft",
+      "link": "https://uk.linkedin.com/in/stafford-walton-01245631",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stafford-walton-01245631&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECF4QAQ",
+      "displayed_link": "600+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ab32cefa7d1278da8820791e8f27c751f.png",
+      "snippet": "With 27 years of experience in technical enterprise solutions design and development… · Experience: Microsoft · Location: United Kingdom · 500+ connections ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stafford Walton"
+    },
+    {
+      "position": 16,
+      "title": "David Sánchez - Senior Azure Security Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/david-s%C3%A1nchez-963b7b13",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/david-s%25C3%25A1nchez-963b7b13&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCIYBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a26cbdd320866658346b7c198be536114.png",
+      "snippet": "David Sánchez. Senior Cloud Security Architect at Microsoft. Microsoft CCIE - Cisco Certified Internetwork Expert. United Kingdom.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · David Sánchez"
+    },
+    {
+      "position": 17,
+      "title": "Jamie P. - Cloud Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/jamie-p-5314502a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jamie-p-5314502a&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCLsBEAE",
+      "displayed_link": "630+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ae244e7541897ba4a2d277fce54909574.png",
+      "snippet": "Cloud Solution Architect at Microsoft · Experience: Microsoft · Location: London Area, United Kingdom · 500+ connections on LinkedIn ... Jul 2023 - Present ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jamie P."
+    },
+    {
+      "position": 18,
+      "title": "Paul Robinson - Cloud Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/paul-robinson-a9a65953",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paul-robinson-a9a65953&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCOABEAE",
+      "displayed_link": "680+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a4a55da8460717844e7b64654c408fe54.png",
+      "snippet": "Identity Cloud Solutions Architect at Microsoft · Experienced Platform Specialist with a demonstrated history of working in ... Cloud Solution Architect.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Solution Architect"
+      ],
+      "source": "LinkedIn · Paul Robinson"
+    },
+    {
+      "position": 19,
+      "title": "David Reid - Technical Solutions Professional - Microsoft",
+      "link": "https://uk.linkedin.com/in/davidsreid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/davidsreid&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCPoBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a1238a7803162e15a95b9c2eb8e5199c4.png",
+      "snippet": "Microsoft. Aug 2007 - Present 17 years 8 months. Reading, United Kingdom. Principal consultant within the Microsoft Dynamics business of Microsoft UK, focussed ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United Kingdom",
+        "Principal",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · David Reid"
+    },
+    {
+      "position": 20,
+      "title": "Mark Vale - Microsoft Teams Phone Architect - Momentum",
+      "link": "https://uk.linkedin.com/in/mark-vale",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mark-vale&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCJECEAE",
+      "displayed_link": "5.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ae7d4c947e4932c43240f5d52ccb6ae50.png",
+      "snippet": "Chief Executive Officer. Just Attend. Oct 2020 - Present 4 years 6 months ... Microsoft Teams Solution Architect. Symity. Jan 2020 - Nov 2020 11 months.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Present",
+        "Microsoft",
+        "Solution Architect"
+      ],
+      "source": "LinkedIn · Mark Vale"
+    },
+    {
+      "position": 21,
+      "title": "Dr. Andy Packham - Chief Architect and Senior Vice ...",
+      "link": "https://uk.linkedin.com/in/andypackham",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andypackham&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCK4CEAE",
+      "displayed_link": "8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a5cefb070d09923cb6f7e1cc8e65b6df4.png",
+      "snippet": "Chief Architect and Senior Vice President. Microsoft Business Unit. HCLTech. Dec 2019 - Present 5 years 4 months. London, United Kingdom. HCL Technologies ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Chief Architect and Senior Vice President. Microsoft Business Unit.",
+            "HCLTech"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Andy Packham"
+    },
+    {
+      "position": 22,
+      "title": "William Ridgway - Cloud Solution Architect - Media Telecom",
+      "link": "https://uk.linkedin.com/in/william-ridgway",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/william-ridgway&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECC4QAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5abfee51aba204082d55ace00f6639d16d.png",
+      "snippet": "Greater London, England, United Kingdom. 1K followers ... Studied Aerospace Engineering, I am currently working as a Cloud Solution Architect at Microsoft.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Solution Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Cloud Solution Architect",
+            "Media Telecom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · William Ridgway"
+    },
+    {
+      "position": 23,
+      "title": "Paul Williams - Cloud Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/paul-williams-49844011",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paul-williams-49844011&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECEoQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ac39189ac173661cfd685773d315e6cf0.png",
+      "snippet": "Paul Williams. Cloud Solution Architect. Microsoft Bournemouth University. West Berkshire, England, United Kingdom. 1K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "West Berkshire, England, United Kingdom",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Williams"
+    },
+    {
+      "position": 24,
+      "title": "Santiago Zanella-Béguelin - Principal Researcher - Microsoft",
+      "link": "https://uk.linkedin.com/in/santiago-zanella-beguelin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/santiago-zanella-beguelin&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECGAQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a6cedb395893a8342a9415603be9fd228.png",
+      "snippet": "Santiago Zanella-Béguelin. Principal Researcher at Microsoft. Microsoft. Cambridge, England, United Kingdom. 1K followers ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cambridge, England, United Kingdom",
+            "Principal Researcher",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Santiago Zanella-Béguelin"
+    },
+    {
+      "position": 25,
+      "title": "José Lázaro - Sr Partner Cybersecurity Architect",
+      "link": "https://uk.linkedin.com/in/jose365",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jose365&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECHkQAQ",
+      "displayed_link": "11.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5af5f8e5ea44448c4693bbea4de3662308.png",
+      "snippet": "London, England, United Kingdom. 11K followers 500+ connections. See your ... As a Partner Security Solution Architect at Microsoft, I am responsible for ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Solution Architect",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · José Lázaro"
+    },
+    {
+      "position": 26,
+      "title": "Richard Banks - Principal Design Manager - Microsoft ...",
+      "link": "https://uk.linkedin.com/in/rbanks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rbanks&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCJUBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a8ecd33626cde17965513d23e5d130819.png",
+      "snippet": "Principal Design Manager at Microsoft Research. Microsoft Research Royal College of Art. Chertsey, England, United Kingdom. 2K followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Richard Banks"
+    },
+    {
+      "position": 27,
+      "title": "Jamie Green - Datacenter Engineering | Senior CSA SME",
+      "link": "https://uk.linkedin.com/in/jamie-green-02271548",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jamie-green-02271548&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCKQBEAE",
+      "displayed_link": "670+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a6e21a2ea2651681320c7030702e43f14.png",
+      "snippet": "... Microsoft · Birmingham School of Architecture · United Kingdom · 500 ... Architect based in the UK with a passion for delivering innovative and sustainable ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Datacenter Engineering | Senior CSA SME | EMEA Lead (Leases) | Europe & South Africa Lead (Builds)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jamie Green"
+    },
+    {
+      "position": 28,
+      "title": "Lloyd Jefferies - Dynamics 365 & Power Platform",
+      "link": "https://uk.linkedin.com/in/lloydjefferies",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lloydjefferies&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCLwBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ad959081c058da04304774a33762d64e7.png",
+      "snippet": "Microsoft Graphic. Solution Architect - Dynamics 365 & Power Platform. Microsoft. Dec 2022 - Present 2 years 4 months. United Kingdom. TechLabs ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "dynamics_power_platform": 365
+          },
+          "extensions": [
+            "United Kingdom",
+            "Solution Architect",
+            "Dynamics 365 & Power Platform",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lloyd Jefferies"
+    },
+    {
+      "position": 29,
+      "title": "Sacha Cohn - Founder and Solution Architect",
+      "link": "https://uk.linkedin.com/in/sachacohn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sachacohn&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCNcBEAE",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a50db1ae250c711b0cf66442b942842e2.png",
+      "snippet": "Founder and Solution Architect at Business Solutions in Microsoft Technology ... Jan 2016 - Present 9 years 2 months. London, United Kingdom. Solution and ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Founder and Solution Architect",
+            "Business Solutions in Microsoft Technology"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sacha Cohn"
+    },
+    {
+      "position": 30,
+      "title": "Jonny Caldwell - FastTrack Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/jonnycaldwell",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jonnycaldwell&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCOEBEAE",
+      "displayed_link": "620+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a4a1d6eae3d17662841d57728bee653fd.png",
+      "snippet": "FastTrack Architect at Microsoft · In my role as an Architect at Microsoft ... United Kingdom · 500+ connections on LinkedIn. View Jonny Caldwell's profile ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Architect",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "FastTrack Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonny Caldwell"
+    },
+    {
+      "position": 31,
+      "title": "Brad Smith - Technical Solutions Specialist (Azure)",
+      "link": "https://uk.linkedin.com/in/myitglobe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/myitglobe&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCPYBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a0669b7a9c0cb6750d6ac87ecb8269a38.png",
+      "snippet": "Brad Smith. Solution Specialist (Azure). Microsoft RMIT University. London, England, United Kingdom ... IT Architect focusing on Microsoft technology. Support ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom",
+        "Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Technical Solutions Specialist (Azure)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brad Smith"
+    },
+    {
+      "position": 32,
+      "title": "Kris Wilson - Senior Copilot Cloud Solution Architect",
+      "link": "https://uk.linkedin.com/in/kris-wilson-a2a0525b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kris-wilson-a2a0525b&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCPsBEAE",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a329e54520c4c914bf97dbb3e6da0854e.png",
+      "snippet": "Kris Wilson. Senior Copilot Cloud Solution Architect at Microsoft. Microsoft. Wokingham, England, United Kingdom. 978 followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Wokingham, England, United Kingdom",
+            "Senior Copilot Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kris Wilson"
+    },
+    {
+      "position": 33,
+      "title": "Renée H. - Sr. Drector, Industry Solutions Architecture",
+      "link": "https://www.linkedin.com/in/reneethunter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/reneethunter&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCIACEAE",
+      "displayed_link": "890+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a33ba2d34a1218e652a36bf2bb9e91bc8.png",
+      "snippet": "Microsoft. Apr 2022 - Present 2 years 11 months. Microsoft Graphic. Cloud Solution Architect Director, Data & AI/Cloud & Customer Experience, Customer Success.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "Microsoft",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Sr. Drector, Industry Solutions Architecture",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Renée H."
+    },
+    {
+      "position": 34,
+      "title": "Sharon Smith - Dynamics 365 Solution Architect - ANS Group",
+      "link": "https://uk.linkedin.com/in/heuristicdev",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/heuristicdev&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCJYCEAE",
+      "displayed_link": "6.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a42f500577c91943bcc4b8b5186561cf0.png",
+      "snippet": "Dual Microsoft BizApps MVP | Dynamics 365 Solution Architect | 15x Microsoft ... Wooburn Green, England, United Kingdom. 7K followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "dynamics_solution_architect": 365
+          },
+          "extensions": [
+            "Wooburn Green, England, United Kingdom",
+            "Dynamics 365 Solution Architect",
+            "ANS Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sharon Smith"
+    },
+    {
+      "position": 35,
+      "title": "Andy Jenkins - Account Technology Strategist & Tech Lead ...",
+      "link": "https://www.linkedin.com/in/andyjenkins76",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andyjenkins76&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCJUCEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a46ca0da6df26024e7af45980ea5c1dbc.png",
+      "snippet": "Experience ; Account Technology Strategist & Tech Lead for Digital Natives. Microsoft. Jan 2023 ; Cloud Solution Architect. Microsoft. Jan 2016 ; Solution ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "Solution"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Stoke-on-Trent Area",
+            "Account Technology Strategist & Tech Lead for Digital Natives",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andy Jenkins"
+    },
+    {
+      "position": 36,
+      "title": "Allia A. - Cloud Solution Architect Intern - Microsoft",
+      "link": "https://uk.linkedin.com/in/allia-ayresturner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/allia-ayresturner&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCK8CEAE",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ad261222f118c244c0e17cf53699a960d.png",
+      "snippet": "Experience. Microsoft Graphic. Cloud Solution Architect Intern. Microsoft. Jul 2024 - Present 9 months. United Kingdom. Leverages collected insights to develop ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Guildford, England, United Kingdom",
+            "Cloud Solution Architect Intern",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Allia A."
+    },
+    {
+      "position": 37,
+      "title": "Marie Eugene - Cloud Solution Architect (AI Governance & ...",
+      "link": "https://uk.linkedin.com/in/marie-eugene-969bb6130",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/marie-eugene-969bb6130&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCLECEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a4fd88af55cc59bbd096b991f4adcbba1.png",
+      "snippet": "Cloud Solution Architect @ Microsoft | Responsible AI, Technology Governance & Policy| Social Mobility Champion. Microsoft. London, England, United Kingdom. 2K ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Cloud Solution Architect (AI Governance & Responsible AI)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marie Eugene"
+    },
+    {
+      "position": 38,
+      "title": "Charlotte Wall - Commercial Executive - Microsoft",
+      "link": "https://uk.linkedin.com/in/charlotte-wall-5b942013",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/charlotte-wall-5b942013&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECC0QAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5adff92e5658d291443166afb1f24de81a.png",
+      "snippet": "Commercial Executive. Microsoft. Feb 2015 - Present 10 years 2 months. Reading, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Reading Area",
+            "Commercial Executive",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Charlotte Wall"
+    },
+    {
+      "position": 39,
+      "title": "Jay A. - Microsoft Azure Cloud Solutions Architect",
+      "link": "https://uk.linkedin.com/in/jay-a-a979a285",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jay-a-a979a285&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECEUQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a806f0ff7c98205991a91f08d77e9fde8.png",
+      "snippet": "Birmingham, England, United Kingdom. Comms-care Graphic. Microsoft Azure Technical ... Microsoft Certified: Power Platform Solution Architect Expert Graphic ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft",
+        "Microsoft",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Microsoft Azure Cloud Solutions Architect",
+            "Ingram Micro"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jay A."
+    },
+    {
+      "position": 40,
+      "title": "Natasha Wright - Data & AI, Cloud Solution Architect ...",
+      "link": "https://uk.linkedin.com/in/natashawright20",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/natashawright20&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECEcQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ae03f0c3eac67a94c991f4a8522ecdaca.png",
+      "snippet": "Experience. Microsoft Graphic. Data & AI, Cloud Solution Architect Manager. Microsoft. Mar 2021 - Present 4 years 1 month. Reading, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Data & AI, Cloud Solution Architect Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Natasha Wright"
+    },
+    {
+      "position": 41,
+      "title": "Ulrich Homann - Microsoft",
+      "link": "https://www.linkedin.com/in/ulrichhomann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ulrichhomann&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECEMQAQ",
+      "displayed_link": "12.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ac1e91e20306fcccf35635f9db476f4ef.png",
+      "snippet": "Microsoft Certified Architect. Microsoft Corp. Issued Apr 2008. Patents ... The Microsoft executive briefing center (EBC) is the engagement center for ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Architect",
+        "Microsoft",
+        "Microsoft executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ulrich Homann"
+    },
+    {
+      "position": 42,
+      "title": "Steve Jones - Principal Group Engineering Manager",
+      "link": "https://ca.linkedin.com/in/steve-jones-5b7059b4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ca.linkedin.com/in/steve-jones-5b7059b4&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECGEQAQ",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a00b05748ec77d5e5188260667695c19d.png",
+      "snippet": "Principal Group Engineering Manager at Microsoft · Experienced Engineering Manager with a demonstrated history of impactful work within the Software ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "North Vancouver, British Columbia, Canada",
+            "Principal Group Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steve Jones"
+    },
+    {
+      "position": 43,
+      "title": "Imshal I. - Cloud Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/imshal-i-a6b569255",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/imshal-i-a6b569255&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECGIQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a596579ea493a5e583909ea4207d7ff66.png",
+      "snippet": "Cloud Solution Architect Intern @ Microsoft | CS Student at CUoL · At Microsoft ... London, United Kingdom. Excel Tutors. 2 years 3 months · Excel ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Imshal I."
+    },
+    {
+      "position": 44,
+      "title": "John Childs - Copilot Cloud Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/johntchilds",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/johntchilds&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECHsQAQ",
+      "displayed_link": "650+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ad73a82e93fb6b4e0a5b3225f61a95dc3.png",
+      "snippet": "Cloud Solution Architect at Microsoft. Microsoft University of Bath. Greater Bristol Area, United Kingdom. 647 followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Bristol Area, United Kingdom",
+            "Copilot Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Childs"
+    },
+    {
+      "position": 45,
+      "title": "Tony Pearson - Principle Cloud Network Engineer - Microsoft",
+      "link": "https://uk.linkedin.com/in/topearson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/topearson&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCIkBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a56c93ee1bd389c7af74b4948d25598ee.png",
+      "snippet": "Microsoft Graphic. Principle Cloud Network Engineer. Microsoft. Mar 2024 - Present 1 year 1 month. United Kingdom · Microsoft Graphic. Principal Program Manager.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Present",
+        "United Kingdom",
+        "Microsoft",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Southampton Area",
+            "Principle Cloud Network Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tony Pearson"
+    },
+    {
+      "position": 46,
+      "title": "James Scott - Principal Product Manager Lead - Microsoft",
+      "link": "https://uk.linkedin.com/in/jameswscott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jameswscott&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCJMBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a150ba6887e0ecbec1813af720a27fa74.png",
+      "snippet": "Principal Product Manager Lead, Microsoft. Microsoft University of Cambridge. Cambridge, England, United Kingdom. 2K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cambridge, England, United Kingdom",
+            "Principal Product Manager Lead",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Scott"
+    },
+    {
+      "position": 47,
+      "title": "Paolo Costa - Senior Principal Research Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/paolocosta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paolocosta&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCJcBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a11151032016e5b0522e548a6795c0f1f.png",
+      "snippet": "Experience. Microsoft Graphic. Senior Principal Research Manager. Microsoft. Sep 2022 - Present 2 years 7 months. Cambridge, United Kingdom. Imperial College ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Senior Principal",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Paolo Costa"
+    },
+    {
+      "position": 48,
+      "title": "Daniel Jackson - Principal Software Engineering Manager",
+      "link": "https://uk.linkedin.com/in/daniel-jackson-12814b236",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/daniel-jackson-12814b236&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCKUBEAE",
+      "displayed_link": "320+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ae7efd6aa58b83c9a778571877fa01481.png",
+      "snippet": "Principal Software Engineering Manager at Microsoft. Microsoft University of Cambridge. Cuffley, England, United Kingdom ... Microsoft. Mar 2021 - Present 4 years ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cuffley, England, United Kingdom",
+            "Principal Software Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Jackson"
+    },
+    {
+      "position": 49,
+      "title": "Emily Parrish - Director at Microsoft Incident Response",
+      "link": "https://uk.linkedin.com/in/misstech",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/misstech&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCLABEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5aafded2c9d8da5d1ae521ca0da60f7426.png",
+      "snippet": "... Microsoft blogs. · Experience: Microsoft · Location: United Kingdom · 500+ connections on LinkedIn. View Emily Parrish's profile on LinkedIn, a professional ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Director at Microsoft Incident Response (DART)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emily Parrish"
+    },
+    {
+      "position": 50,
+      "title": "Jonathan Christie - Cloud Solution Architect",
+      "link": "https://uk.linkedin.com/in/thejonathanchristie",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/thejonathanchristie&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCMIBEAE",
+      "displayed_link": "580+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a3b0ec551303fa2632a1cf3e06dbe783c.png",
+      "snippet": "Cloud Solution Architect | Support for Mission Critical | Microsoft. Microsoft Edinburgh Napier University. Dunfermline, Scotland, United Kingdom. 585 ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dunfermline, Scotland, United Kingdom",
+            "Cloud Solution Architect | Support for Mission Critical (SfMC)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Christie"
+    },
+    {
+      "position": 51,
+      "title": "Steve Matthews - Microsoft 365 Architect - Fujitsu",
+      "link": "https://uk.linkedin.com/in/stevepmatthews",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stevepmatthews&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCMwBEAE",
+      "displayed_link": "580+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5adcef6c7f58ab6f22202df03a2b0dab05.png",
+      "snippet": "Microsoft 365 Architect at Fujitsu · A dynamic, results driven Product ... United Kingdom · 500+ connections on LinkedIn. View Steve Matthews' profile ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Architect",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "microsoft_architect": 365
+          },
+          "extensions": [
+            "Manchester Area, United Kingdom",
+            "Microsoft 365 Architect",
+            "Fujitsu"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steve Matthews"
+    },
+    {
+      "position": 52,
+      "title": "Neil Johnson - Principal Product Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/neil-johnson-msft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/neil-johnson-msft&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCNUBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a6b03aea3afd77f909b0ed60d711ce6c1.png",
+      "snippet": "Principal PM at Microsoft · An infrastructure nerd at heart, I began working ... Architect. I moved to the Intune Engineering Group in 2016, where I've ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Architect"
+      ],
+      "source": "LinkedIn · Neil Johnson"
+    },
+    {
+      "position": 53,
+      "title": "Darren Wright - Principal Software Engineering Manager",
+      "link": "https://uk.linkedin.com/in/darrenwwright",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/darrenwwright&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCN8BEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a040d15af4f6f5daa3577cd46414f667f.png",
+      "snippet": "Principal Software Engineering Manager at Microsoft. Microsoft New College Durham, Durham, United Kingdom ... Cloud Solution Architect. Microsoft. Mar 2016 - Nov ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Solution Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Durham, England, United Kingdom",
+            "Principal Software Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Darren Wright"
+    },
+    {
+      "position": 54,
+      "title": "Jane Pitt - Training Program Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/jane-pitt-41b1364",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jane-pitt-41b1364&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCPEBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ad2fe6c4a80be79d071a219be50b56975.png",
+      "snippet": "Reading, United Kingdom. Microsoft Azure Cloud Applications, Infrastructure and Data Center MTC Technical Architect at Microsoft UK ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft",
+        "Architect",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Jane Pitt"
+    },
+    {
+      "position": 55,
+      "title": "James Whittlesea - Microsoft 365 Solutions Architect - Airswift",
+      "link": "https://uk.linkedin.com/in/james-whittlesea-37a0a5b1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/james-whittlesea-37a0a5b1&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCPABEAE",
+      "displayed_link": "140+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a386d18fa211336c9cc8742f93a7aa672.png",
+      "snippet": "Microsoft 365 Solutions Architect. Airswift University of Lincoln. High Wycombe, England, United Kingdom. 144 followers 143 connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Architect",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "microsoft_solutions_architect": 365
+          },
+          "extensions": [
+            "High Wycombe, England, United Kingdom",
+            "Microsoft 365 Solutions Architect",
+            "Airswift"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Whittlesea"
+    },
+    {
+      "position": 56,
+      "title": "Jim Moyle - Principal Product Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/jimmoyle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jimmoyle&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCPcBEAE",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a752cb88fb335c9f9ed81e7a6d79251d0.png",
+      "snippet": "Principal Product Manager for Windows Cloud. Microsoft The University of Edinburgh. London, England, United Kingdom. 4K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Jim Moyle"
+    },
+    {
+      "position": 57,
+      "title": "Mustafa Suleyman - CEO, Microsoft AI",
+      "link": "https://www.linkedin.com/in/mustafa-suleyman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mustafa-suleyman&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCPgBEAE",
+      "displayed_link": "308K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ad85b1078e09273e9650d209c1630e252.png",
+      "snippet": "Experience · CEO, Microsoft AI · Non Executive Director · Co-founder & CEO · Venture Partner · VP, AI Product Management & AI Policy · Co-founder & Head of Applied AI.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Executive"
+      ],
+      "source": "LinkedIn · Mustafa Suleyman"
+    },
+    {
+      "position": 58,
+      "title": "Charles Sexton - Power Platform Solution Architect",
+      "link": "https://uk.linkedin.com/in/charlie-sexton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/charlie-sexton&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCPkBEAE",
+      "displayed_link": "6.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a3c7882951ed4660168661bb654342dac.png",
+      "snippet": "Stafford, England, United Kingdom. 6K followers 500+ connections. See your mutual ... Microsoft Certified: Power Platform Solution Architect Expert Graphic ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft",
+        "Solution Architect"
+      ],
+      "source": "LinkedIn · Charles Sexton"
+    },
+    {
+      "position": 59,
+      "title": "Vassilis Plachouras - Principal Applied Scientist - Microsoft",
+      "link": "https://uk.linkedin.com/in/vassilis-plachouras-2223992",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/vassilis-plachouras-2223992&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCPwBEAE",
+      "displayed_link": "530+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5aa8bb2758eabeb1e718b7502fb436be0c.png",
+      "snippet": "Microsoft. Jul 2024 - Present 9 months. Reading, England, United Kingdom. JPMorgan Chase &amp; Co. Graphic. Executive Director, Applied AI ML Director. JPMorgan ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United Kingdom",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Principal Applied Scientist",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vassilis Plachouras"
+    },
+    {
+      "position": 60,
+      "title": "Emine C. - Principal Software Engineer - Microsoft",
+      "link": "https://uk.linkedin.com/in/emine-cimen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/emine-cimen&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCIECEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a6e9f431a9c70de3808cea56e6fda5d98.png",
+      "snippet": "Principal Software Engineer at Microsoft · Experience: Microsoft · Education: Orta Dogu Teknik Universitesi · Location: London Area, United Kingdom · 500+ ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Principal Software Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emine C."
+    },
+    {
+      "position": 61,
+      "title": "Katja Hofmann - Microsoft",
+      "link": "https://uk.linkedin.com/in/katjahofmann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/katjahofmann&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCJMCEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a8721d18ae5a16db973572457cb7ba63d.png",
+      "snippet": "Microsoft · University of Amsterdam · Greater Cambridge Area · 500 ... Experience. Microsoft Graphic · Microsoft. Cambridge, England, United Kingdom. -.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Cambridge Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katja Hofmann"
+    },
+    {
+      "position": 62,
+      "title": "Daniel W. - Senior Account Executive | Professional Services",
+      "link": "https://www.linkedin.com/in/daniel-w-3627853b/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/daniel-w-3627853b/&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCKkCEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5af054d5cbd707da7769cc2fbf006d74ed.png",
+      "snippet": "Experience · Senior Account Executive | Professional Services · CTO - Aviation | Microsoft UK · Head of Technology · Head of Technology · Cloud Solutions Architect.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Thame, England, United Kingdom",
+            "Senior Account Executive | Professional Services",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel W."
+    },
+    {
+      "position": 63,
+      "title": "Jagdeep Dua - Principal Cloud Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/jagdeepdua",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jagdeepdua&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCJQCEAE",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ac39de02a7507f412fcab76356fcea573.png",
+      "snippet": "Principal Cloud Solution Architect - Developer Advocate. Microsoft The University of Birmingham. London, England, United Kingdom. 900 followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Solution Architect",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jagdeep Dua"
+    },
+    {
+      "position": 64,
+      "title": "Anahita S Baghini - Cloud Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/anahitashafiei",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/anahitashafiei&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCKQCEAE",
+      "displayed_link": "790+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a617cc9f6e916ea8c5e0f559787f2db33.png",
+      "snippet": "Cloud Solution Architect in Modern Work at Microsoft. Microsoft University of Leeds. London, England, United Kingdom ... Sep 2024 - Present 7 months. London ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anahita S Baghini"
+    },
+    {
+      "position": 65,
+      "title": "Alessandra Follesa - Solutions Architect, Microsoft Viva",
+      "link": "https://uk.linkedin.com/in/alessandra-follesa-5b12bb14",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alessandra-follesa-5b12bb14&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCKACEAE",
+      "displayed_link": "620+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a6f771ed9543f481eab71e63a2ff0aeac.png",
+      "snippet": "Solutions Architect, Microsoft · I am a passionate and results-driven Technical Solutions ... United Kingdom · 500+ connections on LinkedIn. View ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Solutions Architect, Microsoft Viva",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alessandra Follesa"
+    },
+    {
+      "position": 66,
+      "title": "Matthew Cook - Business Applications Executive - Microsoft",
+      "link": "https://uk.linkedin.com/in/matthew-cook-23075233",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matthew-cook-23075233&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCLICEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a0d05ae84dbcf0f5d74647922cd8f147d.png",
+      "snippet": "Microsoft Business Applications Executive - Empowering organisations to ... Cambridge, United Kingdom. Summer internship working as part of Inca's IT ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Executive",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Business Applications Executive",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthew Cook"
+    },
+    {
+      "position": 67,
+      "title": "Sarah Parisot - Principal Researcher - Microsoft",
+      "link": "https://uk.linkedin.com/in/parisotsarah/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/parisotsarah/en&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCK0CEAE",
+      "displayed_link": "800+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a4dc182fff78a10c459fb6c2e39f4b31a.png",
+      "snippet": "Principal Researcher at Microsoft Research · Microsoft · Ecole Centrale Paris · United Kingdom · 500+ connections on LinkedIn. View Sarah Parisot's profile ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal Researcher",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Parisot"
+    },
+    {
+      "position": 68,
+      "title": "Darren H. - Principal Customer Success Account Manager",
+      "link": "https://uk.linkedin.com/in/darren-h-1670941b4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/darren-h-1670941b4&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCLACEAE",
+      "displayed_link": "500+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a52318d79e306179de2850cd60834d3cb.png",
+      "snippet": "Darren H. Principal Customer Success Account Manager at Microsoft. Microsoft City College Southampton. Ashurst, England, United Kingdom ... Jan 2023 - Present 2 ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ashurst, England, United Kingdom",
+            "Principal Customer Success Account Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Darren H."
+    },
+    {
+      "position": 69,
+      "title": "Hettie Holcroft - Customer Success Account Manager",
+      "link": "https://uk.linkedin.com/in/hettie-whittal-williams",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hettie-whittal-williams&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCLMCEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5aab116311ae6a0203afb44d93ab9636c5.png",
+      "snippet": "Principal Customer Success Account Manager at Microsoft · Experienced ... United Kingdom · 500+ connections on LinkedIn. View Hettie Holcroft's profile ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal Customer Success Account Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hettie Holcroft"
+    },
+    {
+      "position": 70,
+      "title": "Marty Devlin - Cloud Solution Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/marty-devlin-6324877b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/marty-devlin-6324877b&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECCgQAQ",
+      "displayed_link": "220+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a6bf5bc9154fc09c38f4a7e2d2b05bded.png",
+      "snippet": "Cloud Solution Architect · Experience: Microsoft · Education: University of ... Microsoft. Sep 2015 - Present 9 years 7 months. Belfast, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Marty Devlin"
+    },
+    {
+      "position": 71,
+      "title": "Shital Shah - Microsoft",
+      "link": "https://www.linkedin.com/in/shitals",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shitals&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECCsQAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a2ded1dfcf799ccd551bcfa82d5d3dc6a.png",
+      "snippet": "United Kingdom. -. -. - ... “I worked with Shital in Bing Local Search Conflation Team. I saw him working as Principal Developer and then as a Principal ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Principal",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sammamish, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shital Shah"
+    },
+    {
+      "position": 72,
+      "title": "Omar Abbosh - Chief Executive Officer - Pearson",
+      "link": "https://uk.linkedin.com/in/omarabbosh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/omarabbosh&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECEQQAQ",
+      "displayed_link": "33.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5aa1efdef212fa017370860cfa6a909893.png",
+      "snippet": "Chief Executive Officer at Pearson & non executive board member at Zuora. Pearson INSEAD. London, England, United Kingdom ... Microsoft. Jul 2020 - Jan 2024 3 ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "executive",
+        "United Kingdom",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Chief Executive Officer",
+            "Pearson"
+          ]
+        }
+      },
+      "source": "LinkedIn · Omar Abbosh"
+    },
+    {
+      "position": 73,
+      "title": "Andreas Mueller - Principal Research SDE - Microsoft",
+      "link": "https://www.linkedin.com/in/andreas-c-mueller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andreas-c-mueller&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECEkQAQ",
+      "displayed_link": "9.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a83d9f0e2491a09e2d115bda6ccfcbbfe.png",
+      "snippet": "Principal Research SDE at Microsoft · I am very interested in open source and ... Microsoft. Jun 2012 - Sep 2012 4 months. Cambridge, United Kingdom. Working ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Gatos, California, United States",
+            "Principal Research SDE",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andreas Mueller"
+    },
+    {
+      "position": 74,
+      "title": "Sofia Trevino - Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/sofia-trevino",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sofia-trevino&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECEgQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a6c2ecb892cf0375294e56f7347af8576.png",
+      "snippet": "Cloud Solution Architect at Microsoft | Digital Apps and Innovation ... United Kingdom · 500+ connections on LinkedIn. View Sofia Trevino's profile on ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sofia Trevino"
+    },
+    {
+      "position": 75,
+      "title": "Nadeen Gebara - Senior System Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/nadeen-gebara",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nadeen-gebara&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECEYQAQ",
+      "displayed_link": "230+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a58bae0c8e3f0df3bcdd689bb77433524.png",
+      "snippet": "Senior System Architect @ Microsoft | PHD in High Performance Systems ... London, United Kingdom. Microsoft Graphic. Hardware Design Engineer. Microsoft.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "United Kingdom",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Nadeen Gebara"
+    },
+    {
+      "position": 76,
+      "title": "Craig Bertram - Modern Devices Technical Architect",
+      "link": "https://uk.linkedin.com/in/craig-bertram-9b9446131",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/craig-bertram-9b9446131&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECEIQAQ",
+      "displayed_link": "200+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5af89a00742e0ad2b7b37f880cd6ea80d0.png",
+      "snippet": "Modern Devices Technical Architect at Microsoft Business Group, Cognizant ... United Kingdom · 210 connections on LinkedIn. View Craig Bertram's ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Modern Devices Technical Architect",
+            "Cognizant Microsoft Business Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Craig Bertram"
+    },
+    {
+      "position": 77,
+      "title": "Jack Tracey - Microsoft",
+      "link": "https://uk.linkedin.com/in/jacktracey93",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jacktracey93&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECF8QAQ",
+      "displayed_link": "7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a29c549c25510a846a20d3f7769e58f16.png",
+      "snippet": "West Sussex, United Kingdom, United Kingdom. -. Burgess Hill, West Sussex ... Microsoft Azure Solutions Architect Certification Transition - AZ-302 Graphic ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "United Kingdom",
+        "Microsoft",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Burgess Hill, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jack Tracey"
+    },
+    {
+      "position": 78,
+      "title": "Simon Frost - Principal Data Scientist - Microsoft",
+      "link": "https://www.linkedin.com/in/sdwfrost",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sdwfrost&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECF0QAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5aba5b0a41cfa24f9e691d400538b5e354.png",
+      "snippet": "Principal Data Scientist at Microsoft Premonition, Professor of Pathogen Dynamics at LSHTM, Principal ... Cambridge, England, United Kingdom. I work on ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Principal",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Simon Frost"
+    },
+    {
+      "position": 79,
+      "title": "Craig Duncan - Microsoft",
+      "link": "https://uk.linkedin.com/in/craigduncan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/craigduncan&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECGMQAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a80cc9bdb4e226c9b3c3322f875f7939b.png",
+      "snippet": "Every day I have the opportunity to lead and support the talented game makers across Xbox… · Experience: Microsoft · Location: United Kingdom · 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Craig Duncan"
+    },
+    {
+      "position": 80,
+      "title": "Jack Lawton - Principal AI Solutions Architect - Aiimi",
+      "link": "https://uk.linkedin.com/in/jack-lawton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jack-lawton&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECGgQAQ",
+      "displayed_link": "770+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ab3e5d5c2c385454547dba3c56935474c.png",
+      "snippet": "Principal AI Solutions Architect at Aiimi. Aiimi The University of Manchester. Manchester Area, United Kingdom. 776 followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Manchester Area, United Kingdom",
+            "Principal AI Solutions Architect",
+            "Aiimi"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jack Lawton"
+    },
+    {
+      "position": 81,
+      "title": "Jake Stoker - Principal Program Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/jakestoker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jakestoker&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECGcQAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a0b0fdffdaacfdd0a782452a9743e466d.png",
+      "snippet": "Principal Program Manager at Microsoft · Microsoft · Northumbria University · United Kingdom · 500+ connections on LinkedIn. View Jake Stoker's profile on ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jake Stoker"
+    },
+    {
+      "position": 82,
+      "title": "Simon Ainslie - Chairman - W Communications",
+      "link": "https://uk.linkedin.com/in/simon-ainslie-88782a23",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/simon-ainslie-88782a23&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECHgQAQ",
+      "displayed_link": "16K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a1c7a836492cc5155bc121326922952eb.png",
+      "snippet": "Chairman and Executive Advisor. Ex COO NEOM, COO Microsoft, VP Nokia · My primary role is to create energy, clarity and a ... United Kingdom · 500+ ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Simon Ainslie"
+    },
+    {
+      "position": 83,
+      "title": "Lee Anderson-Brooke - Senior Director, Executive ...",
+      "link": "https://www.linkedin.com/in/leerobbrooke",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/leerobbrooke&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECHoQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a2a973a65881a522429bce522457ed425.png",
+      "snippet": "Executive Communications, office of the COO at Microsoft · Multi ... Harvard Public Relations. Nov 2008 - Oct 2010 2 years. London, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Senior Director, Executive Communications, Office of the COO",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lee Anderson-Brooke"
+    },
+    {
+      "position": 84,
+      "title": "Erik Hinson - Customer Solutions Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/erikhinson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/erikhinson&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCIgBEAE",
+      "displayed_link": "840+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a8e36a2d40627c50fe9bab0e16334dbb3.png",
+      "snippet": "Customer Solutions Architect at Microsoft. Microsoft University of Kansas. London, England, United Kingdom. 842 followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Customer Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Erik Hinson"
+    },
+    {
+      "position": 85,
+      "title": "Jacqui Read - The Ministry of Software Design",
+      "link": "https://uk.linkedin.com/in/jacquelineread",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jacquelineread&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECHwQAQ",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5aefb04f5cd6f0ebe5791d6b0bd7d9b11e.png",
+      "snippet": "United Kingdom ... Microsoft Certified: Azure Data Fundamentals · Microsoft. Issued Nov 2020. See credential · Microsoft Certified: Azure Solutions Architect ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Winchester, England, United Kingdom",
+            "The Ministry of Software Design"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jacqui Read"
+    },
+    {
+      "position": 86,
+      "title": "Ruth Roberts - Executive Assistant to CVP - Microsoft",
+      "link": "https://uk.linkedin.com/in/ruth-roberts-25866b13",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ruth-roberts-25866b13&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCJYBEAE",
+      "displayed_link": "400+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a3bc0869469efd7f6b6a7743fcfd8d760.png",
+      "snippet": "Ruth Roberts. Executive Assistant | Operational and governance support to Sr Execs | Company Secretary. Microsoft De Montfort University. United Kingdom. 404 ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Executive Assistant to CVP",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ruth Roberts"
+    },
+    {
+      "position": 87,
+      "title": "Spencer Hall - Microsoft Security Architect - AVEVA",
+      "link": "https://uk.linkedin.com/in/spencer-hall-27a8718",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/spencer-hall-27a8718&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCJQBEAE",
+      "displayed_link": "570+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5acd81b91b13b7fa4d37cc712b905c86a4.png",
+      "snippet": "Spencer Hall. Microsoft Security Architect. AVEVA. Burn, England, United Kingdom. 571 followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Architect",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Burn, England, United Kingdom",
+            "Microsoft Security Architect",
+            "AVEVA"
+          ]
+        }
+      },
+      "source": "LinkedIn · Spencer Hall"
+    },
+    {
+      "position": 88,
+      "title": "Antony Watkinson - Technical Architect - Mphasis Microsoft ...",
+      "link": "https://uk.linkedin.com/in/antony-watkinson-b044935",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/antony-watkinson-b044935&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCKIBEAE",
+      "displayed_link": "150+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5adb53acc1d12e092bdae414aed26fce7b.png",
+      "snippet": "Technical Architect at Mphasis · Experience: Mphasis Microsoft MBA · Education: Sheffield Hallam University · Location: United Kingdom · 148 connections on ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Technical Architect",
+            "Mphasis Microsoft MBA"
+          ]
+        }
+      },
+      "source": "LinkedIn · Antony Watkinson"
+    },
+    {
+      "position": 89,
+      "title": "Jamie Wade - Cloud Solutions Architect - Microsoft",
+      "link": "https://uk.linkedin.com/in/jamie-wade",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jamie-wade&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCKEBEAE",
+      "displayed_link": "160+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a3b4d37dcba35ec362c42e98a98c92a40.png",
+      "snippet": "Cloud Solutions Architect at Microsoft. Microsoft Liverpool John Moores University. Liverpool, England, United Kingdom. 166 followers 164 connections. See your ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Liverpool, England, United Kingdom",
+            "Cloud Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jamie Wade"
+    },
+    {
+      "position": 90,
+      "title": "Claire Rowe - Principal Project Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/claire-rowe-b416231a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/claire-rowe-b416231a&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCLEBEAE",
+      "displayed_link": "780+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a5e1c30f07d5443c61753eb294e8d1308.png",
+      "snippet": "Principal Project Manager at Microsoft; leading with authenticity, empathy ... Microsoft. Sep 2024 - Present 7 months. Greater London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Project Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Claire Rowe"
+    },
+    {
+      "position": 91,
+      "title": "James Croft - Senior Customer Engineer - Microsoft",
+      "link": "https://uk.linkedin.com/in/jmcroft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jmcroft&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCK4BEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5afe3001551ac50fd0d7d990d1636fdb3d.png",
+      "snippet": "In my current role as an Azure Customer Experience Engineer at Microsoft, I ... Principal Innovation Consultant. Razor Ltd. Oct 2022 - Oct 2023 1 year 1 ...",
+      "snippet_highlighted_words": [
+        "current",
+        "Microsoft",
+        "Principal"
+      ],
+      "source": "LinkedIn · James Croft"
+    },
+    {
+      "position": 92,
+      "title": "Jon Tiffin - Lead Technical Architect - Microsoft 365",
+      "link": "https://uk.linkedin.com/in/tiffinjon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tiffinjon&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCK8BEAE",
+      "displayed_link": "510+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a4dd11a983cb087a9ac942b7b7bf8e47b.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Jon Tiffin's profile on ... Principal Architect - Microsoft 365 & Microsoft Azure. Avis Budget Group ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Principal Architect",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "microsoft": 365
+          },
+          "extensions": [
+            "United Kingdom",
+            "Lead Technical Architect",
+            "Microsoft 365",
+            "NTT DATA"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jon Tiffin"
+    },
+    {
+      "position": 93,
+      "title": "Pamela Maynard - Microsoft",
+      "link": "https://uk.linkedin.com/in/pam-maynard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pam-maynard&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCLYBEAE",
+      "displayed_link": "25.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a13f95a776eabab09eb85100b34e0f906.png",
+      "snippet": "I am the first-ever Chief AI Transformation Officer for Microsoft Customer and Partner… · Experience: Microsoft · Location: United Kingdom · 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pamela Maynard"
+    },
+    {
+      "position": 94,
+      "title": "Sean Moore - Technical Security Architect (Microsoft ...",
+      "link": "https://uk.linkedin.com/in/cloudmonitoringservices",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/cloudmonitoringservices&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCL8BEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a8e2289184391d510dc6449f1289b25a0.png",
+      "snippet": "Experience. Six Degrees Graphic. Technical Security Architect (Microsoft Security) ... AWSA - AWS Solution Architect Associate Graphic. AWSA - AWS Solution ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Solution Architect",
+        "Solution"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Swindon, England, United Kingdom",
+            "Technical Security Architect (Microsoft Security)",
+            "Six Degrees"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sean Moore"
+    },
+    {
+      "position": 95,
+      "title": "Mani Chandrasekaran - Principal Technologist at AWS for ...",
+      "link": "https://in.linkedin.com/in/cmanikandan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/cmanikandan&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCMsBEAE",
+      "displayed_link": "15.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a67dea7eb9f8b05c77baad4a27454e208.png",
+      "snippet": "... Architect (current) and Microsoft Certified: Azure Solutions Architect Expert. ... Solution Architect - Lead/Principal Solutions Architect. Amazon Web Services ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "current",
+        "Microsoft",
+        "Architect",
+        "Solution Architect",
+        "Principal",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Principal Technologist at AWS for India and South Asia",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mani Chandrasekaran"
+    },
+    {
+      "position": 96,
+      "title": "Anthony Keaveney - Security Cloud Solution Architect",
+      "link": "https://uk.linkedin.com/in/anthony-keaveney-99444b16a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/anthony-keaveney-99444b16a&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCMoBEAE",
+      "displayed_link": "500+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5ae8f4ee62a44d1cbcde03c8efa96e3046.png",
+      "snippet": "Security Cloud Solution Architect · Microsoft · Greater Cardiff Area · 499 connections on LinkedIn. View Anthony Keaveney's profile on LinkedIn, ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Cardiff Area",
+            "Security Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anthony Keaveney"
+    },
+    {
+      "position": 97,
+      "title": "Colin Wright - Principal Software Engineering Manager",
+      "link": "https://uk.linkedin.com/in/colin-wright-265614312",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/colin-wright-265614312&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCMkBEAE",
+      "displayed_link": "300+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a09333f95a0fcc2c6bc8797c26c71f2ec.png",
+      "snippet": "Principal Software Engineering Manager at Microsoft · Friendly and enthusiastic technical manager with a 15 ... United Kingdom · 299 connections on ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Principal Software Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Colin Wright"
+    },
+    {
+      "position": 98,
+      "title": "KK Wong - Cloud Solution Architect - Engineering - Microsoft",
+      "link": "https://uk.linkedin.com/in/kk-wong-87a43220",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kk-wong-87a43220&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCNYBEAE",
+      "displayed_link": "670+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5aeb6dcc542b3c786022750eacf0c6224c.png",
+      "snippet": "Cloud Solution Architect at Microsoft. Microsoft The Hong Kong University of Science and Technology. Reading, England, United Kingdom ... - Present 2 years 9 ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Cloud Solution Architect",
+            "Engineering",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · KK Wong"
+    },
+    {
+      "position": 99,
+      "title": "Jagruti Pandya - Principal Software Engineer - Microsoft",
+      "link": "https://uk.linkedin.com/in/jagrutipandya1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jagrutipandya1&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoFCN0BEAE",
+      "displayed_link": "230+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a4707cfdcb0909a5da705dafa91a19340.png",
+      "snippet": "Principal Software Engineer at Microsoft. Microsoft University of California, Los Angeles. Greater London, England, United Kingdom. 235 followers 229 ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Principal Software Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jagruti Pandya"
+    },
+    {
+      "position": 100,
+      "title": "ian Bearman - Principal Engineering Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/manbearian",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/manbearian&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQFnoECCcQAQ",
+      "displayed_link": "540+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9518ef8f5866723ab9c/images/dd016f5ce1c4c1b914fad27b8c414f5a48e7a3355c4400c719c3156fa3ccafcd.png",
+      "snippet": "Principal Software Engineering Manager at Microsoft · Come work for me ... Working as an engineer and software architect while managing a small team of engineers ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "architect"
+      ],
+      "source": "LinkedIn · ian Bearman"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=ce3cef7d3e0e1deb&gl=us&ei=UvndZ6vwBdmuptQP8vW70A8&start=100&sa=N&sstk=Af40H4XG4VQ59jCo7HFZDZ4sGiGGxn7fXxK--ukvIDY-OoQp6ZVO8pTJFoy381SvQEmAR-auw77UtQy2aQ9gATm_IAvokt0snm3Eww&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQ8NMDegUItQIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=ce3cef7d3e0e1deb&gl=us&ei=UvndZ6vwBdmuptQP8vW70A8&start=100&sa=N&sstk=Af40H4XG4VQ59jCo7HFZDZ4sGiGGxn7fXxK--ukvIDY-OoQp6ZVO8pTJFoy381SvQEmAR-auw77UtQy2aQ9gATm_IAvokt0snm3Eww&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQ8tMDegUItQIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=ce3cef7d3e0e1deb&gl=us&ei=UvndZ6vwBdmuptQP8vW70A8&start=200&sa=N&sstk=Af40H4XG4VQ59jCo7HFZDZ4sGiGGxn7fXxK--ukvIDY-OoQp6ZVO8pTJFoy381SvQEmAR-auw77UtQy2aQ9gATm_IAvokt0snm3Eww&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQ8tMDegUItQIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=ce3cef7d3e0e1deb&gl=us&ei=UvndZ6vwBdmuptQP8vW70A8&start=300&sa=N&sstk=Af40H4XG4VQ59jCo7HFZDZ4sGiGGxn7fXxK--ukvIDY-OoQp6ZVO8pTJFoy381SvQEmAR-auw77UtQy2aQ9gATm_IAvokt0snm3Eww&ved=2ahUKEwir4dPsrJyMAxVZl4kEHfL6DvoQ8tMDegUItQIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=300"
+    }
+  }
+}

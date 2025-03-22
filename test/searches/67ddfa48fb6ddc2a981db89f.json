@@ -1,0 +1,2100 @@
+{
+  "search_metadata": {
+    "id": "67ddfa48fb6ddc2a981db89f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/b9478b24d90b1665/67ddfa48fb6ddc2a981db89f.json",
+    "created_at": "2025-03-21 23:46:16 UTC",
+    "processed_at": "2025-03-21 23:46:16 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/b9478b24d90b1665/67ddfa48fb6ddc2a981db89f.html",
+    "total_time_taken": 1.8
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Amazon\" AND \"United States\" AND (current OR present) AND (\"CIO\" OR \"Chief Information Officer\" OR \"CISO\" OR \"Chief Information Security Officer\" OR \"CMO\" OR \"Chief Marketing Officer\" OR \"CPO\" OR \"Chief Product Officer\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Amazon\" AND \"United States\" AND (current OR present) AND (\"CIO\" OR \"Chief Information Officer\" OR \"CISO\" OR \"Chief Information Security Officer\" OR \"CMO\" OR \"Chief Marketing Officer\" OR \"CPO\" OR \"Chief Product Officer\")",
+    "total_results": 1960000,
+    "time_taken_displayed": 0.86,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Chris Betz - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/chris-betz-903b739b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chris-betz-903b739b&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECAkQAQ",
+      "displayed_link": "10.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34ec625e93953e5061bdebd1cecc5f8ab0.png",
+      "snippet": "Experience: Amazon Web Services (AWS) · Education: United States Air Force Academy · Location: McLean · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "McLean, Virginia, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Betz"
+    },
+    {
+      "position": 2,
+      "title": "Stephen Schmidt - Amazon",
+      "link": "https://www.linkedin.com/in/stephenschmidt1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephenschmidt1&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECBoQAQ",
+      "displayed_link": "14.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b348b60101d8f6cb461468d0911c067c273.png",
+      "snippet": "Stephen Schmidt. Amazon Haverford College. Herndon, Virginia, United States. 14K followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Herndon, Virginia, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Schmidt"
+    },
+    {
+      "position": 3,
+      "title": "CJ Moses - Amazon",
+      "link": "https://www.linkedin.com/in/cjmoses",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cjmoses&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECB0QAQ",
+      "displayed_link": "13.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3463e689d9e8e08cf6a163b4ce02f65277.png",
+      "snippet": "CJ Moses. Amazon. Herndon, Virginia, United States. 13K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Herndon, Virginia, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · CJ Moses"
+    },
+    {
+      "position": 4,
+      "title": "Troy Rydman - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/troyrydman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/troyrydman&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECB4QAQ",
+      "displayed_link": "4.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b341d8d3a20120cd507440a8141f36dd15e.png",
+      "snippet": "Troy Rydman, Amazon Web Services (AWS), Penn State University, About, As an Executive Leader / Chief Information Security Officer / VP, Cybersecurity / Head of...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Chief Information Security Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Salt Lake City Metropolitan Area",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Troy Rydman"
+    },
+    {
+      "position": 5,
+      "title": "Melissa Bishop - Amazon",
+      "link": "https://www.linkedin.com/in/melissasbishop",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/melissasbishop&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECBkQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34e6ff5472c019abe6dac7059c4bda4c58.png",
+      "snippet": "Experience: Amazon Graphic, Amazon, San Francisco Bay Area, San Francisco Bay Area, San Francisco Bay Area, San Francisco, California, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Melissa Bishop"
+    },
+    {
+      "position": 6,
+      "title": "Leandro Balbinot - Amazon",
+      "link": "https://www.linkedin.com/in/leandrobalbinot",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/leandrobalbinot&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECBgQAQ",
+      "displayed_link": "18.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34035d5819fa61f3373a3d19c2441b3a18.png",
+      "snippet": "Leandro Balbinot. Amazon Pontifícia Universidade Católica do Rio Grande do Sul. Austin, Texas, United States ... CIO of the year Latin America. Oracle. Nov 2012 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Leandro Balbinot"
+    },
+    {
+      "position": 7,
+      "title": "Mark Eamer - Amazon",
+      "link": "https://www.linkedin.com/in/meamer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/meamer&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECC8QAQ",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34a60bcab494d3dfc60a6df2f6f05be992.png",
+      "snippet": "Mark Eamer most recently served as the Chief Marketing Officer for Chewy. Eamer and his… · Amazon · University of Michigan - Stephen M. Ross School of ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Eamer"
+    },
+    {
+      "position": 8,
+      "title": "Tim Yip - Chief Information Officer - Amazon Web Services ...",
+      "link": "https://www.linkedin.com/in/tim-yip-262a7a1b2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tim-yip-262a7a1b2&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECC4QAQ",
+      "displayed_link": "9 followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b347f2f480883c248ef91a71e53003ffa7e.png",
+      "snippet": "Tim Yip - Amazon Web Services (AWS) - Chief Information Officer - Amazon Web Services (AWS) - Seattle, Washington, United States",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Chief Information Officer",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Chief Information Officer",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tim Yip"
+    },
+    {
+      "position": 9,
+      "title": "Shawn Scott - Amazon",
+      "link": "https://www.linkedin.com/in/shawn-scott-3823137",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shawn-scott-3823137&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCO8BEAE",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3424929b4af0a75c5b67daaa74115f95e3.png",
+      "snippet": "Shawn Scott. Amazon University of North Carolina at Charlotte. Kansas City, Missouri, United States. 7K followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kansas City, Missouri, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shawn Scott"
+    },
+    {
+      "position": 10,
+      "title": "Clarke Rodgers - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/clarkerodgers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/clarkerodgers&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECDEQAQ",
+      "displayed_link": "5.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34bd7f543e45f0240525983da878b4e40d.png",
+      "snippet": "Information protection focused professional with a wide range of information security… · Experience: Amazon Web Services (AWS) · Location: United States ... CISO ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Clarke Rodgers"
+    },
+    {
+      "position": 11,
+      "title": "Mark Ryland - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/markryland",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/markryland&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCLkBEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3401f2632e6660e43924f7c5e4c22f5481.png",
+      "snippet": "Experience. Amazon Web Services (AWS) Graphic · Amazon Web Services (AWS). Herndon, Virginia, United States. -. Herndon, VA. -. Herndon, VA ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Great Falls, Virginia, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Ryland"
+    },
+    {
+      "position": 12,
+      "title": "Andrew Donkin - Amazon",
+      "link": "https://www.linkedin.com/in/andrew-donkin-9a687ba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrew-donkin-9a687ba&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECHgQAQ",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34bd2391507d73bec9aceabab0178d6822.png",
+      "snippet": "Andrew Donkin. Amazon Questrom School of Business, Boston University. Seattle, Washington, United States. 4K ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Donkin"
+    },
+    {
+      "position": 13,
+      "title": "Beth Galetti - SVP, People eXperience and Technology",
+      "link": "https://www.linkedin.com/in/beth-galetti-60b1106",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/beth-galetti-60b1106&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCIwCEAE",
+      "displayed_link": "99.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34e601e9585b76cc8ef0b1d3ab1b2f5207.png",
+      "snippet": "Experience · Amazon Graphic. SVP, People eXperience and Technology. Amazon. Apr 2021 - Present 4 years. Seattle, Washington, United States · Amazon Graphic ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United States",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Beth Galetti"
+    },
+    {
+      "position": 14,
+      "title": "Mark Schwartz - Amazon Web Services",
+      "link": "https://www.linkedin.com/in/innovativecio",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/innovativecio&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECDMQAQ",
+      "displayed_link": "12.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34897094b7c6a327468534f8a9fd6295aa.png",
+      "snippet": "Mark Schwartz. Amazon Web Services Yale University. Boston, Massachusetts, United States ... I'm an award-winning CIO, a change agent who has led organizations in ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Boston, Massachusetts, United States",
+            "Amazon Web Services"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Schwartz"
+    },
+    {
+      "position": 15,
+      "title": "Navin Ganeshan - Amazon",
+      "link": "https://www.linkedin.com/in/nganeshan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nganeshan&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECGQQAQ",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34978cd3d215fa2c5e39d8e29deb98535d.png",
+      "snippet": "Senior product executive with a track record of innovation and results in… Experience. Amazon Graphic · Amazon. Atlanta, Georgia, United States ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta, Georgia, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Navin Ganeshan"
+    },
+    {
+      "position": 16,
+      "title": "Jeff Kunins - Seattle, Washington, United States",
+      "link": "https://www.linkedin.com/in/jeffkunins",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeffkunins&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCIIBEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34f14ba3aa0d13aebce729f33044fde43a.png",
+      "snippet": "Jeff Kunins. Seattle, Washington, United States. 4K followers 500+ ... Chief Product Officer at Axon where I serve on the Board of Directors. Jeff ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Chief Product Officer"
+      ],
+      "source": "LinkedIn · Jeff Kunins"
+    },
+    {
+      "position": 17,
+      "title": "Carmen Nestares - Amazon",
+      "link": "https://www.linkedin.com/in/carmen-nestares-a3a7525",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/carmen-nestares-a3a7525&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCMoBEAE",
+      "displayed_link": "4.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b340fcaa76c4a8530baf396967b9500e797.png",
+      "snippet": "Carmen Nestares. Amazon NYU Stern School of Business. Seattle, Washington, United States ... Awarded \"Retailer of the Year\" for the work on Amazon.com Kitchen and ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carmen Nestares"
+    },
+    {
+      "position": 18,
+      "title": "Miriam McLemore - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/miriam-mclemore-aws",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/miriam-mclemore-aws&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCNEBEAE",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b349564207c6b3b87db5670e92a5c1b260c.png",
+      "snippet": "Smyrna, Georgia, United States. 5K followers 500+ ... Member of an executive panel with Aaron Levi, CEO of Box, the CIO of Walmart and the CIO of Intel.",
+      "snippet_highlighted_words": [
+        "United States",
+        "CIO",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Smyrna, Georgia, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Miriam McLemore"
+    },
+    {
+      "position": 19,
+      "title": "Hart Rossman - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/hartrossman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hartrossman&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCO4BEAE",
+      "displayed_link": "23.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3401b2a877e2b2ffcf9758a1c61aed207e.png",
+      "snippet": "Hart Rossman. Amazon Web Services (AWS). McLean, Virginia, United States. 23K followers 500+ connections. See your mutual connections. View mutual connections ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "McLean, Virginia, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hart Rossman"
+    },
+    {
+      "position": 20,
+      "title": "Johnathon Edwards - Sr. Industry Specialist - Amazon Web ...",
+      "link": "https://www.linkedin.com/in/johnathon-edwards-944222103",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/johnathon-edwards-944222103&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCI8CEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3411441e0137a7f5fa7231bae2ac1621b4.png",
+      "snippet": "... United States. Ensured that HQ ACC information security requirements are ... Chief Information Security Officer. After a time, Johnathon became my ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Chief Information Security Officer"
+      ],
+      "source": "LinkedIn · Johnathon Edwards"
+    },
+    {
+      "position": 21,
+      "title": "Amit Agarwal - Palo Alto, California, United States",
+      "link": "https://www.linkedin.com/in/amitagarwalamazon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amitagarwalamazon&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCKgCEAE",
+      "displayed_link": "24K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34471cf8fe69b31049e503b36b74dd63b8.png",
+      "snippet": "Amit Agarwal. Palo Alto, California, United States. 24K followers 337 connections. See your mutual connections. View mutual connections with Amit. Sign in ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Amit Agarwal"
+    },
+    {
+      "position": 22,
+      "title": "Benjamin T. Wilson - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/benjaminwilson001",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/benjaminwilson001&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCK4BEAE",
+      "displayed_link": "7.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34e37e6b0236bab48151c82c082d7c20e3.png",
+      "snippet": "CHIEF TECHNOLOGY OFFICER | CHIEF PRODUCT OFFICER · Amazon Web Services (AWS) ... United States. -. Houston, Texas Area. -. Houston, Texas Area. -. Orlando, FL ...",
+      "snippet_highlighted_words": [
+        "CHIEF PRODUCT OFFICER",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Benjamin T. Wilson"
+    },
+    {
+      "position": 23,
+      "title": "Sreejesh Madonandy - Amazon.com",
+      "link": "https://www.linkedin.com/in/sreejeshkm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sreejeshkm&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECGUQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34bd72744d54760d8dd505efd721cb5025.png",
+      "snippet": "Seattle, Washington, United States. -. Bengaluru, Karnataka ... His leadership as a CISO helped AmazonPay be one of the most trusted brands in India.",
+      "snippet_highlighted_words": [
+        "United States",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Amazon.com"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sreejesh Madonandy"
+    },
+    {
+      "position": 24,
+      "title": "Ukonwa Kuzi-Orizu Ojo - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/ukonwa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ukonwa&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECGMQAQ",
+      "displayed_link": "79.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34ad025fb8b354b0d5d650b00eb03e94f4.png",
+      "snippet": "Prior to this, she was the Global Chief Marketing Officer and US General Manager for Amazon Prime Video & Studios. ... Black Executive CMO Alliance (BECA) Graphic ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "Amazon",
+        "CMO"
+      ],
+      "source": "LinkedIn · Ukonwa Kuzi-Orizu Ojo"
+    },
+    {
+      "position": 25,
+      "title": "Brigid Johnson - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/brigid-johnson-36121148",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brigid-johnson-36121148&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECGgQAQ",
+      "displayed_link": "7.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3452a4d87b7b9a0039c3a76f7483696f6d.png",
+      "snippet": "Experience · Amazon Web Services (AWS) Graphic · Amazon Web Services (AWS). Seattle, Washington, United States · -. Seattle, Washington, United States · -. Greater ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brigid Johnson"
+    },
+    {
+      "position": 26,
+      "title": "Brian R Johnson - Co-Founder; Chief Product (CPO)",
+      "link": "https://www.linkedin.com/in/brianrjohnson-amazon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brianrjohnson-amazon&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCIMBEAE",
+      "displayed_link": "17.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34a6f72d3bc18e8e360dde63ba78decfba.png",
+      "snippet": "As Co-founder and Chief Product Officer of DeepM.ai, I help consumer product brands achieve sustained search rank dominance on Amazon.",
+      "snippet_highlighted_words": [
+        "Chief Product Officer",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Antonio, Texas Metropolitan Area",
+            "Co-Founder; Chief Product (CPO)",
+            "DeepM Marketplace Intelligence"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brian R Johnson"
+    },
+    {
+      "position": 27,
+      "title": "Chad Lorenc - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/chadlorenc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chadlorenc&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCOABEAE",
+      "displayed_link": "28.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34426c7dd4354a4eeb6611c74425089ba5.png",
+      "snippet": "As a Security Practice Manager at Amazon Web Services (AWS), I guide CSO/CISO ... Kalispell, Montana, United States. -. Kalispell, Montana, United States ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "CISO",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kalispell, Montana, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chad Lorenc"
+    },
+    {
+      "position": 28,
+      "title": "Mimi Swain - Amazon",
+      "link": "https://www.linkedin.com/in/mimiswain",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mimiswain&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCLgBEAE",
+      "displayed_link": "4.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b348a76fce661364601fbc890c784dd3cb5.png",
+      "snippet": "Mimi Swain. Amazon. Los Angeles, California, United States. 5K followers 500+ connections. See your mutual connections. View mutual connections with Mimi. Sign ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mimi Swain"
+    },
+    {
+      "position": 29,
+      "title": "Justin Honaman - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/justinhonaman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/justinhonaman&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECDAQAQ",
+      "displayed_link": "11.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34c1fdb18ae3be21c6eeb194ec89d94200.png",
+      "snippet": "Justin Honaman. Amazon Web Services (AWS) Stanford University Graduate School of Business. Atlanta, Georgia, United States. 12K followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta, Georgia, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Justin Honaman"
+    },
+    {
+      "position": 30,
+      "title": "Stephen Bruno - Prime Video & Amazon Studios",
+      "link": "https://www.linkedin.com/in/stephenbruno",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephenbruno&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCNMBEAE",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3404fa119e1afee548ee7e65f75670e860.png",
+      "snippet": "Experience: Prime Video & Amazon Studios ... Stephen Bruno. Prime Video & Amazon Studios Boston University. Beverly Hills, California, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Beverly Hills, California, United States",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Bruno"
+    },
+    {
+      "position": 31,
+      "title": "Joseph Cudby - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/jcudby",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jcudby&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCNkBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34d1a8b3f00edcb53af3d96dcf9708f4a2.png",
+      "snippet": "Experience · Amazon Web Services (AWS) Graphic · Amazon Web Services (AWS). Virtual · -. Indianapolis, Indiana, United States · -. Indianapolis, Indiana Area · -.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Boston",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joseph Cudby"
+    },
+    {
+      "position": 32,
+      "title": "AJ Wilhoit - Chief Product Officer - Auger",
+      "link": "https://www.linkedin.com/in/aj-wilhoit",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aj-wilhoit&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCOsBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b344c58a624037ac7b0a1db3016cbad68a1.png",
+      "snippet": "AJ Wilhoit. Chief Product Officer at Auger. Auger University of Arizona. Kirkland, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Chief Product Officer",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Chief Product Officer",
+            "Auger"
+          ]
+        }
+      },
+      "source": "LinkedIn · AJ Wilhoit"
+    },
+    {
+      "position": 33,
+      "title": "George Bishopp - CMO - Amazon",
+      "link": "https://www.linkedin.com/in/george-bishopp-042971208",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/george-bishopp-042971208&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCP8BEAE",
+      "displayed_link": "1 follower",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3451714ca0a465886292fe8be894144f8b.png",
+      "snippet": "George Bishopp. CMO at Amazon. Amazon. New York, New York, United States. 1 follower.",
+      "snippet_highlighted_words": [
+        "CMO",
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "CMO",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · George Bishopp"
+    },
+    {
+      "position": 34,
+      "title": "Frederick John - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/frederickjohn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/frederickjohn&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCIsCEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3471e51e501de5354977593993a4dc2445.png",
+      "snippet": "Atlanta, Georgia, United States. - ... Innovative Product Leadership: The Emerging Chief Product Officer helps prepare you for this highly demanding and desirable ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Chief Product Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta Metropolitan Area",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Frederick John"
+    },
+    {
+      "position": 35,
+      "title": "Krishan Bhatia - Amazon",
+      "link": "https://www.linkedin.com/in/krishanbhatia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/krishanbhatia&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCJgCEAE",
+      "displayed_link": "4.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34c2277129933ffbc35087cc279d182af7.png",
+      "snippet": "Krishan Bhatia. Amazon Georgetown University. New York, New York, United States. 5K followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Krishan Bhatia"
+    },
+    {
+      "position": 36,
+      "title": "Walter Frye - Amazon",
+      "link": "https://www.linkedin.com/in/walter-frye",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/walter-frye&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCKYCEAE",
+      "displayed_link": "9.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34012eb285b76ed45724e4f1b731618298.png",
+      "snippet": "Walter Frye. Amazon Harvard Business School. New York, New York, United States. 10K followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Walter Frye"
+    },
+    {
+      "position": 37,
+      "title": "Tami Hurwitz - Amazon",
+      "link": "https://www.linkedin.com/in/tami-hurwitz-b7a7b04",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tami-hurwitz-b7a7b04&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCLICEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3433c22cb0cdc3fa47405a6fd5ed61621b.png",
+      "snippet": "Tami Hurwitz. Amazon. Kirkland, Washington, United States. 2K followers 500+ connections. See your mutual connections. View mutual connections with Tami. Sign ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tami Hurwitz"
+    },
+    {
+      "position": 38,
+      "title": "Joseph Santamaria - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/josephsantamaria",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/josephsantamaria&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECDIQAQ",
+      "displayed_link": "4.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3484afbe235f936c6ca84f3f70e412d625.png",
+      "snippet": "Joseph Santamaria. Amazon Web Services (AWS) ESADE Business School. Bradenton, Florida, United States ... CIO.com Apr 2013. Joseph Santamaria, CIO of PSEG, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "CIO",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bradenton, Florida, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joseph Santamaria"
+    },
+    {
+      "position": 39,
+      "title": "Andrew McDermott - DHMSM Chief Information Security ...",
+      "link": "https://www.linkedin.com/in/andrew-mcdermott-01873459",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrew-mcdermott-01873459&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECEIQAQ",
+      "displayed_link": "270+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34d76984804d61956a0cf62430e0f40992.png",
+      "snippet": "DHMSM Chief Information Security Officer. Leidos The George Washington University. Falls Church, Virginia, United States ... Amazon Web Services. Jan 2014 - Feb ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Falls Church, Virginia, United States",
+            "DHMSM Chief Information Security Officer",
+            "Leidos"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew McDermott"
+    },
+    {
+      "position": 40,
+      "title": "Francois Ajenstat - Seattle, Washington, United States",
+      "link": "https://www.linkedin.com/in/francoisajenstat",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/francoisajenstat&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECEkQAQ",
+      "displayed_link": "11.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34c39ba367c1d7d4b11dc7040991b8019a.png",
+      "snippet": "Francois Ajenstat. Seattle, Washington, United States. 11K followers 500+ ... “Best damn Product Manager (and CPO) on the planet! Full stop. Tough job ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "CPO"
+      ],
+      "source": "LinkedIn · Francois Ajenstat"
+    },
+    {
+      "position": 41,
+      "title": "Jason Buechel - Vice President, Amazon Worldwide Grocery",
+      "link": "https://www.linkedin.com/in/jasonbuechel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jasonbuechel&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECFkQAQ",
+      "displayed_link": "39.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34509e250f7e18817760426b4bafc3a4c8.png",
+      "snippet": "... United States, Canada and the United Kingdom, and overseeing the company's ... Chief Information Officer, where he was responsible for all aspects of ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Chief Information Officer"
+      ],
+      "source": "LinkedIn · Jason Buechel"
+    },
+    {
+      "position": 42,
+      "title": "Morgan Reed - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/morganmreed",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/morganmreed&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECFcQAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b349083fe1829218f1c5d29b967f4a79715.png",
+      "snippet": "Morgan Reed. Amazon Web Services (AWS) Keller Graduate School of Management. Scottsdale, Arizona, United States ... Member - CIO Advisory Council. Amazon Web ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "CIO",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Scottsdale, Arizona, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Morgan Reed"
+    },
+    {
+      "position": 43,
+      "title": "Bethany Dotson - VP, Product Marketing Strategy and ...",
+      "link": "https://www.linkedin.com/in/bethany-dotson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bethany-dotson&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECGcQAQ",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34387682a73540aa0b962988b9c43c94bd.png",
+      "snippet": "B2B Marketing Leader | Ex-Amazon | Building teams that drive business forward · I've spent the last fifteen years taking small businesses and helping to ...",
+      "snippet_highlighted_words": [
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Detroit, Michigan, United States",
+            "VP, Product Marketing Strategy and Operations",
+            "Thomson Reuters"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bethany Dotson"
+    },
+    {
+      "position": 44,
+      "title": "S. Tyler Harding - Senior Technical Advisor (HQE) / ICAM ...",
+      "link": "https://www.linkedin.com/in/s-tyler-harding-92b3264",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/s-tyler-harding-92b3264&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCIICEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b342ebea65c02038f3315a9996a7ca15f32.png",
+      "snippet": "... Amazon's security and compliance efforts to achieve the most widely ... Arlington, Virginia, United States. 1K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Amazon's",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Arlington, Virginia, United States",
+            "Senior Technical Advisor (HQE) / ICAM Program Manager",
+            "Office of the DoD Chief Information Officer"
+          ]
+        }
+      },
+      "source": "LinkedIn · S. Tyler Harding"
+    },
+    {
+      "position": 45,
+      "title": "Andrea Gellert - New York, New York, United States",
+      "link": "https://www.linkedin.com/in/andrea-gellert-055ba4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrea-gellert-055ba4&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCIABEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34e16f5a8d6d7f7037b63833d94342b255.png",
+      "snippet": "Andrea Gellert. New York, New York, United States. 2K followers 500+ connections. See your mutual connections. View mutual connections with Andrea. Sign in ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Andrea Gellert"
+    },
+    {
+      "position": 46,
+      "title": "Pradeep Vaswani - Amazon",
+      "link": "https://www.linkedin.com/in/vaswanipradeep",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vaswanipradeep&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCJkCEAE",
+      "displayed_link": "9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b349f9e76db6af84ec5de7ff3600245a8b8.png",
+      "snippet": "Pradeep is a global head of Data and AI programs at Amazon, where he partners with… · Amazon · University of South Carolina-Columbia · United States · 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pradeep Vaswani"
+    },
+    {
+      "position": 47,
+      "title": "Tammy Henault - MMA Global",
+      "link": "https://www.linkedin.com/in/tammyhenault",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tammyhenault&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCKcCEAE",
+      "displayed_link": "22.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34c0d4e9133055f86ee75ef1a5401b7be2.png",
+      "snippet": "Tammy is currently the Chief Marketing Officer of the National Basketball Association ... New York, New York, United States. -. New York, United States ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "MMA Global"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tammy Henault"
+    },
+    {
+      "position": 48,
+      "title": "Eben Hewitt - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/ebenhewitt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ebenhewitt&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCJYBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b345c6e042bebd53d6ab1086741f99a707e.png",
+      "snippet": "I am honored to be Chief Information Officer at Hyatt. I have designed, built, and run… · Location: United States. 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Chief Information Officer",
+        "United States"
+      ],
+      "source": "LinkedIn · Eben Hewitt"
+    },
+    {
+      "position": 49,
+      "title": "Artemis Vallianatos - New York, New York, United States",
+      "link": "https://www.linkedin.com/in/artemisvallianatos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/artemisvallianatos&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCKIBEAE",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b340d54f0f00c4175b5637e64185f9d471d.png",
+      "snippet": "Artemis Vallianatos. New York, New York, United States. 4K followers 500+ ... “Artemis is the current Head of Brand & Thought Leadership at Amazon ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "current",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Artemis Vallianatos"
+    },
+    {
+      "position": 50,
+      "title": "Jonathan Mildenhall - Rocket",
+      "link": "https://www.linkedin.com/in/mildenhall",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mildenhall&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCK8BEAE",
+      "displayed_link": "38.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b349e64f633d17819f6149a398161cd8c3c.png",
+      "snippet": "Jonathan is the first-ever Chief Marketing Officer of Rocket Companies ... United States. -. Philadelphia, Pennsylvania, United States. -. San Francisco ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "West Hollywood, California, United States",
+            "Rocket"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Mildenhall"
+    },
+    {
+      "position": 51,
+      "title": "Aruna Ravichandran (she/her) - Cisco",
+      "link": "https://www.linkedin.com/in/aruna2u",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aruna2u&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCLoBEAE",
+      "displayed_link": "25.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34922259bd3fa2ad72f29fb6e88fcb5e08.png",
+      "snippet": "A results-driven Global CMO with a strong background in digital and product marketing… · ... Amazon. All proceeds from the book will be donated to non ...",
+      "snippet_highlighted_words": [
+        "CMO",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Cisco"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aruna Ravichandran (she/her)"
+    },
+    {
+      "position": 52,
+      "title": "Jerri DeVard - Founder & CEO - Black Executive CMO ...",
+      "link": "https://www.linkedin.com/in/jerridevard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jerridevard&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECCgQAQ",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b342b70858d17acd348ed664a0dc2ec939b.png",
+      "snippet": "CEO at Black Executive CMO Alliance | CMO, Founder, Board Director · Accomplished Chief Marketing Officer/Business Executive and Independent Director with ...",
+      "snippet_highlighted_words": [
+        "CMO",
+        "CMO",
+        "Chief Marketing Officer"
+      ],
+      "source": "LinkedIn · Jerri DeVard"
+    },
+    {
+      "position": 53,
+      "title": "Stacy Lynn Bourgeois - Chief Marketing Officer - Neighborly",
+      "link": "https://www.linkedin.com/in/stacylynnbourgeois",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stacylynnbourgeois&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCOEBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3416008deb4dc1036ad3761245b121922b.png",
+      "snippet": "Chief Marketing Officer of Neighborly. Neighborly® Northwestern University. Dallas, Texas, United States ... Amazon. 5 years 4 months · Amazon Graphic. Global ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "United States",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas, Texas, United States",
+            "Chief Marketing Officer",
+            "Neighborly®"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stacy Lynn Bourgeois"
+    },
+    {
+      "position": 54,
+      "title": "Vasanth W. - EVP, Chief Product Officer & Engineering",
+      "link": "https://www.linkedin.com/in/vasanthwilliams",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vasanthwilliams&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCNABEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34ba52408898cedfb05130930a7a7ae39b.png",
+      "snippet": "EVP, CPO & Engineering at MLB · Product, Engineering and Business ... Amazon's multi-billion dollar advertising business - P&L responsibility for ...",
+      "snippet_highlighted_words": [
+        "CPO",
+        "Amazon's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "EVP, Chief Product Officer & Engineering",
+            "Major League Baseball"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vasanth W."
+    },
+    {
+      "position": 55,
+      "title": "Ryan Ostrom - Jack in the Box",
+      "link": "https://www.linkedin.com/in/ryan-ostrom-559139",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ryan-ostrom-559139&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCNIBEAE",
+      "displayed_link": "8.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b340f0414354c5d80e93632f5ed9c1f5dab.png",
+      "snippet": "Ryan Ostrom. Jack in the Box The University of Chicago - Booth School of Business. San Diego, California, United States ... As the CMO/EVP at Jack in the Box, I ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "CMO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Diego, California, United States",
+            "Jack in the Box"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Ostrom"
+    },
+    {
+      "position": 56,
+      "title": "DeWayne Hixson - Hixson Strategic Solutions",
+      "link": "https://www.linkedin.com/in/dewayne-hixson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dewayne-hixson&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCN8BEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b344f070e5dab3a5e6ee72dff5392c3b14b.png",
+      "snippet": "Bentonville, Arkansas, United States. -. Bentonville, Arkansas ... The CISO Society. Dec 2022 - Present 2 years 4 months. The CISO Society is a ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "CISO",
+        "Present",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bentonville, Arkansas, United States",
+            "Hixson Strategic Solutions"
+          ]
+        }
+      },
+      "source": "LinkedIn · DeWayne Hixson"
+    },
+    {
+      "position": 57,
+      "title": "Suha Can - DoorDash",
+      "link": "https://www.linkedin.com/in/suhacan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/suhacan&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCO0BEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34ec5e84a1f16dbde579c0d0ec214aa52a.png",
+      "snippet": "Suha Can. DoorDash University of Washington - Michael G. Foster School of Business. Seattle, Washington, United States ... As the VP & CISO for DoorDash, I lead ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "DoorDash"
+          ]
+        }
+      },
+      "source": "LinkedIn · Suha Can"
+    },
+    {
+      "position": 58,
+      "title": "Tashina DeWeese-Touma, MBA, PMP, CPO",
+      "link": "https://www.linkedin.com/in/tashina-deweese-mba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tashina-deweese-mba&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCOwBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b343517eb4234b8041082bf446ca6c0e874.png",
+      "snippet": "Tashina DeWeese-Touma, MBA, PMP, CPO. Sr. Program Manager, Geo Expansion at Amazon | Veteran. Amazon Grantham University. Nashville, ...",
+      "snippet_highlighted_words": [
+        "CPO",
+        "Amazon",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Tashina DeWeese-Touma, MBA, PMP, CPO"
+    },
+    {
+      "position": 59,
+      "title": "⚡️ Jeremy Schumann - Amazon | ...",
+      "link": "https://www.linkedin.com/in/jeremyschumann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeremyschumann&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCIACEAE",
+      "displayed_link": "13.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b347a3547937e808d96c21264a6806273ef.png",
+      "snippet": "Jude's CEO and Digital and Innovation Council the #1 Most Trusted and 4th Largest Nonprofit in the United States. ... CMO Summits for over 100 top global ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "CMO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · ⚡️ Jeremy Schumann"
+    },
+    {
+      "position": 60,
+      "title": "Stacey Rosenson - Amazon",
+      "link": "https://www.linkedin.com/in/staceyrosenson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/staceyrosenson&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCOoBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3458ea7d27db341061458a7da96ea1ec13.png",
+      "snippet": "Experience: Amazon · Location: Los Angeles Metropolitan Area · 500+ connections on LinkedIn ... Los Angeles, California, United States. -",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stacey Rosenson"
+    },
+    {
+      "position": 61,
+      "title": "Doug Yates - Chief Marketing Officer - Ubicquia, Inc",
+      "link": "https://www.linkedin.com/in/dougyatesdly",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dougyatesdly&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCPABEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34d7f9026bc72dd956b102dec7575de624.png",
+      "snippet": "Chief Marketing Officer | Brand Strategist | Team Builder | Lecturer at USC | x Disney, Lucasfilm, FOX, Amazon · Doug Yates is a dynamic marketing leader ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Chief Marketing Officer",
+            "Ubicquia, Inc"
+          ]
+        }
+      },
+      "source": "LinkedIn · Doug Yates"
+    },
+    {
+      "position": 62,
+      "title": "Mayur Gupta - CMO & Growth GM - Kraken Digital Asset ...",
+      "link": "https://www.linkedin.com/in/mayurgupta77",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mayurgupta77&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCJ8CEAE",
+      "displayed_link": "60.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b340704fde331d797c9281964cfa9829765.png",
+      "snippet": "New York, United States. Gannett | USA TODAY NETWORK Graphic. Member Board Of ... The CMO Programmatic Marketing Award - The CMO Award for Programmatic ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "CMO",
+        "CMO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Miami, Florida, United States",
+            "CMO & Growth GM",
+            "Kraken Digital Asset Exchange"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mayur Gupta"
+    },
+    {
+      "position": 63,
+      "title": "Brian Root - Founder and Fractional CPO - Rooted In Product",
+      "link": "https://www.linkedin.com/in/br1an-r00t",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/br1an-r00t&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCI0CEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b347209a53382ef73e45fee3953c7e40767.png",
+      "snippet": "Fractional Chief Product Officer | Helping CEOs Drive Product Success | Ex-Amazon, Walmart Labs · I am ... New York, New York, United States. 1K followers ...",
+      "snippet_highlighted_words": [
+        "Chief Product Officer",
+        "Amazon",
+        "United States"
+      ],
+      "source": "LinkedIn · Brian Root"
+    },
+    {
+      "position": 64,
+      "title": "Matt Sutton - Columbia Sportswear Company",
+      "link": "https://www.linkedin.com/in/matthewsutton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matthewsutton&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCJ4CEAE",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34e3a9641af2c81dd555f99d63aed32b62.png",
+      "snippet": "Santa Monica, California, United States. -. Santa Monica, California, United ... Volunteer Experience. The CMO Club Graphic. President, Los Angeles. The CMO ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "United",
+        "CMO",
+        "CMO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Portland, Oregon, United States",
+            "Columbia Sportswear Company"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Sutton"
+    },
+    {
+      "position": 65,
+      "title": "Brad Jones - Snowflake",
+      "link": "https://www.linkedin.com/in/brad-jones-6963b14",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brad-jones-6963b14&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCKoCEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b349cd7b9b32af3c84ffd219a93299884db.png",
+      "snippet": "Dedicated and accomplished security leader with a broad technical background and a… · Snowflake · University of California, Davis · United States · 500+ ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Snowflake"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brad Jones"
+    },
+    {
+      "position": 66,
+      "title": "Lisa Barry - Global Head of Human Resources",
+      "link": "https://www.linkedin.com/in/lisa-barry-2296472",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lisa-barry-2296472&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCLMCEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b349de6aa5510d9950e84ffc28babf09b8e.png",
+      "snippet": "Seattle, Washington, United States. Amazon Graphic. Head of HR | Amazon Transportation Services - Product and Technology (ATS Tech). Amazon. Mar 2021 - Aug 2024 ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Amazon",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Global Head of Human Resources | Various Business Lines",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lisa Barry"
+    },
+    {
+      "position": 67,
+      "title": "Peeyush Patel - XPO",
+      "link": "https://www.linkedin.com/in/peeyush-patel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/peeyush-patel&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCKsCEAE",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34c092be2ec9be36257705ccb2975ff6ee.png",
+      "snippet": "Experience · XPO Graphic. XPO. United States · - · -. Dallas, Texas, United States · - · - · -. Greater New York City Area ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas-Fort Worth Metroplex",
+            "XPO"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peeyush Patel"
+    },
+    {
+      "position": 68,
+      "title": "Bob Taylor - Chief Information Security Officer - City of ...",
+      "link": "https://www.linkedin.com/in/bob-taylor-city-of-baltimore-ciso",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bob-taylor-city-of-baltimore-ciso&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCKkCEAE",
+      "displayed_link": "300+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b349378746f8f3ed47e16e09c286823d87f.png",
+      "snippet": "Cloud ISM for migration of Chase.com from Chase data centers to Amazon Web Services. ... CISO and the agency o Performed annual Security Assessments ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "CISO"
+      ],
+      "source": "LinkedIn · Bob Taylor"
+    },
+    {
+      "position": 69,
+      "title": "April Anslinger - GLOBAL CMO GROWTH COUNCIL",
+      "link": "https://www.linkedin.com/in/april-anslinger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/april-anslinger&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCLYCEAE",
+      "displayed_link": "4.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b345adc7538be5686ba8fa5534be3096a95.png",
+      "snippet": "April Anslinger, Global Chief Marketing Officer at Self Esteem Brands - parent company of… · Experience: GLOBAL CMO GROWTH COUNCIL · Education: Indiana ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "CMO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Minneapolis-St. Paul Area",
+            "GLOBAL CMO GROWTH COUNCIL"
+          ]
+        }
+      },
+      "source": "LinkedIn · April Anslinger"
+    },
+    {
+      "position": 70,
+      "title": "Cameron MacQueen - Amazon",
+      "link": "https://www.linkedin.com/in/cameronmacqueen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cameronmacqueen&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCLcBEAE",
+      "displayed_link": "5.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b349c1e95e46141e1f1a9ac7e43dac68501.png",
+      "snippet": "Cameron MacQueen. Amazon Jönköping International Business School. San Diego, California, United States. 5K followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Diego, California, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Cameron MacQueen"
+    },
+    {
+      "position": 71,
+      "title": "Andrew Wanner, CPO - Fort Wayne, Indiana, United States",
+      "link": "https://www.linkedin.com/in/andrew-wanner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrew-wanner&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECEMQAQ",
+      "displayed_link": "450+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34002d33853ae852a3ff093c81f090aa79.png",
+      "snippet": "Cluster Security Manager @ AWS | CPO, Retired Military · As a Loss Prevention Manager at Amazon, I lead a team of security professionals who ensure the ...",
+      "snippet_highlighted_words": [
+        "CPO",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Andrew Wanner, CPO"
+    },
+    {
+      "position": 72,
+      "title": "Dipto Chakravarty - Cloudera",
+      "link": "https://www.linkedin.com/in/diptochakravarty",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/diptochakravarty&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECEoQAQ",
+      "displayed_link": "11.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34186b80dda6ed8a215830c4ce2dbb04cc.png",
+      "snippet": "Solution is an encrypted payment scheme for frictionless 1-click experience (Amazon). ... United States. -. Toronto, Canada. -. Virginia and London, UK ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington DC-Baltimore Area",
+            "Cloudera"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dipto Chakravarty"
+    },
+    {
+      "position": 73,
+      "title": "Alison Wagonfeld - Google",
+      "link": "https://www.linkedin.com/in/alisonwagonfeld",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alisonwagonfeld&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECEsQAQ",
+      "displayed_link": "16.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34af0b8de78c5ecaaf6fda28497cfb60a8.png",
+      "snippet": "Experience. Google Graphic. Google. Mountain View, CA. -. San Jose, California, United States. - ... Mar 2022 - Present 3 years 1 month. Education. Yale's Jackson ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Present"
+      ],
+      "source": "LinkedIn · Alison Wagonfeld"
+    },
+    {
+      "position": 74,
+      "title": "Nina Akerley Lindsey - Chief Marketing Officer",
+      "link": "https://www.linkedin.com/in/nina-akerley-lindsey",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nina-akerley-lindsey&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECEwQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b340393507c24b4d27088379b931bda6d5a.png",
+      "snippet": "CMO, GE HealthCare · Communications executive with 20 years of experience ... Amazon, Nina has appeared on NBC's TODAY Show, CBS This Morning, ABC ...",
+      "snippet_highlighted_words": [
+        "CMO",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Chief Marketing Officer",
+            "GE HealthCare"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nina Akerley Lindsey"
+    },
+    {
+      "position": 75,
+      "title": "Sonika Patel - Chief Marketing Officer - P.F. Chang's",
+      "link": "https://www.linkedin.com/in/sonikapatel15",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sonikapatel15&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECFoQAQ",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b348d197b63568dba54a0b318e8bbd1e562.png",
+      "snippet": "CMO | Global Head of Marketing | Brand Transformation | Growth Strategist ... 2021 Effie Awards United States Jury. Effie Worldwide. May 2021 - May 2021 ...",
+      "snippet_highlighted_words": [
+        "CMO",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Chief Marketing Officer",
+            "P.F. Chang's"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sonika Patel"
+    },
+    {
+      "position": 76,
+      "title": "Yassine Saidi - Chief Product Officer and General Manager",
+      "link": "https://www.linkedin.com/in/yassine-saidi-94671313",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/yassine-saidi-94671313&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECGYQAQ",
+      "displayed_link": "8.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34e7736126c24aaeeb4f66877e5c834c91.png",
+      "snippet": "Chief Product Officer at Under Armour · Experience: Under Armour · Education: Harvard Business School · Location: United States · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Chief Product Officer",
+        "United States"
+      ],
+      "source": "LinkedIn · Yassine Saidi"
+    },
+    {
+      "position": 77,
+      "title": "Elena Leonova 🇺🇦 - Chief Product Officer - Spryker",
+      "link": "https://www.linkedin.com/in/elenleonova",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/elenleonova&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECEgQAQ",
+      "displayed_link": "7.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b344bf8efb5fdbbd65bbfe7dc891e0a3343.png",
+      "snippet": "CPO @ Spryker (Digital Commerce Platform) | Mentor for aspiring product ... Austin, Texas, United States. 8K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "CPO",
+        "United States"
+      ],
+      "source": "LinkedIn · Elena Leonova 🇺🇦"
+    },
+    {
+      "position": 78,
+      "title": "Sarah Rodrigues - Chief Product Officer - acre security",
+      "link": "https://www.linkedin.com/in/sarahjrodrigues",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarahjrodrigues&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECGkQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34769cb1a2e395a39b9f267c49a53ad08e.png",
+      "snippet": "Chief Product Officer at acre security. acre security UW Foster School of Business. Austin, Texas, United States ... Product Manager Marketing, Amazon Devices | ...",
+      "snippet_highlighted_words": [
+        "Chief Product Officer",
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Chief Product Officer",
+            "acre security"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Rodrigues"
+    },
+    {
+      "position": 79,
+      "title": "Kevin Warren - Member Board of Directors - Assurant",
+      "link": "https://www.linkedin.com/in/kevinmwarren",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kevinmwarren&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECFYQAQ",
+      "displayed_link": "23.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3417c7dae50e5e976b0e189c8c254823cf.png",
+      "snippet": "He is a member of the International Tennis Hall of Fame board of governors and the Black Executive CMO Alliance. ... President United States Client Operations.",
+      "snippet_highlighted_words": [
+        "CMO",
+        "United States"
+      ],
+      "source": "LinkedIn · Kevin Warren"
+    },
+    {
+      "position": 80,
+      "title": "Jason S. - Scottsdale, Arizona, United States",
+      "link": "https://www.linkedin.com/in/stead-jason",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stead-jason&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCM8BEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b341e7957ed49f6c4eaaaf94e216168582f.png",
+      "snippet": "Jason S. Scottsdale, Arizona, United States. 1K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Jason S."
+    },
+    {
+      "position": 81,
+      "title": "Robert Alexander - Capital One Financial",
+      "link": "https://www.linkedin.com/in/robert-alexander-3777a04",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robert-alexander-3777a04&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCIECEAE",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34102d912be546f2be1cd7138285f411c4.png",
+      "snippet": "Robert Alexander. Capital One Financial Harvard Business School. Richmond, Virginia, United States. 5K followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Richmond, Virginia, United States",
+            "Capital One Financial"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert Alexander"
+    },
+    {
+      "position": 82,
+      "title": "Graeme Thompson - San Jose, California, United States",
+      "link": "https://www.linkedin.com/in/graeme-thompson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/graeme-thompson&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECHkQAQ",
+      "displayed_link": "4.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34870ed45a315192fd19b20b55b82d302c.png",
+      "snippet": "Graeme Thompson. San Jose, California, United States. 4K followers 500+ ... The CIO Reading List... Execution: The… 38. 4 Comments. See all articles ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "CIO"
+      ],
+      "source": "LinkedIn · Graeme Thompson"
+    },
+    {
+      "position": 83,
+      "title": "Ravi Naik - Chief Information Officer & CISO - Altera, an ...",
+      "link": "https://www.linkedin.com/in/sv-ravi-naik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sv-ravi-naik&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCI4CEAE",
+      "displayed_link": "4.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34e6ad3073e2fa1bb56d662b4fcbfad0b6.png",
+      "snippet": "Chief Information Officer & CISO · Pfeiffer & Ridge, Strategy Advisor · Member Board of Directors · EVP & CIO · Executive Vice President & GM Lyve Cloud Storage ...",
+      "snippet_highlighted_words": [
+        "Chief Information Officer",
+        "CISO",
+        "CIO"
+      ],
+      "source": "LinkedIn · Ravi Naik"
+    },
+    {
+      "position": 84,
+      "title": "Marian Lee - Chief Marketing Officer - Netflix",
+      "link": "https://www.linkedin.com/in/marian-lee-bb27843",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marian-lee-bb27843&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCIEBEAE",
+      "displayed_link": "15.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b340ed30299e98daca10eaf5d86e9ea9458.png",
+      "snippet": "Marian Lee. Netflix. Los Angeles, California, United States. 16K followers 500+ ... Jun 2023. \"She's the CMO of one of the world's largest entertainment ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "CMO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Chief Marketing Officer",
+            "Netflix"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marian Lee"
+    },
+    {
+      "position": 85,
+      "title": "Chad Wright - Boston Dynamics",
+      "link": "https://www.linkedin.com/in/chadwright",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chadwright&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCIQBEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34ecc32a3f1e7cb7f55b317a1d0dbdc8a0.png",
+      "snippet": "Chad Wright. Boston Dynamics College of the Holy Cross. Boston, Massachusetts, United States ... “I reported to Chad for about two years at Kiva Systems/Amazon ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Boston, Massachusetts, United States",
+            "Boston Dynamics"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chad Wright"
+    },
+    {
+      "position": 86,
+      "title": "Jason Clinton - Chief Information Security Officer - Anthropic",
+      "link": "https://www.linkedin.com/in/jason-d-clinton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jason-d-clinton&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECH8QAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b341d9cb42199cd9c356440f1d0a8e8f21c.png",
+      "snippet": "CISO at Anthropic · Anthropic · San Francisco Bay Area · 500+ connections on LinkedIn ... Chief Information Security Officer. Anthropic. Apr 2023 - Present ...",
+      "snippet_highlighted_words": [
+        "CISO",
+        "Chief Information Security Officer",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Chief Information Security Officer",
+            "Anthropic"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jason Clinton"
+    },
+    {
+      "position": 87,
+      "title": "Cindy Gustafson - Chief Marketing Officer - Nutrafol",
+      "link": "https://www.linkedin.com/in/cindygustafson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cindygustafson&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECH4QAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34f96038c12530fb8086dad7c4ec862a78.png",
+      "snippet": "Cindy Gustafson. Chief Marketing Officer Nutrafol. Nutrafol Ithaca College. Larchmont, New York, United States.",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Larchmont, New York, United States",
+            "Chief Marketing Officer",
+            "Nutrafol"
+          ]
+        }
+      },
+      "source": "LinkedIn · Cindy Gustafson"
+    },
+    {
+      "position": 88,
+      "title": "Sean Tresvant - Taco Bell",
+      "link": "https://www.linkedin.com/in/sean-tresvant-810b565",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sean-tresvant-810b565&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCJMBEAE",
+      "displayed_link": "20.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b349ee6ec36bc41d83dc03bc35e33b6c3db.png",
+      "snippet": "Sean Tresvant. Taco Bell Seattle University. Los Angeles, California, United States ... The mission of the Black Executive CMO Alliance (BECA) is ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "CMO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Taco Bell"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sean Tresvant"
+    },
+    {
+      "position": 89,
+      "title": "Clare Ward - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/clare-ward-13540a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/clare-ward-13540a&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCJQBEAE",
+      "displayed_link": "4.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b344e1185e1ba23bd59cc80cfde8604c357.png",
+      "snippet": "Clare Ward. Global CIO enabling Digital Transformation across Aviation, Travel & Hospitality. Amazon Web Services (AWS) Imperial College London ...",
+      "snippet_highlighted_words": [
+        "CIO",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Clare Ward"
+    },
+    {
+      "position": 90,
+      "title": "Lisa Evans - Mercedes-Benz US International",
+      "link": "https://www.linkedin.com/in/lisa-evans-team-is-everything",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lisa-evans-team-is-everything&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCJUBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3419f10d9eca8db620d38c64fe8dfb8fa8.png",
+      "snippet": "Tuscaloosa, Alabama, United States. 2K followers 500+ connections. See ... In my role as CIO / CISO / CTO at Mercedes-Benz US International, I had the ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "CIO",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Tuscaloosa, Alabama, United States",
+            "CIO / CISO / CTO",
+            "Mercedes-Benz US International"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lisa Evans"
+    },
+    {
+      "position": 91,
+      "title": "Adam Petrick - SharkNinja",
+      "link": "https://www.linkedin.com/in/adampetrick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/adampetrick&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCKMBEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3405e33aeda93f69142cab5d61708ca260.png",
+      "snippet": "Adam Petrick is SharkNinja's Chief Marketing Officer. In his role, Adam ... New York, United States. -. Boston, Massachusetts, United States. -. Boston ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Boston, Massachusetts, United States",
+            "SharkNinja"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Petrick"
+    },
+    {
+      "position": 92,
+      "title": "Ryan Knisley - Lightwave Precision",
+      "link": "https://www.linkedin.com/in/ryanknisley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ryanknisley&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCKABEAE",
+      "displayed_link": "10.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3440433a29152f645192268a0084c9cd91.png",
+      "snippet": "Experience: Lightwave Precision · Location: United States · 500+ connections on LinkedIn. View Ryan Knisley's profile on LinkedIn, a professional community ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Lightwave Precision"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Knisley"
+    },
+    {
+      "position": 93,
+      "title": "Marissa Jarratt - 7-Eleven",
+      "link": "https://www.linkedin.com/in/marissajarratt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marissajarratt&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCKEBEAE",
+      "displayed_link": "11.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34420fc5ab581dabf4e9317eddc59bca98.png",
+      "snippet": "... United States · 500+ connections on LinkedIn. View Marissa Jarratt's profile ... DFW CMO of the Year. American Marketing Association. Jun 2023. GOLD Effie ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "CMO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "eleven": 7
+          },
+          "extensions": [
+            "United States",
+            "7-Eleven"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marissa Jarratt"
+    },
+    {
+      "position": 94,
+      "title": "Najeeb Uddin - AARP",
+      "link": "https://www.linkedin.com/in/najeebuddin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/najeebuddin&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCLUBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3403b34d8a2168721bac79a115aeaca5df.png",
+      "snippet": "CIO Advisory Council. Aug 2022 - Present. Amazon Web Services. CIO Advisory Council. Jun 2022 - Present. AT&T. CIO Advisory Council. Jul 2021 - Present ...",
+      "snippet_highlighted_words": [
+        "CIO",
+        "Present",
+        "Amazon",
+        "CIO",
+        "Present",
+        "CIO",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "AARP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Najeeb Uddin"
+    },
+    {
+      "position": 95,
+      "title": "Ruba Borno - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/rubaborno",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rubaborno&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCLQBEAE",
+      "displayed_link": "34.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b3444f8c039f609602478ed8632e389b1c8.png",
+      "snippet": "Location: United States · 500+ connections on LinkedIn. View Ruba Borno's profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Ruba Borno"
+    },
+    {
+      "position": 96,
+      "title": "Scott Belsky - Partner - A24",
+      "link": "https://www.linkedin.com/in/scottbelsky",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/scottbelsky&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCLYBEAE",
+      "displayed_link": "208.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34e4f45745831a681c82553d47282f1a9e.png",
+      "snippet": "... Chief Product Officer and Chief Strategy Officer and EVP of Design ... Amazon Publishing. Scott serves on the board of the Museum of Modern Art and the ...",
+      "snippet_highlighted_words": [
+        "Chief Product Officer",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Scott Belsky"
+    },
+    {
+      "position": 97,
+      "title": "Aditi Javeri Gokhale - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/aditi-gokhale",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aditi-gokhale&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCJ8BEAE",
+      "displayed_link": "11.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b34ab4edc039a26149edfb03429682356a4.png",
+      "snippet": "Fortune 100 President | Chief Strategy Officer | Chief Commercial Officer | Chief Marketing Officer | Business Transformation ... Wall Street Journal CMO Council.",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "CMO"
+      ],
+      "source": "LinkedIn · Aditi Javeri Gokhale"
+    },
+    {
+      "position": 98,
+      "title": "Jason Birnbaum - United Airlines",
+      "link": "https://www.linkedin.com/in/jebirnbaum",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jebirnbaum&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoFCMkBEAE",
+      "displayed_link": "4.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b346c92961fe36c97e8fc675e7f476e96cf.png",
+      "snippet": "All IT liked Jason when he was EMEA CIO.” 1 person has recommended Jason. Join now to view.",
+      "snippet_highlighted_words": [
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Chicago Area",
+            "United Airlines"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jason Birnbaum"
+    },
+    {
+      "position": 99,
+      "title": "Ron McMurtrie - Honeywell",
+      "link": "https://www.linkedin.com/in/ronmcmurtrie",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ronmcmurtrie&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECCcQAQ",
+      "displayed_link": "8.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b348ce288d286d835f10e74522edb4c3098.png",
+      "snippet": "Atlanta, Georgia, United States. -. Atlanta, Georgia, United States ... CMO Insights: Ron McMurtrie, Chief Marketing Officer, Sage. Pedowitz Group ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "United States",
+        "CMO",
+        "Chief Marketing Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta, Georgia, United States",
+            "Honeywell"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ron McMurtrie"
+    },
+    {
+      "position": 100,
+      "title": "Heidi R. - Seattle, Washington, United States",
+      "link": "https://www.linkedin.com/in/heidisrobinson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/heidisrobinson&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQFnoECC0QAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa48fb6ddc2a981db89f/images/af8a216d1f00f7ada8ca0efa7a174b340139439f85095497cd12f15bdaeef68a.png",
+      "snippet": "Heidi R. Seattle, Washington, United States. 2K followers 500+ ... Besides her product leadership in her official capacity as chief product officer ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "chief product officer"
+      ],
+      "source": "LinkedIn · Heidi R."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=SPrdZ4byKcTQkPIP36DgoQQ&start=100&sa=N&sstk=Af40H4UUuBZ5qYi810jNW6JaXu1O3WrRIz42dfzQkORLg_puTAdXFjHNKBqgc7iwTnGp2e-oct-5lrxp3wnvVkDRI7l6qNfHWGaA6A&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQ8NMDegUIwgIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=SPrdZ4byKcTQkPIP36DgoQQ&start=100&sa=N&sstk=Af40H4UUuBZ5qYi810jNW6JaXu1O3WrRIz42dfzQkORLg_puTAdXFjHNKBqgc7iwTnGp2e-oct-5lrxp3wnvVkDRI7l6qNfHWGaA6A&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQ8tMDegUIwgIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=SPrdZ4byKcTQkPIP36DgoQQ&start=200&sa=N&sstk=Af40H4UUuBZ5qYi810jNW6JaXu1O3WrRIz42dfzQkORLg_puTAdXFjHNKBqgc7iwTnGp2e-oct-5lrxp3wnvVkDRI7l6qNfHWGaA6A&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQ8tMDegUIwgIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=SPrdZ4byKcTQkPIP36DgoQQ&start=300&sa=N&sstk=Af40H4UUuBZ5qYi810jNW6JaXu1O3WrRIz42dfzQkORLg_puTAdXFjHNKBqgc7iwTnGp2e-oct-5lrxp3wnvVkDRI7l6qNfHWGaA6A&ved=2ahUKEwiGtp7irZyMAxVEKEQIHV8QOEQQ8tMDegUIwgIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=300"
+    }
+  }
+}

@@ -1,0 +1,2144 @@
+{
+  "search_metadata": {
+    "id": "67ddf94409a7f969e153a684",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/effdf3179ea3232a/67ddf94409a7f969e153a684.json",
+    "created_at": "2025-03-21 23:41:56 UTC",
+    "processed_at": "2025-03-21 23:41:56 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/effdf3179ea3232a/67ddf94409a7f969e153a684.html",
+    "total_time_taken": 4.56
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"United Kingdom\" AND (current OR present) AND (\"Group Manager\" OR \"Regional Manager\" OR \"Department Manager\" OR \"Team Manager\" OR \"Owner\" OR \"Founder\" OR \"Co-Founder\" OR \"Proprietor\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"United Kingdom\" AND (current OR present) AND (\"Group Manager\" OR \"Regional Manager\" OR \"Department Manager\" OR \"Team Manager\" OR \"Owner\" OR \"Founder\" OR \"Co-Founder\" OR \"Proprietor\")",
+    "total_results": 4260000,
+    "time_taken_displayed": 0.67,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Peter Hames - Microsoft AI",
+      "link": "https://uk.linkedin.com/in/peterhames",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/peterhames&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECBUQAQ",
+      "displayed_link": "5.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d5ef10a00de97108e4bb744a152e83de0.png",
+      "snippet": "Peter Hames, Microsoft AI, University of Oxford, Experience, Microsoft AI Graphic, Microsoft AI, United Kingdom, San Francisco, California, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft AI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Hames"
+    },
+    {
+      "position": 2,
+      "title": "Mustafa Suleyman - CEO, Microsoft AI",
+      "link": "https://www.linkedin.com/in/mustafa-suleyman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mustafa-suleyman&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECBkQAQ",
+      "displayed_link": "308K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d49d8fb267db6c5ad88dbbcdc90cf45b8.png",
+      "snippet": "CEO, Microsoft AI · I'm the CEO of Microsoft AI. I was ... Co-founder & Head of Applied AI. DeepMind. Feb 2014 - Jan 2020 6 years. London, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Co-founder",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Mustafa Suleyman"
+    },
+    {
+      "position": 3,
+      "title": "Craig Duncan - Microsoft",
+      "link": "https://uk.linkedin.com/in/craigduncan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/craigduncan&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECBQQAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83de50cf7a9cff9fe62001bee07be839ed5.png",
+      "snippet": "Craig Duncan. Microsoft. United Kingdom. 3K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Craig Duncan"
+    },
+    {
+      "position": 4,
+      "title": "Paul Thomas - Regional Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/paul-thomas-502a1252",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paul-thomas-502a1252&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECBoQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d084b707c8cfafe78b4cf4fe6e74cf261.png",
+      "snippet": "Regional Manager - Microsoft FastTrack M365 · A dedicated, self motivated ... - Present 4 years 7 months. Sheffield, England, United Kingdom. Microsoft ...",
+      "snippet_highlighted_words": [
+        "Regional Manager",
+        "Microsoft",
+        "Present",
+        "United Kingdom",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Sheffield Area",
+            "Regional Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Thomas"
+    },
+    {
+      "position": 5,
+      "title": "Michael Taylor, MBA - Group Manager, Sales Excellence",
+      "link": "https://uk.linkedin.com/in/mtaylor-mba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mtaylor-mba&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECBYQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d3d145d6d0b10ed9e0c8efbafd61f78ff.png",
+      "snippet": "Michael Taylor, MBA. Group Manager, Sales Excellence at Microsoft. Microsoft Henley Business School. Reading, England, United Kingdom. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Group Manager",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Group Manager, Sales Excellence",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Taylor, MBA"
+    },
+    {
+      "position": 6,
+      "title": "Erica Lawrie - Data & AI Global Program Owner - Microsoft",
+      "link": "https://uk.linkedin.com/in/erica-lawrie-48257a13",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/erica-lawrie-48257a13&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCPIBEAE",
+      "displayed_link": "490+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dbf74b58ccbe5b0112b07e30e3d006e52.png",
+      "snippet": "Erica Lawrie. Global Business Program Owner at Microsoft. Microsoft Commercial Careers College. Laleham, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Owner",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Laleham, England, United Kingdom",
+            "Data & AI Global Program Owner",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Erica Lawrie"
+    },
+    {
+      "position": 7,
+      "title": "James Scott - Principal Product Manager Lead - Microsoft",
+      "link": "https://uk.linkedin.com/in/jameswscott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jameswscott&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECC8QAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dbdfac579f5833c7353bbd23db7f24627.png",
+      "snippet": "James Scott. Principal Product Manager Lead, Microsoft. Microsoft University of Cambridge. Cambridge, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cambridge, England, United Kingdom",
+            "Principal Product Manager Lead",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Scott"
+    },
+    {
+      "position": 8,
+      "title": "Clare Barclay - Microsoft",
+      "link": "https://uk.linkedin.com/in/clarebarclaymsft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/clarebarclaymsft&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCMoBEAE",
+      "displayed_link": "23.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d93e2855149e26f3c0d1c87fc92cf5ca7.png",
+      "snippet": "Clare Barclay. Microsoft. London, England, United Kingdom. 23K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Clare Barclay"
+    },
+    {
+      "position": 9,
+      "title": "Chris East - Senior Strategic Partner Manager - GGPD",
+      "link": "https://uk.linkedin.com/in/chris-east-6201594",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chris-east-6201594&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCKoCEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d32beaa53fdb863b58b28ea897333968d.png",
+      "snippet": "Experience. Microsoft Graphic. Senior Strategic Partner Manager - GGPD. Microsoft. Dec 2003 - Present 21 years 4 months. Reading, United Kingdom. Empire ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Little Marlow, England, United Kingdom",
+            "Senior Strategic Partner Manager",
+            "GGPD",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris East"
+    },
+    {
+      "position": 10,
+      "title": "Bobby Yerramilli-Rao - Microsoft",
+      "link": "https://www.linkedin.com/in/bobby-yerramilli-rao-93b01027",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bobby-yerramilli-rao-93b01027&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCL4CEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dfe54d2cd4d68a2dae9762625c086538a.png",
+      "snippet": "Experience: Microsoft Graphic, Microsoft, Redmond, WA - New York, United States - Cambridge, United Kingdom - Cambridge, United Kingdom - London, United Kingdom",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United",
+        "United Kingdom",
+        "United Kingdom",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bobby Yerramilli-Rao"
+    },
+    {
+      "position": 11,
+      "title": "Stephen Percey - Global Business Process Owner",
+      "link": "https://uk.linkedin.com/in/stephen-percey-a1062b23",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stephen-percey-a1062b23&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECGUQAQ",
+      "displayed_link": "140+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83deee3a9abc3505c7d5ad0cc4ff553a5b3.png",
+      "snippet": "Stephen Percey. Global Buisness Process Owner at Microsoft Corporation. Microsoft Corporation. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Owner",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Global Business Process Owner",
+            "Microsoft Corporation"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Percey"
+    },
+    {
+      "position": 12,
+      "title": "Karen Davies - Microsoft",
+      "link": "https://www.linkedin.com/in/karendavies/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/karendavies/&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCNUBEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83ddc86ea7a2a24a44529fc95a057e9d648.png",
+      "snippet": "Karen Davies. Microsoft University of Cambridge. United Kingdom. 3K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Karen Davies"
+    },
+    {
+      "position": 13,
+      "title": "Tyrion Lannister - Team Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/tyrion-lannister-842ab216a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tyrion-lannister-842ab216a&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCLgBEAE",
+      "displayed_link": "2 followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d4bae37716c4f0d12d4e3744cd32754f8.png",
+      "snippet": "Experience · Microsoft Graphic. Team Manager. Microsoft. Apr 2018 - Present 6 years 11 months. London, United Kingdom. Testing Description · Sr. Software Engineer.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Team Manager",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Team Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tyrion Lannister"
+    },
+    {
+      "position": 14,
+      "title": "Christoph Wilfert - Co-Founder - athlea.ai",
+      "link": "https://uk.linkedin.com/in/christophwilfert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/christophwilfert&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCLABEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d48c279aa57441ef8df143569af0946c5.png",
+      "snippet": "Sports-tech founder. Built MUOV, now building Athlea, an AI-driven platform for sports, fitness, health Participants in Microsoft's ... Co-Founder. athlea.ai.",
+      "snippet_highlighted_words": [
+        "founder",
+        "Microsoft's",
+        "Co-Founder"
+      ],
+      "source": "LinkedIn · Christoph Wilfert"
+    },
+    {
+      "position": 15,
+      "title": "Harry Morgan - International Field Community Lead & UK ...",
+      "link": "https://www.linkedin.com/in/hjcmorgan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hjcmorgan&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCOIBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d639fe27b89062848bdec37e4223ade5f.png",
+      "snippet": "... Microsoft · Loughborough University · Seattle · 500+ connections on LinkedIn ... Regularly updating my progress with my colleagues, including the Regional Manager ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Regional Manager"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "International Field Community Lead & UK Programme Management, Microsoft Philanthropies",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Harry Morgan"
+    },
+    {
+      "position": 16,
+      "title": "Mike Ogden - Microsoft",
+      "link": "https://uk.linkedin.com/in/mike-ogden-19201a86",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mike-ogden-19201a86&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCOkBEAE",
+      "displayed_link": "860+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d71be55985a3ead65a8098bcca117784c.png",
+      "snippet": "Experience: Microsoft · Education: The 6th Form College ... Mike Ogden. Microsoft The 6th Form College Farnborough. Farnborough, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Farnborough, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Ogden"
+    },
+    {
+      "position": 17,
+      "title": "Micah Baldwin - Microsoft",
+      "link": "https://www.linkedin.com/in/micahbaldwin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/micahbaldwin&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCIsCEAE",
+      "displayed_link": "15.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dde0623e4b15e205d11226be3074267db.png",
+      "snippet": "In my work as an executive coach, I work with leaders that are looking to grow as people… · Experience: Microsoft · Location: Seattle · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Micah Baldwin"
+    },
+    {
+      "position": 18,
+      "title": "Bay Gross - Microsoft AI",
+      "link": "https://uk.linkedin.com/in/baygross",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/baygross&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCKkCEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d2b6956d85c9964045ed0bc6d8c3d9c8f.png",
+      "snippet": "Bay Gross. Microsoft AI Yale University. London, England, United Kingdom. 4K followers 500+ connections. See your mutual connections. View mutual connections ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Microsoft AI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bay Gross"
+    },
+    {
+      "position": 19,
+      "title": "Richard Zander - FastTrack Engineer - Microsoft",
+      "link": "https://uk.linkedin.com/in/richard-zander",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richard-zander&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECEgQAQ",
+      "displayed_link": "330+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d0ce5f66e4116d060e3b7cbb79cd07271.png",
+      "snippet": "Microsoft. Oct 2024 - Present 6 months. Greater London, England, United Kingdom ... Team Manager for Ray-Ban Call Centre. Multi Lingual manager responsible for ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United Kingdom",
+        "Team Manager"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Shenley, England, United Kingdom",
+            "FastTrack Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Zander"
+    },
+    {
+      "position": 20,
+      "title": "Lee Jones - Senior Partner Development Manager - Microsoft",
+      "link": "https://uk.linkedin.com/in/msleejones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/msleejones&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECEYQAQ",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d2988031bad9e217681aa7be7c19e5314.png",
+      "snippet": "Co-Founder CMO. StartupOut. Mar 2013 - Aug 2015 2 years 6 months. Manchester, United Kingdom. Founder & CEO. Geniuz. Sep 2012 - Aug 2015 3 years. Manchester, ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "United Kingdom",
+        "Founder"
+      ],
+      "source": "LinkedIn · Lee Jones"
+    },
+    {
+      "position": 21,
+      "title": "Nicholas McQuire - Microsoft",
+      "link": "https://uk.linkedin.com/in/nicholasmcquire",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nicholasmcquire&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECGQQAQ",
+      "displayed_link": "7.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d935ac5062469f4127a6eec41cb404a4b.png",
+      "snippet": "Nicholas McQuire. Microsoft University of St Andrews. United Kingdom. 8K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nicholas McQuire"
+    },
+    {
+      "position": 22,
+      "title": "Tom Arbuthnot - Empowering.Cloud",
+      "link": "https://uk.linkedin.com/in/tomarbuthnot",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tomarbuthnot&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECH8QAQ",
+      "displayed_link": "41.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83da3e37f133b1c2f64dd1d192a7004b995.png",
+      "snippet": "Tom Arbuthnot is the Co-Founder of Empowering.Cloud and Solutions Director at Pure… · Experience: Empowering.Cloud · Location: United Kingdom · 500+ ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Empowering.Cloud"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tom Arbuthnot"
+    },
+    {
+      "position": 23,
+      "title": "Richard Harris - Microsoft 365 Product Owner",
+      "link": "https://uk.linkedin.com/in/richard-harris-87416236",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richard-harris-87416236&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCMsBEAE",
+      "displayed_link": "130+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dfde8a067eaed930cea236db0d60651df.png",
+      "snippet": "University of Nottingham. 2019 - Present 6 years. Nottingham, England, United Kingdom. My current role is for the Microsoft 365 Product Owner for the University ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "current",
+        "Microsoft",
+        "Owner"
+      ],
+      "source": "LinkedIn · Richard Harris"
+    },
+    {
+      "position": 24,
+      "title": "Jeremy Carlson - Microsoft",
+      "link": "https://www.linkedin.com/in/jeremyrcarlson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeremyrcarlson&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCJQBEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d47f25e0c52d890f332292298ebda20f4.png",
+      "snippet": "Jeremy Carlson, Microsoft, University of California, Berkeley, Haas School of Business, About, Tech Product and Go-to-Market leader with 15+ years of using ...",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeremy Carlson"
+    },
+    {
+      "position": 25,
+      "title": "Ryan Fuller - SnapStrat",
+      "link": "https://uk.linkedin.com/in/ryantfuller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ryantfuller&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCMwBEAE",
+      "displayed_link": "4.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d97849856a56130a6f4347964a44769dc.png",
+      "snippet": "Ryan Fuller. SnapStrat Northwestern University - Kellogg School of Management. London, England, United Kingdom ... Farewell to Microsoft, hello to my next…",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "SnapStrat"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Fuller"
+    },
+    {
+      "position": 26,
+      "title": "Harvey Eagle - Global Director of Azure Gaming - Microsoft",
+      "link": "https://uk.linkedin.com/in/harveyeagle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/harveyeagle&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCMkBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d266652e59a1f9b5e2ecf49598d9c3db6.png",
+      "snippet": "Global Director of Azure Gaming at Microsoft. Microsoft The University of Manchester. London, England, United Kingdom. 1K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Global Director of Azure Gaming",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Harvey Eagle"
+    },
+    {
+      "position": 27,
+      "title": "Jack Tracey - Microsoft",
+      "link": "https://uk.linkedin.com/in/jacktracey93",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jacktracey93&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCJ8CEAE",
+      "displayed_link": "7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d6c34f30663c4e73abe846a8cf9cd9222.png",
+      "snippet": "Jack Tracey. Microsoft. Burgess Hill, England, United Kingdom. 7K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Burgess Hill, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jack Tracey"
+    },
+    {
+      "position": 28,
+      "title": "Helen Tupper - Co-founder & CEO - Amazing If",
+      "link": "https://uk.linkedin.com/in/helentupper",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/helentupper&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCOEBEAE",
+      "displayed_link": "47K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83db017941423af1b73137aac6ce10224d7.png",
+      "snippet": "Co-founder & CEO. Amazing If. Nov 2013 - Present 11 years 5 months. London, United Kingdom. Amazing If is a global career development and training business with ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Helen Tupper"
+    },
+    {
+      "position": 29,
+      "title": "Amit Bhakt - Founders Hub Member - Microsoft for Startups",
+      "link": "https://uk.linkedin.com/in/amitbhakt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/amitbhakt&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCPABEAE",
+      "displayed_link": "7.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83db8c68b2f5c1df472fabed8fc7524e400.png",
+      "snippet": "Product Manager | Launched 3 MVPs | Expert in Agile, AI/ML Solutions | Microsoft ... Jan 2024 - Present 1 year 3 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Founders Hub Member",
+            "Microsoft for Startups"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amit Bhakt"
+    },
+    {
+      "position": 30,
+      "title": "Sacha Cohn - Founder and Solution Architect",
+      "link": "https://uk.linkedin.com/in/sachacohn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sachacohn&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCIACEAE",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d24c825a1b6d19498d1658a6f2028560b.png",
+      "snippet": "Founder and Solution Architect at Business Solutions in Microsoft Technology ... Jan 2016 - Present 9 years 2 months. London, United Kingdom. Solution and ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Founder and Solution Architect",
+            "Business Solutions in Microsoft Technology"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sacha Cohn"
+    },
+    {
+      "position": 31,
+      "title": "James Griffin - Sr Software Engineer | AI in Healthcare",
+      "link": "https://uk.linkedin.com/in/jamesdanielgriffin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jamesdanielgriffin&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCIoCEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d0584a77a962862c03e329a8e1ef33e90.png",
+      "snippet": "Microsoft Graphic. Technical Account Manager. Microsoft. Sep 2015 - Jul 2017 1 year 11 months. Reading, United Kingdom. Buildshare Graphic. Co-Founder.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Co-Founder"
+      ],
+      "source": "LinkedIn · James Griffin"
+    },
+    {
+      "position": 32,
+      "title": "Jon Milward - Founder and Director - Compete366",
+      "link": "https://uk.linkedin.com/in/jonmilward",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jonmilward&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCNsBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d596378e13ea01c948f7823484490df60.png",
+      "snippet": "I have spent the last three years working closely with Microsoft in the cloud computing and business intelligence space. ... Business Group Manager. QinetiQ.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Group Manager"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "compete": 366
+          },
+          "extensions": [
+            "London, England, United Kingdom",
+            "Founder and Director",
+            "Compete366"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jon Milward"
+    },
+    {
+      "position": 33,
+      "title": "Robson Smith - Copilot Technical Specialist - Microsoft",
+      "link": "https://uk.linkedin.com/in/robsonsmith",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/robsonsmith&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCLICEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dfd1b8a7fa4167c4a7540650bf0d1e461.png",
+      "snippet": "Robson Smith. Copilot Technical Specialist at Microsoft. Microsoft Aston University. Aylesford, England, United Kingdom. 2K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Aylesford, England, United Kingdom",
+            "Copilot Technical Specialist",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robson Smith"
+    },
+    {
+      "position": 34,
+      "title": "Mike Flannagan - Microsoft",
+      "link": "https://www.linkedin.com/in/mikeflannagan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mikeflannagan&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCL0CEAE",
+      "displayed_link": "9.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d242b2cbc03d82dd97dd8ab47fb55e467.png",
+      "snippet": "Institute of Directors (United Kingdom). -. National Association of Corporate ... As a founder and serial entrepreneur, I'd certainly like to work with ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Flannagan"
+    },
+    {
+      "position": 35,
+      "title": "Karen Roem - Founder & principal trainer - Roem Limited",
+      "link": "https://uk.linkedin.com/in/karenroem",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/karenroem&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECEMQAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d7294c5cfa97233963f0cf7fa6f341ce9.png",
+      "snippet": "Founder & principal trainer. Roem Limited. Jan 2001 - Present 24 years 3 months. Cambridge, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Karen Roem"
+    },
+    {
+      "position": 36,
+      "title": "Richard Peers - Founder - Responsible Risk Ltd",
+      "link": "https://uk.linkedin.com/in/microsofta2z",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/microsofta2z&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECEcQAQ",
+      "displayed_link": "8.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d7706fc626c1f087fa8152389a255f39b.png",
+      "snippet": "Responsible Risk Ltd. Sep 2019 - Present 5 years 7 months. London, United Kingdom ... In charge of Microsoft ISV development and marketing fro VOIP, workflow and ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Reading Area",
+            "Founder",
+            "Responsible Risk Ltd"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Peers"
+    },
+    {
+      "position": 37,
+      "title": "Michael Bhaskar - Strategy & Communications - Microsoft AI",
+      "link": "https://uk.linkedin.com/in/michaelbhaskar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/michaelbhaskar&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECF8QAQ",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d891546ff976492f6e6d7e02cbbd025f9.png",
+      "snippet": "Co-Founder. Quik Communications. Jan 2008 - Dec 2009 2 years. London, United Kingdom. Business investigating digital to physical interfaces, primarily uses of ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Michael Bhaskar"
+    },
+    {
+      "position": 38,
+      "title": "Mafalda Rebordão - Global Digital & AI Strategy Lead for ...",
+      "link": "https://www.linkedin.com/in/mafalda-rebord%C3%A3o",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mafalda-rebord%25C3%25A3o&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECGEQAQ",
+      "displayed_link": "41.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83ddf3bcd2b3ccf0747d897505a6bcd2b57.png",
+      "snippet": "... Co-founder NGO@C-level Mentorship Academy | Advisor President of | Published author|TEDx speaker | ft.Financial Times, FORBES & BBC · Microsoft ... Owner ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Microsoft",
+        "Owner"
+      ],
+      "source": "LinkedIn · Mafalda Rebordão"
+    },
+    {
+      "position": 39,
+      "title": "Nikesh Parekh - Microsoft",
+      "link": "https://www.linkedin.com/in/nparekh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nparekh&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCM0BEAE",
+      "displayed_link": "12.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dae5b89ac497e5545369d624b10cda4fe.png",
+      "snippet": "Nikesh Parekh, Microsoft, Harvard Business School, About, Executive with proven ability in executing growth strategies at private and public.",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nikesh Parekh"
+    },
+    {
+      "position": 40,
+      "title": "Daniel Feldman - RELLAI",
+      "link": "https://uk.linkedin.com/in/feldmandd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/feldmandd&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCK8BEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d30f7c50873e283ecf952f3d174a00c0b.png",
+      "snippet": "Repeat founder and ex-product manager @ Microsoft, Toptal. Grew startups ... London, United Kingdom. -. London Area, United Kingdom. -. United States ...",
+      "snippet_highlighted_words": [
+        "founder",
+        "Microsoft",
+        "United Kingdom",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "RELLAI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Feldman"
+    },
+    {
+      "position": 41,
+      "title": "Leon Gordon - Founder / Chief Executive Officer - Onyx Data",
+      "link": "https://uk.linkedin.com/in/leon-gordon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/leon-gordon&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECHkQAQ",
+      "displayed_link": "70.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d97e9d0452087c6194c0ac5aca34d1ead.png",
+      "snippet": "Founder / CEO of Onyx Data | Forbes Tech Council | Microsoft MVP | Global Keynote Speaker | Gartner Ambassador · Hello! I'm Leon, founder and CEO of Onyx ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft",
+        "founder"
+      ],
+      "source": "LinkedIn · Leon Gordon"
+    },
+    {
+      "position": 42,
+      "title": "Imran Rashid - United Kingdom | Professional Profile",
+      "link": "https://uk.linkedin.com/in/imranrashidhx",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/imranrashidhx&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECHsQAQ",
+      "displayed_link": "6.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d852224b72beca6d9df726a889131bcff.png",
+      "snippet": "... Co-founder Bradford Cloud User Group | Views are my own · A keen tech blogger since 2008 focusing on Microsoft technologies ... United Kingdom. 500+ ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Imran Rashid"
+    },
+    {
+      "position": 43,
+      "title": "Tiffany Carpenter - Senior Strategy Consultant - Microsoft",
+      "link": "https://uk.linkedin.com/in/tiffanyjcarpenter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tiffanyjcarpenter&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCJcCEAE",
+      "displayed_link": "4.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dd7136a6dfc907ff8a977326d452eaedb.png",
+      "snippet": "In her current role at Microsoft, she guides Microsoft most strategic banking ... co-founder of Griswold Studios, a boutique fitness concept delivering ...",
+      "snippet_highlighted_words": [
+        "current",
+        "Microsoft",
+        "Microsoft",
+        "co-founder"
+      ],
+      "source": "LinkedIn · Tiffany Carpenter"
+    },
+    {
+      "position": 44,
+      "title": "Reid Hoffman - Co-Founder, Board Chair - Manas AI",
+      "link": "https://www.linkedin.com/in/reidhoffman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/reidhoffman&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCIkBEAE",
+      "displayed_link": "2.7M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d14015f63d6e7d70ae102d47eccc2589d.png",
+      "snippet": "Co-Founder, LinkedIn & Inflection AI. Author of Superagency. Investor at ... Microsoft Graphic. Board Member. Microsoft. Mar 2017 - Present 8 years 1 ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Microsoft",
+        "Microsoft",
+        "Present"
+      ],
+      "source": "LinkedIn · Reid Hoffman"
+    },
+    {
+      "position": 45,
+      "title": "Josh Nielson - Group Manager - CFO Azure Fiber - Microsoft",
+      "link": "https://www.linkedin.com/in/joshjnielson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joshjnielson&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCJcBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83db1d246830cdc5e5ee7df22e0c0457778.png",
+      "snippet": "Group Manager - CFO Azure Fiber. Microsoft Northern Arizona University. Bishop's Waltham, England, United Kingdom. 2K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Group Manager",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bishop's Waltham, England, United Kingdom",
+            "Group Manager",
+            "CFO Azure Fiber",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Josh Nielson"
+    },
+    {
+      "position": 46,
+      "title": "Aleksa Gordić - Founder & Head of AI @ <soon to be ...",
+      "link": "https://www.linkedin.com/in/aleksagordic",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aleksagordic&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCKMBEAE",
+      "displayed_link": "103.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d9dd40c043a862c1c719d640ab891f077.png",
+      "snippet": "Founder mode | x-Google DeepMind / Microsoft · Cooking. Social: Website ... Dec 2021 - Mar 2023 1 year 4 months. London, England, United Kingdom. Led ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Founder & Head of AI @ <soon to be announced :)/>",
+            "<TBD/>"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aleksa Gordić"
+    },
+    {
+      "position": 47,
+      "title": "Chukwuemeka Ezenwoye - Microsoft Regional Manager",
+      "link": "https://uk.linkedin.com/in/chukwuemeka-ezenwoye-59895a186?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chukwuemeka-ezenwoye-59895a186%3Ftrk%3Dpublic_profile_browsemap_profile-result-card_result-card_full-click&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCLEBEAE",
+      "displayed_link": "150+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d1f1b330ea91b4b68fda79cb0e767c154.png",
+      "snippet": "Microsoft Regional Manager · Highly industrious, with a passion for all things tech ... United Kingdom · 156 connections on LinkedIn. View Chukwuemeka ...",
+      "snippet_highlighted_words": [
+        "Microsoft Regional Manager",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Chukwuemeka Ezenwoye"
+    },
+    {
+      "position": 48,
+      "title": "Michael Spector - Microsoft",
+      "link": "https://www.linkedin.com/in/spektom/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/spektom/&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCLIBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dd74ecba93706ca63869fd79e5823493a.png",
+      "snippet": "Michael Spector. Microsoft Bar-Ilan University. London, England, United Kingdom ... Founder and developer of a Web service that helps creating a short link to ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom",
+        "Founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Spector"
+    },
+    {
+      "position": 49,
+      "title": "Simon Dickenson - Senior Technical Learning Program ...",
+      "link": "https://uk.linkedin.com/in/simon-dickenson-1b941a4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/simon-dickenson-1b941a4&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCMUBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83def099a70827957e16c647158d444fdb4.png",
+      "snippet": "Senior Technical Learning Program Manager, Applied Technical Mastery. Microsoft. Sep 2022 - Present 2 years 6 months. United Kingdom. As ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Salisbury, England, United Kingdom",
+            "Senior Technical Learning Program Manager, Applied Technical Mastery",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Simon Dickenson"
+    },
+    {
+      "position": 50,
+      "title": "Joshua Wöhle - CEO & Co-Founder - Mindstone",
+      "link": "https://uk.linkedin.com/in/joshuawohle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/joshuawohle&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCNABEAE",
+      "displayed_link": "8.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d2de35de36ee118da09e03b0f09fc96c2.png",
+      "snippet": "CEO & Co-Founder. Mindstone. Apr 2020 - Present 5 years. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Joshua Wöhle"
+    },
+    {
+      "position": 51,
+      "title": "Sammy Harris - Azure app Innovation lead Healthcare",
+      "link": "https://uk.linkedin.com/in/sammy-harris1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sammy-harris1&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCIICEAE",
+      "displayed_link": "510+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83de46b17fdd50437f29e9eb957066aaad5.png",
+      "snippet": "Apps & AI for Healthcare @ Microsoft | Founder of Stealth Labs. Microsoft Saïd Business School, University of Oxford. United Kingdom. 515 followers 473 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Founder",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Sammy Harris"
+    },
+    {
+      "position": 52,
+      "title": "Aanchal Gupta - Microsoft",
+      "link": "https://www.linkedin.com/in/aanchalgupta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aanchalgupta&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCOMBEAE",
+      "displayed_link": "7.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83da40ae8ab6c39f4582394a80197ef155d.png",
+      "snippet": "London, United Kingdom. -. La Jolla, California. -. -. -. -. -. - ... Microsoft Silicon Valley Women (SV W@M). 2015 - 2016 1 year. Human Rights. Teacher. Chinmaya ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aanchal Gupta"
+    },
+    {
+      "position": 53,
+      "title": "Emily Evans - Senior Manager, Cyber Security - Microsoft",
+      "link": "https://uk.linkedin.com/in/emily-evans-0b04033a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/emily-evans-0b04033a&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCOQBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d17f57d0adc007ef5ead918291dce63da.png",
+      "snippet": "EMEA Apps & Infra Bid Team Manager. Microsoft. Mar 2018 - Sep 2022 4 years 7 ... - Sep 2022 6 years 6 months. Reading, United Kingdom. I lead a team of ...",
+      "snippet_highlighted_words": [
+        "Team Manager",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Reading Area",
+            "Senior Manager, Cyber Security",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emily Evans"
+    },
+    {
+      "position": 54,
+      "title": "Lucy Daramola💡 - Client Partner Lead (Retail)",
+      "link": "https://linkedin.com/in/lucy-daramola/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://linkedin.com/in/lucy-daramola/&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCOoBEAE",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d85686b6f543300059492258c836917af.png",
+      "snippet": "Group Client Director @ Microsoft AI | Founder of “Gen AI Is For Me” | Impact Speaker & Host | “Mummy”. Microsoft. London, England, United Kingdom. 3K ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Founder",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Client Partner Lead (Retail)",
+            "Microsoft Advertising",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lucy Daramola💡"
+    },
+    {
+      "position": 55,
+      "title": "Olatomiwa Williams (M.CIoD) - Microsoft",
+      "link": "https://ng.linkedin.com/in/olatomiwa-williams",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ng.linkedin.com/in/olatomiwa-williams&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCPkBEAE",
+      "displayed_link": "11.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83daf0fc4a3e55991e625013d2bebe372e4.png",
+      "snippet": "As the General Manager for Nigeria and Ghana at Microsoft, Ola leads the company's… · Experience: Microsoft ... Jul 2012 - Present 12 years 9 months.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Lagos, Lagos State, Nigeria",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Olatomiwa Williams (M.CIoD)"
+    },
+    {
+      "position": 56,
+      "title": "Simon Wijckmans - c/side",
+      "link": "https://uk.linkedin.com/in/wijckmans/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/wijckmans/en&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCP0BEAE",
+      "displayed_link": "4.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dc9208de7b4299222c6403cd7b2f1e54c.png",
+      "snippet": "CEO and Founder of c/side. As we spend a lot of money on protecting web ... Microsoft Certified Azure Fundamentals · Microsoft. Issued Aug 2019. See ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "c/side"
+          ]
+        }
+      },
+      "source": "LinkedIn · Simon Wijckmans"
+    },
+    {
+      "position": 57,
+      "title": "Dominic King, MD PhD - VP, Health - Microsoft AI",
+      "link": "https://uk.linkedin.com/in/dominic-king-md-phd-a949b412",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/dominic-king-md-phd-a949b412&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCP8BEAE",
+      "displayed_link": "9.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d8900e4234e366946ad3ecb06580419f5.png",
+      "snippet": "VP Health, Microsoft AI · Microsoft AI · Imperial College London · United Kingdom · 500+ connections on LinkedIn ... Founder. Hark (Acquired by Google). Apr ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Founder"
+      ],
+      "source": "LinkedIn · Dominic King, MD PhD"
+    },
+    {
+      "position": 58,
+      "title": "Rob Potter - Chief Technology Officer & Co-Founder",
+      "link": "https://uk.linkedin.com/in/rob-potter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rob-potter&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCP4BEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83deee4f30f4f56e4d0e62edf30841fda97.png",
+      "snippet": "CTO & Co-Founder at Beam Connectivity · I am a technology leader excited by ... United Kingdom · 500+ connections on LinkedIn. View Rob Potter's ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Bristol Area, United Kingdom",
+            "Chief Technology Officer & Co-Founder",
+            "Beam Connectivity"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rob Potter"
+    },
+    {
+      "position": 59,
+      "title": "Nick M. - Microsoft 365 Global Product Owner - AXA Group ...",
+      "link": "https://uk.linkedin.com/in/nickmarsh360",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nickmarsh360&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCKECEAE",
+      "displayed_link": "780+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d65f8a31c1e9e6bfc7819fa6eab0b36de.png",
+      "snippet": "Microsoft 365 Product Owner at AXA Global. AXA Group Operations West Kent College. United Kingdom. 788 followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Owner",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "microsoft_global_product_owner": 365
+          },
+          "extensions": [
+            "United Kingdom",
+            "Microsoft 365 Global Product Owner",
+            "AXA Group Operations"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick M."
+    },
+    {
+      "position": 60,
+      "title": "Emerson Holladay - Founder and Creative Director",
+      "link": "https://www.linkedin.com/in/emerson-holladay-321b36122",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/emerson-holladay-321b36122&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCJUCEAE",
+      "displayed_link": "570+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dedf0b8b3618cccdcfb3f001c205a42ad.png",
+      "snippet": "Founder and Creative Director | Ex-Microsoft · Experience: Otherside · Education: University of Cincinnati · Location: United States · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Founder and Creative Director",
+            "Otherside"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emerson Holladay"
+    },
+    {
+      "position": 61,
+      "title": "Jorge Montiel - Founder - Excel by JM",
+      "link": "https://uk.linkedin.com/in/jmontcal",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jmontcal&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCJkCEAE",
+      "displayed_link": "5.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d1c5aa58bc534687361fecf0bea294c12.png",
+      "snippet": "Microsoft MVP | Founder of Excel by JM | Follow for Excel Tips! Excel by JM Tecnológico de Monterrey. London, England, United Kingdom. 6K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Founder",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Jorge Montiel"
+    },
+    {
+      "position": 62,
+      "title": "Olusola Amusan - Vesti",
+      "link": "https://www.linkedin.com/in/olusolaamusan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/olusolaamusan&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCJwCEAE",
+      "displayed_link": "28.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d7ed6ea4cef42b3a0d02591661694947f.png",
+      "snippet": "Olusola (Olu) Amusan, is Co-founder and CEO at Vesti where he is building a financial… · ... Microsoft. Issued Jul 2014. AWS Cloud Solutions Architect ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Vesti"
+          ]
+        }
+      },
+      "source": "LinkedIn · Olusola Amusan"
+    },
+    {
+      "position": 63,
+      "title": "Alan Moore - Co-Founder - The Beautiful Design Project",
+      "link": "https://uk.linkedin.com/in/alanmoore2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alanmoore2&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCLUCEAE",
+      "displayed_link": "8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83db5d2f4d41f14221416d55165c1ac7213.png",
+      "snippet": "Co-Founder. The Beautiful Design Project: Aug 2023 - Present 1 year 8 months. London, England, United Kingdom. Founder. Beautiful Business. Jan 2015 - Present ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "United Kingdom",
+        "Founder",
+        "Present"
+      ],
+      "source": "LinkedIn · Alan Moore"
+    },
+    {
+      "position": 64,
+      "title": "Paul Ryan - Microsoft",
+      "link": "https://uk.linkedin.com/in/pauldtryan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pauldtryan&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCK0CEAE",
+      "displayed_link": "5.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d6280551131cf6edd630a48e8fc2aee5c.png",
+      "snippet": "Paul Ryan. Microsoft. London, England, United Kingdom. 6K followers 500+ ... Founder Member. Aug 2018 - Present. Recommendations received. Click here to view ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom",
+        "Founder",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Ryan"
+    },
+    {
+      "position": 65,
+      "title": "Andrew Turner - Microsoft 365 Platform Owner - Phoenix ...",
+      "link": "https://uk.linkedin.com/in/andrew-turner-bbb84521",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrew-turner-bbb84521&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCJ0CEAE",
+      "displayed_link": "680+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83db44165e29a46673773f4cb3474606e15.png",
+      "snippet": "Experience. Phoenix Group Graphic. Microsoft 365 Platform Owner. Phoenix Group. Jun 2023 - Present 1 year 10 months. AdminRe UK Graphic. Infrastructure ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Owner",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "microsoft_platform_owner": 365
+          },
+          "extensions": [
+            "Walsall, England, United Kingdom",
+            "Microsoft 365 Platform Owner",
+            "Phoenix Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Turner"
+    },
+    {
+      "position": 66,
+      "title": "Andrew Pickup - Founder, Owner & Director",
+      "link": "https://uk.linkedin.com/in/andrewpickup",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrewpickup&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCMUCEAE",
+      "displayed_link": "5.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83df959f9fa7853c0587e0aca0805db3e60.png",
+      "snippet": "Founder, Owner & Director. Grizedale Holdings Ltd. Jul 2018 - Present 6 years 9 months. Cheltenham, United Kingdom. Platinum Property Partners Graphic ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Owner",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cheltenham, England, United Kingdom",
+            "Founder, Owner & Director",
+            "Grizedale Holdings Ltd"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Pickup"
+    },
+    {
+      "position": 67,
+      "title": "Hugh Simpson-Wells - Founder - Oxford Computer Group UK",
+      "link": "https://uk.linkedin.com/in/hughsimpsonwells",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hughsimpsonwells&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECEQQAQ",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d0f07a1c834fd22b281b31e0d5ccaa8fc.png",
+      "snippet": "Identity management expert: consulting solutions & training courses in Microsoft Identity Manager & Azure AD technology · Founder of Oxford Computer Group ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Founder"
+      ],
+      "source": "LinkedIn · Hugh Simpson-Wells"
+    },
+    {
+      "position": 68,
+      "title": "Jade Wilson - Senior Software Engineer - Microsoft",
+      "link": "https://uk.linkedin.com/in/jade-codes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jade-codes&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECEIQAQ",
+      "displayed_link": "69.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dc8fc0bbd6d487449eff389d4dbb5426e.png",
+      "snippet": "United Kingdom. Microsoft Graphic. Software Engineer II. Microsoft. Sep 2022 - Mar 2024 1 year 7 months. United Kingdom. Incrify Graphic. Founder. Incrify. Feb ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Founder"
+      ],
+      "source": "LinkedIn · Jade Wilson"
+    },
+    {
+      "position": 69,
+      "title": "Matthew Cook - Business Applications Executive - Microsoft",
+      "link": "https://uk.linkedin.com/in/matthew-cook-23075233",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matthew-cook-23075233&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECEkQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d025b720d9710c6a5bab08b811b2d8910.png",
+      "snippet": "Microsoft The University of Birmingham. London, England, United Kingdom. 1K followers 500+ connections. See your mutual connections. View mutual connections ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Business Applications Executive",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthew Cook"
+    },
+    {
+      "position": 70,
+      "title": "Mark Vale - Microsoft Teams Phone Architect - Momentum",
+      "link": "https://uk.linkedin.com/in/mark-vale",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mark-vale&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECEUQAQ",
+      "displayed_link": "5.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d95f4577176c0c9053375aaafc429a0fd.png",
+      "snippet": "Haslington, England, United Kingdom. 6K ... Independent Consultant and Owner of Company providing professional services to Microsoft centric customers.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Owner",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Mark Vale"
+    },
+    {
+      "position": 71,
+      "title": "Simon Whiteley - Advancing Analytics",
+      "link": "https://uk.linkedin.com/in/simon-whiteley-uk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/simon-whiteley-uk&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECGMQAQ",
+      "displayed_link": "17.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d1c2cdb67f8b10be29ed6145dc1041fda.png",
+      "snippet": "Data Geek, Cloud Herder, YouTuber, Conference Ranter and combined Microsoft Data Platform… · ... Gravesend, England, United Kingdom. 18K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Gravesend, England, United Kingdom",
+            "Advancing Analytics"
+          ]
+        }
+      },
+      "source": "LinkedIn · Simon Whiteley"
+    },
+    {
+      "position": 72,
+      "title": "Elena Branet FRSA - University of California, Berkeley",
+      "link": "https://uk.linkedin.com/in/elenabranet",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/elenabranet&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECF0QAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d7cc4b1eed4aa35ca7114226db85631a7.png",
+      "snippet": "CEO & Founder of Digital Camp | Ex-Microsoft | Award-Winning Strategic Marketing Leader ... Co-Founder and Board Member. Sep 2015 - Present. IoT Innovators (1200+ ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft",
+        "Co-Founder",
+        "Present"
+      ],
+      "source": "LinkedIn · Elena Branet FRSA"
+    },
+    {
+      "position": 73,
+      "title": "Nando de Freitas - Microsoft AI",
+      "link": "https://uk.linkedin.com/in/nandodefreitas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nandodefreitas&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECGAQAQ",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dabe72debcd98bfc6c366353e76568e0c.png",
+      "snippet": "Nando de Freitas. Microsoft AI University of California, Berkeley. London, England, United Kingdom. 5K followers ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Microsoft AI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nando de Freitas"
+    },
+    {
+      "position": 74,
+      "title": "Les Jackson - Global Lead - Developer Relations",
+      "link": "https://uk.linkedin.com/in/binarythistle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/binarythistle&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECGIQAQ",
+      "displayed_link": "5.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d9b5c676d32c57d1a14f2d68ecf77821f.png",
+      "snippet": "Developer Relations | Product Owner | Author · I love taking complex ... Licenses & Certifications. 2023 Microsoft Most Valuable Professional (MVP) Graphic ...",
+      "snippet_highlighted_words": [
+        "Owner",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Global Lead",
+            "Developer Relations",
+            "Marketplacer"
+          ]
+        }
+      },
+      "source": "LinkedIn · Les Jackson"
+    },
+    {
+      "position": 75,
+      "title": "Claire-Louise Bristow - Owner, Director & Consultant",
+      "link": "https://uk.linkedin.com/in/clairelouisebristow",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/clairelouisebristow&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECF4QAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d6bdfaf498cc40b932ec76ab52b7931f7.png",
+      "snippet": "Microsoft Dynamics Specialist making CRM simple and Byte Sized! · Making CRM simple and Byte Sized! Experienced with CRM dynamics since version 1 and ...",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Claire-Louise Bristow"
+    },
+    {
+      "position": 76,
+      "title": "Hannah Rogers - Microsoft",
+      "link": "https://www.linkedin.com/in/hannahlrogers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hannahlrogers&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECEoQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d1542090a704ffcc9e87fa9e3f4184869.png",
+      "snippet": "For the past 15 years I have immersed myself in my studies, my sport and performing arts,… · Microsoft ... London, United Kingdom. Education. Southern Methodist ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas, Texas, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hannah Rogers"
+    },
+    {
+      "position": 77,
+      "title": "Thom Staight - Microsoft",
+      "link": "https://uk.linkedin.com/in/thomstaight",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/thomstaight&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCLUBEAE",
+      "displayed_link": "12.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d533c6b278a5220daf279c08577399744.png",
+      "snippet": "Experience · Microsoft Graphic · Microsoft. EMEA · -. EMEA · -. EMEA · -. United Kingdom · -. West Europe · -. Redmond, Washington, United States · -. Europe · -.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chesham, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thom Staight"
+    },
+    {
+      "position": 78,
+      "title": "Matthew Egan - Partner - Client Delivery ...",
+      "link": "https://uk.linkedin.com/in/matthew-egan-6b751b4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matthew-egan-6b751b4&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECHwQAQ",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d725d695b95e48891fae2fdcac225e87d.png",
+      "snippet": "Partner - Client Delivery, Telecommunications & Energy. Microsoft. Sep 2022 - Present 2 years 7 months. Reading, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Newbury, England, United Kingdom",
+            "Partner",
+            "Client Delivery, Telecommunications & Energy",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthew Egan"
+    },
+    {
+      "position": 79,
+      "title": "Humayun Rashid - Microsoft",
+      "link": "https://www.linkedin.com/in/humayunr",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/humayunr&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECH0QAQ",
+      "displayed_link": "5.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d767bf2f816b7b74bf9b45c4262993080.png",
+      "snippet": "I lead the research team for Gaming, Xbox and Subscriptions which includes Microsoft 365… · ... London, United Kingdom. Education. Middlesex University Graphic ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Humayun Rashid"
+    },
+    {
+      "position": 80,
+      "title": "David Lambe - Uk & Ireland Community Lead for Unified ...",
+      "link": "https://uk.linkedin.com/in/davidlambe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/davidlambe&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECHgQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d86806969786f3b3c5e74e7c908be53c1.png",
+      "snippet": "Group Manager @ Avanade | Solutioning, Delivery · I have been a client facing IT Consultant for 25 years specialising in Microsoft Intune as well Microsoft ...",
+      "snippet_highlighted_words": [
+        "Group Manager",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · David Lambe"
+    },
+    {
+      "position": 81,
+      "title": "Sandeep Chadda - Microsoft",
+      "link": "https://in.linkedin.com/in/sandeepchadda",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/sandeepchadda&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCLoCEAE",
+      "displayed_link": "12.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d160286a0232b9147070a188bb7585e53.png",
+      "snippet": "London, United Kingdom. -. Bangalore. Volunteer Experience. Active Participant ... Microsoft Best Cloud Architect Award. Microsoft. Mar 2012. I won the ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hyderabad, Telangana, India",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sandeep Chadda"
+    },
+    {
+      "position": 82,
+      "title": "Karl Simpson - Business Owner - Certus.je",
+      "link": "https://uk.linkedin.com/in/karl-simpson-404",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/karl-simpson-404&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECH4QAQ",
+      "displayed_link": "440+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83df6d487af0aad62de2ef40bfc59388d39.png",
+      "snippet": "... United Kingdom · 432 connections on LinkedIn. View Karl Simpson's profile on ... Microsoft Certified Systems Administrator 2003. Microsoft. Issued Feb ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Business Owner",
+            "Certus.je"
+          ]
+        }
+      },
+      "source": "LinkedIn · Karl Simpson"
+    },
+    {
+      "position": 83,
+      "title": "Vivek Seshadri - Co-Founder - Karya Inc",
+      "link": "https://in.linkedin.com/in/vivek-seshadri-07127511",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/vivek-seshadri-07127511&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECHoQAQ",
+      "displayed_link": "860+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d409d37dc8a3ce6937f2e1555e347a321.png",
+      "snippet": "Co-Founder - Karya Inc, Principal Researcher at Microsoft · Karya Inc · Carnegie Mellon University · Bengaluru · 400 connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Vivek Seshadri"
+    },
+    {
+      "position": 84,
+      "title": "Christopher Kelly - Microsoft AI",
+      "link": "https://uk.linkedin.com/in/christopherkelly1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/christopherkelly1&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCIMCEAE",
+      "displayed_link": "13.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d453868e593524e93d6e92aca0eef6bd3.png",
+      "snippet": "Christopher Kelly. Microsoft AI University of Cambridge. London, England, United Kingdom. 13K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Microsoft AI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christopher Kelly"
+    },
+    {
+      "position": 85,
+      "title": "Laura S. - Microsoft",
+      "link": "https://www.linkedin.com/in/ljfisher",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ljfisher&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCJUBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dca9ab3c250bebbdb32ab56d672351c3c.png",
+      "snippet": "Execution focused leader with experience in product and program management, design… · Experience: Microsoft ... London, United Kingdom. -. London, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Laura S."
+    },
+    {
+      "position": 86,
+      "title": "Rahul Ramakrishna - Microsoft",
+      "link": "https://www.linkedin.com/in/rahul-ramakrishna/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rahul-ramakrishna/&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCJYBEAE",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83de8dcd367e1291ad5235dcbf87e91d120.png",
+      "snippet": "Rahul Ramakrishna. Microsoft London School of Economics and Political Science. London, England, United Kingdom ... Professional Scrum Product Owner Graphic ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom",
+        "Owner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rahul Ramakrishna"
+    },
+    {
+      "position": 87,
+      "title": "Stephen Smith - Account Technology Strategist - Microsoft",
+      "link": "https://uk.linkedin.com/in/stephengeorgesmith",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stephengeorgesmith&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCJMBEAE",
+      "displayed_link": "770+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d1a529b64da4385d2aa08e4f9e6bf762f.png",
+      "snippet": "Microsoft Graphic. Early in Profession Manager. Microsoft. Jul 2023 - May 2024 11 months. London Area, United Kingdom. In my journey with Microsoft UK's ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Finchampstead, England, United Kingdom",
+            "Account Technology Strategist",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Smith"
+    },
+    {
+      "position": 88,
+      "title": "Dan Babington - Founder - Rising Tide AI",
+      "link": "https://uk.linkedin.com/in/danbabington",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/danbabington&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCJgBEAE",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d8f8e09f5902b3de16a13a335f260b66d.png",
+      "snippet": "Founder. Rising Tide AI. Jul 2020 - Present 4 years 9 months. Leeds, England, United Kingdom. Artificial Intelligence and Automation specialist. Co-founder of ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Present",
+        "United Kingdom",
+        "Co-founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Leeds, England, United Kingdom",
+            "Founder",
+            "Rising Tide AI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Babington"
+    },
+    {
+      "position": 89,
+      "title": "Martyn Jones - Microsoft",
+      "link": "https://uk.linkedin.com/in/martyn-jones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/martyn-jones&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCJkBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d85605142fadb36f1fa602b38fc527b39.png",
+      "snippet": "Microsoft · University of Bedfordshire · Reading · 500+ connections ... Martyn Jones. Microsoft University of Bedfordshire. Reading, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Martyn Jones"
+    },
+    {
+      "position": 90,
+      "title": "Peter Simones - Microsoft",
+      "link": "https://www.linkedin.com/in/petersimones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/petersimones&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCKcBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d6d4e6cb572d282e23aa4e6b0d865007c.png",
+      "snippet": "17-year consumer product vet who's built world-class orgs and products at all company… · Microsoft · New York · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Simones"
+    },
+    {
+      "position": 91,
+      "title": "Simon D. - Microsoft",
+      "link": "https://uk.linkedin.com/in/simondaykin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/simondaykin&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCK4BEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d296705758cc9a6228b262fbc760cfdcf.png",
+      "snippet": "Simon D. Microsoft. Salisbury, England, United Kingdom. 3K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Salisbury, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Simon D."
+    },
+    {
+      "position": 92,
+      "title": "Emilio Garcia - Microsoft",
+      "link": "https://www.linkedin.com/in/emilio-garcia-a2562192",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/emilio-garcia-a2562192&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoFCMABEAE",
+      "displayed_link": "8.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d65e96a11be05dedf76d5754cac156821.png",
+      "snippet": "Experience: Microsoft · Education: Columbia University · Location: Los Angeles · 500+ connections on LinkedIn ... London, United Kingdom. -. Los Angeles ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emilio Garcia"
+    },
+    {
+      "position": 93,
+      "title": "Richard Potter - Greater Bristol Area, United Kingdom",
+      "link": "https://uk.linkedin.com/in/iamrichardpotter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/iamrichardpotter&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECCgQAQ",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d35d9edbd9f9c318f777d9d760b7bb1b0.png",
+      "snippet": "Richard is a Director of Digital Strategy at Microsoft, where he advises business leaders… · Location: Greater Bristol Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Richard Potter"
+    },
+    {
+      "position": 94,
+      "title": "Ambarish Mitra - United Kingdom | Professional Profile",
+      "link": "https://uk.linkedin.com/in/ambarishmitra",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ambarishmitra&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECCYQAQ",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83dfc7cb24446dce02b7d1b9dc53ed3bd87.png",
+      "snippet": "Ambarish Mitra is an acclaimed serial entrepreneur and investor, renowned for his… · United Kingdom. 500+ connections on LinkedIn. View Ambarish Mitra's ...",
+      "snippet_highlighted_words": [
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Ambarish Mitra"
+    },
+    {
+      "position": 95,
+      "title": "Neil Patel - Founder and Growth Marketer - Growth Vertical",
+      "link": "https://uk.linkedin.com/in/neilpatel992",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/neilpatel992&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECC0QAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83decc443b95e6abc91e40da26072924700.png",
+      "snippet": "Nov 2020 - Present 4 years 5 months. London, England, United Kingdom. Helping B2B Tech Startups Build Marketing Infrastructure for Growth! As the founder and ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "founder"
+      ],
+      "source": "LinkedIn · Neil Patel"
+    },
+    {
+      "position": 96,
+      "title": "Dan Holme - Microsoft",
+      "link": "https://www.linkedin.com/in/holmedan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/holmedan&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECCcQAQ",
+      "displayed_link": "8.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d6772d90a9ac51ffac6b8e17a3e9f5e49.png",
+      "snippet": "Yale B.A. and Thunderbird MBA/Master of International Management 30 years in… · Experience: Microsoft · Location: Phoenix · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Phoenix, Arizona, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Holme"
+    },
+    {
+      "position": 97,
+      "title": "Tom Crossley - Microsoft",
+      "link": "https://uk.linkedin.com/in/tom-crossley-8a4438195",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tom-crossley-8a4438195&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECCkQAQ",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d4838f4bd6b692d7e2376113f8a59260b.png",
+      "snippet": "At Microsoft, my role as Partner Channel Marketing Manager blends my academic pursuit in… · Microsoft · Aston University · United Kingdom · 500+ connections ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tom Crossley"
+    },
+    {
+      "position": 98,
+      "title": "Pedro P. Sanchez - CEO and Co-Founder - Sinkove",
+      "link": "https://uk.linkedin.com/in/pedro-sanches-ppsg/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pedro-sanches-ppsg/en&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECCsQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d87edfa98300c9e83530a58441d400182.png",
+      "snippet": "CEO and Co-Founder. Sinkove. Jul 2024 - Present 9 months. Greater London, England, United Kingdom. Building foundation AI models for generating biomedical ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "CEO and Co-Founder",
+            "Sinkove"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pedro P. Sanchez"
+    },
+    {
+      "position": 99,
+      "title": "Nicole Stewart - Director, EMEA PPM, GPS, UK - Microsoft",
+      "link": "https://uk.linkedin.com/in/nicole-stewart-uk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nicole-stewart-uk&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECCwQAQ",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83ded07a2f437da4fc4095fd4f6b93ff57e.png",
+      "snippet": "... Microsoft · Esher · 500+ connections on LinkedIn ... Director, EMEA Production Partner Management at Microsoft. Microsoft. Esher, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Nicole Stewart"
+    },
+    {
+      "position": 100,
+      "title": "Steven Grier - Director of Devolved Government & ...",
+      "link": "https://uk.linkedin.com/in/stevengriermsft",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stevengriermsft&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8QFnoECCoQAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf94409a7f969e153a684/images/1cd43d75be57ed5245437dcd9863f83d660569c9686479fdaaf47f228d547ab0.png",
+      "snippet": "Steven Grier. Director of Devolved Government and UK Housing. Microsoft Loudoun Academy. Sorn, Scotland, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sorn, Scotland, United Kingdom",
+            "Director of Devolved Government & UK Housing",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steven Grier"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=RvndZ9j_K8SXvr0P3aiW-Q8&start=100&sa=N&sstk=Af40H4WypeORDDqwCyd-MIqEZUGmZmazwAsB4moB7s02vtw7lFPdjyCW2RLhEIiMOnrvrQt47hj2v21tO_gDeL3oTDHIXy_RrXQhDQ&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8Q8NMDegQIChAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=RvndZ9j_K8SXvr0P3aiW-Q8&start=100&sa=N&sstk=Af40H4WypeORDDqwCyd-MIqEZUGmZmazwAsB4moB7s02vtw7lFPdjyCW2RLhEIiMOnrvrQt47hj2v21tO_gDeL3oTDHIXy_RrXQhDQ&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8Q8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=RvndZ9j_K8SXvr0P3aiW-Q8&start=200&sa=N&sstk=Af40H4WypeORDDqwCyd-MIqEZUGmZmazwAsB4moB7s02vtw7lFPdjyCW2RLhEIiMOnrvrQt47hj2v21tO_gDeL3oTDHIXy_RrXQhDQ&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8Q8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=RvndZ9j_K8SXvr0P3aiW-Q8&start=300&sa=N&sstk=Af40H4WypeORDDqwCyd-MIqEZUGmZmazwAsB4moB7s02vtw7lFPdjyCW2RLhEIiMOnrvrQt47hj2v21tO_gDeL3oTDHIXy_RrXQhDQ&ved=2ahUKEwjYup3nrJyMAxXEi68BHV2UJf8Q8tMDegQIChAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=300"
+    }
+  }
+}

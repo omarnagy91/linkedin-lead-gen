@@ -1,0 +1,2296 @@
+{
+  "search_metadata": {
+    "id": "67ddfa7f6776a5f8393aaad0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/30c21cfe5fedb608/67ddfa7f6776a5f8393aaad0.json",
+    "created_at": "2025-03-21 23:47:11 UTC",
+    "processed_at": "2025-03-21 23:47:11 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/30c21cfe5fedb608/67ddfa7f6776a5f8393aaad0.html",
+    "total_time_taken": 2.47
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Amazon\" AND \"United States\" AND (current OR present) AND (\"10+ years\" OR \"15+ years\" OR \"20+ years\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Amazon\" AND \"United States\" AND (current OR present) AND (\"10+ years\" OR \"15+ years\" OR \"20+ years\")",
+    "total_results": 16100000,
+    "time_taken_displayed": 1.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.linkedin.com/in/andrew-fuss-57656293",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKDkneGOvxW8hHQKTwFb3aWogs5tk_n9wG7kY6NRP6vwcYsgnhM64q6AQ&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5603AQHDXFwoibCWrg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1718238801485?e=2147483647&v=beta&t=cHynI-H2NweownAd-geqXjastgZ0TnZqaNXxZZwpe0M",
+      "title": "Andrew Fuss - Senior Manager Program Management - Amazon ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/jason-lambert-58440814a",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHX4jFP9INpnfTSYwLH8GTPMOTKZwN21LvUMKRA4_Xvm3ppIZwLGeSIWE&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5622AQFnjCj35vf7Ow/feedshare-shrink_800/B56ZVoeNskGsAg-/0/1741214507204?e=2147483647&v=beta&t=Bcd_otblTtQ14VwcDt5pa6rll93fsJ9-Nr2eMaQjU0E",
+      "title": "Jason Lambert - Amazon | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/lisacrabtreeanderson",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ9670WiDro01q4CD5-MUpS15LMZ4uSYS8rl6o6fG7wvGebx_87y7tPWo&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4D16AQFXi90mXkNq6g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1526649481008?e=2147483647&v=beta&t=8fLd2f3d6-lvqRSeimNHenVsSmm4knyp8BackYXAJbA",
+      "title": "Lisa Anderson - Sr. Manager, re:Cycle Reverse Logistics ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/colin-clark-9803b451",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv4UNksaQDYO4CB_9zRnC_WzH0yGI6mN4lhaqLWSvwW3xfDdU1f49t9n4&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5603AQHThIZK580xEQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1699973062665?e=2147483647&v=beta&t=XXRgol8jXdUvhQkGlfwtQqZchPMO5Ps4senObCOz9kM",
+      "title": "Colin Clark - Senior Operations Manager - Amazon | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/katie-wentworth-taylor-32a0aa4b",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJkNLuNVSG6uUOfM9ewEa3LiaXM0_luLi733VD11-HXE_r7HUSPOWsP0o&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E22AQEolPLXFFCIAw/feedshare-shrink_800/feedshare-shrink_800/0/1717791742077?e=2147483647&v=beta&t=lAyiX4F9-xI1ohkxhEuoYRQrIKTzpx67MsIHRsgaftY",
+      "title": "Katie (Wentworth) Taylor - Manager, Launch & Analytics ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/kelseyschroeder",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRusXF_F4BPjGuzWu-ko_g4BR4MdfKSmFv0dd3bhZmlih1L0LL2A916D1w&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5622AQH7q6PVhkHiRQ/feedshare-shrink_800/B56ZUcKcycHoAg-/0/1739934262596?e=2147483647&v=beta&t=RvVGo5O3Nk1XPO2EpDJuAswKI3VnmyTZIw_tdbI3awE",
+      "title": "Kelsey Szot - Amazon | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/asoka-veeravagu",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbecqism8qrE0x9UG35RHXDDrL5GtVXpaNKFtCk50O_0diVW1FOjoezpk&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4E03AQGCglzFiAtS-w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1586976321915?e=2147483647&v=beta&t=Go-og4BkPml7oQHrIeE9RszGmfK1D1GHR4pPUNq8Phs",
+      "title": "Asoka Veeravagu - Head of Product Management & Portfolio ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/andrew-varney-14236452",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiASqSliu36cASmBgAX_kor_OYNuDygrE8ysIWCk305VNZn6wEn2fpaOI&s",
+      "original": "https://media.licdn.com/dms/image/v2/C5116AQFh2CYPRHGcpw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1516578741771?e=2147483647&v=beta&t=TF0elAzEkzZ4_SZGIXySIhmFZwBqzHWwuMa3Hn6iEjM",
+      "title": "Andrew Varney - Amazon | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/cam-taylor",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMXIJ6jEsjbzjO9YSZm85cpLY6jhvs6yydgI1p2M9QVIP7tt3XVMAvOI&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5610AQHwikGZjKBwnA/image-shrink_800/B56ZWXH8ziHEAc-/0/1741997199204?e=2147483647&v=beta&t=v2f2ggcnXAl_pBtqUiTUsifucJLDmaB0Z6NKC2_pOrw",
+      "title": "Cam Taylor - Amazon | LinkedIn",
+      "source_name": "LinkedIn"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Emelle McConney - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/emellemcconney",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/emellemcconney&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECAkQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff69bda4179b31925c1ebcd5c99bd5e8f6.png",
+      "snippet": "Emelle McConney. Amazon Web Services (AWS) Wayne State University. Chicago, Illinois, United States ... 2010 - Present 15 years. Recommendations received. Click ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "Present 15 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chicago, Illinois, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emelle McConney"
+    },
+    {
+      "position": 2,
+      "title": "Doug Herrington - CEO, Worldwide Amazon Stores",
+      "link": "https://www.linkedin.com/in/doug-herrington",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/doug-herrington&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECBYQAQ",
+      "displayed_link": "85.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8fff85bcba87532eec6d377c2c68f4190e5.png",
+      "snippet": "Experience ; CEO, Worldwide Amazon Stores · Jul 2022 - Present 2 years 9 months ; SVP North America Consumer · Jan 2015 - Present 10 years 3 months ; SVP Consumables.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "Present 10 years"
+      ],
+      "source": "LinkedIn · Doug Herrington"
+    },
+    {
+      "position": 3,
+      "title": "David Brock - Amazon",
+      "link": "https://www.linkedin.com/in/david-brock-a8a575a5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-brock-a8a575a5&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECBwQAQ",
+      "displayed_link": "930+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffb7af6361d77616210b5d745f3f7d2d31.png",
+      "snippet": "David Brock. Amazon Georgia Institute of Technology. Herndon, Virginia, United States. 937 followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Herndon, Virginia, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Brock"
+    },
+    {
+      "position": 4,
+      "title": "Jonathan Welch - Amazon",
+      "link": "https://www.linkedin.com/in/jonathanmwelch",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jonathanmwelch&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECBgQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff4749ed86911067a809ffbf5dcf03b3d1.png",
+      "snippet": "Jonathan Welch. Amazon University of Notre Dame - Mendoza College of Business. Dallas, Texas, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas, Texas, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Welch"
+    },
+    {
+      "position": 5,
+      "title": "Ernie Garcia - Amazon",
+      "link": "https://www.linkedin.com/in/erniegarcia5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/erniegarcia5&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECB8QAQ",
+      "displayed_link": "350+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff24621523cd6074510cf33e2a652fa075.png",
+      "snippet": "Results-driven accounting professional with 15 years of experience, excelling in dynamic,… · Experience: Amazon · Education: University of Washington ...",
+      "snippet_highlighted_words": [
+        "15 years",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ernie Garcia"
+    },
+    {
+      "position": 6,
+      "title": "Beth Galetti - SVP, People eXperience and Technology",
+      "link": "https://www.linkedin.com/in/beth-galetti-60b1106",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/beth-galetti-60b1106&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECBcQAQ",
+      "displayed_link": "99.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffb56873fb011cd9ccaaad3cbd6abf415c.png",
+      "snippet": "Experience · Amazon Graphic. SVP, People eXperience and Technology. Amazon. Apr 2021 - Present 4 years. Seattle, Washington, United States · Amazon Graphic ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United States",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Beth Galetti"
+    },
+    {
+      "position": 7,
+      "title": "William Capodanno - Amazon",
+      "link": "https://www.linkedin.com/in/billcap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/billcap&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECCgQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff04923acee1a6b247b3cdc590ad019539.png",
+      "snippet": "Sep 2004 - Present 20 years 7 months. Children. Youth Soccer Coach. Secretary. Lake Hills Soccer Club. 2015 - Present 10 years. Children. Tillicum Middle School ...",
+      "snippet_highlighted_words": [
+        "Present 20 years",
+        "Present 10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · William Capodanno"
+    },
+    {
+      "position": 8,
+      "title": "Ella M. - Amazon",
+      "link": "https://www.linkedin.com/in/ella-m-817ab446",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ella-m-817ab446&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCI4BEAE",
+      "displayed_link": "260+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff25bc1263af9fb1cb6effe8332b2d274c.png",
+      "snippet": "Ella M. Amazon Caltech. Seattle, Washington, United States. 266 followers 267 connections.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ella M."
+    },
+    {
+      "position": 9,
+      "title": "Prarthana Mistry - Amazon",
+      "link": "https://www.linkedin.com/in/prarthanamistry",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/prarthanamistry&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCOMBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffc41a350f6d13b4c86def95a3221e82a6.png",
+      "snippet": "As an accomplished product strategist and leader, I have ~20 years of expertise in… · Amazon · University of Washington - Michael G. Foster School of ...",
+      "snippet_highlighted_words": [
+        "20 years",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Prarthana Mistry"
+    },
+    {
+      "position": 10,
+      "title": "Carmen Nestares - Amazon",
+      "link": "https://www.linkedin.com/in/carmen-nestares-a3a7525",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/carmen-nestares-a3a7525&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECCYQAQ",
+      "displayed_link": "4.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff74633b50e273b220009428ced87d0833.png",
+      "snippet": "Carmen Nestares. Amazon NYU Stern School of Business. Seattle, Washington, United States ... Awarded \"Retailer of the Year\" for the work on Amazon.com Kitchen and ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carmen Nestares"
+    },
+    {
+      "position": 11,
+      "title": "Cam Taylor - Amazon",
+      "link": "https://www.linkedin.com/in/cam-taylor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cam-taylor&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCMcBEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8fffab7f2acd293d3b1b22513f35454a174.png",
+      "snippet": "Experience · Amazon Graphic · Amazon. Atlanta, Georgia, United States · -. Southport, North Carolina, United States · -. Atlanta Metropolitan Area · -. Atlanta, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta Metropolitan Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Cam Taylor"
+    },
+    {
+      "position": 12,
+      "title": "Mark Eamer - Amazon",
+      "link": "https://www.linkedin.com/in/meamer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/meamer&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCPwBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff2c9061fc33aad4590d70b1bb100923e5.png",
+      "snippet": "Mark Eamer. Amazon University of Michigan - Stephen M. Ross School of Business. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Eamer"
+    },
+    {
+      "position": 13,
+      "title": "Justin Beale - Amazon",
+      "link": "https://www.linkedin.com/in/justinbeale",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/justinbeale&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJMCEAE",
+      "displayed_link": "960+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffb03f3807b6b97fb9944ea83565f2547b.png",
+      "snippet": "Justin Beale. Amazon. Kirkland, Washington, United States. 962 followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Justin Beale"
+    },
+    {
+      "position": 14,
+      "title": "Katie (Wentworth) Taylor - Manager, Launch & Analytics",
+      "link": "https://www.linkedin.com/in/katie-wentworth-taylor-32a0aa4b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katie-wentworth-taylor-32a0aa4b&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECCUQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff48d5c1d8f6a39c5e69919c343c03c764.png",
+      "snippet": "Manager, Launch & Analytics at Amazon. Amazon Penn State University. Charlotte, North Carolina, United States ... Experience. Amazon. 10 years 9 months.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States",
+        "Amazon",
+        "10 years"
+      ],
+      "source": "LinkedIn · Katie (Wentworth) Taylor"
+    },
+    {
+      "position": 15,
+      "title": "Tyler Raab - Amazon",
+      "link": "https://www.linkedin.com/in/tylerraab",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tylerraab&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECFgQAQ",
+      "displayed_link": "220+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff818f1c90af1c30117af4aedfe0cb0364.png",
+      "snippet": "Hello! I am an vendor manager that thrives on delivering results, obsessing over… Experience. Amazon Graphic · Amazon. Seattle, Washington, United States ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tyler Raab"
+    },
+    {
+      "position": 16,
+      "title": "Diana Gao - Amazon",
+      "link": "https://www.linkedin.com/in/diana-gao-29b85112",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/diana-gao-29b85112&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJEBEAE",
+      "displayed_link": "300+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff56243729d5ea1f936bed2c95a376b50d.png",
+      "snippet": "Diana Gao. Amazon University of California, San Diego. Seattle, Washington, United States. 303 followers 303 connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Diana Gao"
+    },
+    {
+      "position": 17,
+      "title": "Matthew D. - Senior Manager - Product Management",
+      "link": "https://www.linkedin.com/in/mattydahlman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mattydahlman&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCMUBEAE",
+      "displayed_link": "610+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff259f3a80c324941319b1a7bb43169bf3.png",
+      "snippet": "Matthew D. Technical Product Leader @ Amazon. Amazon San Antonio College. United States. 611 followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Senior Manager",
+            "Product Management",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthew D."
+    },
+    {
+      "position": 18,
+      "title": "Andrew Maynard - Amazon Business",
+      "link": "https://www.linkedin.com/in/andrewlmaynard",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrewlmaynard&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCN8BEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff0ded1c2e01fa338143bdc9787097966f.png",
+      "snippet": "With over 20 years of experience across various business disciplines, I excel in building… ... 2015 - Present 10 years. Education. Brandman University, Part of ...",
+      "snippet_highlighted_words": [
+        "20 years",
+        "Present 10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Business"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Maynard"
+    },
+    {
+      "position": 19,
+      "title": "Pedro Huerta - Amazon",
+      "link": "https://www.linkedin.com/in/pedro-huerta-6b3260",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/pedro-huerta-6b3260&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCPoBEAE",
+      "displayed_link": "10.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff87ece38b22770cdc01ef7d9033369cff.png",
+      "snippet": "Experience: Amazon · Location: United States · 500+ connections on LinkedIn. View Pedro Huerta's profile on LinkedIn, a professional community of 1 billion ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pedro Huerta"
+    },
+    {
+      "position": 20,
+      "title": "Jamie Jaramillo - Amazon",
+      "link": "https://www.linkedin.com/in/jamie-jaramillo-b4327060",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jamie-jaramillo-b4327060&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJgCEAE",
+      "displayed_link": "690+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffcf5819526b65715e376d5d50e528c3c3.png",
+      "snippet": "Jamie Jaramillo. Amazon Central Washington University. Seattle, Washington, United States. 692 followers 500 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jamie Jaramillo"
+    },
+    {
+      "position": 21,
+      "title": "Asoka Veeravagu - Head of Product Management & ...",
+      "link": "https://www.linkedin.com/in/asoka-veeravagu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/asoka-veeravagu&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJcCEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffc99a181042d76b7df8e80afea00e8a76.png",
+      "snippet": "... Amazon Global Robotics · Massachusetts Institute of Technology - Sloan ... AYSO. 2010 - Present 15 years. Children. Help to manage and run our region's ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present 15 years"
+      ],
+      "source": "LinkedIn · Asoka Veeravagu"
+    },
+    {
+      "position": 22,
+      "title": "Andrew Varney - Amazon",
+      "link": "https://www.linkedin.com/in/andrew-varney-14236452",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrew-varney-14236452&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECEEQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff2c7e64fa86464e67e9770bf8d035bb33.png",
+      "snippet": "Andrew Varney. Amazon Marshall University. Huntington, West Virginia, United States. 1K followers 500 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Huntington, West Virginia, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Varney"
+    },
+    {
+      "position": 23,
+      "title": "Rocko Carafano - Amazon",
+      "link": "https://www.linkedin.com/in/charlescarafano",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/charlescarafano&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECEMQAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffa3c6e88eceb7d374beefc1b873395c4d.png",
+      "snippet": "Rocko Carafano. Amazon United States Naval Academy. Greater Orlando. 3K ... 2015 - Present 10 years. American Mensa Graphic. Essay Scholarship Reviewer.",
+      "snippet_highlighted_words": [
+        "Amazon United States",
+        "Present 10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Orlando",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rocko Carafano"
+    },
+    {
+      "position": 24,
+      "title": "Larry McGrath - Amazon",
+      "link": "https://www.linkedin.com/in/larrysmcgrath",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/larrysmcgrath&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECF0QAQ",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff0eabd7e5e8a6ad63e6d8737d409b8a11.png",
+      "snippet": "Larry McGrath. Amazon University of California, Berkeley. Los Angeles, California, United States. 7K followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Larry McGrath"
+    },
+    {
+      "position": 25,
+      "title": "Andrew Fuss - Senior Manager Program Management",
+      "link": "https://www.linkedin.com/in/andrew-fuss-57656293",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrew-fuss-57656293&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECHIQAQ",
+      "displayed_link": "730+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff0bc5500aa8e2605b86ca70199b4263c7.png",
+      "snippet": "Senior Manager, Program Management at Amazon. Amazon Wittenberg University. Tempe, Arizona, United States ... 2010 - Present 15 years. Offered professional ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States",
+        "Present 15 years"
+      ],
+      "source": "LinkedIn · Andrew Fuss"
+    },
+    {
+      "position": 26,
+      "title": "Scott Sanders - AVS Team Lead/ Senior Account Manager",
+      "link": "https://www.linkedin.com/in/scott-sanders-2485235",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/scott-sanders-2485235&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCIwBEAE",
+      "displayed_link": "320+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff853892d89b2891b823373c97ee8b410f.png",
+      "snippet": "AVS Team Lead/ Senior Account Manager at Amazon · Current Account Manager for Amazon Vendor Services ... Everett, Washington, United States. 326 followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Current",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Everett, Washington, United States",
+            "AVS Team Lead/ Senior Account Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Scott Sanders"
+    },
+    {
+      "position": 27,
+      "title": "John Washam - Amazon",
+      "link": "https://www.linkedin.com/in/johnawasham",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/johnawasham&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCKcBEAE",
+      "displayed_link": "10.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffdf262bf6f506eb4042cc5d7e1396289e.png",
+      "snippet": "I'm an ever-driving juggernaut of product innovation and software engineering. · Amazon · Self-Taught · United States · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Washam"
+    },
+    {
+      "position": 28,
+      "title": "Lisa Anderson - Sr. Manager, re:Cycle Reverse Logistics ...",
+      "link": "https://www.linkedin.com/in/lisacrabtreeanderson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lisacrabtreeanderson&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCMgBEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffc7e8ea8871deec7d076d74e8ad97afe5.png",
+      "snippet": "Manager, re:Cycle Reverse Logistics Global Operations Leader. Amazon. Apr 2024 - Present 1 year. Florence, Kentucky, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cincinnati Metropolitan Area",
+            "Sr. Manager, re:Cycle Reverse Logistics Global Operations Leader",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lisa Anderson"
+    },
+    {
+      "position": 29,
+      "title": "Joshua Losey - Manager customer success management",
+      "link": "https://www.linkedin.com/in/joshua-losey-599866132",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joshua-losey-599866132&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCMkBEAE",
+      "displayed_link": "330+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff3348be07cc8a65c44c8484571685310b.png",
+      "snippet": "Manager of Customer Success Management at Amazon · I have been a leader for a great performance driven company for over 10 years.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Tustin, California, United States",
+            "Manager customer success management",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joshua Losey"
+    },
+    {
+      "position": 30,
+      "title": "John Sarno, MBA-AP - Technical Program Manager",
+      "link": "https://www.linkedin.com/in/johnsarno",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/johnsarno&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCN0BEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff4cae287aab88b19877a878467d61204b.png",
+      "snippet": "Amazon Prime Air TPM Regulatory Affairs. Amazon United States Naval Academy ... Nov 2017 1 year 4 months. Ridley Park. United States Marine Corps. 20 years 2 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon United States",
+        "United States",
+        "20 years"
+      ],
+      "source": "LinkedIn · John Sarno, MBA-AP"
+    },
+    {
+      "position": 31,
+      "title": "John Wong - Amazon",
+      "link": "https://www.linkedin.com/in/john-wong-44428ba9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-wong-44428ba9&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCOUBEAE",
+      "displayed_link": "680+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff4dd30e3c809522ed29b8a3452fa42b77.png",
+      "snippet": "Experience: Amazon · Education: University of Washington · Location: Seattle · 500+ connections on LinkedIn ... Seattle, Washington, United States. -. Seattle, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Wong"
+    },
+    {
+      "position": 32,
+      "title": "Natalie Hollier - Amazon",
+      "link": "https://www.linkedin.com/in/nataliehollier",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nataliehollier&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCPkBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff50b605debde27ad1b6bfb8ce1d1a8f5d.png",
+      "snippet": "Natalie Hollier. Amazon New York University. New York, New York, United States. 2K followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Natalie Hollier"
+    },
+    {
+      "position": 33,
+      "title": "Jason Krezinski - Amazon",
+      "link": "https://www.linkedin.com/in/jasonkrezinski",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jasonkrezinski&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCP4BEAE",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff09f8cdb9991428caf2873f53568a1516.png",
+      "snippet": "Experience: Amazon · Education: Texas A&M University · Location: Seattle ... Jason Krezinski. Amazon Texas A&M University. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jason Krezinski"
+    },
+    {
+      "position": 34,
+      "title": "Michelle Fiscella - Senior Leader Governance - Amazon",
+      "link": "https://www.linkedin.com/in/michelle-fiscella-53352666",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michelle-fiscella-53352666&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJUCEAE",
+      "displayed_link": "190+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff0585ef687ef467f9734fcd89ca565e73.png",
+      "snippet": "Experience. Amazon. 10 years 5 months. Amazon Graphic. Senior Leader Governance. Amazon. Nov 2014 - Present 10 years 5 months. Georgia, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "10 years",
+        "Amazon",
+        "Amazon",
+        "Present 10 years",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Senior Leader Governance",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michelle Fiscella"
+    },
+    {
+      "position": 35,
+      "title": "Stephenie Landry - Seattle, Washington, United States",
+      "link": "https://www.linkedin.com/in/stephenie-landry-07357b2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephenie-landry-07357b2&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJQCEAE",
+      "displayed_link": "6.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff050c131dab4f30889584420a8a2f29ba.png",
+      "snippet": "Stephenie Landry. Seattle, Washington, United States. 6K followers 500+ connections. See your mutual connections. View mutual connections with ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Stephenie Landry"
+    },
+    {
+      "position": 36,
+      "title": "McKenzie Phan - Program Manager - Amazon",
+      "link": "https://www.linkedin.com/in/mckenziephan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mckenziephan&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCK4CEAE",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffd9aa052773fa8cd421e4aa4ca6918eae.png",
+      "snippet": "Amazon. Mar 2024 - Present 1 year 1 month. Phoenix, Arizona, United States. Seller Partner Trust & Compliance. Amazon Graphic. Program Manager. Amazon. Jan 2023 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United States",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Phoenix, Arizona, United States",
+            "Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · McKenzie Phan"
+    },
+    {
+      "position": 37,
+      "title": "Katherine Galdikas - Sr. HR Business Partner - Amazon",
+      "link": "https://www.linkedin.com/in/katherine-galdikas-18aa755b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katherine-galdikas-18aa755b&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCLQCEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff5171501da9331497342fbe52e4ad5515.png",
+      "snippet": "Sr. HR Business Partner at Amazon · Experience: Amazon · Education: Eastern Illinois University · Location: United States · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Sr. HR Business Partner",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katherine Galdikas"
+    },
+    {
+      "position": 38,
+      "title": "Jason Lambert - Amazon",
+      "link": "https://www.linkedin.com/in/jason-lambert-58440814a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jason-lambert-58440814a&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECD4QAQ",
+      "displayed_link": "540+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff08a25eabeccd1a4b9b1110364b56d87f.png",
+      "snippet": "Experience: Amazon · Education: University of Maryland · Location: Seattle · 500+ connections on LinkedIn ... Seattle, Washington, United States. -. Seattle, ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jason Lambert"
+    },
+    {
+      "position": 39,
+      "title": "Katlynn Blanton - Technical Infrastructure Program Manager",
+      "link": "https://www.linkedin.com/in/katlynn-blanton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katlynn-blanton&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECEQQAQ",
+      "displayed_link": "370+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff5399dc34b6922fa0063ba558fb833b0a.png",
+      "snippet": "Technical Infrastructure Program Manager. Amazon. Jan 2023 - Present 2 years 3 months. Cincinnati, Ohio, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cincinnati Metropolitan Area",
+            "Technical Infrastructure Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katlynn Blanton"
+    },
+    {
+      "position": 40,
+      "title": "Scott Lawson - Amazon",
+      "link": "https://www.linkedin.com/in/scott-lawson-8724697a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/scott-lawson-8724697a&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECFoQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff5766abfe337f73e3ce2f8690dc7588e0.png",
+      "snippet": "Scott Lawson. Amazon University of Southern California - Marshall School of Business. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Scott Lawson"
+    },
+    {
+      "position": 41,
+      "title": "Colin Clark - Senior Operations Manager - Amazon",
+      "link": "https://www.linkedin.com/in/colin-clark-9803b451",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/colin-clark-9803b451&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECF4QAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff46585c2a44344b24888c2d5757d0f619.png",
+      "snippet": "... Amazon · California State University-San Bernardino · United States · 500 ... Mar 2024 - Present 1 year 1 month. San Bernardino, California, United ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "Present",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Senior Operations Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Colin Clark"
+    },
+    {
+      "position": 42,
+      "title": "Aditi Kacheria - Amazon",
+      "link": "https://www.linkedin.com/in/aditikacheria",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aditikacheria&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECHYQAQ",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff6697248208c3a10d0e8415fa6f31420d.png",
+      "snippet": "Amazon · Northeastern University · United States · 500+ connections on LinkedIn. View Aditi Kacheria's profile on LinkedIn, a professional community of 1 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aditi Kacheria"
+    },
+    {
+      "position": 43,
+      "title": "Christine Kirk - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/christine-l-kirk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christine-l-kirk&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECHcQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff591d5b4912ab421c13597e06acf675b8.png",
+      "snippet": "Amazon Web Services (AWS) Graphic. Senior Technical Program Manager. Amazon Web Services (AWS). Mar 2020 - Present 5 years 1 month. Greater Seattle Area. Amazon.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Senior Technical Program Manager",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christine Kirk"
+    },
+    {
+      "position": 44,
+      "title": "Sarah Walker - Learning Program Manager - Amazon",
+      "link": "https://www.linkedin.com/in/sarahwalker123",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarahwalker123&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECHUQAQ",
+      "displayed_link": "710+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffd9e9166c0e0b0c1d0793f9d4fdf63309.png",
+      "snippet": "... Amazon · Location: Seattle · 500+ connections on LinkedIn. View Sarah ... Amazon. Jan 2024 - Present 1 year 3 months. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Sarah Walker"
+    },
+    {
+      "position": 45,
+      "title": "Matt Orme - Sr. Manager - Data Analytics, Customer ...",
+      "link": "https://www.linkedin.com/in/matt-orme-29821428",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matt-orme-29821428&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJABEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff27eca2ec0d3e6541981b9357746d7e39.png",
+      "snippet": "Current Amazon: Senior Product Manager, Subscription Retention, Business Intelligence, Data Analytics ... Seattle, Washington, United States. Amazon Graphic ...",
+      "snippet_highlighted_words": [
+        "Current Amazon",
+        "United States",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Matt Orme"
+    },
+    {
+      "position": 46,
+      "title": "Eric Ogle - Business Intelligence Engineer - Amazon",
+      "link": "https://www.linkedin.com/in/eric-ogle-844521103",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/eric-ogle-844521103&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCI8BEAE",
+      "displayed_link": "70+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff14ee34fdadd6d2b2bd69ab0829fdf524.png",
+      "snippet": "Eric Ogle. Business Intelligence Engineer at Amazon. Amazon University of Washington. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Business Intelligence Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eric Ogle"
+    },
+    {
+      "position": 47,
+      "title": "Garrett Dorfman - Amazon",
+      "link": "https://www.linkedin.com/in/garrett-dorfman-9583371a0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/garrett-dorfman-9583371a0&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCKwBEAE",
+      "displayed_link": "700+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff143d0a8300e969c92f302207100f032b.png",
+      "snippet": "I am currently in year 13 of my teaching career. I started as a 3rd grade math teacher… · Experience: Amazon ... New Orleans, Louisiana, United States. -. New ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Garrett Dorfman"
+    },
+    {
+      "position": 48,
+      "title": "Sabrina Dewey - Amazon",
+      "link": "https://www.linkedin.com/in/sabrina-dewey-608921b1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sabrina-dewey-608921b1&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCK4BEAE",
+      "displayed_link": "430+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff85de89558de630fd9d4521d0278e25a2.png",
+      "snippet": "Sabrina Dewey. Amazon University of Utah. Salt Lake City, Utah, United States. 439 followers 435 connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Salt Lake City, Utah, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sabrina Dewey"
+    },
+    {
+      "position": 49,
+      "title": "Holly Mesrobian - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/holly-mesrobian-a1b710",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/holly-mesrobian-a1b710&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCKkBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff3bb16d4b30d05000c25954c53f8c3969.png",
+      "snippet": "Location: United States · 500+ connections on LinkedIn. View Holly Mesrobian's profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Holly Mesrobian"
+    },
+    {
+      "position": 50,
+      "title": "Josh Toone - Finance Manager - Amazon",
+      "link": "https://www.linkedin.com/in/joshuatoone",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joshuatoone&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCMYBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8fff002b9576111537c1432e849b05b9b57.png",
+      "snippet": "Virginia, United States. Amazon Graphic. Senior Manager Business Operations. Amazon. Apr 2023 - Aug 2024 1 year 5 months. Virginia/Texas, United States. Amazon ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Amazon",
+        "Amazon",
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington DC-Baltimore Area",
+            "Finance Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Josh Toone"
+    },
+    {
+      "position": 51,
+      "title": "Jason Buechel - Vice President, Amazon Worldwide Grocery",
+      "link": "https://www.linkedin.com/in/jasonbuechel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jasonbuechel&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCMQBEAE",
+      "displayed_link": "39.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff98862231f9a081d3a6aac74065fbb4b3.png",
+      "snippet": "Prior to that, he was Chief Operating Officer, providing operational leadership over Whole Foods Market's 500+ locations across the United States, Canada and ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Jason Buechel"
+    },
+    {
+      "position": 52,
+      "title": "Cassandra Rich - Program Manager - Amazon",
+      "link": "https://www.linkedin.com/in/cassandra-rich-92670426a?trk=public_profile_samename-profile",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cassandra-rich-92670426a%3Ftrk%3Dpublic_profile_samename-profile&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCOABEAE",
+      "displayed_link": "160+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffa7ab086c24e4f7a14bb806f3c795a8bf.png",
+      "snippet": "Program Manager · Experience: Amazon · Education: University of Washington · Location: United States · 161 connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Cassandra Rich"
+    },
+    {
+      "position": 53,
+      "title": "Sharon Kim - Legal Recruiter, Diversity and Inclusion",
+      "link": "https://www.linkedin.com/in/sharon-kim-133442a5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sharon-kim-133442a5&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCN4BEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffb92c1c4dd5ddd83f7b089ed345daf408.png",
+      "snippet": "... Amazon · Education: University of Washington · Location: Seattle · 500 ... Mar 2022 - Present 3 years 1 month. Seattle, Washington, United States. Amazon ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Legal Recruiter, Diversity and Inclusion",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sharon Kim"
+    },
+    {
+      "position": 54,
+      "title": "Wendy Holman - Category Manager - Amazon",
+      "link": "https://www.linkedin.com/in/wendy-holman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/wendy-holman&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCOEBEAE",
+      "displayed_link": "230+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffe4864e68cc0c7b71ce9f8c11790d0ff4.png",
+      "snippet": "... United States is when I realized the world has so much to offer and the vast ... Amazon as a Learning Area Manager who strives to deliver the best ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Category Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Wendy Holman"
+    },
+    {
+      "position": 55,
+      "title": "Heather Oliver (Hague) - Amazon",
+      "link": "https://www.linkedin.com/in/heatherhague",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/heatherhague&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCOIBEAE",
+      "displayed_link": "410+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff69e03cef3748b1ab476804626660c64a.png",
+      "snippet": "Heather Oliver (Hague). Amazon Ball State University. Austin, Texas, United States. 418 followers 408 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Heather Oliver (Hague)"
+    },
+    {
+      "position": 56,
+      "title": "Sean Ryman - Supply Chain by Amazon",
+      "link": "https://www.linkedin.com/in/ryman-sean",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ryman-sean&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCOQBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffbf25ef14db7a48703ba2557a4018d4f9.png",
+      "snippet": "9 months. Bellevue, Washington, United States. Leading Product Management for ... Amazon. 10 years 10 months · Amazon Graphic. Head of Product Management ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Amazon",
+        "10 years",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Head of Product Management",
+            "Supply Chain by Amazon",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sean Ryman"
+    },
+    {
+      "position": 57,
+      "title": "Zak Taylor - Technical Program Manager - ServiceNow",
+      "link": "https://www.linkedin.com/in/zak-l-taylor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/zak-l-taylor&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCPgBEAE",
+      "displayed_link": "600+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff47dc3322e75ea4a7dc4b1a08c480d299.png",
+      "snippet": "Jan 2015 - Present 10 years 3 months. West Bay, Roatan, Honduras. PADI 5 Star ... - Responsible for reporting to United States Military personnel and coordinating ...",
+      "snippet_highlighted_words": [
+        "Present 10 years",
+        "United States"
+      ],
+      "source": "LinkedIn · Zak Taylor"
+    },
+    {
+      "position": 58,
+      "title": "Svetlana Gladkaya - Amazon",
+      "link": "https://www.linkedin.com/in/svetlana-gladkaya",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/svetlana-gladkaya&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCP0BEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffbe433ca7699092542502b1766cb0f44c.png",
+      "snippet": "Svetlana Gladkaya. Amazon The University of Texas at Dallas. Dallas, Texas, United States. 1K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas, Texas, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Svetlana Gladkaya"
+    },
+    {
+      "position": 59,
+      "title": "Natalia Parker - Amazon",
+      "link": "https://www.linkedin.com/in/natalia-parker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/natalia-parker&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCP8BEAE",
+      "displayed_link": "920+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffa6b311d6c33882b7634eaec6156067c8.png",
+      "snippet": "Natalia Parker. Amazon University of Washington. Seattle, Washington, United States ... Dynamic and trusted business optimizer and executive ally: Over 15 years ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "15 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Natalia Parker"
+    },
+    {
+      "position": 60,
+      "title": "Nina B. - Learning Area Manager II - Amazon",
+      "link": "https://www.linkedin.com/in/nina-b-charlotte",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nina-b-charlotte&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCIACEAE",
+      "displayed_link": "360+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffcd925fc058bdae7b0381fd89b0dd84cf.png",
+      "snippet": "Nina B. Learning Manager at Amazon. Amazon William Peace University. Savannah, Georgia, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Savannah, Georgia, United States",
+            "Learning Area Manager II",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nina B."
+    },
+    {
+      "position": 61,
+      "title": "Scott Wofford - Amazon",
+      "link": "https://www.linkedin.com/in/scottwofford",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/scottwofford&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJoCEAE",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff65d5e7784257643fcaaec0572c1d5093.png",
+      "snippet": "Amazon · University of Virginia Darden School ... Scott Wofford. Amazon University of Virginia Darden School of Business. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Scott Wofford"
+    },
+    {
+      "position": 62,
+      "title": "Ashleigh Briscoe - Sr. Executive Onboarding Business ...",
+      "link": "https://www.linkedin.com/in/ashleigh-briscoe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ashleigh-briscoe&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJkCEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8fff978285f20a7c9e3489e985fc74ae3fd.png",
+      "snippet": "Sr. Executive Onboarding Business Partner at Amazon, I have over 15 years of experience in designing and delivering high ... Sep 2014 - Present 10 years 7 months.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "15 years",
+        "Present 10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Nashville Metropolitan Area",
+            "Sr. Executive Onboarding Business Partner",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ashleigh Briscoe"
+    },
+    {
+      "position": 63,
+      "title": "Michelle (. - Program Manager - technical learning ...",
+      "link": "https://www.linkedin.com/in/meetmichellemcgrail",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/meetmichellemcgrail&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJYCEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff828b5fcacb78e9e329e8b04100e4e158.png",
+      "snippet": "Technical Talent Development Strategy @ Amazon I Previous Organizational Development Consultant I Current ... 10 years of experience building technical ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Current",
+        "10 years"
+      ],
+      "source": "LinkedIn · Michelle (."
+    },
+    {
+      "position": 64,
+      "title": "Ram Selvarajan - Manager Program Management - Amazon",
+      "link": "https://www.linkedin.com/in/ram-selvarajan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ram-selvarajan&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJsCEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff8279de1d302a912ecffc4784931dac1d.png",
+      "snippet": "Amazon Graphic. Manager Program Management. Amazon. Mar 2012 - Present 13 years 1 month. Seattle, Washington, United States. Joined Amazon as team manager in ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Manager Program Management",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ram Selvarajan"
+    },
+    {
+      "position": 65,
+      "title": "Mickie Miller - Amazon",
+      "link": "https://www.linkedin.com/in/mickiemiller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mickiemiller&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCLACEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff50eccb7d75a8c8387879a7441e4b86ea.png",
+      "snippet": "Mickie Miller. Amazon University College Dublin. Seattle, Washington, United States. 1K followers 500 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mickie Miller"
+    },
+    {
+      "position": 66,
+      "title": "Yong Daniel Kim - Software Engineer II at Amazon",
+      "link": "https://www.linkedin.com/in/yong-daniel-kim-216182180?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/yong-daniel-kim-216182180%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCLMCEAE",
+      "displayed_link": "220+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff7a8015afcf36dba5bdddf1b5fde0ae3e.png",
+      "snippet": "Software Development Engineer II (Prime Video). Amazon. Apr 2024 - Present 11 months. Atlanta, Georgia, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta, Georgia, United States",
+            "Software Development Engineer II (Prime Video)",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Yong Daniel Kim"
+    },
+    {
+      "position": 67,
+      "title": "Eduardo Velasco - Amazon",
+      "link": "https://www.linkedin.com/in/ejvelasco",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ejvelasco&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCLgCEAE",
+      "displayed_link": "890+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff231f2df964be55edd46c99023484483d.png",
+      "snippet": "Eduardo Velasco. Amazon The University of Texas at Arlington. Seattle, Washington, United States. 893 followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eduardo Velasco"
+    },
+    {
+      "position": 68,
+      "title": "Nick Ciubotariu - Auctane",
+      "link": "https://www.linkedin.com/in/nickciubotariu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nickciubotariu&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCLUCEAE",
+      "displayed_link": "18.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff773ed732614728c7d325f91646e16217.png",
+      "snippet": "Volunteer Experience. Habitat for Humanity International Graphic. Volunteer. Habitat for Humanity International. May 2004 - Present 20 years 11 months. Poverty ...",
+      "snippet_highlighted_words": [
+        "Present 20 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Auctane"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Ciubotariu"
+    },
+    {
+      "position": 69,
+      "title": "Ryan Small - Technical Program Manager - Amazon",
+      "link": "https://www.linkedin.com/in/ryan-small-087b14144",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ryan-small-087b14144&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECEIQAQ",
+      "displayed_link": "100+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffac219a31fa45d82d637df59de19b0108.png",
+      "snippet": "Ryan Small. Technical Program Manager at Amazon. Amazon Florida Institute of Technology. Madison, Alabama, United States. 103 followers 104 connections. See ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Madison, Alabama, United States",
+            "Technical Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Small"
+    },
+    {
+      "position": 70,
+      "title": "Taran Carim - Amazon",
+      "link": "https://www.linkedin.com/in/taran-carim-a6a935129",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/taran-carim-a6a935129&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECEUQAQ",
+      "displayed_link": "120+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff2c3a607a5ad302515d816717ea6ae686.png",
+      "snippet": "Taran Carim. Amazon Stony Brook University. Seattle, Washington, United States. 123 followers 123 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Taran Carim"
+    },
+    {
+      "position": 71,
+      "title": "Aaron Owens - Amazon Pathways",
+      "link": "https://www.linkedin.com/in/aaronowensveteran",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aaronowensveteran&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECD8QAQ",
+      "displayed_link": "740+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8fffdd1d89708d4c4e464a16b5a84583c68.png",
+      "snippet": "... Amazon ... Amazon Pathways. Amazon. May 2022 - Present 2 years 10 months. Spokane, Washington, United States. United States Air Force. 20 years 2 months.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United States",
+        "United States",
+        "20 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Spokane, Washington, United States",
+            "Amazon Pathways",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aaron Owens"
+    },
+    {
+      "position": 72,
+      "title": "Kaleb Wayne - Senior Operations Manager - Amazon",
+      "link": "https://www.linkedin.com/in/kaleb-wayne-26b901b7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kaleb-wayne-26b901b7&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECEAQAQ",
+      "displayed_link": "610+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff8081190bb0f521c9d5099c1a7fc99b41.png",
+      "snippet": "Kaleb Wayne. Senior Operations Manager at Amazon. Amazon Northwestern State University. Austin, Texas, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Senior Operations Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kaleb Wayne"
+    },
+    {
+      "position": 73,
+      "title": "Chris Lucas - Amazon",
+      "link": "https://www.linkedin.com/in/cwlucas41",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cwlucas41&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECFkQAQ",
+      "displayed_link": "450+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffc00d40489b4c5a3c00efa24ede192071.png",
+      "snippet": "Experience: Amazon · Education: Saint Louis University · Location ... Kalamazoo, Michigan, United States. Education. Saint Louis University Graphic ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington DC-Baltimore Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Lucas"
+    },
+    {
+      "position": 74,
+      "title": "Sreyoshi Bhaduri, Ph.D. - Amazon",
+      "link": "https://www.linkedin.com/in/thatstatsgirl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/thatstatsgirl&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECFwQAQ",
+      "displayed_link": "7.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff515eceb5a938d2df43d029b434ca7d7f.png",
+      "snippet": "Experience. Amazon Graphic. Amazon. -. New York, United States. -. Blacksburg, Virginia, United States. -. -. shippensburg pennsylvania. -. Blacksburg, Virginia ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sreyoshi Bhaduri, Ph.D."
+    },
+    {
+      "position": 75,
+      "title": "Jeff Zyla - Software Development Manager - Amazon",
+      "link": "https://www.linkedin.com/in/zylajeff",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/zylajeff&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECFsQAQ",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffdc8bf7043c79992dbc729db5151d7217.png",
+      "snippet": "Jeff Zyla. Software Development Manager at Amazon. Amazon Michigan State University. Royal Oak, Michigan, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Royal Oak, Michigan, United States",
+            "Software Development Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff Zyla"
+    },
+    {
+      "position": 76,
+      "title": "Lisa Barry - Global Head of Human Resources",
+      "link": "https://www.linkedin.com/in/lisa-barry-2296472",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lisa-barry-2296472&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECF8QAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff803118e43b68bad67737a068dcefce66.png",
+      "snippet": "... 20 years of experience to drive effective organizational transformations ... Seattle, Washington, United States. 1K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "20 years",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Global Head of Human Resources | Various Business Lines",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lisa Barry"
+    },
+    {
+      "position": 77,
+      "title": "James Stevenson, MBA - Amazon Games",
+      "link": "https://www.linkedin.com/in/james-r-stevenson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/james-r-stevenson&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECHQQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff32a9b961c8be1662358d5e13682e405e.png",
+      "snippet": "James Stevenson, MBA. Amazon Games Pacific Lutheran University - School of Business. Seattle, Washington, United States ... Nov 2014 - Present 10 years 5 months.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "Present 10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Games"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Stevenson, MBA"
+    },
+    {
+      "position": 78,
+      "title": "Phil Ryan - Principal, Supply Chain Strategy",
+      "link": "https://www.linkedin.com/in/philgryan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/philgryan&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECHkQAQ",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff278aa5d292cef08a1814dd68a8bbe3c4.png",
+      "snippet": "Principal, Supply Chain Strategy. Amazon Web Services (AWS) Seton Hall University School of Law. Seattle, Washington, United States. 810 followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal, Supply Chain Strategy | Power and Cooling",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Phil Ryan"
+    },
+    {
+      "position": 79,
+      "title": "Jenny Fleck - Prime Video US, Sr Product Marketing ...",
+      "link": "https://www.linkedin.com/in/jenny-fleck-0251285a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jenny-fleck-0251285a&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECHgQAQ",
+      "displayed_link": "670+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff09350b3f77ee1b6067619ed6a98ae4b5.png",
+      "snippet": "Prime Video US, Sr Product Marketing Manager. Amazon. Jun 2024 - Present 10 months. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Prime Video US, Sr Product Marketing Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jenny Fleck"
+    },
+    {
+      "position": 80,
+      "title": "Kristina Adams - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/kristinaadams",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kristinaadams&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECHMQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff2655cd6b683c83d37b8bbf5a60539a54.png",
+      "snippet": "Herndon, Virginia, United States. -. Herndon, Virginia, United States ... Elon University. Oct 2014 - Present 10 years 6 months. Work with the Office of ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "United States",
+        "Present 10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chantilly, Virginia, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kristina Adams"
+    },
+    {
+      "position": 81,
+      "title": "Mayank Sharma - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/mayank-sharma-3436101b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mayank-sharma-3436101b&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECHEQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff9824ffd8dc91c3ed86e9bfb361cde456.png",
+      "snippet": "Director of Product & Tech, Amazon · Experience: Amazon · Education: UNC Kenan-Flagler Business School · Location: United States · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "source": "LinkedIn · Mayank Sharma"
+    },
+    {
+      "position": 82,
+      "title": "Silvia Esparrachiari - Amazon",
+      "link": "https://www.linkedin.com/in/silvia-esparrachiari-189b2664",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/silvia-esparrachiari-189b2664&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCI0BEAE",
+      "displayed_link": "700+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff7418e00623ddfd8555bf5508b5522a0f.png",
+      "snippet": "Silvia Esparrachiari. Amazon Universidade de São Paulo. New York, New York, United States ... Aug 2014 - Present 10 years 8 months. Social Services. Best Friends ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "Present 10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Silvia Esparrachiari"
+    },
+    {
+      "position": 83,
+      "title": "Jay Shankar - Amazon",
+      "link": "https://www.linkedin.com/in/jayshankar1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jayshankar1&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJMBEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff9e693b4dd19bdcc16a7dc680dde7b3eb.png",
+      "snippet": "Amazon · Seattle · 500+ connections on LinkedIn. View Jay Shankar's profile ... Jay Shankar. Amazon. Seattle, Washington, United States. 4K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jay Shankar"
+    },
+    {
+      "position": 84,
+      "title": "Ming Chen - Senior Technical Product Manager ...",
+      "link": "https://www.linkedin.com/in/meetming",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/meetming&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJQBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff125adc9efb5a1d6766d182aa89952478.png",
+      "snippet": "Product @Amazon | 20 years in Product Management · Amazon · Hofstra University · United States · 500+ connections on LinkedIn ... Amazon. Oct 2021 - Present ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "20 years",
+        "Amazon",
+        "United States",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Senior Technical Product Manager, Personalization and Search",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ming Chen"
+    },
+    {
+      "position": 85,
+      "title": "Christopher Munn - Sr. Manager, Non-Standard ...",
+      "link": "https://www.linkedin.com/in/christopher-munn-baa02653",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christopher-munn-baa02653&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCJIBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8fffb01df2a159d887411101f2b2f446e9d.png",
+      "snippet": "... Amazon Web Services (AWS) ... Arlington, Virginia, United States. United States Department of Defense. 10 years 8 months.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "United States",
+        "10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Arlington, Virginia, United States",
+            "Sr. Manager, Non-Standard Infrastructure Global Delivery",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christopher Munn"
+    },
+    {
+      "position": 86,
+      "title": "Madhavi Jampala - Amazon",
+      "link": "https://www.linkedin.com/in/madhavi-jampala-23b3a317",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/madhavi-jampala-23b3a317&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCKoBEAE",
+      "displayed_link": "400+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff801eaf6dcf2ea5c1425f68df854f505c.png",
+      "snippet": "Amazon · North Carolina State University · United States · 397 connections on LinkedIn. View Madhavi Jampala's profile on LinkedIn, a professional community ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Madhavi Jampala"
+    },
+    {
+      "position": 87,
+      "title": "Aditya Chopra - Finance Leader - Amazon",
+      "link": "https://www.linkedin.com/in/aditya-chopra-240bb062",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aditya-chopra-240bb062&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCKsBEAE",
+      "displayed_link": "18.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffbb27888a1ac956c90949f0224640dacc.png",
+      "snippet": "Experience ; Finance Leader - Amazon · Apr 2021 - Present 4 years. United States ; Manager - Global FP&A · Dec 2017 - Oct 2018 11 months. Gurgaon, Haryana, India.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Finance Leader",
+            "Amazon",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aditya Chopra"
+    },
+    {
+      "position": 88,
+      "title": "Sanket Nayak - Amazon",
+      "link": "https://www.linkedin.com/in/sanket-nayak-8078a454",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sanket-nayak-8078a454&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCKgBEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffa9961597da638b5715b185b01fa881c3.png",
+      "snippet": "Accomplished technology leader with over 15+ years of experience spearheading complex… · Amazon · University of Maryland College Park · United States · 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sanket Nayak"
+    },
+    {
+      "position": 89,
+      "title": "Olivia Page - Field Engineering Controls Manager, AMER",
+      "link": "https://www.linkedin.com/in/olivia-page-67578497",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/olivia-page-67578497&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCK8BEAE",
+      "displayed_link": "70+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffd1ebae0c38d9896a7ea4a445046b24b2.png",
+      "snippet": "Field Engineering Controls Manager, AMER at Amazon Web Services (AWS) · Experience: Amazon Web Services (AWS) · Education: United States Naval Academy ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Oxon Hill, Maryland, United States",
+            "Field Engineering Controls Manager, AMER",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Olivia Page"
+    },
+    {
+      "position": 90,
+      "title": "Jaideep Ravela - Amazon",
+      "link": "https://www.linkedin.com/in/jaideep-ravela-1560172",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jaideep-ravela-1560172&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCK0BEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff3a193575af17e1d99612c81c6294ff67.png",
+      "snippet": "Jaideep Ravela. Amazon Stanford University. Seattle, Washington, United States. 1K followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jaideep Ravela"
+    },
+    {
+      "position": 91,
+      "title": "Robert Patterson - Senior Program Manager - Amazon",
+      "link": "https://www.linkedin.com/in/robertjpatterson531",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robertjpatterson531&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCMMBEAE",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffca554108ac507cfd047c6b75c921c6a4.png",
+      "snippet": "Senior Program Manager @ Amazon | MBA | Servant Leader · At Amazon, my role as ... Cranberry Township, Pennsylvania, United States. 760 followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cranberry Township, Pennsylvania, United States",
+            "Senior Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert Patterson"
+    },
+    {
+      "position": 92,
+      "title": "Marty Chen - Senior Partner Development Manager, Media ...",
+      "link": "https://www.linkedin.com/in/martytlchen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/martytlchen&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCMIBEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff4a7f7054209f49823394b20886090e57.png",
+      "snippet": "2022 - Jul 2024 2 years. Los Angeles, California, United States. I'm responsible for content licensing for Amazon Prime Video Channels in international markets.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Marty Chen"
+    },
+    {
+      "position": 93,
+      "title": "Jessica Walton - Enterprise Services Manager - Amazon ...",
+      "link": "https://www.linkedin.com/in/jessica-walton-1baab17",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jessica-walton-1baab17&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCMoBEAE",
+      "displayed_link": "640+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff649014dbe974503a23ce63f878566e05.png",
+      "snippet": "... Amazon Web Services (AWS) | 20 years experience. Amazon Web Services (AWS) Queens University of Charlotte. New York, New York, United States. 644 followers 500 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "20 years",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Enterprise Services Manager",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jessica Walton"
+    },
+    {
+      "position": 94,
+      "title": "Cary Hawkins - Amazon",
+      "link": "https://www.linkedin.com/in/caryhawkins",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/caryhawkins&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoFCPsBEAE",
+      "displayed_link": "320+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffa851c4b52268a679c817c1e526fb1037.png",
+      "snippet": "We are hiring! https://www.amazon.jobs/en/teams/fulfillment-amazon If you are… · Experience: Amazon ... Seattle, Washington, United States. -. Seattle, Washington ...",
+      "snippet_highlighted_words": [
+        "amazon",
+        "amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Cary Hawkins"
+    },
+    {
+      "position": 95,
+      "title": "Jason Weill - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/jweill",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jweill&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECCcQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffd433d898f031455a88730989b764b6eb.png",
+      "snippet": "Jason Weill. Amazon Web Services (AWS) Carnegie Mellon University. Seattle, Washington, United States ... Amazon Prime members to borrow books for free. As ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jason Weill"
+    },
+    {
+      "position": 96,
+      "title": "Daniel Meiller - Amazon",
+      "link": "https://www.linkedin.com/in/danielmeiller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danielmeiller&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECCoQAQ",
+      "displayed_link": "220+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff43d42d7a3d4deb4ad80149a3299240a0.png",
+      "snippet": "Daniel Meiller. Amazon Rochester Institute of Technology. Seattle, Washington, United States. 221 followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Meiller"
+    },
+    {
+      "position": 97,
+      "title": "Cayden Present - Flight Test/Part 135 Drone Operator in ...",
+      "link": "https://www.linkedin.com/in/cayden-present",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cayden-present&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECCsQAQ",
+      "displayed_link": "310+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ff129fd15a22bb98e0bdc238cc75ccd92e.png",
+      "snippet": "... Amazon · Embry-Riddle Aeronautical University · United States · 312 ... Jun 2014 - Present 10 years 10 months. Health. Honors & Awards. Cum Laude. -. Apr ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States",
+        "Present 10 years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "flight_test_part_drone_operator_in_command": 135
+          },
+          "extensions": [
+            "United States",
+            "Flight Test/Part 135 Drone Operator in Command",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Cayden Present"
+    },
+    {
+      "position": 98,
+      "title": "Sanjay George Charles - Amazon",
+      "link": "https://www.linkedin.com/in/sanjaygeorgecharles",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sanjaygeorgecharles&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECCkQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffe7444dfed1cdbf46adb1149b90a56aba.png",
+      "snippet": "Business leader with 12+ years of experience with managing global functions (science) Experience Amazon Graphic Amazon Seattle, Washington, United States",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sanjay George Charles"
+    },
+    {
+      "position": 99,
+      "title": "Laura Barry - Business Operations Analyst II- AWS Billing",
+      "link": "https://www.linkedin.com/in/leighway",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/leighway&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4QFnoECCwQAQ",
+      "displayed_link": "310+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa7f6776a5f8393aaad0/images/3a794384bd855fd9c8b2bfcfcd1ca8ffac5d2a02a163b6f29fcfc581bbf49823.png",
+      "snippet": "Business Operations Analyst II- AWS Billing. Amazon. Oct 2022 - Present 2 years 5 months. Seattle, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Business Operations Analyst II- AWS Billing",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Laura Barry"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?num=100&sca_esv=b275642f2649e319&gl=us&q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22)&udm=2&source=univ&fir=Y34xM3SzbalKVM%252CVMGEnhVSrhBqHM%252C_%253BwItKw-Us_qWQwM%252CUChfX9jsfKiqMM%252C_%253B4CjewTlmf5N5HM%252C5eXy2q8o9KtNvM%252C_%253BVVFJeAohb7l4sM%252Cp557bXYxIv6JPM%252C_%253BEKFP7JOHiFxFlM%252CVgPp3PSvQP4KjM%252C_%253Bzqg3DN8B0jH1lM%252CThZFCFpz9mOmDM%252C_%253BThJKNEgWvhHzIM%252CTdd_EYDZXmXteM%252C_%253Bv92E9kLuFnpuvM%252C5YoYA9KbMY4fnM%252C_%253B9c4pTTcGNJHeFM%252Cagnt3lbdOwbrDM%252C_&usg=AI4_-kR3oZ7PDVDcAM81NV9M9QuH5H0oGw&sa=X&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4Q7Al6BAhgEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29",
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=gPrdZ9mSDKC5hbIP4u_w8Ao&start=100&sa=N&sstk=Af40H4URC5l9OYojDm9OpR0YYYIeN7rypYsXpSiMA6xJzm0RV3pzRo_tcnRpU76fEHivEniR8uAuqaBLDYxc7JD_7zaHuRJ5M54Gmw&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4Q8NMDegUIrwIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=gPrdZ9mSDKC5hbIP4u_w8Ao&start=100&sa=N&sstk=Af40H4URC5l9OYojDm9OpR0YYYIeN7rypYsXpSiMA6xJzm0RV3pzRo_tcnRpU76fEHivEniR8uAuqaBLDYxc7JD_7zaHuRJ5M54Gmw&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4Q8tMDegUIrwIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=gPrdZ9mSDKC5hbIP4u_w8Ao&start=200&sa=N&sstk=Af40H4URC5l9OYojDm9OpR0YYYIeN7rypYsXpSiMA6xJzm0RV3pzRo_tcnRpU76fEHivEniR8uAuqaBLDYxc7JD_7zaHuRJ5M54Gmw&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4Q8tMDegUIrwIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=gPrdZ9mSDKC5hbIP4u_w8Ao&start=300&sa=N&sstk=Af40H4URC5l9OYojDm9OpR0YYYIeN7rypYsXpSiMA6xJzm0RV3pzRo_tcnRpU76fEHivEniR8uAuqaBLDYxc7JD_7zaHuRJ5M54Gmw&ved=2ahUKEwjZ0tr8rZyMAxWgXEEAHeI3HK4Q8tMDegUIrwIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%2210%2B+years%22+OR+%2215%2B+years%22+OR+%2220%2B+years%22%29&start=300"
+    }
+  }
+}

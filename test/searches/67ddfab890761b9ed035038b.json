@@ -1,0 +1,352 @@
+{
+  "search_metadata": {
+    "id": "67ddfab890761b9ed035038b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/c9814657f96f9e2d/67ddfab890761b9ed035038b.json",
+    "created_at": "2025-03-21 23:48:08 UTC",
+    "processed_at": "2025-03-21 23:48:08 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&oq=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/c9814657f96f9e2d/67ddfab890761b9ed035038b.html",
+    "total_time_taken": 4.04
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Amazon\" AND \"United Kingdom\" AND (current OR present) AND (\"senior\" OR \"leader\" OR \"executive\" OR \"experienced\") AND \"years experience\"",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Amazon\" AND \"United Kingdom\" AND (current OR present) AND (\"senior\" OR \"leader\" OR \"executive\" OR \"experienced\") AND \"years experience\"",
+    "total_results": 153000,
+    "time_taken_displayed": 0.62,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "John McEwen - General Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/john-mcewen-80b35132",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/john-mcewen-80b35132&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8QFnoECAkQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab890761b9ed035038b/images/ede8cfd7f9b927c19faed401e828ecf31cfec6c72f0a857053328d52ed0eb21f.png",
+      "snippet": "Experience · Amazon Graphic. General Manager · Amazon Graphic. Site Leader · Amazon UK Graphic. Senior Operations Manager · Amazon Graphic. Shipping and ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Leader",
+        "Amazon",
+        "Senior",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "General Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John McEwen"
+    },
+    {
+      "position": 2,
+      "title": "Amy Worth - Director Amazon Business UK and Public ...",
+      "link": "https://uk.linkedin.com/in/amyeworth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/amyeworth&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8QFnoECBYQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab890761b9ed035038b/images/ede8cfd7f9b927c19faed401e828ecf3f220e4b3d4fbb620f93fa38157115cd6.png",
+      "snippet": "Amazon Senior Executive | Delivery Through People | Customer Experience ... leader, I establish and nurture high-performance, diverse teams. With ...",
+      "snippet_highlighted_words": [
+        "Amazon Senior Executive",
+        "leader"
+      ],
+      "source": "LinkedIn · Amy Worth"
+    },
+    {
+      "position": 3,
+      "title": "Marco M. - Senior Vendor & Program Manager, Amazon ...",
+      "link": "https://uk.linkedin.com/in/marco-musumeci",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/marco-musumeci&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8QFnoECBwQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab890761b9ed035038b/images/ede8cfd7f9b927c19faed401e828ecf327248abd3479384cbc0fa9f3b9ba19ea.png",
+      "snippet": "Senior Vendor & Program Manager, Amazon Europe - Beer Wine & Spirits. Amazon. Sep 2023 - Present 1 year 7 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Vendor & Program Manager, Amazon Europe",
+            "Beer Wine & Spirits",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marco M."
+    },
+    {
+      "position": 4,
+      "title": "Oliver Jeffers - Site Lead - Amazon",
+      "link": "https://uk.linkedin.com/in/oliver-jeffers-11a312129",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/oliver-jeffers-11a312129&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8QFnoECB4QAQ",
+      "displayed_link": "580+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab890761b9ed035038b/images/ede8cfd7f9b927c19faed401e828ecf37eca70c83090b64eca271de9195c968f.png",
+      "snippet": "Site Leader at Amazon · An experienced people and Operations Manager in a ... Senior Operations Manager. Amazon. Apr 2022 - Feb 2025 2 years 11 months.",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Amazon",
+        "experienced",
+        "Senior",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bolton, England, United Kingdom",
+            "Site Lead",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Oliver Jeffers"
+    },
+    {
+      "position": 5,
+      "title": "Alistair Mackenzie - Senior Manager, Launch & Expansion",
+      "link": "https://uk.linkedin.com/in/alistair-mackenzie-30924bb0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alistair-mackenzie-30924bb0&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8QFnoECBsQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab890761b9ed035038b/images/ede8cfd7f9b927c19faed401e828ecf361d1f8203de8e181f3069b52f4ffc296.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Alistair Mackenzie's ... Senior Operations Leader driving Amazon's Last Mile network expansion ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Senior",
+        "Leader",
+        "Amazon's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior Manager, Launch & Expansion",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alistair Mackenzie"
+    },
+    {
+      "position": 6,
+      "title": "Russell Jones - Senior Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/russell-jones-83254435",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/russell-jones-83254435&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8QFnoECBcQAQ",
+      "displayed_link": "270+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab890761b9ed035038b/images/ede8cfd7f9b927c19faed401e828ecf35ab51e0f527ab20650ee37c39f0dc501.png",
+      "snippet": "Russell Jones. Senior Manager. Amazon University of Warwick. Royal Leamington Spa, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Royal Leamington Spa, England, United Kingdom",
+            "Senior Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Russell Jones"
+    },
+    {
+      "position": 7,
+      "title": "Paul Killebrew - Global Executive Producer, Premium ...",
+      "link": "https://uk.linkedin.com/in/paul-killebrew-b2ab234",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paul-killebrew-b2ab234&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8QFnoECCcQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab890761b9ed035038b/images/ede8cfd7f9b927c19faed401e828ecf35c157bf4351b8b7a98a7bc074a855ad9.png",
+      "snippet": "I am an award-winning creative leader with 25+ years experience creating innovative content for brands. ... Global Executive Producer, Premium Content Production, ...",
+      "snippet_highlighted_words": [
+        "leader",
+        "years experience",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Global Executive Producer, Premium Content Production, Brand Innovation Lab",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Killebrew"
+    },
+    {
+      "position": 8,
+      "title": "Eleanor Holt - Senior Team Lead, UK Books - Amazon",
+      "link": "https://www.linkedin.com/in/eleanor-holt-730a34130",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/eleanor-holt-730a34130&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8QFnoECCwQAQ",
+      "displayed_link": "530+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab890761b9ed035038b/images/ede8cfd7f9b927c19faed401e828ecf343cd099b50f088f32692ab787a232355.png",
+      "snippet": "Senior Team Lead, UK Books at Amazon. Amazon University of Oxford. London, England, United Kingdom. 537 followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Team Lead, UK Books",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eleanor Holt"
+    },
+    {
+      "position": 9,
+      "title": "Alex Barrett - Site Leader - Amazon",
+      "link": "https://uk.linkedin.com/in/alex-barrett-972881a7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alex-barrett-972881a7&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8QFnoECCgQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab890761b9ed035038b/images/ede8cfd7f9b927c19faed401e828ecf35ce557217746ceb104a660366d5a92c5.png",
+      "snippet": "Amazon. 8 years 4 months · Amazon Graphic. Site Leader. Amazon. Jan 2025 - Present 3 months. Daventry, England, United Kingdom. Amazon Graphic. Senior ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Leader",
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "Amazon",
+        "Senior"
+      ],
+      "source": "LinkedIn · Alex Barrett"
+    },
+    {
+      "position": 10,
+      "title": "Mark Keeney - Senior Manager Operations - Amazon",
+      "link": "https://uk.linkedin.com/in/mark-keeney-2490847",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mark-keeney-2490847&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8QFnoECCkQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab890761b9ed035038b/images/ede8cfd7f9b927c19faed401e828ecf3f417bbdb325c10bcc7613414d3329538.png",
+      "snippet": "Mark Keeney. Looking for the next opportunity. Amazon Control Data Institute. Winchester, England, United Kingdom ... Operations professional with over 30 years ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "years"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Winchester, England, United Kingdom",
+            "Senior Manager Operations",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Keeney"
+    },
+    {
+      "position": 11,
+      "title": "Alex Hallimond - Operations Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/alexhallimond",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alexhallimond&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8QFnoECCoQAQ",
+      "displayed_link": "530+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab890761b9ed035038b/images/ede8cfd7f9b927c19faed401e828ecf3510f7b075ebb2cd7830181c3955d9e37.png",
+      "snippet": "Operations Manager at Amazon · I am a respected leader and experienced ... senior management. Key aspects of this role included recruitment, staff training ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "leader",
+        "experienced",
+        "senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Durham, England, United Kingdom",
+            "Operations Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alex Hallimond"
+    },
+    {
+      "position": 12,
+      "title": "Mark Grey - Senior Operations Manager STN8 - Amazon",
+      "link": "https://uk.linkedin.com/in/mark-grey-b93b46106",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mark-grey-b93b46106&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8QFnoECC8QAQ",
+      "displayed_link": "350+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab890761b9ed035038b/images/ede8cfd7f9b927c19faed401e828ecf389d269e54c05f1a7c97ac67405cf7c78.png",
+      "snippet": "Amazon Graphic. Senior Operations Manager STN8. Amazon. Jan 2020 - Present 5 years 3 months. Milton Keynes, United Kingdom. Amazon Graphic. Site Leader CGN9.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Senior",
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "Amazon",
+        "Leader"
+      ],
+      "source": "LinkedIn · Mark Grey"
+    },
+    {
+      "position": 13,
+      "title": "Fadi M. - Senior Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/fadi-m-2893461b5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/fadi-m-2893461b5&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8QFnoECC4QAQ",
+      "displayed_link": "670+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab890761b9ed035038b/images/ede8cfd7f9b927c19faed401e828ecf3969d7fb87c2a3a7c57e0d14a0bbf84a7.png",
+      "snippet": "Senior Manager Amazon · A business-savvy operational leader with eight years' experience within leading industry players in the retail and automotive ...",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Amazon",
+        "leader",
+        "years' experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Fadi M."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=u_rdZ-CWFJervr0P-Zvg-Qk&start=100&sa=N&sstk=Af40H4VMY6r668k87ZHc097Y-CQ_rJfh-9TGKxpZAzw7kAfo-9ndbFHwCcGuqybQyKIDYFWjMVtwUPSjGcr4SaRuGY2matdEtyrI_g&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8Q8NMDegQIJhAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=u_rdZ-CWFJervr0P-Zvg-Qk&start=100&sa=N&sstk=Af40H4VMY6r668k87ZHc097Y-CQ_rJfh-9TGKxpZAzw7kAfo-9ndbFHwCcGuqybQyKIDYFWjMVtwUPSjGcr4SaRuGY2matdEtyrI_g&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8Q8tMDegQIJhAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=u_rdZ-CWFJervr0P-Zvg-Qk&start=200&sa=N&sstk=Af40H4VMY6r668k87ZHc097Y-CQ_rJfh-9TGKxpZAzw7kAfo-9ndbFHwCcGuqybQyKIDYFWjMVtwUPSjGcr4SaRuGY2matdEtyrI_g&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8Q8tMDegQIJhAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=u_rdZ-CWFJervr0P-Zvg-Qk&start=300&sa=N&sstk=Af40H4VMY6r668k87ZHc097Y-CQ_rJfh-9TGKxpZAzw7kAfo-9ndbFHwCcGuqybQyKIDYFWjMVtwUPSjGcr4SaRuGY2matdEtyrI_g&ved=2ahUKEwig4POYrpyMAxWXla8BHfkNOJ8Q8tMDegQIJhAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=300"
+    }
+  }
+}

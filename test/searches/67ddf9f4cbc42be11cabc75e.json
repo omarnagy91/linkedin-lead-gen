@@ -1,0 +1,2308 @@
+{
+  "search_metadata": {
+    "id": "67ddf9f4cbc42be11cabc75e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8f8de15b18568015/67ddf9f4cbc42be11cabc75e.json",
+    "created_at": "2025-03-21 23:44:52 UTC",
+    "processed_at": "2025-03-21 23:44:52 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8f8de15b18568015/67ddf9f4cbc42be11cabc75e.html",
+    "total_time_taken": 1.9
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"United Kingdom\" AND (current OR present) AND (\"Associate Vice President\" OR \"AVP\" OR \"Partner\" OR \"Senior Partner\" OR \"Managing Partner\" OR \"Principal\" OR \"Founding Partner\" OR \"Associate Partner\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"United Kingdom\" AND (current OR present) AND (\"Associate Vice President\" OR \"AVP\" OR \"Partner\" OR \"Senior Partner\" OR \"Managing Partner\" OR \"Principal\" OR \"Founding Partner\" OR \"Associate Partner\")",
+    "total_results": 42000000,
+    "time_taken_displayed": 0.74,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Philipp Schindler - Google",
+      "link": "https://www.linkedin.com/in/philipp-schindler-12531a94",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/philipp-schindler-12531a94&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECAkQAQ",
+      "displayed_link": "20.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943c247e5084739c25a860d2dd3ab61e7f4.png",
+      "snippet": "Chief Business Officer at Google. Eat, sleep, & breathe customer & partner ... London, United Kingdom. -. Hamburg Area, Germany. -. Hamburg Area, Germany ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "partner",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Philipp Schindler"
+    },
+    {
+      "position": 2,
+      "title": "Antonia Cecio - Global Partner Lead - Google",
+      "link": "https://uk.linkedin.com/in/antoniacecio",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/antoniacecio&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECCgQAQ",
+      "displayed_link": "4.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943ce126bdb6805a7ebe9510ff9f06d430c.png",
+      "snippet": "Google Graphic. Global Partner Lead. Google. Jul 2024 - Present 9 months. London, United Kingdom. Google Graphic. Partner Manager, Google Marketing Platform.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Partner",
+        "Google",
+        "Present",
+        "United Kingdom",
+        "Google",
+        "Partner",
+        "Google"
+      ],
+      "source": "LinkedIn · Antonia Cecio"
+    },
+    {
+      "position": 3,
+      "title": "Tom Scriven - Principal Consultant - Google",
+      "link": "https://uk.linkedin.com/in/tom-scriven-71454910b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tom-scriven-71454910b&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECCYQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943bc9d24cb96c038dbd6fbcf3a03efda7b.png",
+      "snippet": "Tom Scriven. Principal Consultant at Mandiant - Now part of Google Cloud. Google. United Kingdom. 1K followers ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Tom Scriven"
+    },
+    {
+      "position": 4,
+      "title": "Phil Harrison - Google",
+      "link": "https://uk.linkedin.com/in/phil-harrison-649b04a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/phil-harrison-649b04a&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECBsQAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294362b60eff0fd1272c06903eb868c32a5b.png",
+      "snippet": "Phil Harrison. Google St Albans School. London, England, United Kingdom. 3K followers 500+ connections. See your mutual connections. View mutual connections ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Phil Harrison"
+    },
+    {
+      "position": 5,
+      "title": "Rebecca Hotston - Senior Client Partner - Google",
+      "link": "https://uk.linkedin.com/in/rebecca-hotston-7b399240",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rebecca-hotston-7b399240&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECBoQAQ",
+      "displayed_link": "290+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943081daf7427496123a24bbc083bdca10b.png",
+      "snippet": "Senior Client Partner | Technology at Google · Experience: Google · Education: Aston University · Location: United Kingdom · 288 connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Rebecca Hotston"
+    },
+    {
+      "position": 6,
+      "title": "Gemma Howley - Head of Partner Activation; Global Client ...",
+      "link": "https://uk.linkedin.com/in/gemmahowley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gemmahowley&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECCIQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943457880a635ed887662a65c4915a9ce82.png",
+      "snippet": "Head of Partner Activation; Global Client & Agency Solutions; Google ... Greater London, England, United Kingdom. 1K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Head of Partner Activation; Global Client & Agency Solutions",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gemma Howley"
+    },
+    {
+      "position": 7,
+      "title": "Daniella Ebenezer - Play EMEA Import Lead - Google",
+      "link": "https://www.linkedin.com/in/daniella-ebenezer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/daniella-ebenezer&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECBkQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943b1ab4c49cfbe8976711dd4cc5d8fc9a5.png",
+      "snippet": "London, England, United Kingdom ... *Architected and executed strategic plans, driving revenue growth, enhancing customer experience, and fortifying partner ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Play EMEA Import Lead",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniella Ebenezer"
+    },
+    {
+      "position": 8,
+      "title": "Kevin Mathers - Accenture Song",
+      "link": "https://uk.linkedin.com/in/kevin-mathers-40b276",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kevin-mathers-40b276&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECDMQAQ",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943c05750ec03abc0d8138c0d8e9f7a6681.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... London, United Kingdom. -. -. London, United Kingdom. -. London, United ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom",
+        "United Kingdom",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Accenture Song"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin Mathers"
+    },
+    {
+      "position": 9,
+      "title": "Sophie Neary - Managing Director, Retail & Consumer ...",
+      "link": "https://uk.linkedin.com/in/sophieneary",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sophieneary&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECC4QAQ",
+      "displayed_link": "20.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829431a1348d67110d98c924e635d0f027fd1.png",
+      "snippet": "London, United Kingdom. Managing Partner. Good Plans Strategy Consultancy. 2012 - 2017 5 years. London, United Kingdom. Ran my own consultancy and interim ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Managing Partner",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Managing Director, Retail & Consumer Goods",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sophie Neary"
+    },
+    {
+      "position": 10,
+      "title": "Persa S. - Senior Client Partner, CPG - Google",
+      "link": "https://uk.linkedin.com/in/persa-s-3a896826?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/persa-s-3a896826%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCOMBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829439f0a129d5f38bd489c8413e9f36f8cf1.png",
+      "snippet": "Experience. Google Graphic. Senior Client Partner, CPG. Google. Jul 2018 - Present 6 years 9 months. London, United Kingdom. Client Partner (CPG) April 2023 - ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Partner",
+        "Google",
+        "Present",
+        "United Kingdom",
+        "Partner"
+      ],
+      "source": "LinkedIn · Persa S."
+    },
+    {
+      "position": 11,
+      "title": "Aymen Tabbakha - Data & Tech Partner Manager - Google",
+      "link": "https://uk.linkedin.com/in/aymentab",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/aymentab&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECDIQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829431df02a136637f457b398dc000ec9fb2c.png",
+      "snippet": "Data & Tech Partner Manager. Google. Jan 2025 - Present 3 months. London Area, United Kingdom. Google Graphic. Senior Partner Account Manager - Agenices & ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Present",
+        "United Kingdom",
+        "Google",
+        "Senior Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Data & Tech Partner Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aymen Tabbakha"
+    },
+    {
+      "position": 12,
+      "title": "Sara Marques - Partner Engagement Manager - Google",
+      "link": "https://uk.linkedin.com/in/saraom",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/saraom&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJoBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294317826dbfb671bbd3d24beff9b2da6ca7.png",
+      "snippet": "Sara Marques. Partner Engagement Manager at Google UK. Google Universidade de Aveiro / University of Aveiro. United Kingdom.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Partner Engagement Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sara Marques"
+    },
+    {
+      "position": 13,
+      "title": "Jon Fildes - Google DeepMind",
+      "link": "https://uk.linkedin.com/in/jonathanfildes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jonathanfildes&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCOQBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943d4282857778e98216a0441ce1d6a4e7f.png",
+      "snippet": "Jon Fildes. Google DeepMind Massachusetts Institute of Technology. United Kingdom. 2K followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Google DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jon Fildes"
+    },
+    {
+      "position": 14,
+      "title": "Susan Thomas - Clinical Director, Google Health",
+      "link": "https://uk.linkedin.com/in/susanthomashealth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/susanthomashealth&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJICEAE",
+      "displayed_link": "4.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943ceea0f84f7c63500e31413c7f9033779.png",
+      "snippet": "Google. Apr 2021 - Present 4 years. London, England, United Kingdom. EY. 12 years 8 months. EY Graphic. Health and Life Sciences Lead Partner UK&I. EY. Jul 2020 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Present",
+        "United Kingdom",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Clinical Director, Google Health",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Susan Thomas"
+    },
+    {
+      "position": 15,
+      "title": "Matt Robinson - Partner Cloud Engineering - AI - Google",
+      "link": "https://www.linkedin.com/in/mattrobn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mattrobn&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECCsQAQ",
+      "displayed_link": "870+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943b0e77fb4aa27f53dfa0aba7367dd8cc5.png",
+      "snippet": "Principal Cloud Architect, AI on Google Cloud · Cloud solution architect ... London, United Kingdom. IBM Graphic. Junior Consultant. IBM. Oct 2012 - Dec ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chicago, Illinois, United States",
+            "Partner Cloud Engineering",
+            "AI",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Robinson"
+    },
+    {
+      "position": 16,
+      "title": "Aaron Culhane - Strategic Partner Manager - Google",
+      "link": "https://uk.linkedin.com/in/aaron-culhane-19918ba1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/aaron-culhane-19918ba1&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECGQQAQ",
+      "displayed_link": "730+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829438dea628fddc4b0bc3e72fd593f71af9e.png",
+      "snippet": "Experience. Google Graphic. Strategic Partner Manager. Google. Apr 2023 - Present 2 years. London, England, United Kingdom. Fitbit (now part of Google) ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Partner",
+        "Google",
+        "Present",
+        "United Kingdom",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Milton Keynes, England, United Kingdom",
+            "Strategic Partner Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aaron Culhane"
+    },
+    {
+      "position": 17,
+      "title": "Lauren Jenkins - Administrative Business Partner - Google",
+      "link": "https://uk.linkedin.com/in/lauren-jenkins-82324296",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lauren-jenkins-82324296&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJsBEAE",
+      "displayed_link": "270+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943c175d71e763cab635e596016d34ce62a.png",
+      "snippet": "Administrative Business Partner at Google · Experience: Google · Education: Southampton Solent University · Location: United Kingdom · 277 connections on ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lauren Jenkins"
+    },
+    {
+      "position": 18,
+      "title": "Hannah McKeon - Administrative Business Partner - Google",
+      "link": "https://uk.linkedin.com/in/hannahmckeon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hannahmckeon&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCMoBEAE",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943e28164a1f77be8542dee6c163be041e7.png",
+      "snippet": "Hannah McKeon. Administrative Business Partner at Google. Google. United Kingdom. 473 followers 476 connections.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hannah McKeon"
+    },
+    {
+      "position": 19,
+      "title": "Vincent Courson - Strategic Partnerships - Google",
+      "link": "https://uk.linkedin.com/in/coursonv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/coursonv&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCOYBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943c41621f200e9ed3ce60d2143a204f0fb.png",
+      "snippet": "Vincent Courson. Trust & Safety Partnership Manager. Google Ecole Centrale Paris. United Kingdom. 2K followers ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Strategic Partnerships",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vincent Courson"
+    },
+    {
+      "position": 20,
+      "title": "Alex Sinclair - Head of Health Partner Engineering - Google",
+      "link": "https://uk.linkedin.com/in/alex-sinclair-83753144",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alex-sinclair-83753144&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCP4BEAE",
+      "displayed_link": "210+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943dedbb0357e35fe7228d97328f771099f.png",
+      "snippet": "Alex Sinclair. Head of Health Partner Engineering. Google Exeter University. London, England, United Kingdom. 210 followers 193 connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Head of Health Partner Engineering",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alex Sinclair"
+    },
+    {
+      "position": 21,
+      "title": "Keith Grose - London, England, United Kingdom",
+      "link": "https://uk.linkedin.com/in/keithgrose",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/keithgrose&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJgCEAE",
+      "displayed_link": "10.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829435a1a8d7f2dc81a18eae0a0af49ddeb44.png",
+      "snippet": "Keith Grose. London, England, United Kingdom. 10K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Keith Grose"
+    },
+    {
+      "position": 22,
+      "title": "Tom Hulme - GV",
+      "link": "https://uk.linkedin.com/in/thulme",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/thulme&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCK0CEAE",
+      "displayed_link": "19.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294328fbceb34394059aac8c9e1acb2a559a.png",
+      "snippet": "Tom Hulme. GV Harvard Business School. London, England, United Kingdom. 20K ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "GV"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tom Hulme"
+    },
+    {
+      "position": 23,
+      "title": "Mazviona Madzima - Senior Strategic Partner Manager",
+      "link": "https://uk.linkedin.com/in/mazviona-madzima",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mazviona-madzima&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECEcQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829439b1e1f8b08950def6145b28cdb87e8cd.png",
+      "snippet": "I'm Mazviona Madzima, a seasoned Senior Strategic Partner Manager at Google/YouTube, specializing in the Entertainment & Lifestyle sector.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google"
+      ],
+      "source": "LinkedIn · Mazviona Madzima"
+    },
+    {
+      "position": 24,
+      "title": "Sophie Stewart - Executive Business Partner - Google",
+      "link": "https://uk.linkedin.com/in/sophie-stewart-2846a129",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sophie-stewart-2846a129&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECF4QAQ",
+      "displayed_link": "450+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943e431ad7215178dc7f5a6aa60b3b89ea3.png",
+      "snippet": "Sophie Stewart. Executive Business Partner at Google. Google University of Bristol. London, England, United Kingdom ... Apr 2012 - Present 13 years. London ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Executive Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sophie Stewart"
+    },
+    {
+      "position": 25,
+      "title": "Lila Ibrahim - Chief Operating Officer - Google DeepMind",
+      "link": "https://uk.linkedin.com/in/librahim",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/librahim&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECGUQAQ",
+      "displayed_link": "50.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294393edfc68a96a85cca3ccdb005463baa6.png",
+      "snippet": "Lila Ibrahim is an influencer. COO, Google DeepMind. Google DeepMind Purdue University. United Kingdom. 51K followers ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Chief Operating Officer",
+            "Google DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lila Ibrahim"
+    },
+    {
+      "position": 26,
+      "title": "Hannah Olárewájú - Administrative Business Partner",
+      "link": "https://uk.linkedin.com/in/hannah-olarewaju",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hannah-olarewaju&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECH8QAQ",
+      "displayed_link": "220+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829433a0810b68730c04cd6402d873af0c4e1.png",
+      "snippet": "| Administrative Business Partner, EMEA Marketing Devices & Platforms at Google. Google Westminster Kingsway College. London, England, United Kingdom ... Present ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hannah Olárewájú"
+    },
+    {
+      "position": 27,
+      "title": "Richard Grime - Principal Architect - Google",
+      "link": "https://uk.linkedin.com/in/richard-grime-53777880",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richard-grime-53777880&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCKQBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294396d628d7857cdc206e943e06eb341593.png",
+      "snippet": "Principal Architect, UK Public Sector, Google Cloud. Google Imperial College London. London, England, United Kingdom. 2K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Architect",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Grime"
+    },
+    {
+      "position": 28,
+      "title": "Martin Jones - Google Cloud Consulting",
+      "link": "https://uk.linkedin.com/in/martinj0nes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/martinj0nes&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCLYBEAE",
+      "displayed_link": "870+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943b4d6d8a89aff09b910b7ecd900da33ec.png",
+      "snippet": "Martin Jones. Partner Learning Program Manager at Google Cloud Consulting. Google University College London (UCL). London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Partner Learning Program Manager",
+            "Google Cloud Consulting",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Martin Jones"
+    },
+    {
+      "position": 29,
+      "title": "Lauren Wright - Administrative Business Partner - Google",
+      "link": "https://uk.linkedin.com/in/lauren-f-wright",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lauren-f-wright&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCMsBEAE",
+      "displayed_link": "570+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943dde1f19f9be7d96b2bf97da9c1008be0.png",
+      "snippet": "Lauren Wright. Positivity, Collaboration and Program Management | Administrative Business Partner at Google. Google University of Exeter. United Kingdom. 571 ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lauren Wright"
+    },
+    {
+      "position": 30,
+      "title": "Rachel Roca - Lead People Partner - Google",
+      "link": "https://www.linkedin.com/in/rachel-roca-860b5b10",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rachel-roca-860b5b10&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCNwBEAE",
+      "displayed_link": "610+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943ed39065ba01c02a31d78cae2ed422e33.png",
+      "snippet": "Lead People Partner at Google | SPHR, MCIPD · Experience: Google · Education ... 2012 - 2014 2 years. London, United Kingdom. Barclays Wealth Graphic. HR ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Lead People Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rachel Roca"
+    },
+    {
+      "position": 31,
+      "title": "Pushmeet Kohli - DeepMind",
+      "link": "https://uk.linkedin.com/in/pushmeet-kohli-4838994",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pushmeet-kohli-4838994&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCOUBEAE",
+      "displayed_link": "8.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829437f3a759c6b78ca953b03ee56044e3193.png",
+      "snippet": "Developing, applying and securing AI systems at Google DeepMind · Experience: DeepMind · Education: University of Cambridge · Location: United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pushmeet Kohli"
+    },
+    {
+      "position": 32,
+      "title": "Angela Rudenko - Startup Partner Marketing Manager ...",
+      "link": "https://uk.linkedin.com/in/angela-rudenko",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/angela-rudenko&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCPgBEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943d907ce38adb5685a3ca110fa1ec3f60a.png",
+      "snippet": "Startup Partner Marketing Manager, Google Cloud, EMEA. Google via Chesamel. Jun 2024 - Present 10 months. London United Kingdom.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Startup Partner Marketing Manager, Google Cloud, EMEA",
+            "Google via Chesamel"
+          ]
+        }
+      },
+      "source": "LinkedIn · Angela Rudenko"
+    },
+    {
+      "position": 33,
+      "title": "Tom Bestwick - Partner Manager- Android GTM - Google",
+      "link": "https://uk.linkedin.com/in/tom-bestwick-65655549",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tom-bestwick-65655549&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCIMCEAE",
+      "displayed_link": "720+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943976d9c921054d32d00c0987fc1d93da5.png",
+      "snippet": "Tom Bestwick. Partner Manager- Android GTM. Google Loughborough University. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Partner Manager- Android GTM",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tom Bestwick"
+    },
+    {
+      "position": 34,
+      "title": "Abby Williams - Talent Acquisition Partner",
+      "link": "https://uk.linkedin.com/in/abigailpounder",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/abigailpounder&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCIICEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943370ac4349244f3c5314f323c9cc1672f.png",
+      "snippet": "Talent Acquisition Partner, Research, Google DeepMind. Google DeepMind University of Hertfordshire. Greater London, England, United Kingdom. 3K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Talent Acquisition Partner",
+            "Google DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · Abby Williams"
+    },
+    {
+      "position": 35,
+      "title": "Laura Willavoys - Google Play Retail and Payments ...",
+      "link": "https://uk.linkedin.com/in/laura-willavoys-6452b417",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/laura-willavoys-6452b417&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJwCEAE",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943ca037b23f032ed319e35ab3c4b1304e6.png",
+      "snippet": "Google Play Retail and Payments Partner Manager. Google. Jan 2024 - Present 1 year 3 months. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Partner",
+        "Google",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Loughton, England, United Kingdom",
+            "Google Play Retail and Payments Partner Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Laura Willavoys"
+    },
+    {
+      "position": 36,
+      "title": "Charlotte Smith - Google DeepMind",
+      "link": "https://uk.linkedin.com/in/charlotte-smith-08b06a89",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/charlotte-smith-08b06a89&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJsCEAE",
+      "displayed_link": "300+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943750d40ce3ebdd09b35c64c6d668b2783.png",
+      "snippet": "Experience. Google DeepMind Graphic. Executive Business Partner. Google DeepMind. Jul 2020 - Present 4 years 9 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Partner",
+        "Google",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Executive Business Partner",
+            "Google DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · Charlotte Smith"
+    },
+    {
+      "position": 37,
+      "title": "Marco Botticelli - Managing Partner & Co-founder",
+      "link": "https://uk.linkedin.com/in/marcobotticelli",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/marcobotticelli&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCK4CEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829433bf0e18246314e224b2c3e7b524a1191.png",
+      "snippet": "Managing Partner & Co-founder. embryōnic studio. Jan 2024 - Present 1 year 3 months. London, England, United Kingdom. embryōnic is a Startup Studio partnering ...",
+      "snippet_highlighted_words": [
+        "Managing Partner",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Marco Botticelli"
+    },
+    {
+      "position": 38,
+      "title": "Patrick Pichette - Partner - Inovia Capital",
+      "link": "https://uk.linkedin.com/in/patrick-pichette-22067a26b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/patrick-pichette-22067a26b&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCLYCEAE",
+      "displayed_link": "840+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943c028320daf44c6dc7f4932f77b05187e.png",
+      "snippet": "Partner. Inovia Capital. Apr 2018 - Present 7 years ; Director/Board member. Twitter. 2017 - 2022 5 years ; Chief Financial Officer. Google. 2008 - 2015 7 years.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Present",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Partner",
+            "Inovia Capital"
+          ]
+        }
+      },
+      "source": "LinkedIn · Patrick Pichette"
+    },
+    {
+      "position": 39,
+      "title": "Greta Krupetsky - Non Executive Director - Thought Machine",
+      "link": "https://uk.linkedin.com/in/gretakrupetsky",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gretakrupetsky&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECEkQAQ",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943fed8bfffdeaf1351913b7612e4bb19d5.png",
+      "snippet": "Greta Krupetsky. Chief Operating Officer, Google Cloud Go to Market. Thought Machine Spring Garden College. United Kingdom.",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Greta Krupetsky"
+    },
+    {
+      "position": 40,
+      "title": "Andreas Gyr - REWS Sustainability Partner, EMEA - Google",
+      "link": "https://uk.linkedin.com/in/andreas-gyr-46234035",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andreas-gyr-46234035&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECEoQAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943e0218332034378e2910425bf2c247955.png",
+      "snippet": "REWS Sustainability Partner, EMEA. Google. Aug 2020 - Present 4 years 8 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "REWS Sustainability Partner, EMEA",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andreas Gyr"
+    },
+    {
+      "position": 41,
+      "title": "Zacharia Ahmed - Cloud Staffing Partner at Google",
+      "link": "https://uk.linkedin.com/in/zacharia-ahmed-317927147",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/zacharia-ahmed-317927147&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECGAQAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829433383d414ef89974926edfc3363ab29f1.png",
+      "snippet": "Cloud Staffing Partner at Google. Google Imperial College London. London, England, United Kingdom. 3K followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "EMEA Staffing Partner",
+            "Google Cloud Sales (Middle East, Africa, Italy, Iberia)",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Zacharia Ahmed"
+    },
+    {
+      "position": 42,
+      "title": "Fergus Jarvis - Partner and Managing Director",
+      "link": "https://uk.linkedin.com/in/fergus-jarvis-8916921",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/fergus-jarvis-8916921&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECGMQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943e7e58260f67ed5668bc98f93dac3cd86.png",
+      "snippet": "Senior Partner and Managing Director at BCG. Boston Consulting Group (BCG) University of Cambridge. London, England, United Kingdom. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Senior Partner",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Partner and Managing Director",
+            "Boston Consulting Group (BCG)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Fergus Jarvis"
+    },
+    {
+      "position": 43,
+      "title": "Deepak Kulkarni - People Partner- Google Cloud",
+      "link": "https://www.linkedin.com/in/deepak-kulkarni-2098225",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/deepak-kulkarni-2098225&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECHsQAQ",
+      "displayed_link": "7.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829430dc32f60046b9b15ba18fce336589ba9.png",
+      "snippet": "People Partner- Google Cloud · HR Head · India HR Head & Principal HRBP · Director HR · HR Director- APAC · General Manager- Human Resources · Senior Manager.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "People Partner- Google Cloud",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Deepak Kulkarni"
+    },
+    {
+      "position": 44,
+      "title": "Luna Schmid - GV (Google Ventures)",
+      "link": "https://uk.linkedin.com/in/lunaschmid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lunaschmid&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECH0QAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829434abd427fff9e23c4e6fe8e94284340c6.png",
+      "snippet": "Experience: GV (Google Ventures) Graphic, GV (Google Ventures) London, England, United Kingdom - Menlo Park, California, United States - San Carlos, California",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "GV (Google Ventures)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Luna Schmid"
+    },
+    {
+      "position": 45,
+      "title": "Sophie Shearer - Google DeepMind",
+      "link": "https://uk.linkedin.com/in/sophie-shearer-114196134",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sophie-shearer-114196134&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCIUBEAE",
+      "displayed_link": "8.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943193d3a6cf835fc5c20a1a2ea843e7425.png",
+      "snippet": "Talent Acquisition Partner at Google DeepMind · Experience: Google DeepMind · Education: King's College London · Location: London Area, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Sophie Shearer"
+    },
+    {
+      "position": 46,
+      "title": "Omar Ali - Global Financial Services Leader and Managing ...",
+      "link": "https://uk.linkedin.com/in/0marali",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/0marali&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJQBEAE",
+      "displayed_link": "12.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943a4abbac961d691f29ee031d707f2114c.png",
+      "snippet": "EMEIA Financial Services Regional Managing Partner. EY. Jul 2021 - Present 3 years 8 months. London, England, United Kingdom. EY Graphic. Executive - Partner.",
+      "snippet_highlighted_words": [
+        "Managing Partner",
+        "Present",
+        "United Kingdom",
+        "Partner"
+      ],
+      "source": "LinkedIn · Omar Ali"
+    },
+    {
+      "position": 47,
+      "title": "Mai-Britt Poulsen - Boston Consulting Group (BCG)",
+      "link": "https://uk.linkedin.com/in/mai-britt-poulsen-80096",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mai-britt-poulsen-80096&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCKYBEAE",
+      "displayed_link": "19.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943d4064896a0a6e5a63b1393a85aaa962c.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or ... Managing Director and Senior Partner, Head of BCG for UK, Netherlands and Belgium.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior Partner"
+      ],
+      "source": "LinkedIn · Mai-Britt Poulsen"
+    },
+    {
+      "position": 48,
+      "title": "Alex Billman - Partner Marketing Manager - Devices & ...",
+      "link": "https://uk.linkedin.com/in/alexbillman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alexbillman&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCLEBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943f558ec1910d2fe987e0e2c596c5c7346.png",
+      "snippet": "Alex Billman. Partner Marketing Manager - Devices & Services at Google. Google Loughborough University. London, England, United Kingdom. 1K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Partner Marketing Manager",
+            "Devices & Services",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alex Billman"
+    },
+    {
+      "position": 49,
+      "title": "Rich Connon - Partner Engagement Manager - Google",
+      "link": "https://uk.linkedin.com/in/richard-connon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richard-connon&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCLUBEAE",
+      "displayed_link": "800+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943def5ba51b35f260ad0a107da40c7f1c3.png",
+      "snippet": "Partner Engagement Manager at Google. Google Trinity College, Dublin. London Area, United Kingdom. 804 followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Partner Engagement Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rich Connon"
+    },
+    {
+      "position": 50,
+      "title": "Julian Nelberg - Managing Partner - Andersen in the ...",
+      "link": "https://uk.linkedin.com/in/julian-nelberg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/julian-nelberg&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCMUBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829437a1063a28f2f86fdd520bd11e163a25b.png",
+      "snippet": "Managing Partner, Andersen, United Kingdom · I am Manager Partner of ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Managing Partner",
+        "United Kingdom",
+        "Partner",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Managing Partner",
+            "Andersen in the United Kingdom"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julian Nelberg"
+    },
+    {
+      "position": 51,
+      "title": "Leah Skelton - Administrative Business Partner - Google",
+      "link": "https://uk.linkedin.com/in/leah-skelton-162901ab",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/leah-skelton-162901ab&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCM4BEAE",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943ac3fb642ea0d377bc1ae866678804a3d.png",
+      "snippet": "Administrative Business Partner at Google · Experience: Google · Education: Tiffany Theater College Of Performing Arts. · Location: United Kingdom · 500+ ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Leah Skelton"
+    },
+    {
+      "position": 52,
+      "title": "Dame Vivian Hunt - Harvard University, Graduate School of ...",
+      "link": "https://uk.linkedin.com/in/huntvivian",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/huntvivian&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCM8BEAE",
+      "displayed_link": "18.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294316b4ec842ef4e3a5bbab7b9ab99c19bb.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Bridging the gender gap in the United Kingdom could increase GDP by ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Dame Vivian Hunt"
+    },
+    {
+      "position": 53,
+      "title": "Diana Dimitrova - Boston Consulting Group (BCG)",
+      "link": "https://uk.linkedin.com/in/diana-dimitrova-b3292714",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/diana-dimitrova-b3292714&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCN0BEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829438d66a41aa1d81e4fae053601c1a7403c.png",
+      "snippet": "Experience · Managing Director & Partner · Principal · Project Leader · Associate, FDI Legislation, Contracts & Negotiations · Associate, Investment Banking.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Managing Director & Partner",
+            "Boston Consulting Group (BCG)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Diana Dimitrova"
+    },
+    {
+      "position": 54,
+      "title": "Alexandra Stacey - Associate Principal, Business ...",
+      "link": "https://www.linkedin.com/in/alexandra-stacey-43832a92",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alexandra-stacey-43832a92&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCOIBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943038fefab3df71d0d8d2f3049f2f35308.png",
+      "snippet": "Business Operations & Strategy at Google · Google · University of Michigan ... Associate Principal, Business Operations and Strategy (BizOps). Google.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Principal",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chicago, Illinois, United States",
+            "Associate Principal, Business Operations and Strategy (BizOps)",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexandra Stacey"
+    },
+    {
+      "position": 55,
+      "title": "Craig Francis - Digital Signage Partner Manager",
+      "link": "https://uk.linkedin.com/in/craig-francis-89b34730",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/craig-francis-89b34730&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCOcBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943aeaf5b746bf6227d161c1ba15eba23cb.png",
+      "snippet": "Craig Francis. Digital Signage Partner Manager - Chrome OS. Google Loughborough University. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Digital Signage Partner Manager",
+            "Chrome OS",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Craig Francis"
+    },
+    {
+      "position": 56,
+      "title": "Joanna Winter - Administrative Business Partner - Google",
+      "link": "https://uk.linkedin.com/in/joanna-winter-35904124",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/joanna-winter-35904124&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCOgBEAE",
+      "displayed_link": "200+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294349de0efff58500c308b4e6691bba3f9c.png",
+      "snippet": "Joanna Winter. Administrative Business Partner at Google. Google Cardiff University / Prifysgol Caerdydd. London, England, United Kingdom. 207 followers 205 ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joanna Winter"
+    },
+    {
+      "position": 57,
+      "title": "Jack Shepherd - Senior Principal Business Consultant",
+      "link": "https://uk.linkedin.com/in/jackwshepherd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jackwshepherd&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCPcBEAE",
+      "displayed_link": "6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943086cc941b268d7e60ae5a86ea0235917.png",
+      "snippet": "Specialist in legal tech and knowledge management. iManage University of Cambridge. London, England, United Kingdom ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Principal Business Consultant",
+            "iManage"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jack Shepherd"
+    },
+    {
+      "position": 58,
+      "title": "Rebecca Bright - Creative Strategy Partner, Google ...",
+      "link": "https://uk.linkedin.com/in/rebeccabright9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rebeccabright9&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCP0BEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294381368c5d1450e8ef75308125a7891fff.png",
+      "snippet": "Creative Strategy Partner, Google · Experience: [TVC] · Education: University of Cambridge · Location: United Kingdom · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Creative Strategy Partner, Google Creative Works",
+            "[TVC]"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rebecca Bright"
+    },
+    {
+      "position": 59,
+      "title": "Pami B. - Business Partner - Google",
+      "link": "https://uk.linkedin.com/in/pami-b-14a8a5154?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pami-b-14a8a5154%3Ftrk%3Dpublic_profile_browsemap_profile-result-card_result-card_full-click&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCIACEAE",
+      "displayed_link": "840+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829430fdd98bb1b238e9bd94f34a169475f98.png",
+      "snippet": "Google Cloud Customer Engineering · An adept Senior Business Partner, with ... Google Cloud Customer Engineering. Google. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pami B."
+    },
+    {
+      "position": 60,
+      "title": "Virginia Acha - Science and Regulatory Policy",
+      "link": "https://uk.linkedin.com/in/virginiaacha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/virginiaacha&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCIECEAE",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294351c9378b132626febc3e5335e00753e7.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Virginia Acha's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Virginia Acha"
+    },
+    {
+      "position": 61,
+      "title": "Martin Bunch - Managing Partner - Bates Wells",
+      "link": "https://uk.linkedin.com/in/martinbunch",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/martinbunch&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCP8BEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943b558af2f39a5c45439b1940fef76423e.png",
+      "snippet": "Continue with GoogleContinue with Google ... Experience. Managing Partner. Bates Wells. Apr 2013 - Present 12 years. London, United Kingdom. Managing Partner and ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Managing Partner",
+        "Present",
+        "United Kingdom",
+        "Managing Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Managing Partner",
+            "Bates Wells"
+          ]
+        }
+      },
+      "source": "LinkedIn · Martin Bunch"
+    },
+    {
+      "position": 62,
+      "title": "Danielle Belgrave - GSK",
+      "link": "https://uk.linkedin.com/in/danielle-belgrave-704157107",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/danielle-belgrave-704157107&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJMCEAE",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829431328d98d6ce0950479152c841ec6fc78.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Danielle Belgrave's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "GSK"
+          ]
+        }
+      },
+      "source": "LinkedIn · Danielle Belgrave"
+    },
+    {
+      "position": 63,
+      "title": "Gayathri Kamalanathan - Partner - Slaughter and May",
+      "link": "https://uk.linkedin.com/in/gayathri-kamalanathan-a0022817a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gayathri-kamalanathan-a0022817a&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJkCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943b20ed66ffb5b22f6bc941b6239a9aced.png",
+      "snippet": "Partner, Slaughter and May · Experience: Slaughter and May · Education: University of Cambridge · Location: United Kingdom · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Partner",
+            "Slaughter and May"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gayathri Kamalanathan"
+    },
+    {
+      "position": 64,
+      "title": "Justina Rauhala-Kwong - Principal Business Development ...",
+      "link": "https://www.linkedin.com/in/justinarauhalakwong",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/justinarauhalakwong&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJoCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943d5928ce5f2346bc9e2a351dfc14f7814.png",
+      "snippet": "Principal BD & Strategic Partnerships at Google · Justina is part of the ... Partner / Channel Strategy - Advertising, Marketing & Sales Analytics - E ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Partner"
+      ],
+      "source": "LinkedIn · Justina Rauhala-Kwong"
+    },
+    {
+      "position": 65,
+      "title": "Philip Hall - Managing Partner - Thorndon Partners",
+      "link": "https://uk.linkedin.com/in/philiplhall",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/philiplhall&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJ8CEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943cc0e2263ec5accabbb9e78382c838d2d.png",
+      "snippet": "Experience · Managing Partner · Managing Director · Senior Partner · Partner · Associate Partner.",
+      "snippet_highlighted_words": [
+        "Managing Partner",
+        "Senior Partner",
+        "Partner",
+        "Associate Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Managing Partner",
+            "Thorndon Partners"
+          ]
+        }
+      },
+      "source": "LinkedIn · Philip Hall"
+    },
+    {
+      "position": 66,
+      "title": "Natasha Brooker - Executive Business Partner - Google",
+      "link": "https://uk.linkedin.com/in/natasha-brooker-084442b3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/natasha-brooker-084442b3&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCKACEAE",
+      "displayed_link": "490+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943bf9eecd4615169ba32d49a7f71adc4e0.png",
+      "snippet": "Executive Business Partner - Legal. Google Murdoch University. London, England, United Kingdom ... Working in close partnership with one managing partner and one ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "United Kingdom",
+        "managing partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Executive Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Natasha Brooker"
+    },
+    {
+      "position": 67,
+      "title": "William Parry - Head of Delegated Clients - Aon",
+      "link": "https://uk.linkedin.com/in/william-parry-0b8b9aa1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/william-parry-0b8b9aa1&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCLUCEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943d406a1f0fcb799c3a58996fb85c2e5eb.png",
+      "snippet": "- Present 1 year 9 months. London, England, United Kingdom. Aon Graphic. Associate Partner. Aon. May 2020 - Jul 2023 3 years 3 months. London, England, United ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "Associate Partner",
+        "United"
+      ],
+      "source": "LinkedIn · William Parry"
+    },
+    {
+      "position": 68,
+      "title": "Sophie Horrocks - Partner - Bain & Company",
+      "link": "https://uk.linkedin.com/in/sophie-horrocks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sophie-horrocks&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCLkCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829438c8f2d5e2fa9b338ee8f42169809eb21.png",
+      "snippet": "Partner · Jan 2017 - Present ; Principal · Sep 2014 - Dec 2016 ; Manager · Mar 2012 - Sep 2014 ; Consultant · Jun 2010 - Mar 2012 ; Associate Consultant/Senior ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Present",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Partner",
+            "Bain & Company"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sophie Horrocks"
+    },
+    {
+      "position": 69,
+      "title": "Mohammad Mubashir Lone - Google",
+      "link": "https://uk.linkedin.com/in/mmlone",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mmlone&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCLgCEAE",
+      "displayed_link": "4.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829434572039f8855aee681d2e4dd42c1943e.png",
+      "snippet": "Global Agency Partner Consultant at Google | Automotive Specialist | One Young World Ambassador. Google University of Bath. Taunton, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Mohammad Mubashir Lone"
+    },
+    {
+      "position": 70,
+      "title": "Diana Robinson - Head of Investment - J.P. Morgan Private ...",
+      "link": "https://uk.linkedin.com/in/diana-robinson-4373177",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/diana-robinson-4373177&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCLsCEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943d73606a024558f7ab8eef3de55e466b3.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Diana Robinson's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Head of Investment",
+            "J.P. Morgan Private Bank"
+          ]
+        }
+      },
+      "source": "LinkedIn · Diana Robinson"
+    },
+    {
+      "position": 71,
+      "title": "Julian Owusu - Founding Partner - BUILD the Company",
+      "link": "https://uk.linkedin.com/in/julian-owusu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/julian-owusu&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECEgQAQ",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829430d76ba3b810669922d5809aecff3187f.png",
+      "snippet": "Founding Partner. BUILD the Company. Jan 2024 - Present 1 year 3 months. Greater London, England, United Kingdom. Zuberi Graphic. Co-Founder & CEO. Zuberi. Jan ...",
+      "snippet_highlighted_words": [
+        "Founding Partner",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Founding Partner",
+            "BUILD the Company"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julian Owusu"
+    },
+    {
+      "position": 72,
+      "title": "Eric Schmidt - Founding Partner - Innovation Endeavors",
+      "link": "https://www.linkedin.com/in/eric-e-schmidt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/eric-e-schmidt&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECEsQAQ",
+      "displayed_link": "40.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943d0dd9ec665d124b580ef637427e93bad.png",
+      "snippet": "Experience ; Founding Partner. Innovation Endeavors. Jan 2010 ; Executive Chairman & Technical Advisor. Alphabet Inc. 2015 ; CEO & Chairman. Google. 2001 ...",
+      "snippet_highlighted_words": [
+        "Founding Partner",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Founding Partner",
+            "Innovation Endeavors"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eric Schmidt"
+    },
+    {
+      "position": 73,
+      "title": "Grant Allen - Technology Program Manager / Principal ...",
+      "link": "https://uk.linkedin.com/in/gxallen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gxallen&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECFMQAQ",
+      "displayed_link": "700+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294395d4956e922c9d8d7df6973c654ba48d.png",
+      "snippet": "Experience: Google · Location: London Area, United Kingdom · 500+ connections on LinkedIn ... Co-founder, Senior Partner. One Vision Partners. Oct 2018 - Present ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom",
+        "Senior Partner",
+        "Present"
+      ],
+      "source": "LinkedIn · Grant Allen"
+    },
+    {
+      "position": 74,
+      "title": "Kelsy Petrie - Administrative Business Partner - Google",
+      "link": "https://uk.linkedin.com/in/kelsy-petrie-08463b112",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kelsy-petrie-08463b112&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECFIQAQ",
+      "displayed_link": "70+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943298e57e20413dd842652cce809b6683b.png",
+      "snippet": "Administrative Business Partner. Google YMCA. London, England, United Kingdom. 73 followers 70 connections. See your mutual connections. View mutual connections ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kelsy Petrie"
+    },
+    {
+      "position": 75,
+      "title": "Sophie Smith - Partner - Weil, Gotshal & Manges LLP",
+      "link": "https://uk.linkedin.com/in/sophie-m-smith",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sophie-m-smith&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECF8QAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943d0b2b3bed9fcea355e43bce86776feab.png",
+      "snippet": "Partner, Oct 2020 - Jan 2022 1 year 4 months, Associate, Jan 2017 - Oct 2020 3 years 10 months, London, United Kingdom",
+      "snippet_highlighted_words": [
+        "Partner",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Partner",
+            "Weil, Gotshal & Manges LLP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sophie Smith"
+    },
+    {
+      "position": 76,
+      "title": "Annie Herdman - Partner, London Head of Antitrust and FDI",
+      "link": "https://uk.linkedin.com/in/annie-herdman-b362b03a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/annie-herdman-b362b03a&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECGYQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294388533e2bb110be57ed088d141eac316a.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to view profile · Report this profile; Close menu. About. Annie is a Partner in the ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Partner, London Head of Antitrust and FDI",
+            "Paul, Weiss, Rifkind, Wharton & Garrison LLP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Annie Herdman"
+    },
+    {
+      "position": 77,
+      "title": "Harish Bheemarthi - Associate Principal - Trust & Safety",
+      "link": "https://uk.linkedin.com/in/harishbheemarthi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/harishbheemarthi&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECGwQAQ",
+      "displayed_link": "5.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943a15a80cc0eb258122882ee641e0e829e.png",
+      "snippet": "Trust and Safety - Associate Principal at Google. Google Institute of Public Enterprise, Hyd. London Area, United Kingdom. 5K followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Associate Principal",
+            "Trust & Safety",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Harish Bheemarthi"
+    },
+    {
+      "position": 78,
+      "title": "Daniel Juyung Seo - Senior Staff Partner Engineering ...",
+      "link": "https://www.linkedin.com/in/seoz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/seoz&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECGsQAQ",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294325e176edadbafab007a322180cd94aa2.png",
+      "snippet": "Senior Partner Engineering Manager (부장), Team Manager of CE & Platform Partner Engineering, YouTube. Google. May 2018 - Oct 2020 2 years 6 months. San Bruno, ...",
+      "snippet_highlighted_words": [
+        "Senior Partner",
+        "Partner",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Senior Staff Partner Engineering Manager (글로벌 팀장), YouTube, Google",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Juyung Seo"
+    },
+    {
+      "position": 79,
+      "title": "Catalin Vieru - Google",
+      "link": "https://www.linkedin.com/in/catalin-vieru",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/catalin-vieru&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECHoQAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943a6623205947aa4327c01e940333a4347.png",
+      "snippet": "GenAI Principal Architect for Strategic Accounts at Google • Chief Architect and… · Experience: Google · Location: United States · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Catalin Vieru"
+    },
+    {
+      "position": 80,
+      "title": "Tim Figures - Partner & Associate Director, EU & Global ...",
+      "link": "https://uk.linkedin.com/in/timfigures",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/timfigures&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECHkQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294389d0ba7c20c9aefa07fdde31c834e299.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Principal Private Secretary and Head of Private Office. Department for ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Partner & Associate Director, EU & Global Trade and Investment",
+            "Boston Consulting Group (BCG)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tim Figures"
+    },
+    {
+      "position": 81,
+      "title": "David Biggin - Partner - PA Consulting",
+      "link": "https://uk.linkedin.com/in/davidbiggin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/davidbiggin&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECH4QAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943a7020ac8fbc404d3959a7295cd1139a5.png",
+      "snippet": "David Biggin. PA Consulting. London, England, United Kingdom. 2K followers ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · David Biggin"
+    },
+    {
+      "position": 82,
+      "title": "Varun Bijlani - Global Managing Partner - IBM",
+      "link": "https://uk.linkedin.com/in/varunbijlani",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/varunbijlani&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECHwQAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829431918c90285fb81aa1639697265cb9aad.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Experience. IBM Graphic. Global Managing Partner. IBM. Jan 2025 - Present 3 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Managing Partner",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Walton-On-Thames, England, United Kingdom",
+            "Global Managing Partner",
+            "IBM"
+          ]
+        }
+      },
+      "source": "LinkedIn · Varun Bijlani"
+    },
+    {
+      "position": 83,
+      "title": "Agata Leliwa Nowicka - Managing Partner",
+      "link": "https://uk.linkedin.com/in/agata-nowicka",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/agata-nowicka&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCIQBEAE",
+      "displayed_link": "14.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829430809b23b6fb2e37fd1e0c97894af77ac.png",
+      "snippet": "Experience. Visionaries in partnership with Google Cloud Graphic. Managing Partner. Visionaries in partnership with Google Cloud. Mar 2024 - Present 1 year 1 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Managing Partner",
+        "Google",
+        "Present"
+      ],
+      "source": "LinkedIn · Agata Leliwa Nowicka"
+    },
+    {
+      "position": 84,
+      "title": "Yuval Atsmon - Senior Partner and Chief Financial Officer",
+      "link": "https://uk.linkedin.com/in/yuvalatsmon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/yuvalatsmon&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJUBEAE",
+      "displayed_link": "102.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943eecf99312970e3b69f6bf54b318c9c77.png",
+      "snippet": "Senior Partner and Chief Financial Officer, McKinsey & Company · I am a ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Senior Partner",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Yuval Atsmon"
+    },
+    {
+      "position": 85,
+      "title": "Juan Labourt - Strategy and Operations Principal - Google",
+      "link": "https://uk.linkedin.com/in/juan-labourt-31480624",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/juan-labourt-31480624&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJcBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829435d267145303baa65cd8899dd2519ec2d.png",
+      "snippet": "Google Graphic. Partner Lead - Revenue Solutions. Google. Sep 2018 - Jun 2021 2 years 10 months. London, United Kingdom. Work with strategic partners from UK on ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Partner",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Strategy and Operations Principal",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Juan Labourt"
+    },
+    {
+      "position": 86,
+      "title": "Robert Seminara - Apollo Global Management, Inc.",
+      "link": "https://uk.linkedin.com/in/robert-seminara-apollo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/robert-seminara-apollo&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCJYBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943e4d6fbb2fcc4933d23b3e56fec017414.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to view profile · Report this profile; Close menu. About. Robert Seminara is Partner ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Partner, Head of Europe",
+            "Apollo Global Management, Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert Seminara"
+    },
+    {
+      "position": 87,
+      "title": "Samuel Stanton - Principal Machine Learning Scientist",
+      "link": "https://www.linkedin.com/in/samuel-stanton-06004997",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/samuel-stanton-06004997&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCKUBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294365e9ad10e8db90d3fa038b7639592682.png",
+      "snippet": "Jun 2019 - Sep 2019 4 months. Cambridge, United Kingdom. Tasked with investigating the ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Principal Machine Learning Scientist",
+            "Genentech"
+          ]
+        }
+      },
+      "source": "LinkedIn · Samuel Stanton"
+    },
+    {
+      "position": 88,
+      "title": "Kate Marchant - People Operations Business Partner",
+      "link": "https://uk.linkedin.com/in/katemarchant",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/katemarchant&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCLIBEAE",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad78294318f50ba97c9286dd29a6a5336d97251b.png",
+      "snippet": "Human Resources Business Partner. Fintel. Sep 2024 - Jan 2025 5 months. United Kingdom.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Northampton, England, United Kingdom",
+            "People Operations Business Partner",
+            "Nerdio"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kate Marchant"
+    },
+    {
+      "position": 89,
+      "title": "S. M. Ali Eslami - Google DeepMind",
+      "link": "https://uk.linkedin.com/in/smalieslami",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/smalieslami&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCK8BEAE",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943c9766c7edcf5a2157077192548fb49f2.png",
+      "snippet": "Director and Principal Research Scientist at Google DeepMind working on artificial… · Experience: Google DeepMind · Education: University of Oxford ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Google DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · S. M. Ali Eslami"
+    },
+    {
+      "position": 90,
+      "title": "Andy Start - Chief Executive Officer - Defence Equipment & ...",
+      "link": "https://uk.linkedin.com/in/anstart",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/anstart&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCLABEAE",
+      "displayed_link": "4.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943f27e7317a0eed50328882284e08bbb8b.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Andy Start's profile ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Andy Start"
+    },
+    {
+      "position": 91,
+      "title": "Genna Marten - Partner - Linklaters",
+      "link": "https://uk.linkedin.com/in/genna-marten-a04235104",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/genna-marten-a04235104&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCMIBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829431135fa56fe4854ca0007ba42e184bf35.png",
+      "snippet": "Partner at Linklaters LLP · Linklaters · University of Cambridge · United Kingdom · 500+ connections on LinkedIn ... Continue with GoogleContinue with Google. New ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Partner",
+            "Linklaters"
+          ]
+        }
+      },
+      "source": "LinkedIn · Genna Marten"
+    },
+    {
+      "position": 92,
+      "title": "Pierluigi Pecorella - Principal at Apollo Global Management",
+      "link": "https://uk.linkedin.com/in/pierluigi-pecorella-9341867b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pierluigi-pecorella-9341867b&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCMEBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829433e16292317a720b4ba1c046b0030e206.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... London, United Kingdom. Distressed & Special Situations NPL & RE. Bain ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal",
+            "Apollo Global Management, Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Pierluigi Pecorella"
+    },
+    {
+      "position": 93,
+      "title": "Edwin Mensah - Staffing Business Partner - Google",
+      "link": "https://uk.linkedin.com/in/edwinmensah",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/edwinmensah&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCMwBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943ec338f9e6ffa5cff3116e41d050b9ea5.png",
+      "snippet": "Staffing Business Partner at Google. Google Middlesex University. Greater London, England, United Kingdom. 3K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Staffing Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Edwin Mensah"
+    },
+    {
+      "position": 94,
+      "title": "Vishnu Shankar - Partner - Morgan, Lewis & Bockius LLP",
+      "link": "https://uk.linkedin.com/in/vishnu-shankar-843877110",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/vishnu-shankar-843877110&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoFCM0BEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829431d0c43c16966321cf9470c8b4042feb9.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Vishnu Shankar's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Partner",
+            "Morgan, Lewis & Bockius LLP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vishnu Shankar"
+    },
+    {
+      "position": 95,
+      "title": "Andrew Bergbaum - Partner & Managing Director",
+      "link": "https://uk.linkedin.com/in/andrewbergbaum",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrewbergbaum&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECEYQAQ",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943fd08a71671f7b68854f4045baf0696f5.png",
+      "snippet": "Continue with GoogleContinue with Google ... AlixPartners. Apr 2011 - Present 14 years. London, United Kingdom. Jan 2015 - Present: Partner & Managing Director",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present",
+        "United Kingdom",
+        "Present",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Partner & Managing Director",
+            "AlixPartners"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Bergbaum"
+    },
+    {
+      "position": 96,
+      "title": "Shayhan Patelmaster - Google",
+      "link": "https://uk.linkedin.com/in/shayhanpatelmaster",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/shayhanpatelmaster&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECCwQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943387261b4c1454149d2f5329807b79bf4.png",
+      "snippet": "Shayhan is Legal Counsel for Google, specialising on Google's work with Governments in… · ... London, United Kingdom. -. London, United Kingdom. -. London, United ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google's",
+        "United Kingdom",
+        "United Kingdom",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shayhan Patelmaster"
+    },
+    {
+      "position": 97,
+      "title": "Adam Howard - Partner | Co-Chair of UK Capital Markets & ...",
+      "link": "https://uk.linkedin.com/in/adam-howard-1014a563",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/adam-howard-1014a563&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECC8QAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829433aa125373c9e8228e33910eb15224fbb.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Adam Howard's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Partner | Co-Chair of UK Capital Markets & Public Company Transactions",
+            "Winston & Strawn LLP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Howard"
+    },
+    {
+      "position": 98,
+      "title": "Tom Rayner - Partner - Portland",
+      "link": "https://uk.linkedin.com/in/tom-rayner-24b66228",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tom-rayner-24b66228&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECDEQAQ",
+      "displayed_link": "980+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943f3d53db1a3eb55decfb25384d9d8c98f.png",
+      "snippet": "Tom Rayner. Partner at Portland. Portland University of Oxford. United Kingdom. 984 followers ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Partner",
+            "Portland"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tom Rayner"
+    },
+    {
+      "position": 99,
+      "title": "Gosia Kropa - Partner Engagement Manager - Google",
+      "link": "https://uk.linkedin.com/in/gosia-kropa-61723821",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gosia-kropa-61723821&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECDAQAQ",
+      "displayed_link": "590+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad782943ade6b4eb24f8eba244d4ba961b3ded03.png",
+      "snippet": "Gosia Kropa. Partner Engagement Manager at Google. Google. London, England, United Kingdom. 602 followers ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Partner Engagement Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gosia Kropa"
+    },
+    {
+      "position": 100,
+      "title": "Amrita Mukherjee - Lead Cloud Architect, Financial Services",
+      "link": "https://uk.linkedin.com/in/amrita-mukherjee-55969416",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/amrita-mukherjee-55969416&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQFnoECC0QAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9f4cbc42be11cabc75e/images/af0de459b98f6836283a4427ad7829432cf348d30ed3bcee259cb797dd17f076.png",
+      "snippet": "... Principal Architect for one of the largest Telecom provider in UK & Global Services, he had also pioneered in Commercial MDM product development. · Google ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Lead Cloud Architect, Financial Services",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amrita Mukherjee"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=9fndZ_GaE6Pa5NoPu9XfyQM&start=100&sa=N&sstk=Af40H4Vq-sWKbrD9Dqj45BpHQsw3vClj_EntMafjwJQJcP4JBmbsVzyrBMh8LybASHxCHNWkPq7MX3ymkCz81XEZzUAOi0mEB-mwsA&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQ8NMDegUIsAIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=9fndZ_GaE6Pa5NoPu9XfyQM&start=100&sa=N&sstk=Af40H4Vq-sWKbrD9Dqj45BpHQsw3vClj_EntMafjwJQJcP4JBmbsVzyrBMh8LybASHxCHNWkPq7MX3ymkCz81XEZzUAOi0mEB-mwsA&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQ8tMDegUIsAIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=9fndZ_GaE6Pa5NoPu9XfyQM&start=200&sa=N&sstk=Af40H4Vq-sWKbrD9Dqj45BpHQsw3vClj_EntMafjwJQJcP4JBmbsVzyrBMh8LybASHxCHNWkPq7MX3ymkCz81XEZzUAOi0mEB-mwsA&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQ8tMDegUIsAIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=9fndZ_GaE6Pa5NoPu9XfyQM&start=300&sa=N&sstk=Af40H4Vq-sWKbrD9Dqj45BpHQsw3vClj_EntMafjwJQJcP4JBmbsVzyrBMh8LybASHxCHNWkPq7MX3ymkCz81XEZzUAOi0mEB-mwsA&ved=2ahUKEwix6b26rZyMAxUjLVkFHbvqNzkQ8tMDegUIsAIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=300"
+    }
+  }
+}

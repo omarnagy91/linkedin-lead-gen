@@ -1,0 +1,328 @@
+{
+  "search_metadata": {
+    "id": "67ddf97c4d19efe87a896164",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/df9c130b7f478c35/67ddf97c4d19efe87a896164.json",
+    "created_at": "2025-03-21 23:42:52 UTC",
+    "processed_at": "2025-03-21 23:42:52 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/df9c130b7f478c35/67ddf97c4d19efe87a896164.html",
+    "total_time_taken": 2.26
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"Germany\" AND (current OR present) AND (\"Head\" OR \"Head of\" OR \"Global Head\" OR \"Department Head\" OR \"Team Lead\" OR \"Senior Manager\" OR \"Lead Manager\" OR \"Managing Manager\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"Germany\" AND (current OR present) AND (\"Head\" OR \"Head of\" OR \"Global Head\" OR \"Department Head\" OR \"Team Lead\" OR \"Senior Manager\" OR \"Lead Manager\" OR \"Managing Manager\")",
+    "total_results": 3610000,
+    "time_taken_displayed": 0.94,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Florian Deter – Managing Director Germany & EMEA ...",
+      "link": "https://de.linkedin.com/in/florian-deter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/florian-deter&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4QFnoECAkQAQ",
+      "displayed_link": "10.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf97c4d19efe87a896164/images/7fb8fc75a5bb5b7823c02621b3d1a195354e2e42475c5903f0ec051c378e3864.png",
+      "snippet": "As Managing Director Germany and General Manager Enterprise Commercial at Microsoft ... Senior Manager - Communications & High Tech. Accenture. 2001 – 2011 ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft",
+        "Senior Manager"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Managing Director Germany & EMEA General Manager Enterprise Partner Sales",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Florian Deter"
+    },
+    {
+      "position": 2,
+      "title": "Luca Callegari – Microsoft | LinkedIn",
+      "link": "https://de.linkedin.com/in/luca-callegari",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/luca-callegari&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4QFnoECBwQAQ",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf97c4d19efe87a896164/images/7fb8fc75a5bb5b7823c02621b3d1a195cd70c2a4c69273f09623fb1f02431758.png",
+      "snippet": "My Mission: I'm on a mission as a leader – to empower both a company and its people to… · Berufserfahrung: Microsoft ... Munich, Bavaria, Germany; Milan, Lombardy ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Luca Callegari"
+    },
+    {
+      "position": 3,
+      "title": "Reinhard Nissl – Microsoft",
+      "link": "https://de.linkedin.com/in/reinhardnissl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/reinhardnissl&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4QFnoECBYQAQ",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf97c4d19efe87a896164/images/7fb8fc75a5bb5b7823c02621b3d1a195496cd8d1d4f24cd7aec20d042a3dc455.png",
+      "snippet": "Head of HR for Microsoft Germany. Working with an amazing team, growing and empowering… · Berufserfahrung: Microsoft · Ausbildung: Fachhochschule Ingolstadt ...",
+      "snippet_highlighted_words": [
+        "Head of",
+        "Microsoft Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Reinhard Nissl"
+    },
+    {
+      "position": 4,
+      "title": "Astrid Aupperle - AI National Skills Director - Microsoft ...",
+      "link": "https://de.linkedin.com/in/astridaupperle/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/astridaupperle/en&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4QFnoECBkQAQ",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf97c4d19efe87a896164/images/7fb8fc75a5bb5b7823c02621b3d1a1958ab211da943f861ee113d723cb395f6b.png",
+      "snippet": "Philanthropies Lead Microsoft Germany, Switzerland, Austria and the Netherlands ... Senior Manager Corporate Communications. Microsoft Deutschland GmbH. Mar ...",
+      "snippet_highlighted_words": [
+        "Microsoft Germany",
+        "Senior Manager",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Astrid Aupperle"
+    },
+    {
+      "position": 5,
+      "title": "Lutz Jannausch - Microsoft",
+      "link": "https://de.linkedin.com/in/lutzj",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/lutzj&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4QFnoECB8QAQ",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf97c4d19efe87a896164/images/7fb8fc75a5bb5b7823c02621b3d1a1956a1f42b3027f6f13dc521b8521b8eb20.png",
+      "snippet": "Head of Business Applications and Security (Global Partner Solutions) at Microsoft Germany · Head of Business Applications (One Commercial Partner Group) at ...",
+      "snippet_highlighted_words": [
+        "Head of",
+        "Microsoft Germany",
+        "Head of"
+      ],
+      "source": "LinkedIn · Lutz Jannausch"
+    },
+    {
+      "position": 6,
+      "title": "Magdalena Rogl – Microsoft",
+      "link": "https://de.linkedin.com/in/magdalenarogl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/magdalenarogl&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4QFnoECCAQAQ",
+      "displayed_link": "41.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf97c4d19efe87a896164/images/7fb8fc75a5bb5b7823c02621b3d1a195784b7f56cbe7f3e89ba73b064c20fe44.png",
+      "snippet": "Mein Ziel ist es, eine Arbeitswelt zu gestalten, in der Empathie und Vielfalt keine… · Berufserfahrung: Microsoft ... Munich, Bavaria, Germany. -. -. Munich, ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Magdalena Rogl"
+    },
+    {
+      "position": 7,
+      "title": "Sean Jones – Microsoft",
+      "link": "https://de.linkedin.com/in/sean-jones-2a8a934",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sean-jones-2a8a934&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4QFnoECCgQAQ",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf97c4d19efe87a896164/images/7fb8fc75a5bb5b7823c02621b3d1a195e5f877c0707e5d6d6fb3c62683801d93.png",
+      "snippet": "Helping Microsoft save the world with the heart of a (grand)father and ... Global (Ludwigshafen, Germany based). -. Global (Ludwigshafen, Germany based) ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brühl, Baden-Württemberg, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sean Jones"
+    },
+    {
+      "position": 8,
+      "title": "Pina Meisel – Microsoft",
+      "link": "https://de.linkedin.com/in/pinameisel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/pinameisel&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4QFnoECCkQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf97c4d19efe87a896164/images/7fb8fc75a5bb5b7823c02621b3d1a195c9b91521e354bb9b8e2e9c6612ec5505.png",
+      "snippet": "Pina Meisel. Microsoft Universität Duisburg-Essen. München, Bayern, Deutschland. 1706 Follower:innen ...",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pina Meisel"
+    },
+    {
+      "position": 9,
+      "title": "André Pechmann – Director Communications – Microsoft",
+      "link": "https://de.linkedin.com/in/apechmann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/apechmann&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4QFnoECCcQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf97c4d19efe87a896164/images/7fb8fc75a5bb5b7823c02621b3d1a195c19964f7a2f95cb07cf5917e7632c5a7.png",
+      "snippet": "Director Communications at Microsoft · Strategic thinking albeit creative and agile communicator with a hands on mentality ... Head of Communications - Germany.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Head of",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Erlangen, Bayern, Deutschland",
+            "Director Communications",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · André Pechmann"
+    },
+    {
+      "position": 10,
+      "title": "Dr. Guido Brinkel – Microsoft Germany",
+      "link": "https://de.linkedin.com/in/guidobrinkel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/guidobrinkel&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4QFnoECCwQAQ",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf97c4d19efe87a896164/images/7fb8fc75a5bb5b7823c02621b3d1a19528b993b75fd5f14512c317a91d9cf79b.png",
+      "snippet": "Accomplished legal and public affairs professional with over 18 years of professional… · Microsoft Germany · Georg-August-Universität ...",
+      "snippet_highlighted_words": [
+        "Microsoft Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion Berlin/Brandenburg",
+            "Microsoft Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Guido Brinkel"
+    },
+    {
+      "position": 11,
+      "title": "Tobias Schmidt - Microsoft",
+      "link": "https://de.linkedin.com/in/tobischmidt/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/tobischmidt/en&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4QFnoECDEQAQ",
+      "displayed_link": "10.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf97c4d19efe87a896164/images/7fb8fc75a5bb5b7823c02621b3d1a195d6ee55eb9f30a47a0c08f6ff5d42f2ca.png",
+      "snippet": "Tobias Schmidt. Microsoft European Business School Oestrich-Winkel. Munich, Bavaria, Germany. 11K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tobias Schmidt"
+    },
+    {
+      "position": 12,
+      "title": "Florian Trautwein – Commercial Director Strategic Sales ...",
+      "link": "https://de.linkedin.com/in/florian-trautwein-b9b5a052",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/florian-trautwein-b9b5a052&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4QFnoECCoQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf97c4d19efe87a896164/images/7fb8fc75a5bb5b7823c02621b3d1a195bb707fb2a32b254da59107a82e3a4b14.png",
+      "snippet": "Commercial Director Strategic Sales Germany. Microsoft. Okt. 2021 –Heute 3 ... Head of Search. Yahoo! Deutschland GmbH. Jan. 2015 – Okt. 2015 10 Monaten.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft",
+        "Head of"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Commercial Director Strategic Sales Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Florian Trautwein"
+    },
+    {
+      "position": 13,
+      "title": "Denise Lorenz – Senior Director Business Operations & ...",
+      "link": "https://de.linkedin.com/in/denise-lorenz-48b758145",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/denise-lorenz-48b758145&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4QFnoECC8QAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf97c4d19efe87a896164/images/7fb8fc75a5bb5b7823c02621b3d1a195ad9ebea475f952d51c712012b66a8c28.png",
+      "snippet": "Senior Director Business Operations & Sales Excellence, Microsoft Germany ... Head of Sales Strategy, Microsoft Advertising. Microsoft. Dez. 2008 – März 2016 ...",
+      "snippet_highlighted_words": [
+        "Microsoft Germany",
+        "Head of",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "Senior Director Business Operations & Sales Excellence, Microsoft Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Denise Lorenz"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=ffndZ4KJCdej5NoP4PyK8Ak&start=100&sa=N&sstk=Af40H4X5HFeNwNFKHi7MARVRUvCgB5FVWKrMxRNQChYEtXTlj2cAT1HDdHEQ9D4ZXOS3EE9GvHBENDjQHX3ATmnW9p7Zb6CBRnxd4A&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4Q8NMDegQIJRAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=ffndZ4KJCdej5NoP4PyK8Ak&start=100&sa=N&sstk=Af40H4X5HFeNwNFKHi7MARVRUvCgB5FVWKrMxRNQChYEtXTlj2cAT1HDdHEQ9D4ZXOS3EE9GvHBENDjQHX3ATmnW9p7Zb6CBRnxd4A&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4Q8tMDegQIJRAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=ffndZ4KJCdej5NoP4PyK8Ak&start=200&sa=N&sstk=Af40H4X5HFeNwNFKHi7MARVRUvCgB5FVWKrMxRNQChYEtXTlj2cAT1HDdHEQ9D4ZXOS3EE9GvHBENDjQHX3ATmnW9p7Zb6CBRnxd4A&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4Q8tMDegQIJRAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=ffndZ4KJCdej5NoP4PyK8Ak&start=300&sa=N&sstk=Af40H4X5HFeNwNFKHi7MARVRUvCgB5FVWKrMxRNQChYEtXTlj2cAT1HDdHEQ9D4ZXOS3EE9GvHBENDjQHX3ATmnW9p7Zb6CBRnxd4A&ved=2ahUKEwjCu5eBrZyMAxXXEVkFHWC-Ap4Q8tMDegQIJRAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Head%22+OR+%22Head+of%22+OR+%22Global+Head%22+OR+%22Department+Head%22+OR+%22Team+Lead%22+OR+%22Senior+Manager%22+OR+%22Lead+Manager%22+OR+%22Managing+Manager%22%29&start=300"
+    }
+  }
+}

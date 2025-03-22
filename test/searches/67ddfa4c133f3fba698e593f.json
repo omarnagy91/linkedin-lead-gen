@@ -1,0 +1,355 @@
+{
+  "search_metadata": {
+    "id": "67ddfa4c133f3fba698e593f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/27a0c9d3072d4ccf/67ddfa4c133f3fba698e593f.json",
+    "created_at": "2025-03-21 23:46:20 UTC",
+    "processed_at": "2025-03-21 23:46:20 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/27a0c9d3072d4ccf/67ddfa4c133f3fba698e593f.html",
+    "total_time_taken": 7.18
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Amazon\" AND \"United States\" AND (current OR present) AND (\"Chief\" OR \"CXO\" OR \"Director\" OR \"Senior Director\" OR \"Executive Director\" OR \"Managing Director\" OR \"Board Director\" OR \"Regional Director\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Amazon\" AND \"United States\" AND (current OR present) AND (\"Chief\" OR \"CXO\" OR \"Director\" OR \"Senior Director\" OR \"Executive Director\" OR \"Managing Director\" OR \"Board Director\" OR \"Regional Director\")",
+    "total_results": 12700000,
+    "time_taken_displayed": 1.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Alexander Behrens - Amazon CXO",
+      "link": "https://www.linkedin.com/in/alexbehrens5004",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alexbehrens5004&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQFnoECBcQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa4c133f3fba698e593f/images/4859b4dc7ec0748d2a3b8f9e04f12d10762ffbea68483aa2ebe992f677a1e9fb.png",
+      "snippet": "Amazon- CXO. Amazon Ohio Wesleyan University. Miami-Fort Lauderdale Area ... (Managing Director); Six TV Channels belonging to Cisneros Television Group ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "CXO",
+        "Amazon",
+        "Managing Director"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Miami-Fort Lauderdale Area",
+            "Amazon CXO",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexander Behrens"
+    },
+    {
+      "position": 2,
+      "title": "Amit Agarwal - Palo Alto, California, United States",
+      "link": "https://www.linkedin.com/in/amitagarwalamazon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amitagarwalamazon&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQFnoECBUQAQ",
+      "displayed_link": "24K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa4c133f3fba698e593f/images/4859b4dc7ec0748d2a3b8f9e04f12d1096d0a7018ea76145826a173d0f9cc566.png",
+      "snippet": "Amit Agarwal. Palo Alto, California, United States. 24K followers 337 connections. See your mutual connections. View mutual connections with Amit. Sign in ...",
+      "snippet_highlighted_words": [
+        "United States"
+      ],
+      "source": "LinkedIn · Amit Agarwal"
+    },
+    {
+      "position": 3,
+      "title": "Steve D. - Senior Director of Revenue Operations - Amazon",
+      "link": "https://www.linkedin.com/in/steve-daniel24",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/steve-daniel24&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQFnoECBoQAQ",
+      "displayed_link": "380+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa4c133f3fba698e593f/images/4859b4dc7ec0748d2a3b8f9e04f12d10159f99dfba40805f03b6f96a8401d780.png",
+      "snippet": "Experience. Amazon Graphic. Senior Director of Revenue Operations. Amazon. Aug 2022 - Present 2 years 8 months. Los Angeles, California, United States. - ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Senior Director",
+        "Amazon",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Senior Director of Revenue Operations",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steve D."
+    },
+    {
+      "position": 4,
+      "title": "Dan Grossman - Amazon",
+      "link": "https://www.linkedin.com/in/dangrossman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dangrossman&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQFnoECBQQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa4c133f3fba698e593f/images/4859b4dc7ec0748d2a3b8f9e04f12d10c003663216dc781bbf1eee585e7a5d34.png",
+      "snippet": "Dan Grossman. Amazon. San Francisco, California, United States. 2K followers 500+ connections. See your mutual connections. View mutual connections with Dan.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Grossman"
+    },
+    {
+      "position": 5,
+      "title": "Alice Shobe - Amazon",
+      "link": "https://www.linkedin.com/in/alice-shobe",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alice-shobe&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQFnoECBwQAQ",
+      "displayed_link": "7.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa4c133f3fba698e593f/images/4859b4dc7ec0748d2a3b8f9e04f12d10f1012068bdcdfb76c81c59910d915e86.png",
+      "snippet": "Alice is a global social impact (CSR/ESG) leader. She was hired to start Amazon's... Experience Amazon Graphic Amazon United States",
+      "snippet_highlighted_words": [
+        "Amazon's",
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alice Shobe"
+    },
+    {
+      "position": 6,
+      "title": "Beth Galetti - SVP, People eXperience and Technology",
+      "link": "https://www.linkedin.com/in/beth-galetti-60b1106",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/beth-galetti-60b1106&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQFnoECB4QAQ",
+      "displayed_link": "99.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa4c133f3fba698e593f/images/4859b4dc7ec0748d2a3b8f9e04f12d100812ce42fdf47ea46a9be7f5ac61803d.png",
+      "snippet": "Experience · Amazon Graphic. SVP, People eXperience and Technology. Amazon. Apr 2021 - Present 4 years. Seattle, Washington, United States · Amazon Graphic ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United States",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Beth Galetti"
+    },
+    {
+      "position": 7,
+      "title": "Mike Burke - Director - Amazon",
+      "link": "https://www.linkedin.com/in/micburke",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/micburke&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQFnoECCoQAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa4c133f3fba698e593f/images/4859b4dc7ec0748d2a3b8f9e04f12d103f139b77241370e866d1ce97a457cd48.png",
+      "snippet": "Mike Burke. Director - Privacy at Amazon. Amazon University of Technology Sydney. Austin, Texas, United States.",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Director",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Burke"
+    },
+    {
+      "position": 8,
+      "title": "Mark Eamer - Amazon",
+      "link": "https://www.linkedin.com/in/meamer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/meamer&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQFnoECC8QAQ",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa4c133f3fba698e593f/images/4859b4dc7ec0748d2a3b8f9e04f12d101c474ac1076203fb77f40ea3a52455f7.png",
+      "snippet": "Mark Eamer most recently served as the Chief Marketing Officer for Chewy. Eamer and his… Experience. Amazon Graphic · Amazon. Seattle, Washington, United ...",
+      "snippet_highlighted_words": [
+        "Chief",
+        "Amazon",
+        "Amazon",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Eamer"
+    },
+    {
+      "position": 9,
+      "title": "Tarun Aggarwal - Regional Director of Operations - Amazon",
+      "link": "https://www.linkedin.com/in/tarun-aggarwal-a80726b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tarun-aggarwal-a80726b&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQFnoECCgQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa4c133f3fba698e593f/images/4859b4dc7ec0748d2a3b8f9e04f12d101593a2ecc74446b97e94cc5372af6c72.png",
+      "snippet": "Regional Director Of Operations at Amazon · I have a MBA from Purdue ... United States. Amazon Graphic. Director Of Operations. Amazon. Oct 2021 - Oct 2024 ...",
+      "snippet_highlighted_words": [
+        "Regional Director",
+        "Amazon",
+        "United States",
+        "Amazon",
+        "Director",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Chicago Area",
+            "Regional Director of Operations",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tarun Aggarwal"
+    },
+    {
+      "position": 10,
+      "title": "Michael Moore - Regional Director of Operations - Amazon",
+      "link": "https://www.linkedin.com/in/michael-a-moore369",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-a-moore369&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQFnoECCkQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa4c133f3fba698e593f/images/4859b4dc7ec0748d2a3b8f9e04f12d10cdb9083b4b1aac339efd0cb944dfe297.png",
+      "snippet": "Regional Director of Operations. Amazon. Mar 2023 - Present 2 years 1 month ... Director of Amazon Robotics Process Engineering. Amazon. Jul 2021 - Apr ...",
+      "snippet_highlighted_words": [
+        "Regional Director",
+        "Amazon",
+        "Present",
+        "Director",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Omaha Metropolitan Area",
+            "Regional Director of Operations",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael Moore"
+    },
+    {
+      "position": 11,
+      "title": "Maggie Rivera - Director of AMZL Central Programs",
+      "link": "https://www.linkedin.com/in/maggie-rivera-5ab6431a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/maggie-rivera-5ab6431a&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQFnoECC4QAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa4c133f3fba698e593f/images/4859b4dc7ec0748d2a3b8f9e04f12d10ae2506869442f1621d5ff2fd9312bee7.png",
+      "snippet": "Amazon Graphic. Director of AMZL Central Programs - Amazon Logistics. Amazon. Feb 2023 - Present 2 years 2 months. Nashville, Tennessee, United States · Amazon ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Director",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Nashville Metropolitan Area",
+            "Director of AMZL Central Programs",
+            "Amazon Logistics",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Maggie Rivera"
+    },
+    {
+      "position": 12,
+      "title": "Laher Upadhyaya - Director of Operations - Amazon",
+      "link": "https://www.linkedin.com/in/laher-upadhyaya-0793a3a6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/laher-upadhyaya-0793a3a6&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQFnoECDAQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa4c133f3fba698e593f/images/4859b4dc7ec0748d2a3b8f9e04f12d10efdfac7bf9d148c72b6fce2587e23970.png",
+      "snippet": "Director, Operations at Amazon · Experience: Amazon · Education: The ... - Present 11 months. Miami, Florida, United States. Amazon Graphic. General ...",
+      "snippet_highlighted_words": [
+        "Director",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United States",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Miami-Fort Lauderdale Area",
+            "Director of Operations",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Laher Upadhyaya"
+    },
+    {
+      "position": 13,
+      "title": "Krys Walsh-Allen - Amazon",
+      "link": "https://www.linkedin.com/in/krys-walsh-allen-4b58703",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/krys-walsh-allen-4b58703&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQFnoECC0QAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa4c133f3fba698e593f/images/4859b4dc7ec0748d2a3b8f9e04f12d107580ce7fa3306d37b0c8e5eb1e893bbc.png",
+      "snippet": "Krys Walsh-Allen. Amazon Central Michigan University. Seattle, Washington, United States. 2K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Krys Walsh-Allen"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=UfrdZ6yDM4uK4-EPgdCyyAk&start=100&sa=N&sstk=Af40H4Wgv9pRCkzlIZOZlQ_tRDgMU2t8eL-Jxk9FQRpa71NF0T6idmjSl4CGIXa_wmC9Ec8dw3OId3jJKG4EJ-QV0C1hplmtoHyUcQ&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQ8NMDegQIChAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=UfrdZ6yDM4uK4-EPgdCyyAk&start=100&sa=N&sstk=Af40H4Wgv9pRCkzlIZOZlQ_tRDgMU2t8eL-Jxk9FQRpa71NF0T6idmjSl4CGIXa_wmC9Ec8dw3OId3jJKG4EJ-QV0C1hplmtoHyUcQ&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=UfrdZ6yDM4uK4-EPgdCyyAk&start=200&sa=N&sstk=Af40H4Wgv9pRCkzlIZOZlQ_tRDgMU2t8eL-Jxk9FQRpa71NF0T6idmjSl4CGIXa_wmC9Ec8dw3OId3jJKG4EJ-QV0C1hplmtoHyUcQ&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=UfrdZ6yDM4uK4-EPgdCyyAk&start=300&sa=N&sstk=Af40H4Wgv9pRCkzlIZOZlQ_tRDgMU2t8eL-Jxk9FQRpa71NF0T6idmjSl4CGIXa_wmC9Ec8dw3OId3jJKG4EJ-QV0C1hplmtoHyUcQ&ved=2ahUKEwjs78zmrZyMAxULxTgGHQGoDJkQ8tMDegQIChAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Chief%22+OR+%22CXO%22+OR+%22Director%22+OR+%22Senior+Director%22+OR+%22Executive+Director%22+OR+%22Managing+Director%22+OR+%22Board+Director%22+OR+%22Regional+Director%22%29&start=300"
+    }
+  }
+}

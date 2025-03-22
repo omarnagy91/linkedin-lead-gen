@@ -1,0 +1,2352 @@
+{
+  "search_metadata": {
+    "id": "67ddf91f1180fb5358158c68",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/cf33753e3a067e87/67ddf91f1180fb5358158c68.json",
+    "created_at": "2025-03-21 23:41:19 UTC",
+    "processed_at": "2025-03-21 23:41:19 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/cf33753e3a067e87/67ddf91f1180fb5358158c68.html",
+    "total_time_taken": 1.75
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"United States\" AND (current OR present) AND (\"Architect\" OR \"Senior Architect\" OR \"Principal Architect\" OR \"Solution Architect\" OR \"Principal\" OR \"Senior Principal\" OR \"Executive\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"United States\" AND (current OR present) AND (\"Architect\" OR \"Senior Architect\" OR \"Principal Architect\" OR \"Solution Architect\" OR \"Principal\" OR \"Senior Principal\" OR \"Executive\")",
+    "total_results": 10200000,
+    "time_taken_displayed": 0.64,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Alicia Coll - Principal Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/alicia-coll",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alicia-coll&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECBUQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e65185040968e4297ba07cadd047c095b.png",
+      "snippet": "Principal Architect - M365 Copilot - Microsoft 365 Core Engineering. Microsoft University of Victoria. Seattle, Washington, United States. 1K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Principal Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alicia Coll"
+    },
+    {
+      "position": 2,
+      "title": "Puneet Jeyasingh - Principal Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/puneet-jeyasingh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/puneet-jeyasingh&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECBYQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92efc2f39fb529870221b5ad27081353e78.png",
+      "snippet": "Puneet Jeyasingh. Principal Architect. Microsoft National Institute of Technology, Tiruchirappalli. Chesterfield, Virginia, United States.",
+      "snippet_highlighted_words": [
+        "Principal Architect",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chesterfield, Virginia, United States",
+            "Principal Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Puneet Jeyasingh"
+    },
+    {
+      "position": 3,
+      "title": "Noel Anderson - Principal Architect - Azure - Microsoft",
+      "link": "https://www.linkedin.com/in/noel-anderson-599b2410",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/noel-anderson-599b2410&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECBcQAQ",
+      "displayed_link": "830+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ec4704372a3fb29c6525b6c3a2089de00.png",
+      "snippet": "Noel Anderson. Principal Architect at Microsoft. Microsoft University of Gloucestershire. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Principal Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Principal Architect",
+            "Azure",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Noel Anderson"
+    },
+    {
+      "position": 4,
+      "title": "Paul Popovich Jr - Senior Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/paul-popovich-jr-2a03b692",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/paul-popovich-jr-2a03b692&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECBoQAQ",
+      "displayed_link": "660+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e255fcb4c50ab712f8cdb7106a2a0ad2f.png",
+      "snippet": "Paul Popovich Jr. Senior Cloud Solution Architect at Microsoft. Microsoft Duquesne University. Berea, Ohio, United States.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berea, Ohio, United States",
+            "Senior Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Popovich Jr"
+    },
+    {
+      "position": 5,
+      "title": "Aaron Russell - Senior Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/aaronrussell2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aaronrussell2&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECBkQAQ",
+      "displayed_link": "150+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92efe2e44b1410341533e273a573e441514.png",
+      "snippet": "Senior Cloud Solution Architect. Microsoft. Apr 2022 - Present 3 years. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Senior Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aaron Russell"
+    },
+    {
+      "position": 6,
+      "title": "Sriram Krishnamurthi - Principal Cloud Solution Architect",
+      "link": "https://www.linkedin.com/in/sriramkrishnamurthi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sriramkrishnamurthi&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECBgQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92edab3fd679f6c44e99dde54f72beda6c0.png",
+      "snippet": "Microsoft Graphic. Principal Cloud Solution Architect. Microsoft. May 2022 - Present 2 years 11 months. Keller, Texas, United States. Oracle Graphic. Principal ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "Solution Architect",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Keller, Texas, United States",
+            "Principal Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sriram Krishnamurthi"
+    },
+    {
+      "position": 7,
+      "title": "Brian Jordan - Principal Solutions Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/brian-jordan-89b02b9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brian-jordan-89b02b9&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECC0QAQ",
+      "displayed_link": "190+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e6d472ed5bdb99532559e8b465f9e3e85.png",
+      "snippet": "Brian Jordan. Principal Solutions Architect at Microsoft. Microsoft George Mason University. Sterling, Virginia, United States. 199 followers 202 connections.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sterling, Virginia, United States",
+            "Principal Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brian Jordan"
+    },
+    {
+      "position": 8,
+      "title": "David Johnson - Principal PM Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/david-johnson-a12909196",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-johnson-a12909196&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCOkBEAE",
+      "displayed_link": "20+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e93872aa79ca2e586c127e7842510e16a.png",
+      "snippet": "Principal Product Manager Architect in Microsoft's internal IT organization responsible for Microsoft's internal Microsoft 365 tenancy strategy and governance.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Microsoft's",
+        "Microsoft's",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Principal PM Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Johnson"
+    },
+    {
+      "position": 9,
+      "title": "Mike Sullivan - Principal Cloud Solutions Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/mike-sullivan-10770b4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mike-sullivan-10770b4&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJkBEAE",
+      "displayed_link": "500+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e0c59603ac0d3a1feb8667613ab1e6c73.png",
+      "snippet": "Mike Sullivan. Principal Cloud Solutions Architect. Microsoft. Disputanta, Virginia, United States. 504 followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Disputanta, Virginia, United States",
+            "Principal Cloud Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Sullivan"
+    },
+    {
+      "position": 10,
+      "title": "Christopher Scott - Senior Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/christophersscott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christophersscott&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCLEBEAE",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e922a96611d45ceda058666f8e0e5dfa4.png",
+      "snippet": "Christopher Scott. Senior Cloud Solution Architect at Microsoft. Microsoft University of Arkansas at Little Rock. United States.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Senior Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christopher Scott"
+    },
+    {
+      "position": 11,
+      "title": "Paul Maneesilasan - Senior Cloud Solution Architect",
+      "link": "https://www.linkedin.com/in/paultman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/paultman&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCIECEAE",
+      "displayed_link": "630+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e268f795a77d83798a2402ec986dacff1.png",
+      "snippet": "Experience ; Senior Cloud Solution Architect. Microsoft. Sep 2022 ; Technical Solutions Architect. TechTransit. Jan 2010 ; Principle Engineer. AOL. Jan 2005 ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Aldie, Virginia, United States",
+            "Senior Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Maneesilasan"
+    },
+    {
+      "position": 12,
+      "title": "Andrew Frazier - Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/drew-frazier",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/drew-frazier&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCIYCEAE",
+      "displayed_link": "300+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e434000b2aac4e61b73748e0560d5f6d6.png",
+      "snippet": "Playing a key role at Microsoft as a CSA within the SE&O Americas team. My current role title is Cloud Solution Architect (CSA).",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "current",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Grand Rapids Metropolitan Area",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Frazier"
+    },
+    {
+      "position": 13,
+      "title": "Renée H. - Sr. Drector, Industry Solutions Architecture",
+      "link": "https://www.linkedin.com/in/reneethunter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/reneethunter&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECEgQAQ",
+      "displayed_link": "890+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ef81881475281efb15532241a0217b3af.png",
+      "snippet": "Microsoft. Apr 2022 - Present 2 years 11 months. Microsoft Graphic. Cloud Solution Architect Director, Data & AI/Cloud & Customer Experience, Customer Success.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "Microsoft",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Sr. Drector, Industry Solutions Architecture",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Renée H."
+    },
+    {
+      "position": 14,
+      "title": "Brenda Carter - Redmond, Washington, United States",
+      "link": "https://www.linkedin.com/in/brenda-carter-9938204",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brenda-carter-9938204&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJsBEAE",
+      "displayed_link": "6.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e829aff677952928639a5e9b98ad6e41f.png",
+      "snippet": "Brenda Carter. Principal technical writer, architect, and illustrator of cybersecurity at Microsoft. Redmond, Washington, United States. 7K followers ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "architect",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Brenda Carter"
+    },
+    {
+      "position": 15,
+      "title": "Alex Shteynberg - Chief Technical Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/alex-shteynberg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alex-shteynberg&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCIYBEAE",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e556df4db82c30eded925c4c4556a2208.png",
+      "snippet": "Alex Shteynberg. Chief Technical Architect at Microsoft. Microsoft University of Pennsylvania. Brooklyn, New York, United States.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brooklyn, New York, United States",
+            "Chief Technical Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alex Shteynberg"
+    },
+    {
+      "position": 16,
+      "title": "Kyle H. - Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/kyle-h-1a7b52190",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kyle-h-1a7b52190&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCK4BEAE",
+      "displayed_link": "190+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ea59cccb0c5b1f4dddfdea50514f708fc.png",
+      "snippet": "Cloud Solution Architect · Experience: Microsoft · Location: United States · 194 connections on LinkedIn. View Kyle H.'s profile on LinkedIn, a professional ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kyle H."
+    },
+    {
+      "position": 17,
+      "title": "Brad Allen - Principal Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/brad-allen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brad-allen&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCMwBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e96b75d691d483c80f793e8a4729241d1.png",
+      "snippet": "Brad Allen. Principal Cloud Solution Architect. Microsoft The University of Georgia. Marietta, Georgia, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Solution Architect",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Marietta, Georgia, United States",
+            "Principal Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brad Allen"
+    },
+    {
+      "position": 18,
+      "title": "Andrew Redman - Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/another-redman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/another-redman&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCOYBEAE",
+      "displayed_link": "720+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ec80cb2b3f4581066e6b7429a0344327f.png",
+      "snippet": "Andrew Redman. Cloud Solution Architect at Microsoft. Microsoft Oklahoma State University. Oklahoma City, Oklahoma, United States.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Oklahoma City, Oklahoma, United States",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Redman"
+    },
+    {
+      "position": 19,
+      "title": "John Smith - Sr Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/john-smith-056a1b11",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-smith-056a1b11&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCIUCEAE",
+      "displayed_link": "710+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e566c17e5a724cb130a8d07b9d112e724.png",
+      "snippet": "John Smith. Cloud Solution Architect at Microsoft. Microsoft. Belleville, Illinois, United States. 720 followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Belleville, Illinois, United States",
+            "Sr Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Smith"
+    },
+    {
+      "position": 20,
+      "title": "Jon Butler - Cloud Solution Architect, Microsoft 365 Copilot",
+      "link": "https://www.linkedin.com/in/jonmbutler",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jonmbutler&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCLYCEAE",
+      "displayed_link": "950+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e39ff595060f27761cf83808ca75d161f.png",
+      "snippet": "Principal Cloud Solution Architect and M365 Copilot Lead at Microsoft · I am a Microsoft ... • As the lead pre-sales scoping resource for the United States ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Pittsburgh Region",
+            "Principal Cloud Solution Architect, Microsoft 365 Copilot",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jon Butler"
+    },
+    {
+      "position": 21,
+      "title": "James Orlando - Sr. Cloud Solutions Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/james-orlando",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/james-orlando&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECEQQAQ",
+      "displayed_link": "340+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92eb1218ed031e116d05de7e00a51af0a35.png",
+      "snippet": "James Orlando. Sr. Cloud Solution Architect. Microsoft Western Governors University. Meridian, Idaho, United States. 348 followers 343 connections. See your ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Meridian, Idaho, United States",
+            "Sr. Cloud Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Orlando"
+    },
+    {
+      "position": 22,
+      "title": "Astolfo Rueda - Enterprise Solutions Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/astolforueda",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/astolforueda&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECEIQAQ",
+      "displayed_link": "290+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e82db78dae6a85c96ef3b5f9f63b4f533.png",
+      "snippet": "Astolfo Rueda. Enterprise Solutions Architect. Microsoft. Redmond, Washington, United States. 298 followers 294 ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Astolfo Rueda"
+    },
+    {
+      "position": 23,
+      "title": "Mike Francis - Senior Cloud Solutions Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/mikejfrancis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mikejfrancis&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECGAQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e3848681b5a44bfff2c8dff2a12e955c9.png",
+      "snippet": "Senior Cloud Solutions Architect. Microsoft. Jan 2022 - Present 3 years 3 months. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Senior Cloud Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Francis"
+    },
+    {
+      "position": 24,
+      "title": "Ron Sanchez - Senior Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/ron-sanchez1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ron-sanchez1&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECH4QAQ",
+      "displayed_link": "480+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e0dba45fe1f1b113d81486120609ebc39.png",
+      "snippet": "As a Senior Cloud Solution Architect at Microsoft, I help organizations ... United States Air Force Graphic. Senior Airman. United States Air Force. Jan ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Cleveland",
+            "Senior Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ron Sanchez"
+    },
+    {
+      "position": 25,
+      "title": "John S. Moh - ☁️ Chief Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/johnmoh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/johnmoh&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCLYBEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e525060b56f2353d772737e720c6fd2e4.png",
+      "snippet": "☁ Chief Architect of Modern Work at Microsoft. Microsoft University of Southern California. Irvine, California, United States ... Principal Product Manager ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Irvine, California, United States",
+            "☁️ Chief Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · John S. Moh"
+    },
+    {
+      "position": 26,
+      "title": "Paul McDaniel - Software Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/walrusmcd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/walrusmcd&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJQBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e77833fbcf9d5079b44d2f2a1dcafbe93.png",
+      "snippet": "Software Architect at Microsoft · 25 years at Microsoft ... Summary: Software engineer and Principal Software Architect working on Azure Virtual Desktop.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "Principal",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Software Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul McDaniel"
+    },
+    {
+      "position": 27,
+      "title": "Sumit Basu - Senior Principal Researcher at Microsoft",
+      "link": "https://www.linkedin.com/in/sumitbasu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sumitbasu&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCLABEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ea2a956a5dd7b40786714a40d3c1e7536.png",
+      "snippet": "Senior Principal Researcher at Microsoft. Microsoft Research Massachusetts Institute of Technology. Seattle, Washington, United States. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Senior Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Senior Principal Researcher",
+            "Microsoft Research"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sumit Basu"
+    },
+    {
+      "position": 28,
+      "title": "Sunitha Muthukrishna - Principal Program Manager",
+      "link": "https://www.linkedin.com/in/sunithamuthukrishna",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sunithamuthukrishna&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCM4BEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92eac52713f9f53a49310c1000f5991f536.png",
+      "snippet": "Principal Product Manager @ Microsoft | Improving Customer Experiences ... Architect for the cloud using Azure Websites. MSDN Jul 2014. This article ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Principal Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sunitha Muthukrishna"
+    },
+    {
+      "position": 29,
+      "title": "José Rafael Marcano Rodriguez - Principal Software ...",
+      "link": "https://www.linkedin.com/in/jos%C3%A9-rafael-marcano-rodriguez-542a6611",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jos%25C3%25A9-rafael-marcano-rodriguez-542a6611&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJ0CEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ebfa819204fcb22778899e853e78257ab.png",
+      "snippet": "Experience. Microsoft Graphic. Principal Software Engineer/Principal Architect. Microsoft. Jul 2021 - Present 3 years 9 months. California, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "Principal Architect",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Diego, California, United States",
+            "Principal Software Engineer/Principal Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · José Rafael Marcano Rodriguez"
+    },
+    {
+      "position": 30,
+      "title": "John Savill - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/john-savill",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/john-savill&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCM8BEAE",
+      "displayed_link": "121.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92eefecb77eb5dd421ca11a9067c2cd50f4.png",
+      "snippet": "John Savill. Chief Architect, Americas Office of the CTO. United States. 121K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "United States"
+      ],
+      "source": "LinkedIn · John Savill"
+    },
+    {
+      "position": 31,
+      "title": "Robert S. - Cloud Solutions Architect-Engineer - Microsoft",
+      "link": "https://www.linkedin.com/in/robertdsmithii",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robertdsmithii&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCOgBEAE",
+      "displayed_link": "300+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ee41834252e12816b2ff03c02de269295.png",
+      "snippet": "Robert S. Cloud Solution Architect at Microsoft. Microsoft WGU Texas. Arlington, Texas, United States. 305 followers 301 connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Arlington, Texas, United States",
+            "Cloud Solutions Architect-Engineer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert S."
+    },
+    {
+      "position": 32,
+      "title": "Dharmendra Kumar - Senior Cloud Solution Architect",
+      "link": "https://www.linkedin.com/in/dharmendra-kumar-ba055320",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dharmendra-kumar-ba055320&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCOQBEAE",
+      "displayed_link": "70+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e84760714c4cba51f504eb0ae72da0762.png",
+      "snippet": "Dharmendra Kumar. Sr. Cloud Solution Architect. Microsoft. Irving, Texas, United States. 74 followers ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Irving, Texas, United States",
+            "Senior Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dharmendra Kumar"
+    },
+    {
+      "position": 33,
+      "title": "Shimail Ahmed Gillani - Data and AI Enablement Architect",
+      "link": "https://www.linkedin.com/in/ahmedgillanione?trk=public_post_main-feed-card-text",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ahmedgillanione%3Ftrk%3Dpublic_post_main-feed-card-text&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCIACEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ebbfae9b3e39d4583557ec45b71bf448e.png",
+      "snippet": "Architecting Microsoft Azure Solutions Graphic. Architecting Microsoft Azure Solutions. Microsoft · Azure Solution Architect Graphic. Azure Solution Architect.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "Solution Architect",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Data and AI Enablement Architect",
+            "Microsoft Industry Solutions Team",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shimail Ahmed Gillani"
+    },
+    {
+      "position": 34,
+      "title": "Jeff Sanders - Microsoft",
+      "link": "https://www.linkedin.com/in/jeffsandersmd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeffsandersmd&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJ8CEAE",
+      "displayed_link": "4.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e7a008386b6d33aba89f9949866e85449.png",
+      "snippet": "Jeff Sanders. Microsoft Elon University. Phoenix, Maryland, United States. 4K followers 500+ connections. See your mutual connections. View mutual connections ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Phoenix, Maryland, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff Sanders"
+    },
+    {
+      "position": 35,
+      "title": "Joseph McClain - Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/joseph-mcclain-a08447a7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joseph-mcclain-a08447a7&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJwCEAE",
+      "displayed_link": "740+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e5c9c85791c1b0b3f7d1d53490cfdb8db.png",
+      "snippet": "Microsoft. 8 months. Microsoft Graphic. Cloud Solution Architect. Microsoft. Nov 2024 - Present 5 months. Pittsburgh, Pennsylvania, United States. Microsoft ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Pittsburgh Region",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joseph McClain"
+    },
+    {
+      "position": 36,
+      "title": "James K. - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/jameskeyholisticsecurity",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jameskeyholisticsecurity&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJsCEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e88c8af94f3bbd402ce0139e2197d8f0f.png",
+      "snippet": "Microsoft Graphic. Sr. Cloud Solution Architect - Engineering (M365 Security). Microsoft. Sep 2020 - Nov 2022 2 years 3 months. Houston, Texas, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Magnolia, Texas, United States",
+            "Principal Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · James K."
+    },
+    {
+      "position": 37,
+      "title": "Dileep Singh - Principal GPM - Microsoft",
+      "link": "https://www.linkedin.com/in/rulesrchanged",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rulesrchanged&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECEMQAQ",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e6360ce9ca02afbdd934fa3daa2afc42d.png",
+      "snippet": "Dileep Singh. Principal Program Manager Lead at Microsoft. Microsoft MNNIT,Allahabad. Bellevue, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Principal GPM",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dileep Singh"
+    },
+    {
+      "position": 38,
+      "title": "Kathleen Hogan - EVP, Office of Strategy and Transformation",
+      "link": "https://www.linkedin.com/in/kathleenthogan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kathleenthogan&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECEUQAQ",
+      "displayed_link": "153.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e6b4ea36d3f13b8e479a456b6fb04e30c.png",
+      "snippet": "As Executive Vice President, Office of Strategy and Transformation, I'm focused on defining Microsoft's overarching corporate strategy and structure, ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft's"
+      ],
+      "source": "LinkedIn · Kathleen Hogan"
+    },
+    {
+      "position": 39,
+      "title": "Brian McNeese - Sr Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/bmcneese",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bmcneese&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECGMQAQ",
+      "displayed_link": "340+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e1d10bed347db55ce63860b998736d9a2.png",
+      "snippet": "Sr Cloud Solution Architect | Driving Customer Success with Microsoft Teams. Microsoft East Tennessee State University. Jonesborough, Tennessee, United States.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Jonesborough, Tennessee, United States",
+            "Sr Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brian McNeese"
+    },
+    {
+      "position": 40,
+      "title": "Jacob L. - SR Cloud Solutions Architect II - Microsoft",
+      "link": "https://www.linkedin.com/in/jacoblavender",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jacoblavender&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECF4QAQ",
+      "displayed_link": "190+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ec1c9f5e888c65048b03602859b5c7ea8.png",
+      "snippet": "SR Cloud Solutions Architect II. Microsoft. Nov 2015 - Present 9 years 4 months. United States. Engineer ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "SR Cloud Solutions Architect II",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jacob L."
+    },
+    {
+      "position": 41,
+      "title": "Brad Smith - President - Microsoft",
+      "link": "https://www.linkedin.com/in/bradsmi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bradsmi&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCLQBEAE",
+      "displayed_link": "339.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e6aca541b52470878b04654b4b21b6022.png",
+      "snippet": "General Counsel and Executive Vice President, Legal and Corporate Affairs ... United States Federal Courts. Sep 1985 - Jul 1986 11 months. New York, New ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "United States"
+      ],
+      "source": "LinkedIn · Brad Smith"
+    },
+    {
+      "position": 42,
+      "title": "Jeff Arnold - Principal User Experience Designer - Microsoft",
+      "link": "https://www.linkedin.com/in/jeffarn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeffarn&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECGQQAQ",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92eb0c47cc259c670b37c8fe5000ea89d30.png",
+      "snippet": "Microsoft Graphic. Principal User Experience Designer. Microsoft. Nov 2018 - Present 6 years 5 months. Redmond, Washington, United States · Principal UX Design ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Principal",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Principal User Experience Designer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff Arnold"
+    },
+    {
+      "position": 43,
+      "title": "Chris Merwin - Principal Program Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/chrismerwin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chrismerwin&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECH0QAQ",
+      "displayed_link": "730+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e7cbaa3423731c407c9e4dbb864765927.png",
+      "snippet": "Principal Program Manager at Microsoft. Microsoft. Bothell, Washington, United States. 739 followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bothell, Washington, United States",
+            "Principal Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Merwin"
+    },
+    {
+      "position": 44,
+      "title": "Lucas A. Meyer - Principal Research Scientist - Microsoft",
+      "link": "https://www.linkedin.com/in/lucasameyer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lucasameyer&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCIQCEAE",
+      "displayed_link": "15.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e3e5487ee14a8c8a8805736afc1c26b2c.png",
+      "snippet": "... United States · 500+ connections on LinkedIn. View Lucas A. Meyer's profile on ... Principal Research Scientist @ Microsoft | AI, NLP, LLMs. Microsoft ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Principal",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Lucas A. Meyer"
+    },
+    {
+      "position": 45,
+      "title": "Brian Day - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/brianday",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brianday&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECHgQAQ",
+      "displayed_link": "770+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e363798af5b0dcd799585fb9c7cd5d024.png",
+      "snippet": "Jan 2024 - Present 1 year 3 months. United States. Principal Product Manager at Microsoft in ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United States",
+        "Principal",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Brian Day"
+    },
+    {
+      "position": 46,
+      "title": "Baxter C. - Cloud Solution Architect | Microsoft Teams ...",
+      "link": "https://www.linkedin.com/in/baxterclark",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/baxterclark&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCIMCEAE",
+      "displayed_link": "320+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e4a51705977f826f7cea5b218e54203d6.png",
+      "snippet": "Microsoft. Sep 2024 - Present 7 months. Redmond, Washington, United States. As a Microsoft Teams Application Developer & Cloud Solution Architect at Microsoft ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Altamonte Springs, Florida, United States",
+            "Cloud Solution Architect | Microsoft Teams Application Developer",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Baxter C."
+    },
+    {
+      "position": 47,
+      "title": "John Cirone - Senior Director, Global Employee and ...",
+      "link": "https://www.linkedin.com/in/johncirone",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/johncirone&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJYBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ee09a6f1a2291f5e22781db66d5927b86.png",
+      "snippet": "... United States · 500+ connections on LinkedIn. View John Cirone's profile on ... Senior Director, Global Employee and Executive Communications at Microsoft ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Executive",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Senior Director, Global Employee and Executive Communications",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Cirone"
+    },
+    {
+      "position": 48,
+      "title": "Carlos Vallin - Principal Engineer - Data Center RAS",
+      "link": "https://www.linkedin.com/in/cvallin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cvallin&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJcBEAE",
+      "displayed_link": "530+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ed5a2a4bc3f1ad77a2d9767bf29e5e0dc.png",
+      "snippet": "Carlos Vallin. Principal Engineer - Data Center RAS. Microsoft Georgia Institute of Technology. Austin, Texas, United States ... Systems Architect - Data Center ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Principal Engineer",
+            "Data Center RAS",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carlos Vallin"
+    },
+    {
+      "position": 49,
+      "title": "James Tee - Principal Design Manager, Azure AI Foundry",
+      "link": "https://www.linkedin.com/in/jamestee01",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jamestee01&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCLUBEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ecc780fb505ff12832db670a66706ce32.png",
+      "snippet": "Principal Design Manager, Azure AI Foundry at Microsoft. Microsoft Arizona State University. Seattle, Washington, United States ... executive 3rd party partner ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Design Manager, Azure AI Foundry",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Tee"
+    },
+    {
+      "position": 50,
+      "title": "Satya Nadella - Chairman and CEO - Microsoft",
+      "link": "https://www.linkedin.com/in/satyanadella",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/satyanadella&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCK8BEAE",
+      "displayed_link": "11.3M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92efb7be6a7ef15ec9a4d72c36b43a7fa46.png",
+      "snippet": "Chairman and CEO at Microsoft · As chairman and CEO of Microsoft, I ... Redmond, Washington, United States. 11M followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Satya Nadella"
+    },
+    {
+      "position": 51,
+      "title": "David Egley - Cloud Solutions Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/david-egley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-egley&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCMsBEAE",
+      "displayed_link": "180+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e3d1eeea12f2046b42d09af0d22768c0f.png",
+      "snippet": "Cloud Solutions Architect at Microsoft · Cloud Solutions Architect in Modern Work for Microsoft Federal ... United States · 186 connections on LinkedIn ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Architect",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Cloud Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Egley"
+    },
+    {
+      "position": 52,
+      "title": "S. Cameron Greene - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/s-cameron-greene",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/s-cameron-greene&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCMoBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92eff35cada468bd331cddc925d24a9f99b.png",
+      "snippet": "Principal Product Manager: Responsible AI. Microsoft NYU Stern School of Business. Atlanta, Georgia, United States. 1K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta, Georgia, United States",
+            "Principal Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · S. Cameron Greene"
+    },
+    {
+      "position": 53,
+      "title": "Alan Stephenson - Principal Program Manager at Microsoft",
+      "link": "https://www.linkedin.com/in/stephensonalan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephensonalan&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCP8BEAE",
+      "displayed_link": "320+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e3c39adfb767506abbbb4aa6c4812f8bc.png",
+      "snippet": "Principal Program Manager at Microsoft · I have a varied background ... Senior / Principal Program Manager - Azure Storage / Public Safety & Justice.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Senior / Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Principal Program Manager",
+            "Vanguard",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alan Stephenson"
+    },
+    {
+      "position": 54,
+      "title": "Chris Capossela - Member of the Board of Directors",
+      "link": "https://www.linkedin.com/in/chriscapossela",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chriscapossela&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCNABEAE",
+      "displayed_link": "181.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e47f1d9e320ce9a213a121ff6e850b88b.png",
+      "snippet": "... United States Tennis Association · Location: Seattle · 500+ connections ... As executive vice president and chief marketing officer at Microsoft, I ran ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "executive",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Chris Capossela"
+    },
+    {
+      "position": 55,
+      "title": "PJ Harris - Cloud Solution Architect Lead - Modern Work",
+      "link": "https://www.linkedin.com/in/palance-harris-ii",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/palance-harris-ii&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCNEBEAE",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e3e325efa76817efb324a1af2ec259b21.png",
+      "snippet": "... Solution Architect role at Microsoft. Current managers have described him as ... United States · 500+ connections on LinkedIn. View PJ Harris' profile ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Current",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Cloud Solution Architect Lead",
+            "Modern Work",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · PJ Harris"
+    },
+    {
+      "position": 56,
+      "title": "Jignesh Thakkar - Microsoft Cloud Solutions",
+      "link": "https://www.linkedin.com/in/jignesh-thakkar-94089036",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jignesh-thakkar-94089036&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCOUBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e93fb989c76c44704614af83d543a1aeb.png",
+      "snippet": "Principal Architect - Microsoft Cloud Solutions (Modern Work - Copilot) ... Senior Architect - Microsoft Cloud Solutions - Engineering - Modern Work.",
+      "snippet_highlighted_words": [
+        "Principal Architect",
+        "Microsoft",
+        "Senior Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Chicago Area",
+            "Principal Architect",
+            "Microsoft Cloud Solutions",
+            "Copilot",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jignesh Thakkar"
+    },
+    {
+      "position": 57,
+      "title": "William Harding - Customer Solutions Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/hardingwilliam",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hardingwilliam&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCOcBEAE",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e575825fc373d43a5b06583490062281e.png",
+      "snippet": "Microsoft Graphic. Customer Solutions Architect. Microsoft. Mar 2025 - Present 1 month. Redmond, Washington, United States. I'll be working with Microsoft's ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Architect",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Customer Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · William Harding"
+    },
+    {
+      "position": 58,
+      "title": "Matthew Resnick - Principal Software Engineer at Microsoft",
+      "link": "https://www.linkedin.com/in/matthew-resnick-2b589262",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matthew-resnick-2b589262&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCOoBEAE",
+      "displayed_link": "140+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e907d6eb944172e81d405874446046e2a.png",
+      "snippet": "Principal Software Engineer at Microsoft · Information technology ... United States Military Academy at West Point Graphic · United States Military ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington DC-Baltimore Area",
+            "Principal Software Engineer / Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthew Resnick"
+    },
+    {
+      "position": 59,
+      "title": "Ed Stewart M.B.A. - CE CyberSecurity Assurance CO+I",
+      "link": "https://www.linkedin.com/in/ed-stewart-m-b-a-165192aa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ed-stewart-m-b-a-165192aa&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCOsBEAE",
+      "displayed_link": "430+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e3f1354ab4a01bf4e70aec3ea0d8bceae.png",
+      "snippet": "Ed Stewart M.B.A.. Principal CE CyberSecurity Assurance CO+I. Microsoft Loyola University Chicago. Seattle, Washington, United ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal CE Cyber-Security Assurance, CO+I",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ed Stewart M.B.A."
+    },
+    {
+      "position": 60,
+      "title": "Megan McFeely, CSM, CSPO - Principal PM Manager",
+      "link": "https://www.linkedin.com/in/megan-mcfeely-csm-cspo-972a203",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/megan-mcfeely-csm-cspo-972a203&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCPkBEAE",
+      "displayed_link": "830+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e3303f1ad4c3da5a0315548c17663439b.png",
+      "snippet": "Principal PM Manager @ Microsoft Security · As a legal technologist, I excel ... Microsoft. Jul 2024 - Present 9 months. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Principal PM Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Megan McFeely, CSM, CSPO"
+    },
+    {
+      "position": 61,
+      "title": "Anthony Cangialosi - Principal Group PM - Microsoft",
+      "link": "https://www.linkedin.com/in/acangialosi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/acangialosi&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCIcCEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e598f6c5049b112b03f810733567add81.png",
+      "snippet": "Principal Group PM of VS Core, Dev Box, Deployment Environments & Lab Services. Microsoft Seattle University. Seattle, Washington, United States. 1K followers ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Group PM",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anthony Cangialosi"
+    },
+    {
+      "position": 62,
+      "title": "Mani Chandrasekaran - Principal Technologist at AWS for ...",
+      "link": "https://in.linkedin.com/in/cmanikandan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/cmanikandan&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCKECEAE",
+      "displayed_link": "15.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e2b2692529ffe4d6fc22e514175299350.png",
+      "snippet": "... Architect (current) and Microsoft Certified: Azure Solutions Architect Expert. ... Solution Architect - Lead/Principal Solutions Architect. Amazon Web Services ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "current",
+        "Microsoft",
+        "Architect",
+        "Solution Architect",
+        "Principal",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Principal Technologist at AWS for India and South Asia",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mani Chandrasekaran"
+    },
+    {
+      "position": 63,
+      "title": "Michael H. - Principal Technical Specialist - Cloud Endpoint",
+      "link": "https://www.linkedin.com/in/michael-hildebrand",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-hildebrand&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCKACEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e3b8787a2a29f15fac9d7d84a1c61ed3f.png",
+      "snippet": "Principal Technical Specialist - Cloud Endpoint · Microsoft · Southern Illinois University, Edwardsville · United States · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Principal Technical Specialist",
+            "Cloud Endpoint",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michael H."
+    },
+    {
+      "position": 64,
+      "title": "Angie Wilson - Principal Technical PM Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/angie-wilson-ab422b7",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/angie-wilson-ab422b7&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJoCEAE",
+      "displayed_link": "920+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e71a42774c78edf044ac9e34fc5ca00d7.png",
+      "snippet": "Principal TPM Manager at Microsoft · 18 years in the IT security field ... Microsoft. May 2021 - Present 3 years 11 months. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Angie Wilson"
+    },
+    {
+      "position": 65,
+      "title": "Dr. Andrew C. L. - Customer Success Account Manager",
+      "link": "https://www.linkedin.com/in/dr-andrew-c-l-954130125?trk=public_profile_samename-profile",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dr-andrew-c-l-954130125%3Ftrk%3Dpublic_profile_samename-profile&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCLoCEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e851520c1223842eda00a8319237b3c3b.png",
+      "snippet": "Microsoft Principal Customer Success Account Manager | Adjunct Professor at ... Executive Customer Engagements, Maintenance & Service Support ...",
+      "snippet_highlighted_words": [
+        "Microsoft Principal",
+        "Executive"
+      ],
+      "source": "LinkedIn · Dr. Andrew C. L."
+    },
+    {
+      "position": 66,
+      "title": "ian Bearman - Principal Engineering Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/manbearian",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/manbearian&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCLcCEAE",
+      "displayed_link": "540+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e43cd3bce124c2f8ee1e4427365e40f91.png",
+      "snippet": "Principal Software Engineering Manager at Microsoft · Come work for me ... Working as an engineer and software architect while managing a small team of engineers ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "architect"
+      ],
+      "source": "LinkedIn · ian Bearman"
+    },
+    {
+      "position": 67,
+      "title": "Timothy Cashman - Principal Cloud Solution Architect",
+      "link": "https://www.linkedin.com/in/timothy-cashman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/timothy-cashman&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCLICEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ea7785163b10d74d5f7ce5185759d550a.png",
+      "snippet": "... executive leadership, and cross-functional teams. When I work with ... As a Principal Cloud Solution Architect at Microsoft, I am at the forefront ...",
+      "snippet_highlighted_words": [
+        "executive",
+        "Principal",
+        "Solution Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reston, Virginia, United States",
+            "Principal Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Timothy Cashman"
+    },
+    {
+      "position": 68,
+      "title": "Josh Leach - Senior Cloud Solutions Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/joshleach",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joshleach&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCLkCEAE",
+      "displayed_link": "170+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e7a6dc4d11692ebbc3aaf84fb257e1541.png",
+      "snippet": "Senior Cloud Solutions Architect at Microsoft · I want to make you and your ... United States Air Force. 6 years 9 months. United States Air Force ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "United States",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Denver, Colorado, United States",
+            "Senior Cloud Solutions Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Josh Leach"
+    },
+    {
+      "position": 69,
+      "title": "Nick Cosentino - Microsoft",
+      "link": "https://www.linkedin.com/in/nickcosentino",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nickcosentino&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECEYQAQ",
+      "displayed_link": "24.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e2e6b945e8869de5a92e7e01ea7e6fefd.png",
+      "snippet": "... Microsoft · University of Waterloo · Lynnwood · 500+ connections on ... Nick Cosentino. Microsoft University of Waterloo. Lynnwood, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Lynnwood, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Cosentino"
+    },
+    {
+      "position": 70,
+      "title": "Rahel E. - PRINCIPAL GROUP ENG MANAGER - Microsoft",
+      "link": "https://www.linkedin.com/in/rahel-e-13889a50",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rahel-e-13889a50&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECEcQAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e5657ef03b6c6cf11f2fe68c843d717cd.png",
+      "snippet": "PRINCIPAL GROUP ENG MANAGER at Microsoft · Architected, designed, and ... Seattle, Washington, United States. Microsoft Graphic. Principal Software ...",
+      "snippet_highlighted_words": [
+        "PRINCIPAL",
+        "Microsoft",
+        "United States",
+        "Microsoft",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "PRINCIPAL GROUP ENG MANAGER",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rahel E."
+    },
+    {
+      "position": 71,
+      "title": "Daniel Moloznik - Senior Field IT Manager at Microsoft",
+      "link": "https://www.linkedin.com/in/daniel-moloznik-a640aa14",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/daniel-moloznik-a640aa14&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECF0QAQ",
+      "displayed_link": "350+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e45683fa108927dc5b0bf3ff75d1b8ec5.png",
+      "snippet": "Kent, Washington, United States. 355 ... As a technician on the Executive support team, I help the most elite business leaders of Microsoft Corporate.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Executive",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kent, Washington, United States",
+            "Senior Field IT Manager",
+            "Executive Support Services",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Moloznik"
+    },
+    {
+      "position": 72,
+      "title": "Dave Helm - Cloud Solutions Architect, Azure - Microsoft",
+      "link": "https://www.linkedin.com/in/dave-helm-999139117",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dave-helm-999139117&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECGIQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e9b27af76e5f2514bda9fb3270cdc3086.png",
+      "snippet": "Fargo, North Dakota, United States. 1K followers 500+ connections. See your ... Microsoft Certified: Azure Solutions Architect Expert Graphic · Microsoft ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Microsoft",
+        "Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Fargo, North Dakota, United States",
+            "Cloud Solutions Architect, Azure",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dave Helm"
+    },
+    {
+      "position": 73,
+      "title": "Mustafa Suleyman - CEO, Microsoft AI",
+      "link": "https://www.linkedin.com/in/mustafa-suleyman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mustafa-suleyman&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECGUQAQ",
+      "displayed_link": "308K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e1f0a55bf0955b110c578dda360a003df.png",
+      "snippet": "Microsoft Graphic. CEO, Microsoft AI. Microsoft. Mar 2024 - Present 1 year 1 month. Redmond, Washington, United States. The Economist Graphic. Non Executive ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Executive"
+      ],
+      "source": "LinkedIn · Mustafa Suleyman"
+    },
+    {
+      "position": 74,
+      "title": "James Martin - Principal Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/james-martin-36ab855",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/james-martin-36ab855&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECGEQAQ",
+      "displayed_link": "490+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92eea99f29b863a51fcaf0ce17eb28d9c80.png",
+      "snippet": "Principal Cloud Solution Architect. Microsoft. Sep 2023 ; Sr. Customer Engineer. Microsoft. May 2018 ; Business Program Manager. Microsoft. Oct 2013 ; Sr Support ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Solution Architect",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Charlotte, North Carolina, United States",
+            "Principal Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Martin"
+    },
+    {
+      "position": 75,
+      "title": "Autumn Arbury - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/autumnarbury",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/autumnarbury&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECEkQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e50d4c479506d3b1f027955816870ee32.png",
+      "snippet": "... executive management. • Teams, teams, teams! I'm proud of my experience ... Principal Program Manager Lead at Microsoft - Business Applications Group ...",
+      "snippet_highlighted_words": [
+        "executive",
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Autumn Arbury"
+    },
+    {
+      "position": 76,
+      "title": "Sarah Bond - Microsoft",
+      "link": "https://www.linkedin.com/in/sarahrbond",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarahrbond&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECEoQAQ",
+      "displayed_link": "50.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e80f847a3d79c20cdda6b24f0b2133a7d.png",
+      "snippet": "Sarah Bond is the President of Xbox, managing the P&L for Microsoft's… · Experience: Microsoft ... United States. -. Redmond, WA. -. Greater Seattle Area. -.",
+      "snippet_highlighted_words": [
+        "Microsoft's",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Bond"
+    },
+    {
+      "position": 77,
+      "title": "Mohammad Salehi - Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/mohammad-salehi-b10a48b2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mohammad-salehi-b10a48b2&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCLIBEAE",
+      "displayed_link": "720+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ebaa76fe69b8f25fd8ca5f132f6b01c71.png",
+      "snippet": "... United States · 500+ connections on LinkedIn. View Mohammad Salehi's ... I am a Cloud Solution Architect at Microsoft, where I help customers achieve ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Solution Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mohammad Salehi"
+    },
+    {
+      "position": 78,
+      "title": "Cory Roberts - Sr Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/coryrob",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/coryrob&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJoBEAE",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e1186bb9010a3b977f1996508d5329352.png",
+      "snippet": "Experience · Sr Cloud Solution Architect. Microsoft. Jul 2022 - Present 2 years 8 months. Irving, Texas, United States · Microsoft Graphic. Sr Customer Engineer.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Cory Roberts"
+    },
+    {
+      "position": 79,
+      "title": "Ryan Stark - Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/ryanfstark",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ryanfstark&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECF8QAQ",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ef09a6f12c6a7cd9bceefb05a9c0e09e0.png",
+      "snippet": "Experience. Microsoft. 3 years 11 months · Microsoft Graphic. Cloud Solution Architect. Microsoft. Jul 2022 - Present 2 years 9 months. United States. Microsoft ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Solution Architect",
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas-Fort Worth Metroplex",
+            "Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Stark"
+    },
+    {
+      "position": 80,
+      "title": "Deb Dulin - Senior Designer - Business & Industry Copilot ...",
+      "link": "https://www.linkedin.com/in/debdulin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/debdulin&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCLMBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ecf36c3ae63f54de326924b5a92caa791.png",
+      "snippet": "Senior UX Designer at Microsoft | Executive MBA Candidate | Product Storytelling · User experience ... Supported the architect studio to verify technical details.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Executive",
+        "architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Senior Designer",
+            "Business & Industry Copilot, Executive Office",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Deb Dulin"
+    },
+    {
+      "position": 81,
+      "title": "Jamey Baumgardt - Principal Design Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/jameybaumgardt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jameybaumgardt&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECH8QAQ",
+      "displayed_link": "940+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e6103b07f8ff7ec46ac6b548abfe62c37.png",
+      "snippet": "Principal Design Manager, Microsoft Cloud for Sustainability · I'm a born ... Redmond, Washington, United States. I lead a team of UX interaction ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Design Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jamey Baumgardt"
+    },
+    {
+      "position": 82,
+      "title": "Asha Sharma - Microsoft",
+      "link": "https://www.linkedin.com/in/aboutasha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aboutasha&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECHkQAQ",
+      "displayed_link": "81.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ea17b987db670457c0dee9ac4ab14bd07.png",
+      "snippet": "Microsoft · University of Minnesota - Carlson School of Management · United States · 500+ connections on LinkedIn. View Asha Sharma's profile on LinkedIn, ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Asha Sharma"
+    },
+    {
+      "position": 83,
+      "title": "Chris Samson - Principal Customer Success Account ...",
+      "link": "https://www.linkedin.com/in/chris-samson-a694182",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chris-samson-a694182&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECHwQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e285cd94b8d27318071ca45da39e6fd58.png",
+      "snippet": "Principal Customer Success Account Manager at Microsoft (CSAM). Microsoft ... Cloud Solution Architect working in the Partner Enterprise Architecture Team.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "Solution Architect"
+      ],
+      "source": "LinkedIn · Chris Samson"
+    },
+    {
+      "position": 84,
+      "title": "Maria Kurian - Principal Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/maria-kurian",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/maria-kurian&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCMkBEAE",
+      "displayed_link": "950+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ed59e32cc6673b6a7e2967112bedf8061.png",
+      "snippet": "Principal Cloud Solution Architect at Microsoft, Health & Life Sciences Customer Success ... - Sep 2022 1 year 9 months. Sacramento, California, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Solution Architect",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Maria Kurian"
+    },
+    {
+      "position": 85,
+      "title": "Jean Hayes - Sr. Digital Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/jean-hayes-9a50b05",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jean-hayes-9a50b05&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJ4CEAE",
+      "displayed_link": "4.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ee3caac6cb47a6c31d7bff0df67fa1e70.png",
+      "snippet": "... Architect | Azure Data/AI Advocate | Microsoft Fabric Expert. Microsoft University of Wisconsin-River Falls. St Paul, Minnesota, United States ... - Present 4 ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "St Paul, Minnesota, United States",
+            "Sr. Digital Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jean Hayes"
+    },
+    {
+      "position": 86,
+      "title": "Alexandra Jayeun L. - Principal Director of Research",
+      "link": "https://www.linkedin.com/in/jayeun",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jayeun&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECHsQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92eab7eec03b4a37abff06590d00f3d87a2.png",
+      "snippet": "Alexandra Jayeun L. Research Leader. Microsoft University of California, Berkeley. Redmond, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Principal Director of Research",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexandra Jayeun L."
+    },
+    {
+      "position": 87,
+      "title": "Daniel Taylor - Sr Cloud Solution Architect Global Data & AI",
+      "link": "https://www.linkedin.com/in/danieltaylor3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danieltaylor3&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECHoQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e858824caaa49ef3e27fb61c70f4c6c69.png",
+      "snippet": "Daniel Taylor. Sr Cloud Solution Architect Global Data & AI. Microsoft University of South Florida. Brandon, Florida, United States. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Daniel Taylor"
+    },
+    {
+      "position": 88,
+      "title": "Matt Turner - Principal Quantum Hardware Engineering ...",
+      "link": "https://www.linkedin.com/in/mdturnerphys",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mdturnerphys&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCIICEAE",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92eb63d08cac1768c2e2a2fa94a7069b915.png",
+      "snippet": "Technical Physicist at Microsoft Quantum. Microsoft University of Washington. Duvall, Washington, United States. 752 followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Duvall, Washington, United States",
+            "Principal Quantum Hardware Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Turner"
+    },
+    {
+      "position": 89,
+      "title": "Nathan Green - Principal Software Engineering Manager",
+      "link": "https://www.linkedin.com/in/nathansgreen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nathansgreen&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJgBEAE",
+      "displayed_link": "600+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e9547cf0e2655d8402ee45744aee18f03.png",
+      "snippet": "Principal Software Engineering Manager at Microsoft. Microsoft Rochester Institute of Technology. Seattle, Washington, United States ... - Present 3 years 7 ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal Software Engineering Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nathan Green"
+    },
+    {
+      "position": 90,
+      "title": "Jim Banach - Architect, Security & Compliance, Microsoft ...",
+      "link": "https://www.linkedin.com/in/jrbanach",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jrbanach&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJUBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ea18eeb4f0a0617407f6c3d78e573f916.png",
+      "snippet": "Architect, Security and Compliance, Microsoft 365 Center of Excellence ... Lead Consultant / Solution Architect: Messaging and Communications. New ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Microsoft",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Buffalo-Niagara Falls Area",
+            "Architect, Security & Compliance, Microsoft 365 Center of Excellence",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jim Banach"
+    },
+    {
+      "position": 91,
+      "title": "Rohit Nayak - Principal Program Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/rohitnayak",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rohitnayak&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCJMBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e4ff7686da9321b9e2b046d3aaeb2a74e.png",
+      "snippet": "Principal Program Manager @ Microsoft | Cloud Security, Networking, Data Governance, Compliance ... Redmond, Washington, United States. 1K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Principal Program Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rohit Nayak"
+    },
+    {
+      "position": 92,
+      "title": "Sarah Scott - Director of Worldwide Customer Service ...",
+      "link": "https://www.linkedin.com/in/sarahmc2scott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarahmc2scott&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoFCM0BEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e9d44c2ffc881ce0a49b32e02e9e2dced.png",
+      "snippet": "Seattle, Washington, United States. 2K followers 500+ connections. See your ... I am a Principal PM Manager in the Microsoft Identity and Network Access ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Principal",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Director of Worldwide Customer Service Security",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Scott"
+    },
+    {
+      "position": 93,
+      "title": "Emre Kıcıman - Senior Principal Research Manager",
+      "link": "https://www.linkedin.com/in/emre-k%C4%B1c%C4%B1man-b53149",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/emre-k%25C4%25B1c%25C4%25B1man-b53149&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECCkQAQ",
+      "displayed_link": "4.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92eb1d37c968c9ba36617596f3200dd56e6.png",
+      "snippet": "Senior Principal Research Manager @ Microsoft Research | AI for Industry Team. Microsoft Research Stanford University. Seattle, Washington, United States. 5K ...",
+      "snippet_highlighted_words": [
+        "Senior Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Emre Kıcıman"
+    },
+    {
+      "position": 94,
+      "title": "Jon Baker - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/jon-baker-7bb9b63",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jon-baker-7bb9b63&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECCcQAQ",
+      "displayed_link": "670+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e1b5123a021104bb75c089d48ebf1ff4a.png",
+      "snippet": "Principal Product Manager at Microsoft. Microsoft University of Wisconsin-Platteville. Prairie du Sac, Wisconsin, United States. 672 followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Microsoft",
+        "United States"
+      ],
+      "source": "LinkedIn · Jon Baker"
+    },
+    {
+      "position": 95,
+      "title": "Daniel Zanni - Sr. Cloud Solution Architect - Microsoft",
+      "link": "https://www.linkedin.com/in/danielzanni",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danielzanni&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECC8QAQ",
+      "displayed_link": "320+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e693a70295705f659d35863934edc07e9.png",
+      "snippet": "Sr. Cloud Solution Architect · Experience: Microsoft · Education: Faculdade de Engenharia Industrial · Location: United States · 320 connections on LinkedIn ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Sr. Cloud Solution Architect",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Zanni"
+    },
+    {
+      "position": 96,
+      "title": "Ryan Cunningham - Microsoft",
+      "link": "https://www.linkedin.com/in/rycu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rycu&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECCwQAQ",
+      "displayed_link": "13K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e39219730608f7fd8cd1e7282747dbd55.png",
+      "snippet": "Experience: Microsoft · Location: United States · 500+ connections on LinkedIn. View Ryan Cunningham's profile on LinkedIn, a professional community of 1 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Cunningham"
+    },
+    {
+      "position": 97,
+      "title": "Philip Rosenfield - Principal Research Program Manager",
+      "link": "https://www.linkedin.com/in/philrosenfield",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/philrosenfield&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECCgQAQ",
+      "displayed_link": "800+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92eff657f2145f9af710a5645e2e5311227.png",
+      "snippet": "I am a Principal Research Program Manager within Microsoft Research Health Futures where I work at intersection of machine learning and biology and life ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Philip Rosenfield"
+    },
+    {
+      "position": 98,
+      "title": "Matt Barbour - Principal Platform Architect",
+      "link": "https://www.linkedin.com/in/matt-barbour-02702b1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matt-barbour-02702b1&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECCoQAQ",
+      "displayed_link": "460+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92ec9d3e358144b0372715fc4728ec3255f.png",
+      "snippet": "Principal Platform Architect – PowerPlatform (LCAP) at Microsoft. Microsoft. Snohomish, Washington, United States ... Mar 2018 - Present 7 years 1 month.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Microsoft",
+        "Microsoft",
+        "United States",
+        "Present"
+      ],
+      "source": "LinkedIn · Matt Barbour"
+    },
+    {
+      "position": 99,
+      "title": "Robert H. Murray - Principal Azure Specialist",
+      "link": "https://www.linkedin.com/in/rhmurray",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rhmurray&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECC4QAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92eaa81f2dab4dcad12f2087a8930a8be87.png",
+      "snippet": "As a Cloud Solution Architect Manager at Microsoft, I was responsible for leading and developing a team of Cloud Solution Architects (CSA) in the adoption, ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Principal Azure Specialist",
+            "Space & Energy",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert H. Murray"
+    },
+    {
+      "position": 100,
+      "title": "Divyachapan Padur - Principal Product Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/dcpadur",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dcpadur&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQFnoECCsQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf91f1180fb5358158c68/images/8ddd12f546fd6fbd5797737306f4b92e781199049b45a412cf693f29b4a6bfc5.png",
+      "snippet": "I am a Principal Product Manager in the Microsoft SharePoint team working on Viva Connections - a completely ... I was elected to be a Member of the Executive ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Microsoft",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Principal Product Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Divyachapan Padur"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=IPndZ_jvEezl1e8PkaTysQQ&start=100&sa=N&sstk=Af40H4Wmwjp1WQ6VgRoZY35fZpAH8Fwqn39_cRYrPUlmFNc2dyP33qjZzVazXXywvvIAUwHtL58AjuhAXFXvASQTy80lDP1u-NHdWA&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQ8NMDegQIBxAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=IPndZ_jvEezl1e8PkaTysQQ&start=100&sa=N&sstk=Af40H4Wmwjp1WQ6VgRoZY35fZpAH8Fwqn39_cRYrPUlmFNc2dyP33qjZzVazXXywvvIAUwHtL58AjuhAXFXvASQTy80lDP1u-NHdWA&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQ8tMDegQIBxAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=IPndZ_jvEezl1e8PkaTysQQ&start=200&sa=N&sstk=Af40H4Wmwjp1WQ6VgRoZY35fZpAH8Fwqn39_cRYrPUlmFNc2dyP33qjZzVazXXywvvIAUwHtL58AjuhAXFXvASQTy80lDP1u-NHdWA&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQ8tMDegQIBxAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=IPndZ_jvEezl1e8PkaTysQQ&start=300&sa=N&sstk=Af40H4Wmwjp1WQ6VgRoZY35fZpAH8Fwqn39_cRYrPUlmFNc2dyP33qjZzVazXXywvvIAUwHtL58AjuhAXFXvASQTy80lDP1u-NHdWA&ved=2ahUKEwj4__PUrJyMAxXscvUHHRGSPEYQ8tMDegQIBxAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=300"
+    }
+  }
+}

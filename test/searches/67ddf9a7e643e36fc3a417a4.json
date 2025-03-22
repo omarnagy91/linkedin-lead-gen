@@ -1,0 +1,2328 @@
+{
+  "search_metadata": {
+    "id": "67ddf9a7e643e36fc3a417a4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/56ded2234b9cd2c5/67ddf9a7e643e36fc3a417a4.json",
+    "created_at": "2025-03-21 23:43:35 UTC",
+    "processed_at": "2025-03-21 23:43:35 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/56ded2234b9cd2c5/67ddf9a7e643e36fc3a417a4.html",
+    "total_time_taken": 15.89
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"United States\" AND (current OR present) AND (\"Associate Vice President\" OR \"AVP\" OR \"Partner\" OR \"Senior Partner\" OR \"Managing Partner\" OR \"Principal\" OR \"Founding Partner\" OR \"Associate Partner\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"United States\" AND (current OR present) AND (\"Associate Vice President\" OR \"AVP\" OR \"Partner\" OR \"Senior Partner\" OR \"Managing Partner\" OR \"Principal\" OR \"Founding Partner\" OR \"Associate Partner\")",
+    "total_results": 183000000,
+    "time_taken_displayed": 0.63,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://www.linkedin.com/in/michael-carney-google",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJwus9u-nBIS8kgh6xK032A_HiWCFgbSzeCnSDIGkyK2uh7gZgTtYnyPc&s",
+      "original": "https://media.licdn.com/dms/image/v2/C5603AQHsFJ1iAvWFUQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1654723295748?e=2147483647&v=beta&t=V9KhjhBB_E8Gt4Ys7gL6dvcJWXBU6N5qanjoeGqqu48",
+      "title": "Michael Carney - Venture Capital & Private Equity Partner ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/lauren-bell-0a4973187",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReLyWPrCvEP7_sZRH4TIlYQMa16v5vpX7-IS6BqX77kZtivjeKsqLkrMs&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5603AQEj1sSqRME33Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1712780767071?e=2147483647&v=beta&t=RajMciWeSeA2iOxkijq8vxN_eV4q4xvrmleifJDFegI",
+      "title": "Lauren Bell - Administrative Business Partner - Google ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/julie-rivera",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDdBdjAKzvp680RqBSqHznXj7iZOrkca-rgqVchNa70V5V34K5-H29_lA&s",
+      "original": "https://media.licdn.com/dms/image/v2/C5603AQGnFlmajw8K7g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1651768412733?e=2147483647&v=beta&t=phADvx2t81zyTVa5TbK8oVATwKau_ZSBV0Lwz6RJqLQ",
+      "title": "Julie Rivera - Account Manager, Apps Top Partner - Google ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/deepak-kulkarni-2098225",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNA7f4wdEi62Nha9St3okgIFV0ccGYy4X3Sy_yn1HU0iO-Szu9m8Bc7Hw&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4D03AQHu_HwC1XJHkw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1602149659438?e=2147483647&v=beta&t=e1ZegnfjieitwaHUqFJRONeidHYC6_Z0_yAO5yIdC0k",
+      "title": "Deepak Kulkarni - People Partner- Google Cloud - Google ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/lauren-sparandara",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxJ3S7r42ksh3n3-YI_7-2qTkvURBL_jPHkt_NYyioN8QQmoZZyLe68U&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4E03AQE35m8HeuxNlg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517705024857?e=2147483647&v=beta&t=PM4ISNZKhkUq2Ef972C2zyPE_k17rYNDay7i4mfIE-o",
+      "title": "Lauren Sparandara - REWS Sustainability Partner - Bay Area ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/kimberlycianci",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-K0CU0Rl3d4Lw2AGVyGEjjfS0raL-WlpTT2ITPYkRs8ZzcBeKYZho3ZQ&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4E03AQG0NOpBJyh69g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1517662938988?e=2147483647&v=beta&t=w6f2r4_URG5sWO6K7bhuWyE1mIcaX_iD24yhfrYvaCo",
+      "title": "Kimberly Cianci - Partner Enablement Manager, Android Auto ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/sguzy",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrks03ZLGO-ksASvGobNxe-ihEsxU1daFocFcR8Syw14MEiks7jxGY91Q&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4D03AQFL1Mah1w5cFw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516994296155?e=2147483647&v=beta&t=-0Dttk9P6JoaEWjWJnvZbTsLzuursbx6YR28JwYQMdo",
+      "title": "Sarah Guzy - Executive Business Partner - Google | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/andre-walker-upshur",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI_J4avcZRJry10c23CFziMj3r7Jc0Em4aB9ZvqaVhbjaZKO_HXhik1VY&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5603AQGzgDbkyDoeFg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1727572320054?e=2147483647&v=beta&t=ZcFyKz937Yu1VuZeJFTttppmuqhEtJ9QltJRhLKWQbE",
+      "title": "Andre Walker-Upshur - Senior Principal, Data Analytics ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/martinjosegonzalez",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfTny47b5GVabil7d1M49CtAazPEVeeJWIUKB_3KjHgVFs3tiLRqrKF8I&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5603AQHBowcb-8VqTA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1701841994250?e=2147483647&v=beta&t=EogOmggitQuplWWIcWHpDHCuHSdSAmEUew3gserhvTY",
+      "title": "Martin Gonzalez - Org Design and Development Lead - Google ...",
+      "source_name": "LinkedIn"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Bikash Koley - Google",
+      "link": "https://www.linkedin.com/in/bkoley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bkoley&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECCMQAQ",
+      "displayed_link": "19.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e2f74ea3abbc420cd2708837bc8f7b53e.png",
+      "snippet": "... Bikash oversees the global… Experience. Google Graphic · Google. Sunnyvale, California, United States. -. -. -. San Francisco Bay Area. -. Mountain View, CA. - ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bikash Koley"
+    },
+    {
+      "position": 2,
+      "title": "Melonie Parker - Vice President, Googler Engagement",
+      "link": "https://www.linkedin.com/in/melonieparker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/melonieparker&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECBgQAQ",
+      "displayed_link": "195.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ecd10e45a2d093c243eb5882dd56d7b47.png",
+      "snippet": "... Partner, Employee Relations, EEO. Focused on solving enterprise and ... California, United States. Lead engagement at Google, driving a sense of purpose ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "United States",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Vice President, Googler Engagement",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Melonie Parker"
+    },
+    {
+      "position": 3,
+      "title": "Mark Lohmeyer - Google",
+      "link": "https://www.linkedin.com/in/marklohmeyer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marklohmeyer&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECBoQAQ",
+      "displayed_link": "5.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ed2d62939cada21b52542eae38c581767.png",
+      "snippet": "Mark Lohmeyer. Google Massachusetts Institute of Technology. Palo Alto, California, United States. 6K followers ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Palo Alto, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Lohmeyer"
+    },
+    {
+      "position": 4,
+      "title": "Kent Walker - Google",
+      "link": "https://www.linkedin.com/in/kent-walker-5963bb198",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kent-walker-5963bb198&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECCEQAQ",
+      "displayed_link": "23.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e6aa2a69b1f2d412e570d6c387ebcddc1.png",
+      "snippet": "Kent Walker. Google Stanford Law School. Mountain View, California, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or.",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kent Walker"
+    },
+    {
+      "position": 5,
+      "title": "Kelly Smith - Principal, Strategic Missions and Partnerships",
+      "link": "https://www.linkedin.com/in/thekellysmith",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/thekellysmith&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECBcQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ebd6c41381dd461a86d1e4fd224436daf.png",
+      "snippet": "Principal, Google Cloud | Connecting People and Ideas to Achieve Extraordinary Results. Google The University of Georgia. Atlanta, Georgia, United States. 2K ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta, Georgia, United States",
+            "Principal, Strategic Missions and Partnerships",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kelly Smith"
+    },
+    {
+      "position": 6,
+      "title": "Martin Gonzalez - Org Design and Development Lead",
+      "link": "https://www.linkedin.com/in/martinjosegonzalez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/martinjosegonzalez&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECBwQAQ",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e6413fba13791755ff8ba11e0ef50b71c.png",
+      "snippet": "Principal, AI Talent Development. Google. 2022 - 2023 1 year. Mountain View, California, United States.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "United States"
+      ],
+      "source": "LinkedIn · Martin Gonzalez"
+    },
+    {
+      "position": 7,
+      "title": "Megan J Smith - shift7",
+      "link": "https://www.linkedin.com/in/msmith21",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/msmith21&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECCoQAQ",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ed67dc4c268c8b697d57814387e1f7f58.png",
+      "snippet": "Megan J Smith. shift7 Massachusetts Institute of Technology. Washington, District of Columbia, United States ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "shift7"
+          ]
+        }
+      },
+      "source": "LinkedIn · Megan J Smith"
+    },
+    {
+      "position": 8,
+      "title": "Yulie Kwon Kim - Google",
+      "link": "https://www.linkedin.com/in/yulie",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/yulie&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCOUBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e88b4d7751b738e5e977ece99eacd4a23.png",
+      "snippet": "Yulie Kwon Kim. Google Stanford University. Mountain View, California, United States. 3K followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Yulie Kwon Kim"
+    },
+    {
+      "position": 9,
+      "title": "Katryn Ellis - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/katryn-ellis-a429b928",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katryn-ellis-a429b928&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJEBEAE",
+      "displayed_link": "440+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e96c7d059a90b756cace324fac8b5bc54.png",
+      "snippet": "Katryn Ellis. Administrative Business Partner at Google. Google The George Washington University. Santa Clara, California, United States. 443 followers 441 ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Santa Clara, California, United States",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katryn Ellis"
+    },
+    {
+      "position": 10,
+      "title": "Alexandra Stacey - Associate Principal, Business ...",
+      "link": "https://www.linkedin.com/in/alexandra-stacey-43832a92",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alexandra-stacey-43832a92&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCMcBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e28b2b91876228dc5816bd0b9b4eb5546.png",
+      "snippet": "Experience · Google Graphic. Associate Principal, Business Operations and Strategy (BizOps). Google. Apr 2024 - Present 1 year. Chicago, Illinois, United States.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Principal",
+        "Google",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chicago, Illinois, United States",
+            "Associate Principal, Business Operations and Strategy (BizOps)",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexandra Stacey"
+    },
+    {
+      "position": 11,
+      "title": "Anish Kattukaran - Google",
+      "link": "https://www.linkedin.com/in/anishkattukaran",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/anishkattukaran&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCOgBEAE",
+      "displayed_link": "9.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e56b09263b22cae3445f85860532039cc.png",
+      "snippet": "Anish Kattukaran. Google University of Pennsylvania - The Wharton School. San Francisco, California, United States ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Anish Kattukaran"
+    },
+    {
+      "position": 12,
+      "title": "Philipp Schindler - Google",
+      "link": "https://www.linkedin.com/in/philipp-schindler-12531a94",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/philipp-schindler-12531a94&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJYCEAE",
+      "displayed_link": "20.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e8ae8b2a9bda22aad0ed71e64a5e493ab.png",
+      "snippet": "Philipp Schindler, Google, European Business School Oestrich-Winkel, About, Chief Business Officer at Google. Eat, sleep, & breathe customer & partner success.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Philipp Schindler"
+    },
+    {
+      "position": 13,
+      "title": "Ryan Germick - Google",
+      "link": "https://www.linkedin.com/in/ryangermick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ryangermick&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECCkQAQ",
+      "displayed_link": "4.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3eb0fda0682dff3632ca867816e96d98a2.png",
+      "snippet": "Ryan Germick. Google Parsons School of Design. Mountain View, California, United States ... Continue with GoogleContinue with Google. New to LinkedIn? Join ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Germick"
+    },
+    {
+      "position": 14,
+      "title": "Thomas Kurian - Google",
+      "link": "https://www.linkedin.com/in/thomas-kurian-469b6219",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/thomas-kurian-469b6219&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECGEQAQ",
+      "displayed_link": "120K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e5ef9cb95d83754126204e335764145f5.png",
+      "snippet": "Thomas Kurian. Google Stanford University Graduate School of Business. Atherton, California, United States ... Continue with GoogleContinue with Google. New ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atherton, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Kurian"
+    },
+    {
+      "position": 15,
+      "title": "Rachel Seidman - Head of Commerce - Google",
+      "link": "https://www.linkedin.com/in/rachelseidman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rachelseidman&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJMBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ed84754253e12bf977685c4fcba7da3c1.png",
+      "snippet": "Head of Commerce. Google Saïd Business School, University of Oxford. San Francisco, California, United States ... She was a key partner of mine while I was ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States",
+        "partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Head of Commerce",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rachel Seidman"
+    },
+    {
+      "position": 16,
+      "title": "Ryan Watson - Global Partnerships Lead - Audiences & 1P ...",
+      "link": "https://www.linkedin.com/in/ryancwatson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ryancwatson&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCM0BEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e9746b92fac9f451a28da2df3bb5318e2.png",
+      "snippet": "Ryan Watson. Strategic Partnerships @ Google. Google Seattle University School of Law. Kirkland, Washington, United States.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Global Partnerships Lead",
+            "Audiences & 1P Data",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Watson"
+    },
+    {
+      "position": 17,
+      "title": "Vanessa Carvajal - Business Development Lead at Google",
+      "link": "https://www.linkedin.com/in/vanessamcarvajal",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vanessamcarvajal&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCOMBEAE",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e8fbc80104b68c48eae6aad9af35624df.png",
+      "snippet": "Business Development Lead at Google. Google UCLA Anderson School of Management. San Francisco, California, United States ... Strategic Partner Development Manager.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Strategic Partner Development Lead, Global Ads Partnerships",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vanessa Carvajal"
+    },
+    {
+      "position": 18,
+      "title": "Jennifer Nguyen - Executive Business Partner - Google",
+      "link": "https://www.linkedin.com/in/jennguyen15",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jennguyen15&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCP4BEAE",
+      "displayed_link": "500+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ea0aedfc6afb0eee05f50ecce72e0b224.png",
+      "snippet": "Jennifer Nguyen. Executive Business Partner at Google. Google Chapman University. Mountain View, California, United States.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Executive Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jennifer Nguyen"
+    },
+    {
+      "position": 19,
+      "title": "Daniel Juyung Seo - Senior Staff Partner Engineering ...",
+      "link": "https://www.linkedin.com/in/seoz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/seoz&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJQCEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ed57518595d1f0ca59d335b95b0249150.png",
+      "snippet": "Senior Staff Partner Engineering Manager (글로벌 팀장), YouTube, Google. Google. May 2024 - Present 11 months. San Bruno, California, United States.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Senior Staff Partner Engineering Manager (글로벌 팀장), YouTube, Google",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Juyung Seo"
+    },
+    {
+      "position": 20,
+      "title": "Lilian Huynh - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/lhuynh13",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lhuynh13&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCLACEAE",
+      "displayed_link": "380+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e7372003472c51ab3d319d59e9ef5bda8.png",
+      "snippet": "Administrative Business Partner at Google · Experience: Google ... San Jose, California, United States. PwC Graphic. Administrative ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lilian Huynh"
+    },
+    {
+      "position": 21,
+      "title": "Claire Jiang - Strategic Partner Manager - Google",
+      "link": "https://www.linkedin.com/in/jiangclaire",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jiangclaire&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCOEBEAE",
+      "displayed_link": "650+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e0effd07238122ae8d53d7a7bb575e9a2.png",
+      "snippet": "Google. Apr 2021 - Present 4 years. Mountain View, California, United States. Strategic Partner Manager for Google Channel Partners & North America Business ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Present",
+        "United States",
+        "Partner",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Strategic Partner Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Claire Jiang"
+    },
+    {
+      "position": 22,
+      "title": "Lauren Harms - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/lharms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lharms&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECEgQAQ",
+      "displayed_link": "200+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3eb20d1dc38d2b1e681eeb2b7fea2a9de3.png",
+      "snippet": "Lauren Harms. Administrative Business Partner. Google University of Illinois at Urbana-Champaign. United States.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lauren Harms"
+    },
+    {
+      "position": 23,
+      "title": "Jacqueline Wong - Administrative Business Partner ...",
+      "link": "https://www.linkedin.com/in/jacqueline-wong-bba27029?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jacqueline-wong-bba27029%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECGIQAQ",
+      "displayed_link": "510+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e4357e29073fa8d94c522f8e17244e26a.png",
+      "snippet": "Experience · Google Graphic. Administrative Business Partner. Google. Mar 2022 - Mar 2023 1 year 1 month. United States · Google Graphic. Project Manager Virtual ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Partner",
+        "Google",
+        "United States",
+        "Google"
+      ],
+      "source": "LinkedIn · Jacqueline Wong"
+    },
+    {
+      "position": 24,
+      "title": "Jyotika Kapur - Associate Principal - GenAI - Google",
+      "link": "https://www.linkedin.com/in/jyotika-kapur-b1890874",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jyotika-kapur-b1890874&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECH8QAQ",
+      "displayed_link": "870+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e8aad6a03bd70da1842b6046aaaab2722.png",
+      "snippet": "Associate Principal - GenAI. Google. Apr 2022 - Present 3 years. Sunnyvale, California, United States. Google Graphic. Associate Principal - Google Assistant.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Present",
+        "United States",
+        "Google",
+        "Principal",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Associate Principal",
+            "GenAI",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jyotika Kapur"
+    },
+    {
+      "position": 25,
+      "title": "Lex Lazar - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/alexiaslazar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/alexiaslazar&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJkBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3edbdb1eb566ae41c922b34d7e24d069a6.png",
+      "snippet": "I'm Lex Lazar an Administrative Business Partner (ABP) for Google ... As an ABP, I manage the workflows of three Google executives across the United States and ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sacramento, California, United States",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lex Lazar"
+    },
+    {
+      "position": 26,
+      "title": "KJ Sidberry - Partner - GV (Google Ventures)",
+      "link": "https://www.linkedin.com/in/kjsid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kjsid&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCKwBEAE",
+      "displayed_link": "4.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e31586889ecadd944ce6abbd161023c80.png",
+      "snippet": "Experience. GV (Google Ventures) Graphic. Partner. GV (Google Ventures). 2023 - Present 2 years. New York, United States. Forerunner Graphic. Principal.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Partner",
+        "Google",
+        "Present",
+        "United States",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Partner",
+            "GV (Google Ventures)"
+          ]
+        }
+      },
+      "source": "LinkedIn · KJ Sidberry"
+    },
+    {
+      "position": 27,
+      "title": "Rachel Roca - Lead People Partner - Google",
+      "link": "https://www.linkedin.com/in/rachel-roca-860b5b10",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rachel-roca-860b5b10&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCMkBEAE",
+      "displayed_link": "610+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e154a34b176ee75022b2a1de02fb23cfd.png",
+      "snippet": "Lead People Partner at Google | SPHR, MCIPD · Experience: Google · Education ... New York, New York, United States. 619 followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Lead People Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rachel Roca"
+    },
+    {
+      "position": 28,
+      "title": "Brynden S. - Executive Business Partner - Google",
+      "link": "https://www.linkedin.com/in/bryndenstudley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bryndenstudley&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCOQBEAE",
+      "displayed_link": "920+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3eb48f78b9bf346777e3a40b6475d97db8.png",
+      "snippet": "Brynden S. Executive Business Partner @ Google. Google San Francisco State University. San Francisco, California, United States. 924 followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Executive Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brynden S."
+    },
+    {
+      "position": 29,
+      "title": "Georges Nabaa - Head of Partner Engineering, Google ...",
+      "link": "https://www.linkedin.com/in/georges-nabaa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/georges-nabaa&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCOIBEAE",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e4868c0cf2368e3ba5bec913c0c309403.png",
+      "snippet": "Georges Nabaa. Head of Partner Engineering, Google Assistant & Gemini. Google. Mountain View, California, United States.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "source": "LinkedIn · Georges Nabaa"
+    },
+    {
+      "position": 30,
+      "title": "Kate Peters - Partner Officer - Google",
+      "link": "https://www.linkedin.com/in/kate-peters-6200b85b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kate-peters-6200b85b&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCP0BEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e038013f8d5df01f719d5a6943f104f81.png",
+      "snippet": "Partner Officer at Google. Google Stanford University Graduate School of Business. Satellite Beach, Florida, United States ... Jan 2024 - Present 1 year 3 months.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Satellite Beach, Florida, United States",
+            "Partner Officer",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kate Peters"
+    },
+    {
+      "position": 31,
+      "title": "Michelle Olivier - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/michelle-olivier-6b6131140",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michelle-olivier-6b6131140&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCIkCEAE",
+      "displayed_link": "490+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e842560fd4953a5a643cdcabff7c084a4.png",
+      "snippet": "Michelle Olivier. Administrative Business Partner at Google. Google Azusa Pacific University. Anaheim, California, United States. 499 followers 499 connections.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Anaheim, California, United States",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michelle Olivier"
+    },
+    {
+      "position": 32,
+      "title": "Jennifer Sulon - Executive Business Partner - Google",
+      "link": "https://www.linkedin.com/in/jennifersulon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jennifersulon&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCIQCEAE",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e45598355709f763140fce596b72589ed.png",
+      "snippet": "Executive Business Partner, Google, Apr 2016 - Present 9 years, Mountain View, California, United States.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Executive Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jennifer Sulon"
+    },
+    {
+      "position": 33,
+      "title": "MacKenna Gomez - Strategic Partner Development ...",
+      "link": "https://www.linkedin.com/in/mackenna-e-gomez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mackenna-e-gomez&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJ4CEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e818d07c9b82166383907212595061ca9.png",
+      "snippet": "Partner Development Associate - Google Fi at Google · Experience: Google ... Principal Engineer, and a Director of Partner Engineering. The Wonderful ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "Google",
+        "Principal",
+        "Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Strategic Partner Development Associate, Google Fi",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · MacKenna Gomez"
+    },
+    {
+      "position": 34,
+      "title": "Luna Schmid - GV (Google Ventures)",
+      "link": "https://uk.linkedin.com/in/lunaschmid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lunaschmid&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCKACEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e93036d2a3c4f6be3d2130e54f33ffa4c.png",
+      "snippet": "Experience: GV (Google Ventures) Graphic, GV (Google Ventures) London, England, United Kingdom - Menlo Park, California, United States - San Carlos, California",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "GV (Google Ventures)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Luna Schmid"
+    },
+    {
+      "position": 35,
+      "title": "Lauren Bell - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/lauren-bell-0a4973187",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lauren-bell-0a4973187&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCLMCEAE",
+      "displayed_link": "140+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e52ff299e36e23b03cec636b8498cb529.png",
+      "snippet": "Lauren Bell. Administrative Business Partner P&D Marketing. Google California State University, Chico. Napa, California, United States. 149 followers 144 ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Napa, California, United States",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lauren Bell"
+    },
+    {
+      "position": 36,
+      "title": "Erin McCune - Expert Partner - Bain & Company",
+      "link": "https://www.linkedin.com/in/erinmccune",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/erinmccune&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCLsCEAE",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e308d4be08cf1c9ccfbb811a588a16c16.png",
+      "snippet": "San Francisco, California, United States. 7K followers 500+ connections. See your ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Expert Partner",
+            "Bain & Company"
+          ]
+        }
+      },
+      "source": "LinkedIn · Erin McCune"
+    },
+    {
+      "position": 37,
+      "title": "Andy Miller - Finance Director, Google Cloud Services & ...",
+      "link": "https://www.linkedin.com/in/andrmill",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrmill&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECC8QAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ee246a641056446c92f1296d897919341.png",
+      "snippet": "Finance Director, Google Cloud Services & Partner. Google Indiana University - Kelley School of Business. Seattle, Washington, United States. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Partner",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Finance Director, Google Cloud Services & Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andy Miller"
+    },
+    {
+      "position": 38,
+      "title": "Gina Johal - Executive Business Partner - Google",
+      "link": "https://www.linkedin.com/in/gina-johal-73633578",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gina-johal-73633578&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECEMQAQ",
+      "displayed_link": "290+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e498e4076257431f0b34cec5a233372f5.png",
+      "snippet": "Executive Business Partner at Google · Experience: Google · Location: United States · 288 connections on LinkedIn ... Jun 2021 - Present 3 years 10 months.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Executive Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gina Johal"
+    },
+    {
+      "position": 39,
+      "title": "Janekka M. - Administrative Business Partner",
+      "link": "https://www.linkedin.com/in/janekka-martin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/janekka-martin&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECEoQAQ",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e7b463f4048355a28b4b59b9261577d85.png",
+      "snippet": "Janekka M. YouTube Marketing. Google Saint Mary's College of California. Port Washington, New York, United States ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Port Washington, New York, United States",
+            "Administrative Business Partner",
+            "YouTube Marketing",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Janekka M."
+    },
+    {
+      "position": 40,
+      "title": "Trevor M. Cole - Partner Engagement Manager - Google",
+      "link": "https://www.linkedin.com/in/trevorcole707",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/trevorcole707&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECF0QAQ",
+      "displayed_link": "620+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e8063357b5090e6e897d521cfffc6469b.png",
+      "snippet": "Experience. Google Graphic. Partner Engagement Manager. Google. Nov 2021 - Present 3 years 5 months. Mountain View, California, United States ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Partner",
+        "Google",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Partner Engagement Manager",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Trevor M. Cole"
+    },
+    {
+      "position": 41,
+      "title": "Matthew Bennett - Google Cloud | Partner Ecosystem",
+      "link": "https://www.linkedin.com/in/orbiteramb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/orbiteramb&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECGMQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e069b6576312888c016f4875049b6b0fa.png",
+      "snippet": "Google Cloud | Partner Ecosystem | Cloud Commerce. Google University of Washington. Los Angeles County, California, United States. 1K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Partner",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles County, California, United States",
+            "Google Cloud | Partner Ecosystem | Cloud Commerce",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthew Bennett"
+    },
+    {
+      "position": 42,
+      "title": "Balachandar K. - Principal Software Engineer / Director",
+      "link": "https://www.linkedin.com/in/balachandar-k-362a3918",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/balachandar-k-362a3918&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECHgQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e9a320491f771d687f6f91fbc2f3f8755.png",
+      "snippet": "Principal Software Engineer / Director at Google. Google Georgia Institute of Technology. Sunnyvale, California, United States. 1K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sunnyvale, California, United States",
+            "Principal Software Engineer / Director",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Balachandar K."
+    },
+    {
+      "position": 43,
+      "title": "Jake Conley - Principal Strategic Agency Lead - Google",
+      "link": "https://www.linkedin.com/in/jake-conley-92397069",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jake-conley-92397069&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCIABEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e99db3e9ee2abb9df888954e1e58a17c2.png",
+      "snippet": "New York, New York, United States. Google Graphic. Senior Strategic Agency Manager. Google. Apr 2023 - Nov 2024 1 year 8 months. New York, New York, United ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Principal Strategic Agency Lead",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jake Conley"
+    },
+    {
+      "position": 44,
+      "title": "Frank S. - Principal Consultant - Google",
+      "link": "https://www.linkedin.com/in/frank-s-252456122",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/frank-s-252456122&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCIEBEAE",
+      "displayed_link": "450+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ed84ed315f85b52cd1015c7d3d093cb10.png",
+      "snippet": "Principal Managed Defense Consultant at Google Cloud. Google Southern Methodist University. United States. 455 followers 385 connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Principal Consultant",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Frank S."
+    },
+    {
+      "position": 45,
+      "title": "Maureen Martin - People Partner - Google",
+      "link": "https://www.linkedin.com/in/maureenemartin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/maureenemartin&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJoBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ede133e1b0cf5d41174d633e4f518b7e2.png",
+      "snippet": "HR Business Partner at Google. Google Cornell University. Denver, Colorado, United States. 1K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Denver, Colorado, United States",
+            "People Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Maureen Martin"
+    },
+    {
+      "position": 46,
+      "title": "Noreen Hill - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/noreennhill",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/noreennhill&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCKUBEAE",
+      "displayed_link": "630+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e371f9821e0659950f7a32e9cd6a7dd07.png",
+      "snippet": "Administrative Business Partner at Google · Experience: Google · Education: California State University - East Bay · Location: United States · 500+ ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Noreen Hill"
+    },
+    {
+      "position": 47,
+      "title": "Brittani W. - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/brittaniw",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brittaniw&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCK4BEAE",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e4506ead0f5338324c6d3f0ecdf4c8d7e.png",
+      "snippet": "PMP Certified Administrative Business Partner at Google | Skilled in Program ... New York, New York, United States. 913 followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brittani W."
+    },
+    {
+      "position": 48,
+      "title": "Catalin Vieru - Google",
+      "link": "https://www.linkedin.com/in/catalin-vieru",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/catalin-vieru&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCLQBEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3eb64b0de7b2173906cb1c60fe17e8d9d0.png",
+      "snippet": "GenAI Principal Architect for Strategic Accounts at Google • Chief Architect and… · Experience: Google · Location: United States · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Catalin Vieru"
+    },
+    {
+      "position": 49,
+      "title": "Meagan Horvath - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/meaghorvath",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/meaghorvath&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCMgBEAE",
+      "displayed_link": "440+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e4a6dd528eb8a9e5650605708120d06ca.png",
+      "snippet": "Administrative Business Partner. Google University of San Francisco. San Francisco, California, United States. 443 followers 448 connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Meagan Horvath"
+    },
+    {
+      "position": 50,
+      "title": "Billy Nguyen - Certified Google Partner - The East Bay Group",
+      "link": "https://www.linkedin.com/in/billynguyen92",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/billynguyen92&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCMoBEAE",
+      "displayed_link": "4.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e13b93481689ab6fc2fd53dc3982aa5ab.png",
+      "snippet": "Billy Nguyen - Certified Google Partner. The East Bay Group. Orange County, California, United States. 5K followers 500 ...",
+      "snippet_highlighted_words": [
+        "Google Partner",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Orange County, California, United States",
+            "The East Bay Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Billy Nguyen - Certified Google Partner"
+    },
+    {
+      "position": 51,
+      "title": "Helen (Xianzhi) Wang - Principal Data Scientist, Search ...",
+      "link": "https://www.linkedin.com/in/helen-xianzhi-wang-71226513",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/helen-xianzhi-wang-71226513&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCN4BEAE",
+      "displayed_link": "590+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e81bea79b44bbcd85d7c8ce2fe9f6cb82.png",
+      "snippet": "Director of Data Science at Google · Experience: Google · Location: United States · 449 connections on LinkedIn ... Principal Data Scientist, Search Platforms.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Principal Data Scientist, Search Platforms",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Helen (Xianzhi) Wang"
+    },
+    {
+      "position": 52,
+      "title": "Diana Orozco - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/dianaorozcosf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dianaorozcosf&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECCwQAQ",
+      "displayed_link": "920+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e966175568759258393b920678f372840.png",
+      "snippet": "Administrative Business Partner at Google. Google San Francisco State University. San Francisco, California, United States. 922 followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Diana Orozco"
+    },
+    {
+      "position": 53,
+      "title": "Samuel Stanton - Principal Machine Learning Scientist",
+      "link": "https://www.linkedin.com/in/samuel-stanton-06004997",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/samuel-stanton-06004997&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCOcBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e4216696d62739c32f4601ba1f0176b80.png",
+      "snippet": "United States Department of Defense. May 2017 - Aug 2017 4 months. San Antonio, TX ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Principal Machine Learning Scientist",
+            "Genentech"
+          ]
+        }
+      },
+      "source": "LinkedIn · Samuel Stanton"
+    },
+    {
+      "position": 54,
+      "title": "Andrew Juel - Senior Real Estate Business Partner - Google",
+      "link": "https://www.linkedin.com/in/andrew-juel-73a75143",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andrew-juel-73a75143&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCOYBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e8ca8f1f88abb896f1195e81016345b27.png",
+      "snippet": "Mountain View, California, United States. 1K followers 500+ connections ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Senior Real Estate Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Juel"
+    },
+    {
+      "position": 55,
+      "title": "Codie A. Sanchez - Founder - Investor - Writer",
+      "link": "https://www.linkedin.com/in/codiesanchez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/codiesanchez&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCPkBEAE",
+      "displayed_link": "441.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e46b51be127c7dc94435c1191498443df.png",
+      "snippet": "... Partner at the largest cannabis private equity firms. Then, candidly, I ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Codie A. Sanchez"
+    },
+    {
+      "position": 56,
+      "title": "Brian Wong - General Partner - Ascii Ventures",
+      "link": "https://www.linkedin.com/in/wongbrian",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/wongbrian&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCP8BEAE",
+      "displayed_link": "673.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3eb1ad14ff0c1c2089573aab7634b1a3fb.png",
+      "snippet": "Aug 2024 - Present 8 months. New York, New York, United States. BW Growth Ventures Graphic. Managing Partner. BW Growth Ventures. Sep 2019 - Present 5 years 7 ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United States",
+        "Managing Partner",
+        "Present"
+      ],
+      "source": "LinkedIn · Brian Wong"
+    },
+    {
+      "position": 57,
+      "title": "Bob Sternfels - Global Managing Partner - McKinsey & ...",
+      "link": "https://www.linkedin.com/in/bob-sternfels",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bob-sternfels&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCPsBEAE",
+      "displayed_link": "67.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3edfd2b32e1f919d6027609e532b23f096.png",
+      "snippet": "Global Managing Partner at McKinsey & Company · As global managing partner ... Senior Partner. McKinsey & Company. Sep 1994 - Present 30 years 7 months. San ...",
+      "snippet_highlighted_words": [
+        "Managing Partner",
+        "managing partner",
+        "Senior Partner",
+        "Present"
+      ],
+      "source": "LinkedIn · Bob Sternfels"
+    },
+    {
+      "position": 58,
+      "title": "Matthew McDonnell - Managing Partner - Current Energy ...",
+      "link": "https://www.linkedin.com/in/matthewtmcdonnell",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matthewtmcdonnell&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCIMCEAE",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e671d57eba21c741f37640175230f7ad0.png",
+      "snippet": "Experience. Current Energy Group Graphic. Managing Partner. Current Energy Group. Jul 2024 - Present 9 months. Tucson, Arizona, United States. Strategen.",
+      "snippet_highlighted_words": [
+        "Current",
+        "Managing Partner",
+        "Current",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Matthew McDonnell"
+    },
+    {
+      "position": 59,
+      "title": "Liana Potoglou - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/liana-potoglou-97b644117",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/liana-potoglou-97b644117&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCIgCEAE",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3eef4134e83b9c4f8cfd324bc74baa2a48.png",
+      "snippet": "Administrative Business Partner at Google. Google University of Arizona. San Francisco, California, United States. 760 followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Liana Potoglou"
+    },
+    {
+      "position": 60,
+      "title": "Deepak Kulkarni - People Partner- Google Cloud",
+      "link": "https://www.linkedin.com/in/deepak-kulkarni-2098225",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/deepak-kulkarni-2098225&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJUCEAE",
+      "displayed_link": "7.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e9e73095b3294d45df89091fd9690b36c.png",
+      "snippet": "People Partner- Google Cloud · HR Head · India HR Head & Principal HRBP · Director HR · HR Director- APAC · General Manager- Human Resources · Senior Manager.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "People Partner- Google Cloud",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Deepak Kulkarni"
+    },
+    {
+      "position": 61,
+      "title": "Kathi Vidal - Partner - DC & SV - Winston & Strawn LLP",
+      "link": "https://www.linkedin.com/in/kathividal",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kathividal&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJ0CEAE",
+      "displayed_link": "21.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e4db83769f32633483ec0875c102b5a5e.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or ... Silicon Valley Managing Partner, Executive Committee Member, & Patent Litigator.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Managing Partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Alexandria, Virginia, United States",
+            "Partner",
+            "DC & SV",
+            "Winston & Strawn LLP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kathi Vidal"
+    },
+    {
+      "position": 62,
+      "title": "Omar E. - Principal Security Consultant - Google",
+      "link": "https://www.linkedin.com/in/omar-e-319161b4",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/omar-e-319161b4&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJ8CEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ee1c366640c1c54a1d13e0a03faa4efe1.png",
+      "snippet": "Principal Consultant, Mandiant @ Google Cloud. Google Michigan State ... We partner with clients to evaluate, create, develop, improve, and mature ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google",
+        "partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Detroit Metropolitan Area",
+            "Principal Security Consultant",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Omar E."
+    },
+    {
+      "position": 63,
+      "title": "Srikanth Kandula - Senior Principal Engineer",
+      "link": "https://www.linkedin.com/in/srikanthkandula",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/srikanthkandula&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCKECEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e630e6cf48d74452b8c255286b5f30a15.png",
+      "snippet": "I am a Senior Principal Engineer at Amazon Web Services. Earlier, I was a partner researcher in the Networking group at Microsoft Research, Redmond.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "partner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Senior Principal Engineer",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Srikanth Kandula"
+    },
+    {
+      "position": 64,
+      "title": "Logan Manning - Social Impact Partnerships at Google",
+      "link": "https://www.linkedin.com/in/loganmanning",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/loganmanning&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCKICEAE",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ed1e9dd9358d46599a5c66a47bd9d11b7.png",
+      "snippet": "Cambridge, Massachusetts, United States. Google Graphic. Communications Manager. Google. Jul 2018 - May 2022 3 years 11 months. Cambridge, Massachusetts, United ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Boston, Massachusetts, United States",
+            "Strategic Partnerships Development Manager, Social Impact",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Logan Manning"
+    },
+    {
+      "position": 65,
+      "title": "Aleksandra Faust - Google DeepMind",
+      "link": "https://www.linkedin.com/in/aleksandrafaust",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aleksandrafaust&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCLYCEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ed6754c7642282d39c976984b809681be.png",
+      "snippet": "Aleksandra Faust is a Research Director at Google Deepmind. Her research is centered… · Google DeepMind · The University of New Mexico · United States ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Google DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aleksandra Faust"
+    },
+    {
+      "position": 66,
+      "title": "Shekhar Kirani - Partner - Accel",
+      "link": "https://in.linkedin.com/in/kirani",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/kirani&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCLkCEAE",
+      "displayed_link": "34.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e0d67c25881d613d72d18fca549e1b956.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Carestack. Apr 2017 - Present 8 years. Orlando, Florida, United States.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Shekhar Kirani"
+    },
+    {
+      "position": 67,
+      "title": "Lauren Sparandara - REWS Sustainability Partner - Bay Area",
+      "link": "https://www.linkedin.com/in/lauren-sparandara",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lauren-sparandara&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCLwCEAE",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e8c04e7b137c5e5520bed9d15e5df0936.png",
+      "snippet": "Sustainability Partner for Bay Area Real Estate, Google. Google Yale University. Palo Alto, California, United States. 4K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Palo Alto, California, United States",
+            "REWS Sustainability Partner",
+            "Bay Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lauren Sparandara"
+    },
+    {
+      "position": 68,
+      "title": "Carmine Di Sibio - EY Colgate University",
+      "link": "https://www.linkedin.com/in/carminedisibio",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/carminedisibio&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCLoCEAE",
+      "displayed_link": "298.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e8812b54adc96fc8e006fcd74d1d28def.png",
+      "snippet": "... Managing Partner – Client Service, leading the execution of the ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By clicking ...",
+      "snippet_highlighted_words": [
+        "Managing Partner",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Carmine Di Sibio"
+    },
+    {
+      "position": 69,
+      "title": "Donna Arnold - Partner Advisor supporting Google at ...",
+      "link": "https://www.linkedin.com/in/donnagarnold",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/donnagarnold&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECEQQAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e2c9b191d65e04ba3e2acaa0867a0bfe7.png",
+      "snippet": "... current relationships and partnerships. ... Concentrix. Apr 2022 - Present 3 years. Nashville, Tennessee, United States. Serving as Partner Advisor to Google ...",
+      "snippet_highlighted_words": [
+        "current",
+        "Present",
+        "United States",
+        "Partner",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Nashville Metropolitan Area",
+            "Partner Advisor supporting Google at ServiceSource",
+            "Concentrix"
+          ]
+        }
+      },
+      "source": "LinkedIn · Donna Arnold"
+    },
+    {
+      "position": 70,
+      "title": "Easter Bohanon - Technical Solutions Consultant - Google",
+      "link": "https://www.linkedin.com/in/easter-bohanon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/easter-bohanon&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECEYQAQ",
+      "displayed_link": "500+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e1a67dd993fca383dc57cb714d90b69a2.png",
+      "snippet": "... United States · 500+ connections on LinkedIn. View Easter Bohanon's ... Partner Experience Specialist @Google. Google University of Arizona. United ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Partner",
+        "Google",
+        "Google",
+        "United"
+      ],
+      "source": "LinkedIn · Easter Bohanon"
+    },
+    {
+      "position": 71,
+      "title": "Niharika Khanna - Executive Business Partner - Google",
+      "link": "https://www.linkedin.com/in/niharikakhanna",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/niharikakhanna&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECEcQAQ",
+      "displayed_link": "850+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e933cd004b03934545fd59c5e2b154ecf.png",
+      "snippet": "Niharika Khanna. Executive Business Partner at Google. Google Delhi University. New York, New York, United States.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Executive Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Niharika Khanna"
+    },
+    {
+      "position": 72,
+      "title": "Betsy Miller - Lecturer on Law - Harvard Law School",
+      "link": "https://www.linkedin.com/in/betsy-a-miller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/betsy-a-miller&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECEkQAQ",
+      "displayed_link": "960+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e3e689a2d52ae0850e956b69905405c14.png",
+      "snippet": "Office of the Attorney General for the District of Columbia. 2007 - 2008 1 year. Washington, District of Columbia, United States. Principal ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Lecturer on Law",
+            "Harvard Law School"
+          ]
+        }
+      },
+      "source": "LinkedIn · Betsy Miller"
+    },
+    {
+      "position": 73,
+      "title": "Cristina Huerta - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/anacristin80",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/anacristin80&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECEUQAQ",
+      "displayed_link": "510+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e723c482b8c268f379c98cf493e76e84d.png",
+      "snippet": "Magnit. Apr 2022 - Jun 2023 1 year 3 months. Sunnyvale, California, United States. Administrative Business Partner employed by Magnit, supporting Google. Toyota ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Partner",
+        "Google"
+      ],
+      "source": "LinkedIn · Cristina Huerta"
+    },
+    {
+      "position": 74,
+      "title": "Amin Vahdat - Google",
+      "link": "https://www.linkedin.com/in/vahdat",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vahdat&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECF4QAQ",
+      "displayed_link": "12.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e68d2d5c5988906cd92ed41db4148529e.png",
+      "snippet": "Amin Vahdat. Google University of California, Berkeley. Mountain View, California, United States. 13K followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amin Vahdat"
+    },
+    {
+      "position": 75,
+      "title": "Ellie G. - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/elliegutierrezg?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/elliegutierrezg%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECGAQAQ",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e825c220a70e1708a091ac821e93b78a3.png",
+      "snippet": "Google. Nov 2023 - Present 1 year 5 months. New York, United States. Google Graphic. Recruiter. Google. Sep 2021 - Nov 2023 2 years 3 months. United States. • ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Present",
+        "United States",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ellie G."
+    },
+    {
+      "position": 76,
+      "title": "Julie Wright Ricciardi, CFRE - Associate Vice President For ...",
+      "link": "https://www.linkedin.com/in/juliewricciardi72",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/juliewricciardi72&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECF8QAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e3e263a2db8965fe66768802aab3209a7.png",
+      "snippet": "Associate Vice President For Development. Hollins University. Apr 2024 - Present 1 year. Hollins, Virginia, United States.",
+      "snippet_highlighted_words": [
+        "Associate Vice President",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Julie Wright Ricciardi, CFRE"
+    },
+    {
+      "position": 77,
+      "title": "Janet Galore - Principal, UX Design - Google DeepMind",
+      "link": "https://www.linkedin.com/in/janetgalore",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/janetgalore&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECGQQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e4c1b05d60686d3d0b11a3a76d6eacace.png",
+      "snippet": "Principal UX at Google DeepMind, Co-Director of The Grocery Studios. Google DeepMind University of Washington. Seattle, Washington, United States. 2K followers ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Principal, UX Design",
+            "Google DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · Janet Galore"
+    },
+    {
+      "position": 78,
+      "title": "Neely Segerstrom - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/neely-segerstrom-971454153",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/neely-segerstrom-971454153&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECHYQAQ",
+      "displayed_link": "210+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e64f251dc05d006cfc7c52d6d91bb21cb.png",
+      "snippet": "Administrative Business Partner at Google. Google California Coast University. Kirkland, Washington, United States. 213 followers 211 connections. See your ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Kirkland, Washington, United States",
+            "Administrative Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Neely Segerstrom"
+    },
+    {
+      "position": 79,
+      "title": "David Hall - Head of Business Development and Strategic ...",
+      "link": "https://www.linkedin.com/in/david-r-hall",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/david-r-hall&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECHUQAQ",
+      "displayed_link": "830+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ebbe391fb853b9ed17635309f0fed2695.png",
+      "snippet": "Los Angeles, California, United States. 842 ... Responsible for developing new partner relationships in Search, Content, and Mobile for Google AdSense.",
+      "snippet_highlighted_words": [
+        "United States",
+        "partner",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Head of Business Development and Strategic Partnerships for Online-to-Offline",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Hall"
+    },
+    {
+      "position": 80,
+      "title": "Llanos . - Visual Design Lead - Google",
+      "link": "https://www.linkedin.com/in/paulllanos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/paulllanos&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECHcQAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e828ac570db431453dea477a1de94e922.png",
+      "snippet": "Llanos . Visual & Motion Design at Google. Google. Port Chester, New York, United States. 1K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Port Chester, New York, United States",
+            "Visual Design Lead",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Llanos ."
+    },
+    {
+      "position": 81,
+      "title": "Sonia Kim - Executive Business Partner - Google",
+      "link": "https://www.linkedin.com/in/sonia-kim-129a3a1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sonia-kim-129a3a1&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCIUBEAE",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3eae27bfb28d21702c16bb296cc17df009.png",
+      "snippet": "Experience: Google · Location: United States · 500+ connections on LinkedIn ... Experience. Google Graphic. Executive Business Partner. Google. May 2020 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States",
+        "Google",
+        "Partner",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Executive Business Partner",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sonia Kim"
+    },
+    {
+      "position": 82,
+      "title": "Jenny Barba - Founder, Managing Partner - Features Capital",
+      "link": "https://www.linkedin.com/in/jennybarba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jennybarba&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCIIBEAE",
+      "displayed_link": "4.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e70cfdf1865474fff458d03d56758da3d.png",
+      "snippet": "Managing Partner, Features Capital | MedTech Investor | Board Member ... Principal and Venture Partner. BioVentures Investors. Nov 2017 - Mar 2022 4 ...",
+      "snippet_highlighted_words": [
+        "Managing Partner",
+        "Principal",
+        "Partner"
+      ],
+      "source": "LinkedIn · Jenny Barba"
+    },
+    {
+      "position": 83,
+      "title": "Jim Yong Kim - Vice Chairman and Partner",
+      "link": "https://www.linkedin.com/in/jimyongkim",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jimyongkim&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJABEAE",
+      "displayed_link": "2M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ec51fa44ea1dfd9fb8dc60512d54a14ef.png",
+      "snippet": "Washington, District of Columbia, United States. 2M followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Vice Chairman and Partner",
+            "Global Infrastructure Partners"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jim Yong Kim"
+    },
+    {
+      "position": 84,
+      "title": "Michael Carney - Venture Capital & Private Equity Partner ...",
+      "link": "https://www.linkedin.com/in/michael-carney-google",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michael-carney-google&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJIBEAE",
+      "displayed_link": "4.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e8f91c7f7516ddb52a7ae666a4d8a1cb9.png",
+      "snippet": "... Partner Manager | Empowering Brands & Startups with Google | Angel Investor. Google Loyola University New Orleans. San Francisco, California, United States. 5K ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "source": "LinkedIn · Michael Carney"
+    },
+    {
+      "position": 85,
+      "title": "Erin Crosby - Executive Business Partner - Google",
+      "link": "https://www.linkedin.com/in/erin-crosby-83700123",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/erin-crosby-83700123&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJcBEAE",
+      "displayed_link": "570+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e05cc1fe5ba6da895043913ef5f6434b1.png",
+      "snippet": "Google Graphic. Executive Business Partner. Google. Dec 2019 - Present 5 years 3 months. United States. Google Graphic. Administrative Business Partner. Google.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Partner",
+        "Google",
+        "Present",
+        "United States",
+        "Google",
+        "Partner",
+        "Google"
+      ],
+      "source": "LinkedIn · Erin Crosby"
+    },
+    {
+      "position": 86,
+      "title": "Justina Rauhala-Kwong - Principal Business Development ...",
+      "link": "https://www.linkedin.com/in/justinarauhalakwong",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/justinarauhalakwong&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCJgBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3edfda1136a7edd35408fea3a4e1475bff.png",
+      "snippet": "Principal BD & Strategic Partnerships at Google. Google Duke University - The Fuqua School of Business. United States. 1K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "source": "LinkedIn · Justina Rauhala-Kwong"
+    },
+    {
+      "position": 87,
+      "title": "Michel F. Geadah - Head of Partner Customer Engineering ...",
+      "link": "https://www.linkedin.com/in/michel-f-geadah-2523545",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/michel-f-geadah-2523545&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCK0BEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3eb20bea25d552ec47a9ad8f7bf8cf4c70.png",
+      "snippet": "Head of Partner Engineering · Google · The University of Chicago Booth School of Business · Newport Beach · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google"
+      ],
+      "source": "LinkedIn · Michel F. Geadah"
+    },
+    {
+      "position": 88,
+      "title": "Vijay Vijayasankar - IBM",
+      "link": "https://www.linkedin.com/in/vijayasankarv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vijayasankarv&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCKsBEAE",
+      "displayed_link": "29K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3eae8f550b6fa42c042bea667d9792b262.png",
+      "snippet": "I serve as the Managing Partner responsible for the iBM's Financial Services market in… · ... Continue with GoogleContinue with Google. New to LinkedIn ...",
+      "snippet_highlighted_words": [
+        "Managing Partner",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chandler, Arizona, United States",
+            "IBM"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vijay Vijayasankar"
+    },
+    {
+      "position": 89,
+      "title": "Justin Levine - Partner - Current Capital Partners",
+      "link": "https://www.linkedin.com/in/justin-levine-2803342a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/justin-levine-2803342a&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCLIBEAE",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e62b01535a95ecc55319dc965eac62e5f.png",
+      "snippet": "New York, New York, United States. 815 followers 500+ connections. See your ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Partner",
+            "Current Capital Partners"
+          ]
+        }
+      },
+      "source": "LinkedIn · Justin Levine"
+    },
+    {
+      "position": 90,
+      "title": "Leandro G. Santos - Atlanta, Georgia, United States",
+      "link": "https://www.linkedin.com/in/santosl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/santosl&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCLMBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e8614f21c3c0aca6a0f746d2bc7a61f17.png",
+      "snippet": "Santos. Senior Partner at McKinsey & Company and a leader of Cloud by McKinsey. Atlanta, Georgia, United States. 2K followers ...",
+      "snippet_highlighted_words": [
+        "Senior Partner",
+        "United States"
+      ],
+      "source": "LinkedIn · Leandro G. Santos"
+    },
+    {
+      "position": 91,
+      "title": "James Manyika - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/jamesmanyika",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jamesmanyika&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCLUBEAE",
+      "displayed_link": "79.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e07397d56629dabd4634bd20b5bf93184.png",
+      "snippet": "SVP, Google-Alphabet · United States · 6 connections on LinkedIn. View James Manyika's profile on LinkedIn, a professional community of 1 billion members.",
+      "snippet_highlighted_words": [
+        "Google",
+        "United States"
+      ],
+      "source": "LinkedIn · James Manyika"
+    },
+    {
+      "position": 92,
+      "title": "Janet Dang - Executive Business Partner - Google",
+      "link": "https://www.linkedin.com/in/janet-dang-b141b258",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/janet-dang-b141b258&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCMMBEAE",
+      "displayed_link": "410+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ec781f777a1ab8d4a3d052a316664667a.png",
+      "snippet": "Executive Business Partner at Google. Google University of California, San Diego. Palo Alto, California, United States ... - Present 3 months. Mountain View ...",
+      "snippet_highlighted_words": [
+        "Partner",
+        "Google",
+        "Google",
+        "United States",
+        "Present"
+      ],
+      "source": "LinkedIn · Janet Dang"
+    },
+    {
+      "position": 93,
+      "title": "Stephanie Zimbler - Principal Account Manager at Google",
+      "link": "https://www.linkedin.com/in/stephaniezimbler",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephaniezimbler&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCMYBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ed0bb8c70ea0f95e2b8f7338106fc5fcf.png",
+      "snippet": "Principal Account Manager at Google · Experience: Google · Education: University of Michigan · Location: United States · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Google",
+        "Google",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Principal Account Manager, Large Customer Sales, Retail Automotive",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephanie Zimbler"
+    },
+    {
+      "position": 94,
+      "title": "Dharmesh Shah - Founder and CTO - HubSpot",
+      "link": "https://www.linkedin.com/in/dharmesh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dharmesh&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCMsBEAE",
+      "displayed_link": "1.1M+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3eccd76f43fdfb55a1fc8c6ec3ee765835.png",
+      "snippet": "Inbound Marketing. United States October 19, 2009. How To Get Found Using Google, Social Media and ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google"
+      ],
+      "source": "LinkedIn · Dharmesh Shah"
+    },
+    {
+      "position": 95,
+      "title": "Sekayia Scott - Administrative Business Partner - Google",
+      "link": "https://www.linkedin.com/in/sekayia-scott-45997a54?trk=public_post_share-update_social-details_comment_actor-image",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sekayia-scott-45997a54%3Ftrk%3Dpublic_post_share-update_social-details_comment_actor-image&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoFCMwBEAE",
+      "displayed_link": "780+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3eb5ba975651370567950ad30adfbd6edf.png",
+      "snippet": "Google Graphic. Senior Staffing Operations Associate, Executive Recruiting. Google. Jan 2023 - Aug 2023 8 months. New York, New York, United States. Google ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United States",
+        "Google"
+      ],
+      "source": "LinkedIn · Sekayia Scott"
+    },
+    {
+      "position": 96,
+      "title": "Joe Lonsdale - 8VC",
+      "link": "https://www.linkedin.com/in/jtlonsdale",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jtlonsdale&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECC4QAQ",
+      "displayed_link": "28.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e45c7d667421333a3cdbfc309cb64ba47.png",
+      "snippet": "Experience: 8VC · Education: Stanford University · Location: United States · 500+ connections on LinkedIn ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "8VC"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joe Lonsdale"
+    },
+    {
+      "position": 97,
+      "title": "Sophia Amoruso - Founder & Managing Partner - Trust Fund",
+      "link": "https://uk.linkedin.com/in/sophiaamoruso",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sophiaamoruso&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECC0QAQ",
+      "displayed_link": "245.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e92c7b0ce403d8253cba41832d5028716.png",
+      "snippet": "Founder & Managing Partner. Trust Fund. Dec 2022 - Present 2 years 4 months. Los Angeles, California, United States. Trust Fund is an early-stage venture fund ...",
+      "snippet_highlighted_words": [
+        "Managing Partner",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Sophia Amoruso"
+    },
+    {
+      "position": 98,
+      "title": "Bryan Schreier - Menlo Park, California, United States",
+      "link": "https://www.linkedin.com/in/bryanschreier",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bryanschreier&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECCsQAQ",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3ea4c6ad5e76f54d5ade0f8babb655a0cf.png",
+      "snippet": "Bryan Schreier. Menlo Park, California, United States. 5K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "United States",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Bryan Schreier"
+    },
+    {
+      "position": 99,
+      "title": "Stephanie Geveda - Founder & Managing Partner",
+      "link": "https://www.linkedin.com/in/stephanie-geveda",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephanie-geveda&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQFnoECDAQAQ",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9a7e643e36fc3a417a4/images/4057448110f72d5c8ee7a44494378e3e4d7c408c78e3dd1e54386cca50d9283d.png",
+      "snippet": "Founder & Managing Partner. Coalesce Capital. Jan 2023 - Present 2 years 3 months. New York, New York, United States. Examinetics Graphic. Board Member.",
+      "snippet_highlighted_words": [
+        "Managing Partner",
+        "Present",
+        "United States"
+      ],
+      "source": "LinkedIn · Stephanie Geveda"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?num=100&sca_esv=b275642f2649e319&gl=us&q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&udm=2&source=univ&fir=hQOhlboOeHTn7M%252C_YC7TfWPQ3jxOM%252C_%253BQ08mEYsPjZVixM%252CCsdpwEBry6zpwM%252C_%253BDhzL25nY5CC5PM%252CyxUPhJQ7Nn5n1M%252C_%253Becw7-R4m--em9M%252CDuraWy4yvqZFJM%252C_%253BXAUk3e-YcXTnNM%252CetrBaALceH_AEM%252C_%253BfX45G-y2EkO7kM%252Cmv3TMiiuJ-ZHhM%252C_%253BO2C3e4dvqy6hWM%252CELZzl8XFm2Y8gM%252C_%253B0v6GXx5GuuPxBM%252C-rNdRIpdDK0gBM%252C_%253Bipr23nj3tBixqM%252CAW01VU6-OBhDnM%252C_&usg=AI4_-kR_2NkzkT-stRleEYhj_4bmk6gAZg&sa=X&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQ7Al6BAhcEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29",
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=tfndZ-uXMoqKxc8PkODW2Q4&start=100&sa=N&sstk=Af40H4WAPN60N9brjEbrg6vobDuTkFhXymvzYcYDHFIsNG6uf06RWzYH2oZ3lM4pgER2joW-D58-YIjiExTZAF7VcS55bT8aYLAjxg&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQ8NMDegQICxAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=tfndZ-uXMoqKxc8PkODW2Q4&start=100&sa=N&sstk=Af40H4WAPN60N9brjEbrg6vobDuTkFhXymvzYcYDHFIsNG6uf06RWzYH2oZ3lM4pgER2joW-D58-YIjiExTZAF7VcS55bT8aYLAjxg&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQ8tMDegQICxAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=tfndZ-uXMoqKxc8PkODW2Q4&start=200&sa=N&sstk=Af40H4WAPN60N9brjEbrg6vobDuTkFhXymvzYcYDHFIsNG6uf06RWzYH2oZ3lM4pgER2joW-D58-YIjiExTZAF7VcS55bT8aYLAjxg&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQ8tMDegQICxAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=tfndZ-uXMoqKxc8PkODW2Q4&start=300&sa=N&sstk=Af40H4WAPN60N9brjEbrg6vobDuTkFhXymvzYcYDHFIsNG6uf06RWzYH2oZ3lM4pgER2joW-D58-YIjiExTZAF7VcS55bT8aYLAjxg&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQ8tMDegQICxAI",
+      "5": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=tfndZ-uXMoqKxc8PkODW2Q4&start=400&sa=N&sstk=Af40H4WAPN60N9brjEbrg6vobDuTkFhXymvzYcYDHFIsNG6uf06RWzYH2oZ3lM4pgER2joW-D58-YIjiExTZAF7VcS55bT8aYLAjxg&ved=2ahUKEwirxpqcrZyMAxUKRfEDHRCwNesQ8tMDegQICxAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=300",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22Associate+Vice+President%22+OR+%22AVP%22+OR+%22Partner%22+OR+%22Senior+Partner%22+OR+%22Managing+Partner%22+OR+%22Principal%22+OR+%22Founding+Partner%22+OR+%22Associate+Partner%22%29&start=400"
+    }
+  }
+}

@@ -1,0 +1,2208 @@
+{
+  "search_metadata": {
+    "id": "67ddf9e595dc121ba52865bd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3918cc5915f980f5/67ddf9e595dc121ba52865bd.json",
+    "created_at": "2025-03-21 23:44:37 UTC",
+    "processed_at": "2025-03-21 23:44:37 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3918cc5915f980f5/67ddf9e595dc121ba52865bd.html",
+    "total_time_taken": 1.92
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"United Kingdom\" AND (current OR present) AND (\"CIO\" OR \"Chief Information Officer\" OR \"CISO\" OR \"Chief Information Security Officer\" OR \"CMO\" OR \"Chief Marketing Officer\" OR \"CPO\" OR \"Chief Product Officer\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"United Kingdom\" AND (current OR present) AND (\"CIO\" OR \"Chief Information Officer\" OR \"CISO\" OR \"Chief Information Security Officer\" OR \"CMO\" OR \"Chief Marketing Officer\" OR \"CPO\" OR \"Chief Product Officer\")",
+    "total_results": 3960000,
+    "time_taken_displayed": 0.76,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Chris H - Chief Information Security Officer - Avaya",
+      "link": "https://uk.linkedin.com/in/chrish-ciso-uk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chrish-ciso-uk&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECAkQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d7c17a62ea190b08757e17065b80fe87a.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Chief Information Security Officer (CISO) at Avaya. At Avaya, I hold the ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Information Security Officer",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Manchester, England, United Kingdom",
+            "Chief Information Security Officer",
+            "Avaya"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris H"
+    },
+    {
+      "position": 2,
+      "title": "Andy G. - London, England, United Kingdom",
+      "link": "https://uk.linkedin.com/in/andygamble",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andygamble&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECBgQAQ",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d4019885b726579a51259f85cc2b54450.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... “Andy has been a client/partner of CIO Development for almost three years to ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CIO"
+      ],
+      "source": "LinkedIn · Andy G."
+    },
+    {
+      "position": 3,
+      "title": "Mark Edwards - Chief Information Security Officer",
+      "link": "https://uk.linkedin.com/in/mark-edwards-cyber",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mark-edwards-cyber&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECBkQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d06007a4a8245a08affd001c3b92035a7.png",
+      "snippet": "Apr 2024 - Present 1 year. Cardiff, Wales, United Kingdom. The Chief Information Security Officer (CISO) is a senior leadership role for DHCW, responsible for ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "Chief Information Security Officer",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Cardiff Area",
+            "Chief Information Security Officer",
+            "Digital Health and Care Wales"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Edwards"
+    },
+    {
+      "position": 4,
+      "title": "Simon Bourne - UK Home Office",
+      "link": "https://uk.linkedin.com/in/simon-bourne-aa56a253",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/simon-bourne-aa56a253&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECCMQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d74ad76b3f75bdb5fd1bb252101869dd6.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... CIO capability. Simon has an empowering leadership style and creates a ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hebden Bridge, England, United Kingdom",
+            "UK Home Office"
+          ]
+        }
+      },
+      "source": "LinkedIn · Simon Bourne"
+    },
+    {
+      "position": 5,
+      "title": "Jon Staniforth - United Kingdom | Professional Profile",
+      "link": "https://uk.linkedin.com/in/jonstaniforth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jonstaniforth&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECB4QAQ",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d8485aaa661010d81e08f433a91fdd44a.png",
+      "snippet": "Senior Cyber / Information security and risk executive with a successful track record in… · Location: United Kingdom ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Jon Staniforth"
+    },
+    {
+      "position": 6,
+      "title": "Serkan Girgin - Google",
+      "link": "https://uk.linkedin.com/in/serkangirgins",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/serkangirgins&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECBoQAQ",
+      "displayed_link": "8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dc39719ffcc6da143abde08a128d6ad98.png",
+      "snippet": "Google · University of Pennsylvania - The Wharton School · United Kingdom · 500+ connections on LinkedIn. View Serkan Girgin's profile on LinkedIn, ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Serkan Girgin"
+    },
+    {
+      "position": 7,
+      "title": "Paul Spacey - Global Chief Information Security Officer",
+      "link": "https://uk.linkedin.com/in/paul-spacey-a5258918",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paul-spacey-a5258918&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECC0QAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dfdce6f43c15ce7211c979db6f347a276.png",
+      "snippet": "Global Chief information Security Officer · CISO and IT leader with extensive global experience ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "Chief information Security Officer",
+        "CISO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "York, England, United Kingdom",
+            "Global Chief Information Security Officer",
+            "KPMG UK"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Spacey"
+    },
+    {
+      "position": 8,
+      "title": "Thomas H. - Chief Information Security Officer (CISO)",
+      "link": "https://uk.linkedin.com/in/thomas-h-69840b200",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/thomas-h-69840b200&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECC8QAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dd3861afd02252942a02bfc16386239c6.png",
+      "snippet": "Chief Information Security Officer (CISO). Santander UK. Aug 2022 - Present 2 years 8 months. London, England, United Kingdom. Board Member. UK Government Cyber ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Thomas H."
+    },
+    {
+      "position": 9,
+      "title": "David Painter - Defra Chief Information Officer",
+      "link": "https://uk.linkedin.com/in/david-painter-558b8525",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/david-painter-558b8525&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCOUBEAE",
+      "displayed_link": "630+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d77a6118e8dc21f3e436d4ae65ea26cb9.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... As Defra's CIO, I lead the engagement between Defra's Digital, Data and ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Chief Information Officer",
+            "Department for Environment, Food and Rural Affairs"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Painter"
+    },
+    {
+      "position": 10,
+      "title": "Richard Moore - Head of Information Security - Scandit",
+      "link": "https://uk.linkedin.com/in/richard-moore-363a3556",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richard-moore-363a3556&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECCoQAQ",
+      "displayed_link": "930+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d3ad2e0f0f4a30546a78e9c527de02f2d.png",
+      "snippet": "Chief Information Security Officer (CISO), CISSP, CDPSE. Scandit The University of Sheffield. London Area, United Kingdom. 935 followers 500+ connections. See ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Head of Information Security",
+            "Scandit"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Moore"
+    },
+    {
+      "position": 11,
+      "title": "Craig Bright - London, England, United Kingdom",
+      "link": "https://uk.linkedin.com/in/craig-bright-7981154",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/craig-bright-7981154&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCK4BEAE",
+      "displayed_link": "9.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d6e428d987f59d798ec3e31776b307d0e.png",
+      "snippet": "Craig Bright. London, England, United Kingdom. 10K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Craig Bright"
+    },
+    {
+      "position": 12,
+      "title": "Ross McKerchar - Sophos",
+      "link": "https://uk.linkedin.com/in/ross-mckerchar-42bb548",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ross-mckerchar-42bb548&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCP8BEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d2a59a9194a88adae52055fcdae30cb4d.png",
+      "snippet": "When expanded it provides a list of search options that will switch the search inputs to match the current selection. ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "current",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Oxford Area",
+            "Sophos"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ross McKerchar"
+    },
+    {
+      "position": 13,
+      "title": "Jas Puar - Chief Information Security Officer (CISO)",
+      "link": "https://uk.linkedin.com/in/jaspuar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jaspuar&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCIICEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dcbacc1c30a48092c05b1ab29de63bdae.png",
+      "snippet": "Chief Information Security Officer (CISO). Schroders Personal Wealth. May 2022 - Present 2 years 11 months. London, England, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Chief Information Security Officer (CISO)",
+            "Schroders Personal Wealth"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jas Puar"
+    },
+    {
+      "position": 14,
+      "title": "Stuart Riley - Group CIO of HSBC",
+      "link": "https://uk.linkedin.com/in/rileys",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rileys&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECCwQAQ",
+      "displayed_link": "10K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d57e84723d99c09404cf3fcc26133b83a.png",
+      "snippet": "Group CIO of HSBC. HSBC. Feb 2024 - Present 1 year 2 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "CIO",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Stuart Riley"
+    },
+    {
+      "position": 15,
+      "title": "Sam Quinn - Chief Information Officer - Computershare",
+      "link": "https://uk.linkedin.com/in/sam-quinn-624a0661",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sam-quinn-624a0661&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCM8BEAE",
+      "displayed_link": "350+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d38a5d0d8f116d04c0e0879678b31764b.png",
+      "snippet": "Sam Quinn. Global CIO - Employee Share Plans at Computershare. Computershare. Winford, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "CIO",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Winford, England, United Kingdom",
+            "Chief Information Officer",
+            "Computershare"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sam Quinn"
+    },
+    {
+      "position": 16,
+      "title": "Omar Khan - Chief Information Officer - EMEIA - WSP in the ...",
+      "link": "https://www.linkedin.com/in/mohammedomarkhan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mohammedomarkhan&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCMwBEAE",
+      "displayed_link": "530+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d04fc8c123f8808040d64a3d3dbce0060.png",
+      "snippet": "CIO at WSP in the UK · WSP in the UK · City University London · United Kingdom · 471 connections on LinkedIn. View Omar Khan's profile on LinkedIn, ...",
+      "snippet_highlighted_words": [
+        "CIO",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Chief Information Officer",
+            "EMEIA",
+            "WSP in the UK"
+          ]
+        }
+      },
+      "source": "LinkedIn · Omar Khan"
+    },
+    {
+      "position": 17,
+      "title": "Clare Patterson - Chief Information Security Officer",
+      "link": "https://uk.linkedin.com/in/clarepatterson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/clarepatterson&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCLABEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d50e633730b446dcf740ce2e6c9059108.png",
+      "snippet": "CISO Royal Mail Group, PHD Researcher at University of Kent, Director of ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "CISO",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Clare Patterson"
+    },
+    {
+      "position": 18,
+      "title": "Philip Clayson - Jagex",
+      "link": "https://uk.linkedin.com/in/philipclayson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/philipclayson&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJoCEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4db9a8abb0a3c2ce1db773030e56204796.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now ... I am a seasoned Chief Information Officer (CIO) leading large-scale international…",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Information Officer",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Jagex"
+          ]
+        }
+      },
+      "source": "LinkedIn · Philip Clayson"
+    },
+    {
+      "position": 19,
+      "title": "Simon Goldsmith - OVO",
+      "link": "https://uk.linkedin.com/in/smg-cyber",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/smg-cyber&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCOcBEAE",
+      "displayed_link": "6.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dcaac7d6c980807fd4b8c2858ee82f953.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... United Kingdom, focusing on the key cyber security laws and related ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "OVO"
+          ]
+        }
+      },
+      "source": "LinkedIn · Simon Goldsmith"
+    },
+    {
+      "position": 20,
+      "title": "Jonny Pelter - Partner - CyPro",
+      "link": "https://uk.linkedin.com/in/jonny-pelter-virtual-ciso",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jonny-pelter-virtual-ciso&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCIwCEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4da3a4dbbfd5a8b6fefb627aea7ba2e733.png",
+      "snippet": "Interim CISO (Chief Information Security Officer). Thames Water. Jun 2023 - Apr 2024 11 months. Reading, England, United Kingdom. Chief Information Security ...",
+      "snippet_highlighted_words": [
+        "CISO",
+        "Chief Information Security Officer",
+        "United Kingdom",
+        "Chief Information Security"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Partner",
+            "CyPro"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonny Pelter"
+    },
+    {
+      "position": 21,
+      "title": "Yonca Dervisoglu - VP, Marketing, Europe Middle East and ...",
+      "link": "https://uk.linkedin.com/in/yoncadervisoglu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/yoncadervisoglu&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCKACEAE",
+      "displayed_link": "12.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d1c79aa59e1eac702c2a3065ea7685e43.png",
+      "snippet": "Yonca Dervisoglu. Google. Greater London, England, United Kingdom. 13K ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Yonca Dervisoglu"
+    },
+    {
+      "position": 22,
+      "title": "Adrian Blundell - Chief Digital and Information Officer",
+      "link": "https://uk.linkedin.com/in/adrian-blundell-93720129",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/adrian-blundell-93720129&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCNABEAE",
+      "displayed_link": "690+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d5e4fe57d7be667960aa6cc361596c468.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Chief Information Officer. Department for International Development. Aug ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Information Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Glasgow Area",
+            "Chief Digital and Information Officer",
+            "Foreign, Commonwealth and Development Office"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adrian Blundell"
+    },
+    {
+      "position": 23,
+      "title": "Steve McCrystal - Chief Enterprise and Technology Officer",
+      "link": "https://uk.linkedin.com/in/steve-mccrystal-public-profile-a423b24",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/steve-mccrystal-public-profile-a423b24&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECEkQAQ",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d396caa6e5e01fe9a700d8916f4c8cc64.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... CIO. Pepsico. Mar 2006 - Sep 2008 2 years 7 months ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CIO"
+      ],
+      "source": "LinkedIn · Steve McCrystal"
+    },
+    {
+      "position": 24,
+      "title": "John Douglas - Gymshark",
+      "link": "https://uk.linkedin.com/in/john-douglas-1b841553",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/john-douglas-1b841553&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCMsBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d04205e109dc4455590048cbe7fb65feb.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... United Kingdom. -. New York/Hong Kong. -. Hong Kong. -. -. -. -. - ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Solihull, England, United Kingdom",
+            "Gymshark"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Douglas"
+    },
+    {
+      "position": 25,
+      "title": "Debra Bailey - Group Chief Information Officer",
+      "link": "https://uk.linkedin.com/in/debra-bailey",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/debra-bailey&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECHwQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d56f0ddc32b0ec4d93164f5854d6a7824.png",
+      "snippet": "Chief Information Officer and Non Executive · OSB Group · United Kingdom · 500+ connections on LinkedIn ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "Chief Information Officer",
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Group Chief Information Officer",
+            "OSB Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Debra Bailey"
+    },
+    {
+      "position": 26,
+      "title": "Jamil Farshchi - EVP, Chief Information Security Officer & ...",
+      "link": "https://www.linkedin.com/in/jamilfarshchi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jamilfarshchi&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCLYCEAE",
+      "displayed_link": "41.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dba5ea03d676eba55719c3c0f17433ed1.png",
+      "snippet": "Equifax CISO & CTO | UKG Board Member | FBI Advisor · EVP, Chief Information Security Officer & Chief Technology Officer of Equifax (NYSE: EFX).",
+      "snippet_highlighted_words": [
+        "CISO",
+        "Chief Information Security Officer"
+      ],
+      "source": "LinkedIn · Jamil Farshchi"
+    },
+    {
+      "position": 27,
+      "title": "Julia Goldin - Fiskars Group",
+      "link": "https://uk.linkedin.com/in/juliagoldin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/juliagoldin&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJkBEAE",
+      "displayed_link": "31.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dbb747aef3ce3d71c32e1a16d128b1bde.png",
+      "snippet": ": University of Chicago · Location: London Area, United Kingdom · 500 ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Fiskars Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julia Goldin"
+    },
+    {
+      "position": 28,
+      "title": "Jorn Lambert - Chief Product Officer - Mastercard",
+      "link": "https://uk.linkedin.com/in/jorn-lambert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jorn-lambert&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCM4BEAE",
+      "displayed_link": "8.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d134d68304e2d023dc1c786d167d2a515.png",
+      "snippet": "Chief Product Officer at Mastercard. Mastercard INSEAD. London, England, United Kingdom ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Chief Product Officer",
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Chief Product Officer",
+            "Mastercard"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jorn Lambert"
+    },
+    {
+      "position": 29,
+      "title": "David Keene - Wipro",
+      "link": "https://uk.linkedin.com/in/davidkeenex",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/davidkeenex&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECF4QAQ",
+      "displayed_link": "9.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d169b464d89ef918b392ca53fabb30c48.png",
+      "snippet": "Chief Marketing Officer with a track record of driving revenue growth and brand impact ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Wipro"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Keene"
+    },
+    {
+      "position": 30,
+      "title": "Phil Hewinson - Chief Product Officer - Alpha School",
+      "link": "https://uk.linkedin.com/in/philhewinson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/philhewinson&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCIQCEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4daa70c2cb68ddcfb88362ecc7ee05d304.png",
+      "snippet": "Chief Product Officer | 2x Tech Founder | ex-Monzo/Facebook/Google. Alpha School University of Cambridge. London Area, United Kingdom. 3K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Chief Product Officer",
+        "Google",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Phil Hewinson"
+    },
+    {
+      "position": 31,
+      "title": "Mark Adjei - Chief Information Security Officer - UBS",
+      "link": "https://uk.linkedin.com/in/mark-adjei-b0083b329",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mark-adjei-b0083b329&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCM0BEAE",
+      "displayed_link": "5 followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d18e79af8ecef788febce326d5e73a04a.png",
+      "snippet": "Chief Information Security Officer at UBS · Experience: UBS · Location: London Area, United Kingdom ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Chief Information Security Officer",
+            "UBS"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Adjei"
+    },
+    {
+      "position": 32,
+      "title": "Cristian Cussen - Google",
+      "link": "https://uk.linkedin.com/in/cussen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/cussen&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCOYBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d36fa0df21554aad9f71c793a695fc65d.png",
+      "snippet": "Cristian Cussen. Google. London, England, United Kingdom. 1K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Cristian Cussen"
+    },
+    {
+      "position": 33,
+      "title": "Irfan Khan - President & Chief Product Officer, SAP HANA ...",
+      "link": "https://uk.linkedin.com/in/irfan-ak-khan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/irfan-ak-khan&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCOoBEAE",
+      "displayed_link": "12K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d310c920f8f8412ff1eee4d2d47c8c6da.png",
+      "snippet": "Irfan Khan. President & Chief Product Officer, SAP Data & Analytics. SAP University of Westminster. United Kingdom.",
+      "snippet_highlighted_words": [
+        "Chief Product Officer",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Irfan Khan"
+    },
+    {
+      "position": 34,
+      "title": "Shiri Mosenzon Erez - Chief Product Officer - commercetools",
+      "link": "https://uk.linkedin.com/in/shiri-mosenzon",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/shiri-mosenzon&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCIMCEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d4a61b4cb617cfc700953019262a4c168.png",
+      "snippet": "FTSE100 CPO | Advisor | Product Leader| Global Retail and Logistics Technology Expert | · FTSE100 Chief Product Officer, visionary and entrepreneurial who ...",
+      "snippet_highlighted_words": [
+        "CPO",
+        "Chief Product Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Chief Product Officer",
+            "commercetools"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shiri Mosenzon Erez"
+    },
+    {
+      "position": 35,
+      "title": "Robert Watson - Director, UK IS/IT, Office of the CIO - CGI",
+      "link": "https://uk.linkedin.com/in/robertwatson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/robertwatson&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJ4CEAE",
+      "displayed_link": "570+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d5292fb6701b544d9301974bb34238d17.png",
+      "snippet": "Director, UK IS/IT, Office of the CIO at CGI. CGI Durham University. London, England, United Kingdom ... Continue with GoogleContinue with Google. New to LinkedIn ...",
+      "snippet_highlighted_words": [
+        "CIO",
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director, UK IS/IT, Office of the CIO",
+            "CGI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert Watson"
+    },
+    {
+      "position": 36,
+      "title": "John McMahon - MD | CPO - GovMetric",
+      "link": "https://uk.linkedin.com/in/johnmcmahon2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/johnmcmahon2&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJ0CEAE",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d4349b89808620613627f3643483e1ad3.png",
+      "snippet": "John McMahon. 1 exit | Product x GTM x RevOps leader. GovMetric Heriot-Watt University. Exeter, England, United Kingdom ... Continue with GoogleContinue with ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google"
+      ],
+      "source": "LinkedIn · John McMahon"
+    },
+    {
+      "position": 37,
+      "title": "John Quinn - NHS England",
+      "link": "https://uk.linkedin.com/in/1johnquinn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/1johnquinn&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCMACEAE",
+      "displayed_link": "10.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d57db4738387bd0e9ba9775716bf049ab.png",
+      "snippet": "Experienced CIO and Transformation Director. Skilled in Government, IT and… · Experience: NHS England · Location: United Kingdom · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "CIO",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "NHS England"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Quinn"
+    },
+    {
+      "position": 38,
+      "title": "Gina Gill - Chief Information Officer - Apollo",
+      "link": "https://uk.linkedin.com/in/theginagill",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/theginagill&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECEUQAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d19af4d8df09713f88cf011ac137ba4bf.png",
+      "snippet": "Using technology to change lives. Apollo Cranfield School of Management. Greater London, England, United Kingdom ... Continue with GoogleContinue with Google. New ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Chief Information Officer",
+            "Apollo"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gina Gill"
+    },
+    {
+      "position": 39,
+      "title": "Jonathan Mildenhall - Rocket",
+      "link": "https://www.linkedin.com/in/mildenhall",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mildenhall&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECEoQAQ",
+      "displayed_link": "38.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d23818870fa48400a9e6409455236607b.png",
+      "snippet": "Jonathan is the first-ever Chief Marketing Officer of Rocket Companies ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "West Hollywood, California, United States",
+            "Rocket"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Mildenhall"
+    },
+    {
+      "position": 40,
+      "title": "Robert Rodger - Chief Information Security Officer - Admiral ...",
+      "link": "https://uk.linkedin.com/in/robert-rodger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/robert-rodger&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECF0QAQ",
+      "displayed_link": "5.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d8321466157a74aa6cd2f4a4c47c13ce9.png",
+      "snippet": "Chief Information Security Officer at Admiral Insurance · CISO, MD, Board Advisor ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Robert Rodger"
+    },
+    {
+      "position": 41,
+      "title": "Adam Warne - Barclays UK",
+      "link": "https://uk.linkedin.com/in/adam-warne-6474038",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/adam-warne-6474038&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECGUQAQ",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d9cece96dccceea3271f17a4468a568f7.png",
+      "snippet": "Adam Warne. Barclays UK. Manchester, England, United Kingdom. 5K followers ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Manchester, England, United Kingdom",
+            "Barclays UK"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Warne"
+    },
+    {
+      "position": 42,
+      "title": "Jamie Whitcombe-Jones - Founder and CISO - CyberVyser",
+      "link": "https://uk.linkedin.com/in/jamiew-j",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jamiew-j&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECGIQAQ",
+      "displayed_link": "8.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4db72f02c4da973f38bf2dd391a1a17d5f.png",
+      "snippet": "Chief Information Security Officer (CISO). Allianz Holdings plc. Aug 2019 - Present 5 years 8 months. Guildford, United Kingdom. Group CISO for Allianz UK's ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "Present",
+        "United Kingdom",
+        "CISO"
+      ],
+      "source": "LinkedIn · Jamie Whitcombe-Jones"
+    },
+    {
+      "position": 43,
+      "title": "Khadir Fayaz (CISO, CTO, Board Advisor, Speaker) - CBRE",
+      "link": "https://uk.linkedin.com/in/khadirf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/khadirf&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECGEQAQ",
+      "displayed_link": "8.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d6d106ea2b43e1be47bf284172f0eec9e.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or ... Certified Chief Information Security Officer, C|CISO. EC Council. Certified in ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Information Security Officer",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "CBRE"
+          ]
+        }
+      },
+      "source": "LinkedIn · Khadir Fayaz (CISO, CTO, Board Advisor, Speaker)"
+    },
+    {
+      "position": 44,
+      "title": "Christiane (Chrisi) Baetz, CISSP, CISA - AEGIS London",
+      "link": "https://uk.linkedin.com/in/christianebaetz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/christianebaetz&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECHoQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d491a75f168a3c977766234d6d38c2441.png",
+      "snippet": "CISSP-certified Chief Information Security Officer with 16+ years of international… · ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "AEGIS London"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christiane (Chrisi) Baetz, CISSP, CISA"
+    },
+    {
+      "position": 45,
+      "title": "Ashish Rajan 🤴🏾🧔🏾‍♂️ - Kaizenteq",
+      "link": "https://uk.linkedin.com/in/ashishrajan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ashishrajan&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECH0QAQ",
+      "displayed_link": "23.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d23322281456b3642db6c93c293f20098.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... London Area, United Kingdom. -. Newark, California, United States ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Kaizenteq"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ashish Rajan 🤴🏾🧔🏾‍♂️"
+    },
+    {
+      "position": 46,
+      "title": "Phil Le-Brun - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/phillebrun",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/phillebrun&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJsCEAE",
+      "displayed_link": "11.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d32f636319a247515d0d7fc514938e0d6.png",
+      "snippet": "Institute of Directors. Member. 2018 - Present ; The Institution of Engineering and Technology. Member. 1993 - Present ; UK CIO Executive Summit. Governing Body ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "Present",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Phil Le-Brun"
+    },
+    {
+      "position": 47,
+      "title": "Kaushik Hatti - Chief Information Security Officer - Pinochle.AI",
+      "link": "https://in.linkedin.com/in/kaushik-hatti",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/kaushik-hatti&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCIABEAE",
+      "displayed_link": "6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d8bd59a81c78dce5eaa34f00d1c8b3d61.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Jan 2018 - Sep 2020 2 years 9 months. Cambridge, United Kingdom. Prof ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Coimbatore Area",
+            "Chief Information Security Officer",
+            "Pinochle.AI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kaushik Hatti"
+    },
+    {
+      "position": 48,
+      "title": "Drew Panayiotou - Chief Marketing Officer - Keurig Dr ...",
+      "link": "https://www.linkedin.com/in/drewpanayiotou",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/drewpanayiotou&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJMBEAE",
+      "displayed_link": "17.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d315217fe3fe700eb0608c3cf9f534abd.png",
+      "snippet": "Nov 2024 - Present 5 months. Pfizer Graphic. Global Chief Marketing Officer ... Verily / Google Life Sciences - Chief Marketing Officer. Google. Nov 2020 ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "Chief Marketing Officer",
+        "Google",
+        "Chief Marketing Officer",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Denver Metropolitan Area",
+            "Chief Marketing Officer",
+            "Keurig Dr Pepper Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Drew Panayiotou"
+    },
+    {
+      "position": 49,
+      "title": "Raja Rajamannar - Chief Marketing & Communications ...",
+      "link": "https://www.linkedin.com/in/mvrajamannar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mvrajamannar&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJQBEAE",
+      "displayed_link": "70.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d97b8a69906c9053b7eb62c18fe39ab55.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Inducted into the CMO Hall of Fame at the 2018 CMO Awards ceremony. https ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CMO",
+        "CMO"
+      ],
+      "source": "LinkedIn · Raja Rajamannar"
+    },
+    {
+      "position": 50,
+      "title": "Dan Lohrmann - Presidio",
+      "link": "https://www.linkedin.com/in/danlohrmann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/danlohrmann&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCK8BEAE",
+      "displayed_link": "40.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d6b7540910c40aada05118f0a0889c76d.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now ... Chief Information Security Officer (CISO) has become an increasingly crucial role.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Information Security Officer",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "East Lansing, Michigan, United States",
+            "Presidio"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Lohrmann"
+    },
+    {
+      "position": 51,
+      "title": "Hazel McPherson - Managing Director & Founder",
+      "link": "https://uk.linkedin.com/in/hazelmcpherson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hazelmcpherson&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCLMBEAE",
+      "displayed_link": "5.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d88db0372e66c7e16f7d9309c3b81bed3.png",
+      "snippet": "Jan 2025 - Present 3 months. Weston-Super-Mare, England, United Kingdom. Financial Services Company Graphic. Chief Information Security Officer (CISO).",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "Chief Information Security Officer",
+        "CISO"
+      ],
+      "source": "LinkedIn · Hazel McPherson"
+    },
+    {
+      "position": 52,
+      "title": "Sophie Neary - Managing Director, Retail & Consumer ...",
+      "link": "https://uk.linkedin.com/in/sophieneary",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sophieneary&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCLYBEAE",
+      "displayed_link": "20.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dcffbbb3511ba201f03d9f9c009555199.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Sophie Neary's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Managing Director, Retail & Consumer Goods",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sophie Neary"
+    },
+    {
+      "position": 53,
+      "title": "Oliver Pilgerstorfer - IFS",
+      "link": "https://uk.linkedin.com/in/pilgerstorfer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pilgerstorfer&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCLEBEAE",
+      "displayed_link": "10.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d41f46d5e74c187e8b1cb420b743636c5.png",
+      "snippet": "Experience: IFS · Education: London Business School · Location: United Kingdom · 500+ connections on LinkedIn ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "IFS"
+          ]
+        }
+      },
+      "source": "LinkedIn · Oliver Pilgerstorfer"
+    },
+    {
+      "position": 54,
+      "title": "Benjamin Braun - Vice President and Chief Marketing ...",
+      "link": "https://uk.linkedin.com/in/braunbenjamin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/braunbenjamin&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCIECEAE",
+      "displayed_link": "41.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d298750deb6715b661135c18d7e537463.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... 2012 - 2016 4 years. United Kingdom, France, Holland. British Gas Graphic ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Vice President and Chief Marketing Officer (Europe)",
+            "Samsung Electronics"
+          ]
+        }
+      },
+      "source": "LinkedIn · Benjamin Braun"
+    },
+    {
+      "position": 55,
+      "title": "Prasanna Gopalakrishnan - ADP",
+      "link": "https://www.linkedin.com/in/prgopalakrishnan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/prgopalakrishnan&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCMkBEAE",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d88fd0f20eba1a3370bc95f07d9df860f.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Successful CIO of Tamil Origin. FETNA at Tamil Entrepreneur Forum in ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "ADP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Prasanna Gopalakrishnan"
+    },
+    {
+      "position": 56,
+      "title": "Mel Stiffell - ofi",
+      "link": "https://uk.linkedin.com/in/mel-stiffell-7b73b323",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mel-stiffell-7b73b323&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCNEBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d9b7bc7fe2b291933973511d64c534de7.png",
+      "snippet": "Experience: ofi · Location: United Kingdom · 500+ connections on LinkedIn ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "ofi"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mel Stiffell"
+    },
+    {
+      "position": 57,
+      "title": "Stuart McDowell - UK CIO - Societe Generale",
+      "link": "https://uk.linkedin.com/in/stuart-mcdowell",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stuart-mcdowell&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCOQBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d4bc14b2640765859958fe57eda7bae5e.png",
+      "snippet": "Stuart McDowell. Societe Generale University of Edinburgh. London, England, United Kingdom ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Stuart McDowell"
+    },
+    {
+      "position": 58,
+      "title": "Donald Patra - HSBC",
+      "link": "https://www.linkedin.com/in/donald-patra-34a783b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/donald-patra-34a783b&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCOkBEAE",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dcc001f0c11bb2927fe2caa1e468dbe7c.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Donald Patra was Chief Information Officer of HSBC Bank Plc and for Europe, ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Information Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Marietta, Georgia, United States",
+            "HSBC"
+          ]
+        }
+      },
+      "source": "LinkedIn · Donald Patra"
+    },
+    {
+      "position": 59,
+      "title": "Evan Thomas - Chief Information Officer, Issuer Services",
+      "link": "https://uk.linkedin.com/in/evanthomas42",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/evanthomas42&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCOgBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d90862ad211efc96ac75a700400cceac1.png",
+      "snippet": "Chief Information Officer. Computershare Peebles High School. Edinburgh, Scotland, United Kingdom ... Continue with GoogleContinue with Google. New to LinkedIn?",
+      "snippet_highlighted_words": [
+        "Chief Information Officer",
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Edinburgh, Scotland, United Kingdom",
+            "Chief Information Officer, Issuer Services",
+            "Computershare"
+          ]
+        }
+      },
+      "source": "LinkedIn · Evan Thomas"
+    },
+    {
+      "position": 60,
+      "title": "Smita Gupta Advisory",
+      "link": "https://uk.linkedin.com/in/smigupta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/smigupta&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCPoBEAE",
+      "displayed_link": "8.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d535514f5bf5b2c3e51357c2ecf807c44.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to follow · Report this profile; Close menu. About. CMO | Chief Growth Officer | VP ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CMO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Smita Gupta Advisory"
+          ]
+        }
+      },
+      "source": "LinkedIn · Smita Gupta"
+    },
+    {
+      "position": 61,
+      "title": "Jeetu Patel - EVP & Chief Product Officer - Cisco",
+      "link": "https://www.linkedin.com/in/jeetupatel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jeetupatel&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCOsBEAE",
+      "displayed_link": "79.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4daa58a3831a6fc445d5d172147688c388.png",
+      "snippet": "EVP & GM, Security and Collaboration Business Units · Jun 2021 · Aug 2024 ; Chief Product Officer & Chief Strategy Officer · Sep 2017 · Aug 2020 ; CSO & CMO, ...",
+      "snippet_highlighted_words": [
+        "Chief Product Officer",
+        "CMO"
+      ],
+      "source": "LinkedIn · Jeetu Patel"
+    },
+    {
+      "position": 62,
+      "title": "Eric Hussey, MBA, CISSP - Finastra",
+      "link": "https://www.linkedin.com/in/erhussey",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/erhussey&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCIUCEAE",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4da4ef5077788165cac71f9df2dea9343e.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Bristol, England, United Kingdom. -. Hartford, Connecticut, United States ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "Finastra"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eric Hussey, MBA, CISSP"
+    },
+    {
+      "position": 63,
+      "title": "Peter Elliott - Global Interim CIO - future of movement",
+      "link": "https://uk.linkedin.com/in/pelliott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pelliott&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJcCEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4df6bfe4137c9713aaa7c83da9da75cd43.png",
+      "snippet": "Peter Elliott. Global CIO Interim (Private Equity backed companies). future of movement. United Kingdom. 1K ...",
+      "snippet_highlighted_words": [
+        "CIO",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Global Interim CIO",
+            "future of movement"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Elliott"
+    },
+    {
+      "position": 64,
+      "title": "Andrew McKibben - MD, CIO GCIB/GTS and Head of ...",
+      "link": "https://uk.linkedin.com/in/andrew-mckibben-0204691",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrew-mckibben-0204691&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJkCEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d64f9234ecdaec1d906892ae8b4300444.png",
+      "snippet": "MD, CIO GCIB/GTS and Head of International Technology and Operations · Bank of America · United Kingdom · 500+ connections on LinkedIn ... Continue with Google ...",
+      "snippet_highlighted_words": [
+        "CIO",
+        "United Kingdom",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "MD, CIO GCIB/GTS and Head of International Technology and Operations",
+            "Bank of America"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew McKibben"
+    },
+    {
+      "position": 65,
+      "title": "Keith Weed - United Kingdom | Professional Profile",
+      "link": "https://uk.linkedin.com/in/keithweed",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/keithweed&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCLQCEAE",
+      "displayed_link": "211.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d7b010066a6ec57886aa37983cc77e3d3.png",
+      "snippet": "... CMO @Unilever · United Kingdom · 500+ connections on LinkedIn. View ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "CMO",
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Keith Weed"
+    },
+    {
+      "position": 66,
+      "title": "Adam Petrick - SharkNinja",
+      "link": "https://www.linkedin.com/in/adampetrick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/adampetrick&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJ8CEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d4d58d71fd9376657cb2f09eec67bb7ef.png",
+      "snippet": "Adam Petrick is SharkNinja's Chief Marketing Officer. In his role, Adam ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Boston, Massachusetts, United States",
+            "SharkNinja"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Petrick"
+    },
+    {
+      "position": 67,
+      "title": "Nishma Patel Robb 🪩⚡️ - Founder and Chief Sparkle Officer",
+      "link": "https://uk.linkedin.com/in/nishmapatelrobb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nishmapatelrobb&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCKICEAE",
+      "displayed_link": "13.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dac3976b3012875513761910aab09286f.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... CMO Advisory Council (Soundboard). Spotify. Nov 2023 - Present 1 year 5 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CMO",
+        "Present"
+      ],
+      "source": "LinkedIn · Nishma Patel Robb 🪩⚡️"
+    },
+    {
+      "position": 68,
+      "title": "Andrew Rose - SoSafe",
+      "link": "https://uk.linkedin.com/in/andrewrose1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrewrose1&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCLoCEAE",
+      "displayed_link": "8.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d1fcb0bcbf75a95683d50a07f9306e962.png",
+      "snippet": "During its I/O conference, Google unveiled Google Drive for Work and Android ... CISO at Proofpoint. His industry knowledge, experience and passion was ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "SoSafe"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew Rose"
+    },
+    {
+      "position": 69,
+      "title": "Ellie Norman - Formula E",
+      "link": "https://uk.linkedin.com/in/ellietory",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ellietory&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCL0CEAE",
+      "displayed_link": "4.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4da2a9ba756dc5823fa4adf4a39bf1a4a2.png",
+      "snippet": "Formula E · Marketing Week Mini MBA with Mark Ritson · United Kingdom ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Formula E"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ellie Norman"
+    },
+    {
+      "position": 70,
+      "title": "Claire Hockin - Chief",
+      "link": "https://www.linkedin.com/in/claire-hockin-3424964",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/claire-hockin-3424964&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECEMQAQ",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dadde6cfd07696ac4938143ce8d105ede.png",
+      "snippet": "... CMO… ... By clicking Continue to join or sign in, you agree to LinkedIn's User Agreement, Privacy Policy, and Cookie Policy. Continue with GoogleContinue with ...",
+      "snippet_highlighted_words": [
+        "CMO",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Chief"
+          ]
+        }
+      },
+      "source": "LinkedIn · Claire Hockin"
+    },
+    {
+      "position": 71,
+      "title": "Stuart Seymour - Chief Information Security Officer (CISO)",
+      "link": "https://uk.linkedin.com/in/stuart-seymour-a4b7522",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stuart-seymour-a4b7522&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECEIQAQ",
+      "displayed_link": "5.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d250240f74ae082f05e9a154ed54561da.png",
+      "snippet": "Group Chief Information Security Officer CISO and CSO. Virgin Media O2. May 2023 - Present 1 year 11 months. London, England, United Kingdom. Responsible for ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer CISO",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "virgin_media_o": 2
+          },
+          "extensions": [
+            "Windsor, England, United Kingdom",
+            "Group Chief Information Security Officer CISO and CSO",
+            "Virgin Media O2"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stuart Seymour"
+    },
+    {
+      "position": 72,
+      "title": "Nick Prescot - LRQA - cybersecurity",
+      "link": "https://uk.linkedin.com/in/nickprescot",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nickprescot&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECEQQAQ",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d077d50b2754e52ff984c8b2e49d41235.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... London, United Kingdom. -. London, United Kingdom. -. London, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom",
+        "United Kingdom",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Windsor, England, United Kingdom",
+            "LRQA",
+            "cybersecurity"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Prescot"
+    },
+    {
+      "position": 73,
+      "title": "Benedetto Conversano - Mars",
+      "link": "https://uk.linkedin.com/in/benedettoconversano",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/benedettoconversano&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECEcQAQ",
+      "displayed_link": "12.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d3cb957f53cf573c773fffb3775663f36.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... cio-do-ano-trabalham-na-fct-primavera-bss-e-jeronimo-martins/. Retail ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "cio"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Mars"
+          ]
+        }
+      },
+      "source": "LinkedIn · Benedetto Conversano"
+    },
+    {
+      "position": 74,
+      "title": "Craig McEwen - British Army",
+      "link": "https://uk.linkedin.com/in/craigjmcewen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/craigjmcewen&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECEgQAQ",
+      "displayed_link": "4.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d38a84c54d407c526bc27d28f54e83b5e.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Andover, England, United Kingdom. -. London, England, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "British Army"
+          ]
+        }
+      },
+      "source": "LinkedIn · Craig McEwen"
+    },
+    {
+      "position": 75,
+      "title": "Colin Shenoy - Diageo",
+      "link": "https://uk.linkedin.com/in/colinshenoy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/colinshenoy&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECGMQAQ",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dcee32cc2d4697e755a45710a4ecea39f.png",
+      "snippet": "... CIO and business leader with a rich career spanning Blue Chip and Private… · Experience: Diageo · Education: University of York · Location: United Kingdom ...",
+      "snippet_highlighted_words": [
+        "CIO",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Diageo"
+          ]
+        }
+      },
+      "source": "LinkedIn · Colin Shenoy"
+    },
+    {
+      "position": 76,
+      "title": "Tash. Norris - Chief Information Security Officer - Zopa Bank",
+      "link": "https://uk.linkedin.com/in/tashnorris",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tashnorris&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECF8QAQ",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d6a1db1ca23b3cac23428fc723309b0fa.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Tash. Norris ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Tash. Norris"
+    },
+    {
+      "position": 77,
+      "title": "John Abel - Proofpoint",
+      "link": "https://www.linkedin.com/in/johnabelus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/johnabelus&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECEYQAQ",
+      "displayed_link": "4.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d08550d349cec15ee5b938fb3e2bce2fc.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... The Awards are presented annually by the Bay Area CIO Leadership ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "CIO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Proofpoint"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Abel"
+    },
+    {
+      "position": 78,
+      "title": "Siobhan Smyth - Avanos Medical",
+      "link": "https://www.linkedin.com/in/siobhan-smyth-915488",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/siobhan-smyth-915488&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECGAQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4df5c55bbacf6b06ae22dae9ac69de5638.png",
+      "snippet": "Versatile IT executive with global CIO and CISO experience. Proven ability ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "CIO",
+        "CISO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta, Georgia, United States",
+            "Avanos Medical"
+          ]
+        }
+      },
+      "source": "LinkedIn · Siobhan Smyth"
+    },
+    {
+      "position": 79,
+      "title": "Paul W. - Information Security Forum",
+      "link": "https://uk.linkedin.com/in/paulewatts",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paulewatts&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCLQBEAE",
+      "displayed_link": "4.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dbc3b82b1efa15fee08d5e45207783702.png",
+      "snippet": "Paul W. Information Security Forum. Milton Keynes, England, United Kingdom ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Milton Keynes, England, United Kingdom",
+            "Information Security Forum"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul W."
+    },
+    {
+      "position": 80,
+      "title": "Yael Gomez - Fractional Chief Technology ...",
+      "link": "https://www.linkedin.com/in/yael-gomez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/yael-gomez&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECGQQAQ",
+      "displayed_link": "9.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d26b1fcd71769d89ee79733050b2c8b80.png",
+      "snippet": "Chief Information Officer | Senior Technology Leader | Chief Technology Officer | CTO | CIO ... Continue with GoogleContinue with Google. New to LinkedIn ...",
+      "snippet_highlighted_words": [
+        "Chief Information Officer",
+        "CIO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Chicago Area",
+            "Fractional Chief Technology, Chief Information Officer and Senior Technology Executive",
+            "Self-employed"
+          ]
+        }
+      },
+      "source": "LinkedIn · Yael Gomez"
+    },
+    {
+      "position": 81,
+      "title": "Julie Woods-Moss - Chair Of The Board Of Directors",
+      "link": "https://uk.linkedin.com/in/juliewoodsmoss",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/juliewoodsmoss&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCMoBEAE",
+      "displayed_link": "10.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d65b6d087e01649520bb24c445da25b22.png",
+      "snippet": "... CMO in the world by Forbes in 2017 and one of the 50 inspiring women in ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "CMO",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Julie Woods-Moss"
+    },
+    {
+      "position": 82,
+      "title": "Bruce Mitchell - Comerica Bank",
+      "link": "https://www.linkedin.com/in/bruce-mitchell-5113996",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bruce-mitchell-5113996&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECHsQAQ",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4db6676ca816170c45e2aaa53577273eab.png",
+      "snippet": "Bruce is a transformational Chief Information Officer with global experience leading… · ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Chief Information Officer",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Detroit Metropolitan Area",
+            "Comerica Bank"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bruce Mitchell"
+    },
+    {
+      "position": 83,
+      "title": "Chris B. - Group Chief Information Security Officer - Ki",
+      "link": "https://uk.linkedin.com/in/chris-b-9438191",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chris-b-9438191&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECHkQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d02ccc6e959c1c0dd4ec933fafb52decd.png",
+      "snippet": "Chris B. Experienced Global CISO | ExCo Technology Leader | Board Advisor. Ki University of Glamorgan. United Kingdom.",
+      "snippet_highlighted_words": [
+        "CISO",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Group Chief Information Security Officer",
+            "Ki"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris B."
+    },
+    {
+      "position": 84,
+      "title": "Richard M. - Chief Information Security Officer - Nuclear ...",
+      "link": "https://uk.linkedin.com/in/richard-m-7235158",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/richard-m-7235158&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECHgQAQ",
+      "displayed_link": "340+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d3a5ff48fb68693ed00fc3d5d6eb7b9f4.png",
+      "snippet": "Highly experienced CISO, Special Cyber Advisor · Experience: Nuclear Industry · Education: University of East London · Location: United Kingdom · 347 ...",
+      "snippet_highlighted_words": [
+        "CISO",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Chief Information Security Officer",
+            "Nuclear Industry"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard M."
+    },
+    {
+      "position": 85,
+      "title": "Greg Day - Cybereason",
+      "link": "https://uk.linkedin.com/in/gregday",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gregday&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCIACEAE",
+      "displayed_link": "11.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4de9990fcb7d55ccf039c8bf5cbefb5dfd.png",
+      "snippet": "Experience: Cybereason · Education: Portsmouth University · Location: United Kingdom ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Cybereason"
+          ]
+        }
+      },
+      "source": "LinkedIn · Greg Day"
+    },
+    {
+      "position": 86,
+      "title": "Dan Hammond, Squadify - Chief Product Officer",
+      "link": "https://uk.linkedin.com/in/dan-hammond-squadify-05b6008",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/dan-hammond-squadify-05b6008&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECH4QAQ",
+      "displayed_link": "4.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d00bc7eb9a4293ea5950ef3bbc2cdddc8.png",
+      "snippet": "Chief Product Officer. Squadify. Jan 2019 - Present 6 years 3 months. United Kingdom. Organisational ...",
+      "snippet_highlighted_words": [
+        "Chief Product Officer",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ilkley, England, United Kingdom",
+            "Chief Product Officer",
+            "Squadify"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dan Hammond, Squadify"
+    },
+    {
+      "position": 87,
+      "title": "Katherine Wetmur - Morgan Stanley",
+      "link": "https://www.linkedin.com/in/katherine-wetmur-9399744",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katherine-wetmur-9399744&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECH8QAQ",
+      "displayed_link": "5.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d4f8a295c706b0c4f957a3b3b16e84356.png",
+      "snippet": "When expanded it provides a list of search options that will switch the search inputs to match the current selection. ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "current",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Morgan Stanley"
+          ]
+        }
+      },
+      "source": "LinkedIn · Katherine Wetmur"
+    },
+    {
+      "position": 88,
+      "title": "Sarah Whipp - Elliptic",
+      "link": "https://uk.linkedin.com/in/sarahwhipp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sarahwhipp&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJgBEAE",
+      "displayed_link": "8.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d86c36e8d547dd1f6f1bb8f431c50b450.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... “Sarah has worked for me for a year as Chief Marketing Officer for Platts.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Chief Marketing Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Elliptic"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Whipp"
+    },
+    {
+      "position": 89,
+      "title": "Tricia Weener - Chief Marketing & Business Development ...",
+      "link": "https://uk.linkedin.com/in/tricia-weener",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tricia-weener&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJcBEAE",
+      "displayed_link": "6.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d414a4ebe18e045ba2eb42923c5ac4c3d.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Tricia Weener's ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Tricia Weener"
+    },
+    {
+      "position": 90,
+      "title": "Mustafa Suleyman - CEO, Microsoft AI",
+      "link": "https://www.linkedin.com/in/mustafa-suleyman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mustafa-suleyman&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJoBEAE",
+      "displayed_link": "308K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d3f4f8d798e5f5efdbdd5e752f184b334.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... London, United Kingdom. DeepMind Graphic. Co-founder & Chief Product Officer.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom",
+        "Chief Product Officer"
+      ],
+      "source": "LinkedIn · Mustafa Suleyman"
+    },
+    {
+      "position": 91,
+      "title": "Scott Roberts - UiPath",
+      "link": "https://www.linkedin.com/in/scottroberts6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/scottroberts6&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJYBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d62ed4ddd53178dfb6613155eda454385.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... London, England, United Kingdom. -. -. -. Kirkland, WA. -. Seatlle, WA ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "UiPath"
+          ]
+        }
+      },
+      "source": "LinkedIn · Scott Roberts"
+    },
+    {
+      "position": 92,
+      "title": "Matthew Bull - Elanco",
+      "link": "https://uk.linkedin.com/in/mswbull",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mswbull&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJUBEAE",
+      "displayed_link": "9.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d432a90718db34122d34e82cc0336c742.png",
+      "snippet": "I am the Chief Technology Officer (CTO) and Chief Information Security Officer (CISO) at… · ... Continue with GoogleContinue with Google. New to LinkedIn ...",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer",
+        "CISO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hook, England, United Kingdom",
+            "Elanco"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthew Bull"
+    },
+    {
+      "position": 93,
+      "title": "Geoff Seeley - PayPal",
+      "link": "https://www.linkedin.com/in/geoff-seeley-aa9b319",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/geoff-seeley-aa9b319&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCJsBEAE",
+      "displayed_link": "5.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dc1c4e3e0acb347a0b5eb2b008e65d9dc.png",
+      "snippet": "London, United Kingdom. -. -. -. -. -. -. - ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "PayPal"
+          ]
+        }
+      },
+      "source": "LinkedIn · Geoff Seeley"
+    },
+    {
+      "position": 94,
+      "title": "Sara Jurmain Richter - Emarsys",
+      "link": "https://uk.linkedin.com/in/sarajrichter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sarajrichter&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCLIBEAE",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dd4c593c5555a4e5571fc38e500d29d0e.png",
+      "snippet": "Sara Jurmain Richter. Emarsys. Henley-On-Thames, England, United Kingdom ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Henley-On-Thames, England, United Kingdom",
+            "Emarsys"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sara Jurmain Richter"
+    },
+    {
+      "position": 95,
+      "title": "Phillip R. - Deputy Chief Information Security Officer",
+      "link": "https://uk.linkedin.com/in/phillip-r-4b12b646",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/phillip-r-4b12b646&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoFCLUBEAE",
+      "displayed_link": "860+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d270646154ade4f877776ac490588ab89.png",
+      "snippet": "Deputy Chief Information Security Officer at Trimble Inc. · Trimble Inc. · Ormiston Academy · Greater Ipswich Area · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Chief Information Security Officer"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Ipswich Area",
+            "Deputy Chief Information Security Officer",
+            "Trimble Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Phillip R."
+    },
+    {
+      "position": 96,
+      "title": "Ismael Diego - Vice President Information Security - Cognism",
+      "link": "https://uk.linkedin.com/in/ismael-diego-07a4b5129",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ismael-diego-07a4b5129&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECCsQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d33d1ac031a8146d782765f70fd24e8c2.png",
+      "snippet": "Vice President, Information Security (CISO) · · Experience: Cognism · Location: United Kingdom · 500+ connections on LinkedIn ... Continue with GoogleContinue ...",
+      "snippet_highlighted_words": [
+        "CISO",
+        "United Kingdom",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Vice President Information Security",
+            "Cognism"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ismael Diego"
+    },
+    {
+      "position": 97,
+      "title": "Pete Marsden - Sainsbury's",
+      "link": "https://uk.linkedin.com/in/petemarsden",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/petemarsden&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECC4QAQ",
+      "displayed_link": "4.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4da6a6d0c4e35bd3b45f6d4a7227d20c4e.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... London, United Kingdom. -. London, United Kingdom. -. Hoxton. -. London ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cambridge, England, United Kingdom",
+            "Sainsbury's"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pete Marsden"
+    },
+    {
+      "position": 98,
+      "title": "Andrew M. - Chief Information Officer (CIO) - Zodia Custody",
+      "link": "https://uk.linkedin.com/in/andrew-m-1aa9347b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrew-m-1aa9347b&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECCgQAQ",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4d8a7e83bb2e4c2ad705b7b886ad217c12.png",
+      "snippet": "Experience ; Chief Information Officer (CIO). Zodia Custody. Jul 2024 ; CISO & Board Member. Komainu. Sep 2019 ; Global Head - Cyber Defence. Banco Santander. Sep ...",
+      "snippet_highlighted_words": [
+        "Chief Information Officer",
+        "CIO",
+        "CISO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Chief Information Officer (CIO)",
+            "Zodia Custody"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrew M."
+    },
+    {
+      "position": 99,
+      "title": "Shan Lee - DocPlanner",
+      "link": "https://uk.linkedin.com/in/shanlee",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/shanlee&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECCkQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4dab5d460f45d91bb62e1639652c6ebfe0.png",
+      "snippet": "Shan Lee. DocPlanner. London, England, United Kingdom. 1K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "DocPlanner"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shan Lee"
+    },
+    {
+      "position": 100,
+      "title": "Nick F. - Chief Marketing Officer - Mendix",
+      "link": "https://uk.linkedin.com/in/nick-f-4856a19",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nick-f-4856a19&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQFnoECCcQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e595dc121ba52865bd/images/9fbae70ddd7ac89ce3ed4e7653895e4de4c2562b95fdc7467d10e95742fe45f2.png",
+      "snippet": "Chief Marketing Officer (CMO) @ Mendix CGO | SaaS | Cloud | Low Code | New ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Chief Marketing Officer",
+        "CMO",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Chief Marketing Officer",
+            "Mendix"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick F."
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=5fndZ9blLZbm1e8PqNPumQU&start=100&sa=N&sstk=Af40H4X_aXQAWNy8Gkpsprbzbh0nwnalc_fkTSozlgT2cLEelc8mUFiJH1p706l4g1Mofr4ZIWkoQ1arLL91yfBa084PsErs0y7S5w&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQ8NMDegUIswIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=5fndZ9blLZbm1e8PqNPumQU&start=100&sa=N&sstk=Af40H4X_aXQAWNy8Gkpsprbzbh0nwnalc_fkTSozlgT2cLEelc8mUFiJH1p706l4g1Mofr4ZIWkoQ1arLL91yfBa084PsErs0y7S5w&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQ8tMDegUIswIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=5fndZ9blLZbm1e8PqNPumQU&start=200&sa=N&sstk=Af40H4X_aXQAWNy8Gkpsprbzbh0nwnalc_fkTSozlgT2cLEelc8mUFiJH1p706l4g1Mofr4ZIWkoQ1arLL91yfBa084PsErs0y7S5w&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQ8tMDegUIswIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=5fndZ9blLZbm1e8PqNPumQU&start=300&sa=N&sstk=Af40H4X_aXQAWNy8Gkpsprbzbh0nwnalc_fkTSozlgT2cLEelc8mUFiJH1p706l4g1Mofr4ZIWkoQ1arLL91yfBa084PsErs0y7S5w&ved=2ahUKEwiW7IezrZyMAxUWc_UHHaipO1MQ8tMDegUIswIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CIO%22+OR+%22Chief+Information+Officer%22+OR+%22CISO%22+OR+%22Chief+Information+Security+Officer%22+OR+%22CMO%22+OR+%22Chief+Marketing+Officer%22+OR+%22CPO%22+OR+%22Chief+Product+Officer%22%29&start=300"
+    }
+  }
+}

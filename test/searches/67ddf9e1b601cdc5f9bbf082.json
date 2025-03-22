@@ -1,0 +1,320 @@
+{
+  "search_metadata": {
+    "id": "67ddf9e1b601cdc5f9bbf082",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/df728f98c38e5670/67ddf9e1b601cdc5f9bbf082.json",
+    "created_at": "2025-03-21 23:44:33 UTC",
+    "processed_at": "2025-03-21 23:44:33 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/df728f98c38e5670/67ddf9e1b601cdc5f9bbf082.html",
+    "total_time_taken": 1.64
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"United Kingdom\" AND (current OR present) AND (\"CEO\" OR \"Chief Executive Officer\" OR \"CFO\" OR \"Chief Financial Officer\" OR \"CTO\" OR \"Chief Technology Officer\" OR \"COO\" OR \"Chief Operating Officer\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"United Kingdom\" AND (current OR present) AND (\"CEO\" OR \"Chief Executive Officer\" OR \"CFO\" OR \"Chief Financial Officer\" OR \"CTO\" OR \"Chief Technology Officer\" OR \"COO\" OR \"Chief Operating Officer\")",
+    "total_results": 30300000,
+    "time_taken_displayed": 0.6,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Debbie W. - Google | LinkedIn",
+      "link": "https://uk.linkedin.com/in/debbie-w-62b2a44",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/debbie-w-62b2a44&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQFnoECBkQAQ",
+      "displayed_link": "32.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e1b601cdc5f9bbf082/images/f8ab76a0c6d495aada3426492afff3c057a1d90a972420363bb8605e0a03dfe1.png",
+      "snippet": "Debbie W. Debbie W. is an influencer. Google Harvard Business School. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Debbie W."
+    },
+    {
+      "position": 2,
+      "title": "Lila Ibrahim - Chief Operating Officer - Google DeepMind",
+      "link": "https://uk.linkedin.com/in/librahim",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/librahim&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQFnoECBYQAQ",
+      "displayed_link": "50.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e1b601cdc5f9bbf082/images/f8ab76a0c6d495aada3426492afff3c06c3966edbc410ea7ea27de051fff4129.png",
+      "snippet": "Lila Ibrahim is an influencer. COO, Google DeepMind. Google DeepMind Purdue University. United Kingdom. 51K followers ...",
+      "snippet_highlighted_words": [
+        "COO",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Chief Operating Officer",
+            "Google DeepMind"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lila Ibrahim"
+    },
+    {
+      "position": 3,
+      "title": "Adam Newman - Chief Operating Officer - Google",
+      "link": "https://uk.linkedin.com/in/adam-newman-14110017a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/adam-newman-14110017a&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQFnoECBsQAQ",
+      "displayed_link": "2 followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e1b601cdc5f9bbf082/images/f8ab76a0c6d495aada3426492afff3c00ec996470e4dcc8beaf0c5da325a0cd7.png",
+      "snippet": "Chief Operating Officer at Google · Experience: Google · Location: London Area, United Kingdom. View Adam Newman's profile on LinkedIn, a professional ...",
+      "snippet_highlighted_words": [
+        "Chief Operating Officer",
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Chief Operating Officer",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Newman"
+    },
+    {
+      "position": 4,
+      "title": "John Abel - Google",
+      "link": "https://uk.linkedin.com/in/joabel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/joabel&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQFnoECBcQAQ",
+      "displayed_link": "16.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e1b601cdc5f9bbf082/images/f8ab76a0c6d495aada3426492afff3c0c11fe512a4d46bdd7716438a8af81e58.png",
+      "snippet": "John Abel. Google FT Board Director Programme. London, England, United Kingdom ... I am a Senior Technical Director in the Office of the CTO. My work has ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom",
+        "CTO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Abel"
+    },
+    {
+      "position": 5,
+      "title": "Matt Brittin - London, England, United Kingdom",
+      "link": "https://uk.linkedin.com/in/matt-brittin-5aa6391",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matt-brittin-5aa6391&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQFnoECB0QAQ",
+      "displayed_link": "52.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e1b601cdc5f9bbf082/images/f8ab76a0c6d495aada3426492afff3c0e76843b4b44103ea837b1b722c765ee6.png",
+      "snippet": "Matt Brittin is an influencer. Outgoing President of Google EMEA. Helping build tech that makes the world better. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Matt Brittin"
+    },
+    {
+      "position": 6,
+      "title": "James Cotton - Senior Finance Director, Google",
+      "link": "https://uk.linkedin.com/in/james-cotton-7716751b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/james-cotton-7716751b&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQFnoECBoQAQ",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e1b601cdc5f9bbf082/images/f8ab76a0c6d495aada3426492afff3c011d15bcc38bf881c2788fffffa088444.png",
+      "snippet": "James Cotton. Senior Finance Director, Google. Google University of Exeter. Greater London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Senior Finance Director, Global Business Organisation",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Cotton"
+    },
+    {
+      "position": 7,
+      "title": "Alex Okosi - Google",
+      "link": "https://uk.linkedin.com/in/alex-okosi-7299289",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alex-okosi-7299289&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQFnoECDwQAQ",
+      "displayed_link": "21.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e1b601cdc5f9bbf082/images/f8ab76a0c6d495aada3426492afff3c0a1e7e34f2e6df7c61c56ce8e98464eca.png",
+      "snippet": "Alex Okosi. Google Saint Michael's College. London, England, United Kingdom. 22K followers 500 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alex Okosi"
+    },
+    {
+      "position": 8,
+      "title": "Ben McCormack - Google",
+      "link": "https://www.linkedin.com/in/ben-mccormack",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ben-mccormack&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQFnoECDMQAQ",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e1b601cdc5f9bbf082/images/f8ab76a0c6d495aada3426492afff3c0926d767fc71766eae4ab9a68011ccd3e.png",
+      "snippet": "Slough, United Kingdom. -. Slough, United Kingdom. -. -. Licenses ... This book contains practical examples from Google's experiences and case studies from ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "United Kingdom",
+        "Google's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben McCormack"
+    },
+    {
+      "position": 9,
+      "title": "Greta Krupetsky - Non Executive Director - Thought Machine",
+      "link": "https://uk.linkedin.com/in/gretakrupetsky",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gretakrupetsky&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQFnoECCoQAQ",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e1b601cdc5f9bbf082/images/f8ab76a0c6d495aada3426492afff3c08ae04dfb171ce63d22c6d2b7974af061.png",
+      "snippet": "Greta Krupetsky. Chief Operating Officer, Google Cloud Go to Market. Thought Machine Spring Garden College. United Kingdom.",
+      "snippet_highlighted_words": [
+        "Chief Operating Officer",
+        "Google",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Greta Krupetsky"
+    },
+    {
+      "position": 10,
+      "title": "Keith Grose - London, England, United Kingdom",
+      "link": "https://uk.linkedin.com/in/keithgrose",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/keithgrose&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQFnoECC0QAQ",
+      "displayed_link": "10.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e1b601cdc5f9bbf082/images/f8ab76a0c6d495aada3426492afff3c052488c222c8eec2bcb98519896ba5ea9.png",
+      "snippet": "Keith Grose. London, England, United Kingdom. 10K followers 500+ ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Keith Grose"
+    },
+    {
+      "position": 11,
+      "title": "Kevin Mathers - Accenture Song",
+      "link": "https://uk.linkedin.com/in/kevin-mathers-40b276",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kevin-mathers-40b276&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQFnoECDEQAQ",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e1b601cdc5f9bbf082/images/f8ab76a0c6d495aada3426492afff3c02e36118dcec3d71363308d4fe117b4fa.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... London, United Kingdom. -. -. London, United Kingdom. -. London, United ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom",
+        "United Kingdom",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Accenture Song"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin Mathers"
+    },
+    {
+      "position": 12,
+      "title": "Vicki Gostling - Chief of Staff - Google",
+      "link": "https://uk.linkedin.com/in/vicki-gostling-74ab9029",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/vicki-gostling-74ab9029&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQFnoECCwQAQ",
+      "displayed_link": "60+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e1b601cdc5f9bbf082/images/f8ab76a0c6d495aada3426492afff3c0e698bb75a046aa04d0bd8e21b1458254.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn ... London, England, United Kingdom. Mulberry England Graphic. Executive Assistant to founder and CEO.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "United Kingdom",
+        "CEO"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Chief of Staff",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vicki Gostling"
+    },
+    {
+      "position": 13,
+      "title": "Demis Hassabis - Founder & CEO - Isomorphic Labs",
+      "link": "https://uk.linkedin.com/in/demishassabis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/demishassabis&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQFnoECC8QAQ",
+      "displayed_link": "93.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9e1b601cdc5f9bbf082/images/f8ab76a0c6d495aada3426492afff3c037eda25604066e6881ff5d5edf2f6872.png",
+      "snippet": "Co-Founder & CEO, Google DeepMind. Isomorphic Labs University College London, U. of London. Greater London, England, United Kingdom. 94K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "CEO",
+        "Google",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Demis Hassabis"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=4vndZ8GTBPPi2roPy_TfkAQ&start=100&sa=N&sstk=Af40H4UYd9YWk2-mtjKK0KSddRUOuUhOB_Vj6eSSZtu_-n2Te8EsbxZK_tuUPwRRETQ2_ONkHS71cCafvkJaTAxT-_OsetNNpusO9g&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQ8NMDegQIChAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=4vndZ8GTBPPi2roPy_TfkAQ&start=100&sa=N&sstk=Af40H4UYd9YWk2-mtjKK0KSddRUOuUhOB_Vj6eSSZtu_-n2Te8EsbxZK_tuUPwRRETQ2_ONkHS71cCafvkJaTAxT-_OsetNNpusO9g&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQ8tMDegQIChAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=4vndZ8GTBPPi2roPy_TfkAQ&start=200&sa=N&sstk=Af40H4UYd9YWk2-mtjKK0KSddRUOuUhOB_Vj6eSSZtu_-n2Te8EsbxZK_tuUPwRRETQ2_ONkHS71cCafvkJaTAxT-_OsetNNpusO9g&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQ8tMDegQIChAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=4vndZ8GTBPPi2roPy_TfkAQ&start=300&sa=N&sstk=Af40H4UYd9YWk2-mtjKK0KSddRUOuUhOB_Vj6eSSZtu_-n2Te8EsbxZK_tuUPwRRETQ2_ONkHS71cCafvkJaTAxT-_OsetNNpusO9g&ved=2ahUKEwjBjKexrZyMAxVzsVYBHUv6F0IQ8tMDegQIChAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22CEO%22+OR+%22Chief+Executive+Officer%22+OR+%22CFO%22+OR+%22Chief+Financial+Officer%22+OR+%22CTO%22+OR+%22Chief+Technology+Officer%22+OR+%22COO%22+OR+%22Chief+Operating+Officer%22%29&start=300"
+    }
+  }
+}

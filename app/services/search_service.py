@@ -7,6 +7,7 @@ from tenacity import retry, stop_after_attempt, wait_exponential
 
 from app.models.api import SearchResult
 from app.utils.config import settings
+from app.utils.mock import MockUtils
 
 logger = logging.getLogger(__name__)
 
@@ -36,6 +37,29 @@ class SearchService:
         """
         logger.info(f"Executing search: {query}")
         
+        # Check if mock mode is enabled
+        if settings.MOCK_MODE:
+            logger.info("Using mock search results")
+            mock_results = MockUtils.load_mock_search_results(query)
+            
+            # Convert mock results to SearchResult objects
+            linkedin_results = []
+            for result in mock_results:
+                url = result.get("link", "")
+                if not url or not self.validate_linkedin_url(url):
+                    continue
+                    
+                linkedin_results.append(
+                    SearchResult(
+                        title=result.get("title", ""),
+                        url=url,
+                        snippet=result.get("snippet", "")
+                    )
+                )
+            
+            return linkedin_results
+            
+        # Real API call
         params = {
             "api_key": self.api_key,
             "engine": "google",

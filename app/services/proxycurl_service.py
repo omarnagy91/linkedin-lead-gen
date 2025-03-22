@@ -9,6 +9,7 @@ from tenacity import retry, stop_after_attempt, wait_exponential
 
 from app.models.api import EnrichmentResult
 from app.utils.config import settings
+from app.utils.mock import MockUtils
 
 logger = logging.getLogger(__name__)
 
@@ -38,6 +39,12 @@ class ProxyCurlService:
         """
         logger.info(f"Getting company profile: {linkedin_url}")
         
+        # Check if mock mode is enabled
+        if settings.MOCK_MODE:
+            logger.info(f"Using mock company profile for {linkedin_url}")
+            return MockUtils.load_mock_company_profile(linkedin_url)
+        
+        # Real API call
         params = {
             'url': linkedin_url,
             'use_cache': 'if-present',  # Use cache if available
@@ -82,6 +89,12 @@ class ProxyCurlService:
         """
         logger.info(f"Enriching profile: {linkedin_url}")
         
+        # Check if mock mode is enabled
+        if settings.MOCK_MODE:
+            logger.info(f"Using mock profile for {linkedin_url}")
+            return MockUtils.load_mock_profile(linkedin_url)
+        
+        # Real API call
         params = {
             'linkedin_profile_url': linkedin_url,
             'use_cache': 'if-present',  # Use cache if available

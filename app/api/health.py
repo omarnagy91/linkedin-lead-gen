@@ -36,6 +36,7 @@ async def health_check() -> Dict[str, str]:
         return {
             "status": status_value,
             "database": db_health,
+            "mock_mode": str(settings.MOCK_MODE),
             "version": "1.0.0"
         }
     

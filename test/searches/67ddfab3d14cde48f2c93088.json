@@ -1,0 +1,2337 @@
+{
+  "search_metadata": {
+    "id": "67ddfab3d14cde48f2c93088",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/560411d63eb880e7/67ddfab3d14cde48f2c93088.json",
+    "created_at": "2025-03-21 23:48:03 UTC",
+    "processed_at": "2025-03-21 23:48:03 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/560411d63eb880e7/67ddfab3d14cde48f2c93088.html",
+    "total_time_taken": 3.02
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Amazon\" AND \"United Kingdom\" AND (current OR present) AND (\"Architect\" OR \"Senior Architect\" OR \"Principal Architect\" OR \"Solution Architect\" OR \"Principal\" OR \"Senior Principal\" OR \"Executive\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Amazon\" AND \"United Kingdom\" AND (current OR present) AND (\"Architect\" OR \"Senior Architect\" OR \"Principal Architect\" OR \"Solution Architect\" OR \"Principal\" OR \"Senior Principal\" OR \"Executive\")",
+    "total_results": 4530000,
+    "time_taken_displayed": 1.05,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Kevin Phillips - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/kevinphillips81",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kevinphillips81&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECAkQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a22639baeb9f5dcdbbb6879290859f4c92.png",
+      "snippet": "Kevin Phillips. Sr. Specialist Solutions Architect - Amazon Neptune. Amazon Web Services (AWS). Brentwood, England, United Kingdom. 1K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brentwood, England, United Kingdom",
+            "Amazon Neptune Sr Specialist Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kevin Phillips"
+    },
+    {
+      "position": 2,
+      "title": "Prasad Rao - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/kprasadrao",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kprasadrao&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECBoQAQ",
+      "displayed_link": "37.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a24a3f3b0a618bd3dcc2422b3f53919994.png",
+      "snippet": "I'm Principal Partner Solutions Architect at AWS. I work with AWS Partners for their… · Experience: Amazon Web Services (AWS) · Education: HBTI Kanpur ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Prasad Rao"
+    },
+    {
+      "position": 3,
+      "title": "Stephen S. - Senior Solutions Architect - Amazon Web ...",
+      "link": "https://uk.linkedin.com/in/stephen-s-80760625",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stephen-s-80760625&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECBkQAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2ff5618f5f0e64c66615c59a4a19fc662.png",
+      "snippet": "Senior Solutions Architect at Amazon Web Services (AWS) · Principal ... E-Commerce Support & Testing Executive. JD Sports Fashion plc. Mar 2011 - May 2012 1 ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Principal",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Manchester, England, United Kingdom",
+            "Senior Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen S."
+    },
+    {
+      "position": 4,
+      "title": "Chris Swan - Solutions Architect @ AWS",
+      "link": "https://uk.linkedin.com/in/cjswanaws",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/cjswanaws&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECBcQAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2085cc15b1cc9f9a81dc9cea592e5c4eb.png",
+      "snippet": "Principal Solutions Architect @ AWS | Content Production. Amazon Web Services (AWS) Sheffield Hallam University. Cirencester, England, United Kingdom. 2K ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cirencester, England, United Kingdom",
+            "Principal Solutions Architect, Content Production",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Swan"
+    },
+    {
+      "position": 5,
+      "title": "Raphael Sack - Principal Solution Architect - Amazon ...",
+      "link": "https://uk.linkedin.com/in/rsack",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rsack&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECBYQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2330e2253c863ad5c547ac868b6986632.png",
+      "snippet": "Raphael Sack. Principal Solution Architect - Amazon Devices. Amazon University of Haifa. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Principal Solution Architect",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Solution Architect",
+            "Amazon Devices",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Raphael Sack"
+    },
+    {
+      "position": 6,
+      "title": "Andy Taylor - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/ataylor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ataylor&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECBgQAQ",
+      "displayed_link": "6.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a214f51d8333d500a5e7e5649152a93f34.png",
+      "snippet": "Andy Taylor. Amazon Web Services (AWS) ipSpace Building Network Automation Solutions course. Chessington, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Chessington, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andy Taylor"
+    },
+    {
+      "position": 7,
+      "title": "Chandana Keswarkar - Senior Solutions Architect",
+      "link": "https://www.linkedin.com/in/chandana-keswarkar-48144a8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chandana-keswarkar-48144a8&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECCkQAQ",
+      "displayed_link": "860+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2029ab9901e7d20dc04be2cb0cfa5c115.png",
+      "snippet": "Senior Solutions Architect at Amazon Web Services (AWS) · Amazon Web ... Solution Architect. Tag. Sep 2014 - Dec 2015 1 year 4 months. London, United ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "Solution Architect",
+        "United"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas-Fort Worth Metroplex",
+            "Senior Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chandana Keswarkar"
+    },
+    {
+      "position": 8,
+      "title": "Alan Peaty - Senior Partner Solutions Architect - Amazon ...",
+      "link": "https://uk.linkedin.com/in/alan-peaty-1326587a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/alan-peaty-1326587a&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECCYQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a212bbe765e8cc9df3f0f360d3b085a8f5.png",
+      "snippet": "Senior Partner Solutions Architect at Amazon Web Services (AWS) ... - Present technical strategies and roadmaps to executive audiences to drive value from their ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Present",
+        "executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Bristol Area, United Kingdom",
+            "Senior Partner Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alan Peaty"
+    },
+    {
+      "position": 9,
+      "title": "Ben Horner - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/benhorner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/benhorner&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCOcBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2a7aaa939e0853606a97b6db0d2d946d9.png",
+      "snippet": "Senior Solutions Architect at Amazon Web Services. Amazon Web Services (AWS). Manchester, England, United Kingdom. 1K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Manchester, England, United Kingdom",
+            "Senior Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Horner"
+    },
+    {
+      "position": 10,
+      "title": "Gary Emmerton - Solutions Architect - Amazon Web Services",
+      "link": "https://uk.linkedin.com/in/gary-emmerton",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gary-emmerton&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECCcQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2171d68b06e396badcf06084c51cef36c.png",
+      "snippet": "Gary Emmerton. Solutions Architect - Amazon Web Services. Amazon Web Services. Challock, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Challock, England, United Kingdom",
+            "Solutions Architect",
+            "Amazon Web Services"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gary Emmerton"
+    },
+    {
+      "position": 11,
+      "title": "Jamie Elliott Grossman - Senior Solutions Architect - Amazon",
+      "link": "https://uk.linkedin.com/in/jamiegrossman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jamiegrossman&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECH4QAQ",
+      "displayed_link": "680+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a234e99e5b2c9d4105ab14180b7d92555e.png",
+      "snippet": "Jamie Elliott Grossman. Senior Solutions Architect, Alexa at Amazon. Amazon The University of Hull. London, England, United Kingdom ... - Present 3 years 10 ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Solutions Architect",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jamie Elliott Grossman"
+    },
+    {
+      "position": 12,
+      "title": "Nick Smith - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/nick-smith-66a9b75",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nick-smith-66a9b75&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCOgBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a279029f1f02f88659f3485c295faa391f.png",
+      "snippet": "Experience. Amazon Web Services (AWS) Graphic. Principal Solutions Architect. Amazon Web Services (AWS). Jun 2019 - Present 5 years 10 months. United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Principal",
+        "Architect",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ipswich, England, United Kingdom",
+            "Principal Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Smith"
+    },
+    {
+      "position": 13,
+      "title": "Lawrie Williams - Solutions Architect - Amazon Web ...",
+      "link": "https://uk.linkedin.com/in/lawrie-williams-51b0b51b5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lawrie-williams-51b0b51b5&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCIMCEAE",
+      "displayed_link": "410+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2e747e6ea1fb18d5b3e3316cea7d0f647.png",
+      "snippet": "Solutions Architect at Amazon Web Services. Amazon Web Services (AWS) University of Surrey. London Area, United Kingdom. 410 followers 408 connections. See your ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lawrie Williams"
+    },
+    {
+      "position": 14,
+      "title": "Gerardo Rodriguez Visus - Senior Solutions Architect ...",
+      "link": "https://uk.linkedin.com/in/gerardorodriguezvisus/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gerardorodriguezvisus/en&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECCwQAQ",
+      "displayed_link": "990+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a26db432ec67475c97fb30c87217c4562d.png",
+      "snippet": "Solutions Architect at Amazon Pay · An experienced technical leader and solution architect, highly skilled in Web Solutions and CMS ... United Kingdom · 500+ ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "solution architect",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Senior Solutions Architect, Amazon Pay",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gerardo Rodriguez Visus"
+    },
+    {
+      "position": 15,
+      "title": "Julia Wyatt - Amazon",
+      "link": "https://uk.linkedin.com/in/wyattjulia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/wyattjulia&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECF0QAQ",
+      "displayed_link": "410+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a29f15c72ace84b2018d77cf3db0ce3a04.png",
+      "snippet": "I am an ARB-registered Architect with over 17 years of experience, including 13+ years… Experience. Amazon Graphic · Amazon. London, England, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julia Wyatt"
+    },
+    {
+      "position": 16,
+      "title": "Johnny Hanley - Cloud Optimization Success Solutions ...",
+      "link": "https://www.linkedin.com/in/johnnyhanley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/johnnyhanley&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJEBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a22598adae48630f4ee93e0f9d26e000a7.png",
+      "snippet": "Solutions Architect, Cloud Optimization - Amazon Web Services (AWS). Amazon Web Services (AWS) William & Mary. New Alresford, England, United Kingdom. 3K ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Johnny Hanley"
+    },
+    {
+      "position": 17,
+      "title": "Jonathan Jenkyn - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/jjenkyn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jjenkyn&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCLIBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a206a040f6b4a0ae2944d2c0c64c467b7a.png",
+      "snippet": "Jonathan Jenkyn. Senior Security Assurance Solution Architect at AWS. Amazon Web Services (AWS). Greater Ipswich Area.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Ipswich Area",
+            "Senior Security Assurance Solution Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Jenkyn"
+    },
+    {
+      "position": 18,
+      "title": "Neha Sharma - Amazon",
+      "link": "https://uk.linkedin.com/in/nehha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nehha&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCOYBEAE",
+      "displayed_link": "16.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2dfeae2176f11e4ded4293d7405e80935.png",
+      "snippet": "Neha Sharma. Amazon. London, England, United Kingdom. 16K followers ... As a Solutions Architect for the FireTV Appstore, I guide partners in developing and…",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Neha Sharma"
+    },
+    {
+      "position": 19,
+      "title": "Phil Le-Brun - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/phillebrun",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/phillebrun&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCP0BEAE",
+      "displayed_link": "11.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a27c130907b521a11e9e0b92a8e0254359.png",
+      "snippet": "Amazon Web Services Solutions Architect Associate. Amazon Web Services (AWS) ... UK CIO Executive Summit. Governing Body Member. 2017 - 2019. CIO Executive ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Architect",
+        "Amazon",
+        "Executive",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Phil Le-Brun"
+    },
+    {
+      "position": 20,
+      "title": "Joy A. - Solutions Architect - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/joy-a-b9658411b?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/joy-a-b9658411b%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCIUCEAE",
+      "displayed_link": "870+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2926ef00240d760d25d9b89ec4917b5af.png",
+      "snippet": "Cloud Solution Architect · Experience: Amazon Web Services (AWS) · Location: United Kingdom · 500+ connections on LinkedIn ... Jun 2023 - Present 1 year 9 months.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Amazon",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joy A."
+    },
+    {
+      "position": 21,
+      "title": "Arpit Shah - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/arpitshah-cloud",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/arpitshah-cloud&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJ8CEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a28cc4f4245d012167834b337c502b97ab.png",
+      "snippet": "Senior Architect at Amazon Web Services (AWS) · Experience: Amazon Web ... 4 years. London, United Kingdom. Technical lead for designing, implementing ...",
+      "snippet_highlighted_words": [
+        "Senior Architect",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Arpit Shah"
+    },
+    {
+      "position": 22,
+      "title": "Dave Walters - Director of Cloud and Data Engineering",
+      "link": "https://uk.linkedin.com/in/dave-walters-0837724",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/dave-walters-0837724&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECCoQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a23b9cdaeee61a6adf7f6a1b51020529de.png",
+      "snippet": "Jan 2025 - Present 3 months. Manchester, England, United Kingdom. Amazon Web Services (AWS) Graphic. Senior Solutions Architect. Amazon Web Services (AWS). Mar ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "Amazon",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Runcorn, England, United Kingdom",
+            "Director of Cloud and Data Engineering",
+            "CreateFuture"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dave Walters"
+    },
+    {
+      "position": 23,
+      "title": "David John Chakram - Principal Solutions Architect at ...",
+      "link": "https://in.linkedin.com/in/david-john-chakram-09aa75142",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/david-john-chakram-09aa75142&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECEUQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a298b925f8c43e9dba8561dc632ab3286b.png",
+      "snippet": "David John Chakram. Principal Architect at Amazon Web Services (AWS). Amazon Web Services (AWS) Indian School of Business ...",
+      "snippet_highlighted_words": [
+        "Principal Architect",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hyderabad, Telangana, India",
+            "Principal Solutions Architect at Amazon Web Services (AWS)",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · David John Chakram"
+    },
+    {
+      "position": 24,
+      "title": "Apeksha Jain - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/apekshajain15",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/apekshajain15&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECF8QAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a283fd15010ab9daf37e65d420df72745f.png",
+      "snippet": "London, United Kingdom. -. Vancouver, British Columbia, Canada. -. Belfast ... AWS Certified Solutions Architect - Professional · Amazon Web Services (AWS).",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Apeksha Jain"
+    },
+    {
+      "position": 25,
+      "title": "Tom N. - Enterprise Solutions Architect - Amazon",
+      "link": "https://uk.linkedin.com/in/tom-n-9b20411",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tom-n-9b20411&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECHcQAQ",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a27630579c18bc8d8a9c3efb507eb51d78.png",
+      "snippet": "Enterprise Solutions Architect at Amazon · Experience: Amazon · Location: United Kingdom · 500+ connections on LinkedIn ... Solution Architect/Technical Lead.",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Amazon",
+        "United Kingdom",
+        "Solution Architect"
+      ],
+      "source": "LinkedIn · Tom N."
+    },
+    {
+      "position": 26,
+      "title": "Ashutosh Pateriya - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/ashutoshpateriya",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ashutoshpateriya&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJIBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a20f5539bc7d735c8fbca3ff8db5a6c746.png",
+      "snippet": "AWS Certified Solution Architect - Associate Graphic. AWS Certified Solution Architect - Associate. Amazon Web Services · CCIP Graphic. CCIP. Cisco · CCNA ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Solution Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ashutosh Pateriya"
+    },
+    {
+      "position": 27,
+      "title": "Carlos Rodrigues - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/carlosrodrigues5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/carlosrodrigues5&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJkBEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2fdc43a6fc80bc453d8c857bee8f64ff5.png",
+      "snippet": "whoami I am a highly self-motivated person with a deep interest in Tech and… · Amazon Web Services (AWS) · United Kingdom ... AWS Certified Solutions Architect - ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carlos Rodrigues"
+    },
+    {
+      "position": 28,
+      "title": "Matheus Guimaraes - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/codingmatheus",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/codingmatheus&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCLMBEAE",
+      "displayed_link": "6.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2e146ead4b7856ff4d026303c559bf341.png",
+      "snippet": "Matheus Guimaraes. Amazon Web Services (AWS) Palomar College. London, England, United Kingdom. 6K ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matheus Guimaraes"
+    },
+    {
+      "position": 29,
+      "title": "Matt J. - Chief Technology Officer - Rayo",
+      "link": "https://uk.linkedin.com/in/mhjwork",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mhjwork&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCMsBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a29323a77476cdb3adb3b6d0a88e3e05cd.png",
+      "snippet": "Amazon Web Services. Apr 2016 - Aug 2018 2 years 5 months. Bath, United Kingdom. Eduserv. 15 years 11 months. Eduserv Graphic. Principal Infrastructure ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Chief Technology Officer",
+            "Rayo"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt J."
+    },
+    {
+      "position": 30,
+      "title": "Bernice Kong - Senior Research Lead, Global Speciality ...",
+      "link": "https://uk.linkedin.com/in/bernicekong-93",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/bernicekong-93&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCOUBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a289c68886067a5e18685086e75da0e7a6.png",
+      "snippet": "The community comprises Principal, Senior Principal, and Distinguished Engineers who are responsible for driving Amazon's overall technical architecture.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Senior Principal",
+        "Amazon's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Research Lead, Global Speciality Recruitment Team",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bernice Kong"
+    },
+    {
+      "position": 31,
+      "title": "Vikesh Pandey - Gen AI/ML Specialist Solutions Architect",
+      "link": "https://uk.linkedin.com/in/vikesh-pandey-39b67325",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/vikesh-pandey-39b67325&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCOMBEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2f511fc70679f38e2f07fc236714e1f51.png",
+      "snippet": "... Principal Architect @AWS | Author | Public speaker | Mentor. Amazon Web Services (AWS) Maharshi Dayanand University. London, England, United Kingdom. 3K ...",
+      "snippet_highlighted_words": [
+        "Principal Architect",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Vikesh Pandey"
+    },
+    {
+      "position": 32,
+      "title": "Jon W. - Principal Delivery Architect - Operating Model & ...",
+      "link": "https://uk.linkedin.com/in/jon-w-7b916734?trk=public_profile_browsemap_profile-result-card_result-card_full-click",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jon-w-7b916734%3Ftrk%3Dpublic_profile_browsemap_profile-result-card_result-card_full-click&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCP4BEAE",
+      "displayed_link": "940+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a229ba8a12609c683f63a931fab14e5d18.png",
+      "snippet": "Principal Delivery Architect - Operating Model & Digital Transformation. Amazon Web Services (AWS). Jun 2021 - Present 3 years 10 months. London ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal Delivery Architect",
+            "Operating Model & Digital Transformation",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jon W."
+    },
+    {
+      "position": 33,
+      "title": "Chetan Agrawal - Amazon Web Services (AWS)",
+      "link": "https://in.linkedin.com/in/chetan-agrawal-30107310",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/chetan-agrawal-30107310&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCIECEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2c2402a1bdd49a92be39e0d7aba5a9cf9.png",
+      "snippet": "Amazon Web Services (AWS). Issued Aug 2019. Credential ID AWS-ASA-22860. AWS Solution Architect - Professional Graphic. AWS Solution Architect - Professional.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Solution Architect",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Pune, Maharashtra, India",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chetan Agrawal"
+    },
+    {
+      "position": 34,
+      "title": "Julia Beck - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/juliacbeck",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/juliacbeck&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJoCEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2a529c835151ce25a05f15c4bb8bd5683.png",
+      "snippet": "Amazon Web Services (AWS) Graphic. Solutions Architect. Amazon Web Services (AWS). Sep 2019 - Apr 2021 1 year 8 months. London, England, United Kingdom. Having ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Architect",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas, Texas, United States",
+            "Analytics POC Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julia Beck"
+    },
+    {
+      "position": 35,
+      "title": "Nihilson Gnanadason - AWS Senior Solutions Architect",
+      "link": "https://uk.linkedin.com/in/nihilson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nihilson&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJgCEAE",
+      "displayed_link": "530+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2cbd4e856aabb9f3c21f779ab87db38bc.png",
+      "snippet": "Senior Solutions Architect, AWS Enterprise Software & SaaS · Nihilson is currently working at Amazon for the UKIR Solution Architecture team covering the ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "AWS Senior Solutions Architect",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nihilson Gnanadason"
+    },
+    {
+      "position": 36,
+      "title": "Paul B - Principal Programme Manager, Amazon Shipping",
+      "link": "https://uk.linkedin.com/in/paulburne",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paulburne&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCKACEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a20397426351485ad036ebb1ac438dda44.png",
+      "snippet": "Principal Programme Manager, Amazon Shipping | Mentor | Motorcyclist ... AWs Solution Architect (associate) · Amazon Web Services (AWS). Issued Sep 2019 ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "Solution Architect",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Paul B"
+    },
+    {
+      "position": 37,
+      "title": "Charles B. - Principal Technology Program Manager",
+      "link": "https://uk.linkedin.com/in/charlesbatchelor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/charlesbatchelor&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCLYCEAE",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a29196b58c0746f6004032b40e41e59610.png",
+      "snippet": "Principal Technology Program Manager @ Amazon Web Services (AWS) ... Solution Architect, Security and Network specialties certifications. It is ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Glasgow Area",
+            "Principal Technology Program Manager",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Charles B."
+    },
+    {
+      "position": 38,
+      "title": "Nik Ansell - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/nikansell",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nikansell&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECCgQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2742dfea9838cee83641d311fdd62bddb.png",
+      "snippet": "Experience ; Principal Space Solutions Architect. Amazon Web Services (AWS). Jun 2020 ; Principal Technical Lead EMEA. Amazon Web Services. Sep 2018 ; Senior ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Amazon",
+        "Principal",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal Space Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nik Ansell"
+    },
+    {
+      "position": 39,
+      "title": "Niall Larkin - Amazon Connect/AWS Lead Architect - Chase",
+      "link": "https://uk.linkedin.com/in/nialllarkin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nialllarkin&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECEQQAQ",
+      "displayed_link": "740+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a207ae6487f73d1f77af4303386ef918c3.png",
+      "snippet": "Niall Larkin. Amazon Connect/AWS Lead Architect. Chase Kingston University. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Architect",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon Connect/AWS Lead Architect",
+            "Chase"
+          ]
+        }
+      },
+      "source": "LinkedIn · Niall Larkin"
+    },
+    {
+      "position": 40,
+      "title": "James Minneman - Principal Product Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/james-minneman-580b8610",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/james-minneman-580b8610&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECEIQAQ",
+      "displayed_link": "790+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2a55eb223ff6fcc7312d0767607b49f29.png",
+      "snippet": "Amazon · London Area, United Kingdom · 500+ connections on LinkedIn. View ... Principal Product Manager. Amazon. Jun 2020 - Present 4 years 10 months.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Principal",
+        "Amazon",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Principal Product Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Minneman"
+    },
+    {
+      "position": 41,
+      "title": "Apurwa Pawar - Solutions Architect - Amazon Web ...",
+      "link": "https://in.linkedin.com/in/apurwa-pawar-86a322106",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/apurwa-pawar-86a322106&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECEYQAQ",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a21f0dae8d4771e48d80ab6d286dabd8f8.png",
+      "snippet": "Solutions Architect at Amazon Web Services (AWS) | Data Analytics ... United Kingdom · 500+ connections on LinkedIn. View Apurwa Pawar's profile on ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Apurwa Pawar"
+    },
+    {
+      "position": 42,
+      "title": "Sophia Wilson - AWS Solutions Architect (Apprentice)",
+      "link": "https://uk.linkedin.com/in/wilsonsophia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/wilsonsophia&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECFsQAQ",
+      "displayed_link": "350+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a23dc0f8821d5aa2784729a0df08af14e2.png",
+      "snippet": "AWS Solutions Architect and Content Creator · I am an AWS Solutions Architect ... Amazon Web Services (AWS) · University of Roehampton · United Kingdom · 277 ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Architect",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Sophia Wilson"
+    },
+    {
+      "position": 43,
+      "title": "James Grant - Solutions Architect (Research Software ...",
+      "link": "https://uk.linkedin.com/in/james-grant-86772355",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/james-grant-86772355&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECGIQAQ",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a25332fcd2bb708fd793462ea5df3307e7.png",
+      "snippet": "Solutions Architect (Research Software Engineering) at Amazon Web Services ... United Kingdom · 500+ connections on LinkedIn. View James Grant's ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Solutions Architect (Research Software Engineering)",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Grant"
+    },
+    {
+      "position": 44,
+      "title": "Ioana Pavlov - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/ioana-pavlov-760971319",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ioana-pavlov-760971319&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECH0QAQ",
+      "displayed_link": "3 followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2071eca901f0dafe297f9f37ff767d232.png",
+      "snippet": "Solutions Architect. Amazon Web Services (AWS). Sep 2022 - Present 2 years 6 months. London Area, United Kingdom. As a AWS Solution Architect, I play a key role ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Harrow, England, United Kingdom",
+            "Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ioana Pavlov"
+    },
+    {
+      "position": 45,
+      "title": "Paul McCann - Senior Manager: Global Specialty Recruiting",
+      "link": "https://uk.linkedin.com/in/pmccann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pmccann&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECHwQAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2d7b3d18997733f0ee29a96a7d663a14f.png",
+      "snippet": "Head of International Executive Recruiting - Engineering at Amazon. Amazon. London Area, United Kingdom. 3K followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Senior Manager: Global Specialty Recruiting",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul McCann"
+    },
+    {
+      "position": 46,
+      "title": "Tanuja Randery - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/tanuja-randery",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tanuja-randery&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJQBEAE",
+      "displayed_link": "26.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a27217681261df4b9d701341adb5f0a7a3.png",
+      "snippet": "Tanuja Randery. Amazon Web Services (AWS) Boston University. London, England, United Kingdom. 27K ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tanuja Randery"
+    },
+    {
+      "position": 47,
+      "title": "Mark Willis, MBA - Principal at Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/mark-willis-mba-3a803894?trk=public_post-text",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mark-willis-mba-3a803894%3Ftrk%3Dpublic_post-text&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJcBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a26988528824c089cfde726279c26f00af.png",
+      "snippet": "Mark Willis, MBA. Principal at Amazon Web Services (AWS). Amazon Web Services (AWS) University of Warwick - Warwick Business School. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Principal Consultant",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mark Willis, MBA"
+    },
+    {
+      "position": 48,
+      "title": "Helen Robbie - Executive Research Recruiter - Amazon",
+      "link": "https://uk.linkedin.com/in/helen-robbie-955286bb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/helen-robbie-955286bb&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCK4BEAE",
+      "displayed_link": "4.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2cc50f5f81e07bf2c38449690f6ba4bfe.png",
+      "snippet": "Executive Recruiter at Amazon · Experience: Amazon · Education: The ... principal engineers from across the globe. GSR recruits in 40+ countries across ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Amazon",
+        "principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Spain",
+            "Executive Research Recruiter",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Helen Robbie"
+    },
+    {
+      "position": 49,
+      "title": "S A. - Principal Engineer - Amazon",
+      "link": "https://uk.linkedin.com/in/s-a-b79b15152?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/s-a-b79b15152%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCLEBEAE",
+      "displayed_link": "40+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2e57cbc6fd0b13f9923466861011a42a1.png",
+      "snippet": "Principal Engineer at Amazon · Experience: Amazon · Location: United Kingdom · 45 connections on LinkedIn. View S A.'s profile on LinkedIn, a professional ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal Engineer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · S A."
+    },
+    {
+      "position": 50,
+      "title": "Chris Law - Executive Recruitment @ Amazon",
+      "link": "https://uk.linkedin.com/in/chris-law-75a6912",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/chris-law-75a6912&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCLQBEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2aa8e3414485bc4cdc4548cbebfe5ae54.png",
+      "snippet": "Principal, Executive Recruitment, International. Amazon. Apr 2022 - Present 3 years. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Executive",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Winchester, England, United Kingdom",
+            "Principal, Executive Recruitment, International",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Law"
+    },
+    {
+      "position": 51,
+      "title": "Tyler Swartz - Principal Advertising Technology Consultant",
+      "link": "https://uk.linkedin.com/in/tyler-swartz-tech",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tyler-swartz-tech&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCMwBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a258dfadfad9047ae59b72044ea8076ca1.png",
+      "snippet": "Experience. Amazon. 5 years · Amazon Graphic. Principal Advertising Technology Consultant. Amazon. Apr 2024 - Present 1 year. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Principal",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Advertising Technology Consultant",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tyler Swartz"
+    },
+    {
+      "position": 52,
+      "title": "Ryan Kroonenburg",
+      "link": "https://uk.linkedin.com/in/acloudguru",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/acloudguru&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCMkBEAE",
+      "displayed_link": "53.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2c477bb959d02503f4d82c223edfe5bb4.png",
+      "snippet": "AWS Certified Solutions Architect - Professional Graphic. AWS Certified Solutions Architect - Professional. Amazon Web Services. Issued Sep 2015 Expires Sep ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Kroonenburg Capital"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Kroonenburg"
+    },
+    {
+      "position": 53,
+      "title": "Amit Bhardwaj - Principal Program Manager (TPM) - Amazon",
+      "link": "https://uk.linkedin.com/in/amitbj17",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/amitbj17&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCM8BEAE",
+      "displayed_link": "940+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2a0dd0d95d656d0b74ada0dee4cd94a55.png",
+      "snippet": "Amit Bhardwaj. Engineering at Amazon. Amazon Pune University. London, England, United Kingdom. 949 followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Principal Program Manager (TPM)",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amit Bhardwaj"
+    },
+    {
+      "position": 54,
+      "title": "Luca Mezzalira - Principal Serverless Specialist Solutions ...",
+      "link": "https://uk.linkedin.com/in/lucamezzalira",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lucamezzalira&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCOkBEAE",
+      "displayed_link": "56.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a202d0af8428e26e5a1467b56ce1cc432c.png",
+      "snippet": "Principal Serverless Specialist Solutions Architect at Amazon Web Services ... United Kingdom · 500+ connections on LinkedIn. View Luca Mezzalira's ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Architect",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal Serverless Specialist Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Luca Mezzalira"
+    },
+    {
+      "position": 55,
+      "title": "Jason Buechel - Vice President, Amazon Worldwide Grocery",
+      "link": "https://www.linkedin.com/in/jasonbuechel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jasonbuechel&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCOIBEAE",
+      "displayed_link": "39.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a20e7df7462eca9b1ea6aa2e6011f524b9.png",
+      "snippet": "... Amazon Worldwide Grocery Stores and as Chief Executive Officer at Whole ... United Kingdom, and overseeing the company's technology, supply chain and ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Executive",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Jason Buechel"
+    },
+    {
+      "position": 56,
+      "title": "Jonathan Allen - Director, Enterprise Strategy - Amazon ...",
+      "link": "https://uk.linkedin.com/in/jonatallen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jonatallen&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCOQBEAE",
+      "displayed_link": "10.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2c56bbf2980bc7a0c21e1b29092d61ad6.png",
+      "snippet": "Director @ Amazon Web Services | CIO MBA, Cloud Strategy. Amazon Web Services (AWS) Boston University. London, England, United Kingdom ... AWS Certified Solutions ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director, Enterprise Strategy",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Allen"
+    },
+    {
+      "position": 57,
+      "title": "Abhijit Dutta - Senior Solutions Architect - Amazon Web ...",
+      "link": "https://www.linkedin.com/in/abhijit-dutta-938790149",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/abhijit-dutta-938790149&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCOoBEAE",
+      "displayed_link": "400+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a28aa541fc2abd0637db090cea2e0006de.png",
+      "snippet": "Senior Solutions Architect at Amazon Web Services · Passionate ... Senior Principal Engineer & Solution Architect. Tata Consultancy Services. Jun ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Senior Principal",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Exton, Pennsylvania, United States",
+            "Senior Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Abhijit Dutta"
+    },
+    {
+      "position": 58,
+      "title": "Mani Chandrasekaran - Principal Technologist at AWS for ...",
+      "link": "https://in.linkedin.com/in/cmanikandan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/cmanikandan&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCP8BEAE",
+      "displayed_link": "15.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a23f88ae5e9228afe66892a89e666d85c7.png",
+      "snippet": "Solution Architect - Lead/Principal Solutions Architect. Amazon Web Services ... Principal, Solutions Architect - Amazon Internet Services Pvt. Ltd ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Principal",
+        "Architect",
+        "Amazon",
+        "Principal",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Principal Technologist at AWS for India and South Asia",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mani Chandrasekaran"
+    },
+    {
+      "position": 59,
+      "title": "Angel Garcia Casas - Principal Analytics Sales Specialist ...",
+      "link": "https://uk.linkedin.com/in/angelgarciacasas",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/angelgarciacasas&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCIACEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a25dc65a05fc5eb8ef04153166c9c74123.png",
+      "snippet": "Principal Analytics Sales Specialist, Amazon Web Services (AWS). Amazon Web Services (AWS) London Business School. United Kingdom. 1K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal Analytics Sales Specialist, WW Specialist Organization",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Angel Garcia Casas"
+    },
+    {
+      "position": 60,
+      "title": "David Murphy - Prime Video & Amazon Studios",
+      "link": "https://uk.linkedin.com/in/david-a-murphy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/david-a-murphy&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCIICEAE",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2c29c665b5831409350736b947ef922ae.png",
+      "snippet": "... Amazon Studios · United ... Senior Production Executive. Prime Video & Amazon Studios. May 2022 - Present 2 years 11 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United",
+        "Executive",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · David Murphy"
+    },
+    {
+      "position": 61,
+      "title": "Emilia Kobina - Associate Solutions Architect",
+      "link": "https://uk.linkedin.com/in/emilia-kobina",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/emilia-kobina&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCIQCEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a213ee59d1d7940c0f80fad8290ba5d6a1.png",
+      "snippet": "|| Associate Solutions Architect at Amazon Web Services || Master of Science in Computing || Cardiff University || ... Cardiff, Wales, United Kingdom. 1K ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cardiff, Wales, United Kingdom",
+            "Associate Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emilia Kobina"
+    },
+    {
+      "position": 62,
+      "title": "Ricardo Sueiras - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/ricardosueiras",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ricardosueiras&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJkCEAE",
+      "displayed_link": "6.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2f855c53bd777d67943fb8164dbf4c8fb.png",
+      "snippet": "Ricardo Sueiras. Amazon Web Services (AWS). Whitstable, England, United Kingdom. 7K followers 500 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Whitstable, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ricardo Sueiras"
+    },
+    {
+      "position": 63,
+      "title": "Ian Meyers - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/ianmeyers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ianmeyers&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJwCEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a244b8db51ccbca983a17563aed39435ca.png",
+      "snippet": "AWS Certified Professional Solution Architect - Associate Developer - Associate SysOps Administrator · Amazon Web Services. Issued Nov 2014. See credential ...",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ian Meyers"
+    },
+    {
+      "position": 64,
+      "title": "Sarah C. Rhoads - Amazon",
+      "link": "https://www.linkedin.com/in/sarah-c-rhoads-a9385029",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarah-c-rhoads-a9385029&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJsCEAE",
+      "displayed_link": "6.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2fb6461f78cf18e63fb034f7993d373c0.png",
+      "snippet": "A proven executive leader demonstrated by a lifetime of sustained superior performance… · Amazon ... London, England, United Kingdom. -. Swansea Bay, Wales ...",
+      "snippet_highlighted_words": [
+        "executive",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah C. Rhoads"
+    },
+    {
+      "position": 65,
+      "title": "Paul Killebrew - Global Executive Producer, Premium ...",
+      "link": "https://uk.linkedin.com/in/paul-killebrew-b2ab234",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/paul-killebrew-b2ab234&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJ0CEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2453424ac0e7d922c706cbddb92c9d20e.png",
+      "snippet": "Amazon Graphic. Global Executive Producer, Premium Content Production, Brand Innovation Lab. Amazon. Jul 2024 - Present 9 months · Amazon Graphic. Principal ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Executive",
+        "Amazon",
+        "Present",
+        "Amazon",
+        "Principal"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Global Executive Producer, Premium Content Production, Brand Innovation Lab",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Killebrew"
+    },
+    {
+      "position": 66,
+      "title": "AJIRI ESALOMI - Principal Privacy Specialist, Customer ...",
+      "link": "https://www.linkedin.com/in/ajiri-esalomi-b018335",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ajiri-esalomi-b018335&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJ4CEAE",
+      "displayed_link": "660+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2c699dc2c3d1d0edf48b61ea7132118a4.png",
+      "snippet": "London, England, United Kingdom. Principal Privacy and Data Protection Specialist at Amazon. Amazon. Mar 2022 - Jul 2022 5 months. London, England, United ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Principal",
+        "Amazon",
+        "Amazon",
+        "United"
+      ],
+      "source": "LinkedIn · AJIRI ESALOMI"
+    },
+    {
+      "position": 67,
+      "title": "Matt Merrett - Principal, Product Management - Technical",
+      "link": "https://www.linkedin.com/in/matt-merrett-94694b21",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matt-merrett-94694b21&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCLcCEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2ecdc3cd689f71b8597888390e29145b2.png",
+      "snippet": "Principal, Product Management - Technical at Amazon · An experienced Senior Product Manager with expertise in automated inventory management systems, ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Principal, Product Management",
+            "Technical",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Merrett"
+    },
+    {
+      "position": 68,
+      "title": "Julian Wood - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/julianrwood",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/julianrwood&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCLoCEAE",
+      "displayed_link": "6.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2152e5495ca1037ef8a4a13ea5b7e8031.png",
+      "snippet": "Julian Wood. Amazon Web Services (AWS). London, England, United Kingdom. 7K ... AWS Certified Solutions Architect - Associate Graphic. AWS Certified ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julian Wood"
+    },
+    {
+      "position": 69,
+      "title": "Eamonn Faherty - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/eamonnfaherty",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/eamonnfaherty&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCLgCEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2f13220e02e1068ccd1508c1633aee892.png",
+      "snippet": "London, England, United Kingdom. -. London, England, United Kingdom. -. -. London ... AWS Certified Solutions Architect – Associate · Amazon Web Services (AWS).",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "United Kingdom",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "South Orange, New Jersey, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eamonn Faherty"
+    },
+    {
+      "position": 70,
+      "title": "Sachin Bolmal - Solutions Architect - Prime Video & ...",
+      "link": "https://in.linkedin.com/in/sachin-bolmal-00718921",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/sachin-bolmal-00718921&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECCUQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2745bf00f18a57529bbd71128116f2fb5.png",
+      "snippet": "Solutions Architect at Amazon Prime Videos - Linear and Live TV ... Solution Architect / Pre-sales :VAS and Video Solutions. • Prepare Solution ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Solution Architect"
+      ],
+      "source": "LinkedIn · Sachin Bolmal"
+    },
+    {
+      "position": 71,
+      "title": "Sally Peck - Executive Content and Communications",
+      "link": "https://uk.linkedin.com/in/sally-peck-62b6b222",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sally-peck-62b6b222&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECEAQAQ",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2e152e3c428938f54642be1eb02435912.png",
+      "snippet": "Leadership roles: Amazon, IMD. Ex-journalist: Telegraph, Financial Times, BBC. Amazon Web Services (AWS) Stanford University. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Sally Peck"
+    },
+    {
+      "position": 72,
+      "title": "Ailsa Mackay - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/ailsa-mackay-6320aa161",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ailsa-mackay-6320aa161&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECEEQAQ",
+      "displayed_link": "150+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2b5eba4702016c6542a08e25432e2fa27.png",
+      "snippet": "Solutions Architect 1. Amazon Web Services (AWS) University of Cape Town. London, England, United Kingdom. 153 followers 152 connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "solutions_architect_aws_migration_acceleration_services": 1
+          },
+          "extensions": [
+            "London, England, United Kingdom",
+            "Solutions Architect 1 (AWS Migration Acceleration Services",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ailsa Mackay"
+    },
+    {
+      "position": 73,
+      "title": "Chris Mellish - Executive Creative Director, EMEA · MENA",
+      "link": "https://uk.linkedin.com/in/cmellish",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/cmellish&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECEMQAQ",
+      "displayed_link": "850+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a20fc65682d092fe602fa789b6d051e4a3.png",
+      "snippet": "Executive Creative Director @ Amazon | In-House Agency Leader · An ... Amazon. Sep 2024 - Present 7 months. London Area, United Kingdom. Responsible for ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Brighton and Hove Area",
+            "Executive Creative Director, EMEA",
+            "MENA",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chris Mellish"
+    },
+    {
+      "position": 74,
+      "title": "David Elliott - Amazon Web Services (AWS) ESIEE PARIS",
+      "link": "https://uk.linkedin.com/in/datad4vid",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/datad4vid&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECEgQAQ",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2a76568536f595621052b420f80ade561.png",
+      "snippet": "Amazon Web Services. Feb 2016 - Oct 2017 1 year 9 months. London, United Kingdom. Amazon Web Services UK Ltd Graphic. Solutions Architect. Amazon Web Services ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Amazon",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Director, Head of Architecture, UK & Ireland",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Elliott"
+    },
+    {
+      "position": 75,
+      "title": "Natalie Reilly - Executive Assistant - Amazon",
+      "link": "https://uk.linkedin.com/in/natalie-reilly-608428100",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/natalie-reilly-608428100&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECEcQAQ",
+      "displayed_link": "710+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2c8a104509f9db2b5360d6906d492af63.png",
+      "snippet": "Natalie Reilly. Executive Assistant at Amazon. Amazon Capita. London, England, United Kingdom. 716 ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Executive Assistant",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Natalie Reilly"
+    },
+    {
+      "position": 76,
+      "title": "Samuel Lock - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/serverless-sam",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/serverless-sam&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECGAQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a26543172936e2e71dcc4e9649ba646892.png",
+      "snippet": "Samuel Lock. Amazon Web Services (AWS) University of York. London, England, United Kingdom ... AWS Certified Solutions Architect – Associate · Amazon Web Services ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Samuel Lock"
+    },
+    {
+      "position": 77,
+      "title": "Sushil Shah - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/sushil-shah-architect",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sushil-shah-architect&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECGEQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2e60b1bacbbbb02ce3b939b69c54b66ee.png",
+      "snippet": "A multi-skilled enterprise architect with a superb track record of architect ... Experience: Amazon Web Services (AWS) · Location: London Area, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "architect",
+        "architect",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sushil Shah"
+    },
+    {
+      "position": 78,
+      "title": "Ben Moses - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/benmosesuk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/benmosesuk&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECFwQAQ",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2220314bbb952d5dba12655cd9b6b9b36.png",
+      "snippet": "Coventry, United Kingdom. -. Walsgrave, Coventry, UK. -. Walsgrave, Coventry, UK ... AWS Certified Solutions Architect – Professional · Amazon Web Services ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Architect",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Warwick, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Moses"
+    },
+    {
+      "position": 79,
+      "title": "Oliver Flackett - Principal PM EU DSP Integration - Amazon",
+      "link": "https://uk.linkedin.com/in/oliver-flackett-a476472b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/oliver-flackett-a476472b&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECF4QAQ",
+      "displayed_link": "950+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2c1fc7adbb300d7936a7edd2379f7d4a2.png",
+      "snippet": "Oliver Flackett. Principal PM EU DSP Integration - Delivery Station Regional Management. Amazon Keele University. United Kingdom.",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Principal PM EU DSP Integration",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Oliver Flackett"
+    },
+    {
+      "position": 80,
+      "title": "Jeff Forrest - Senior Solutions Architect - Amazon Web ...",
+      "link": "https://uk.linkedin.com/in/jeff-forrest-6b6363a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jeff-forrest-6b6363a&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECGMQAQ",
+      "displayed_link": "690+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2e0ec3676a87a6f25d021bacf5cb32b0b.png",
+      "snippet": "Amazon Web Services (AWS) Graphic. Senior Solutions Architect. Amazon Web Services (AWS). Jan 2021 - Present 4 years 3 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Architect",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jeff Forrest"
+    },
+    {
+      "position": 81,
+      "title": "Erika Bruning - Senior Post Production Executive",
+      "link": "https://uk.linkedin.com/in/erika-bruning-1921b75",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/erika-bruning-1921b75&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECHkQAQ",
+      "displayed_link": "660+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2f5fee6234aeaf0317460ffcbd886a548.png",
+      "snippet": "Senior Post Production Executive at Amazon Studios. Amazon Studios Emerson College. London, England, United Kingdom ... Apr 2020 - Present 5 years. London ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Amazon",
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Post Production Executive",
+            "Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Erika Bruning"
+    },
+    {
+      "position": 82,
+      "title": "Brenesh S.F - Sr. Solution Architect - Migrations and ...",
+      "link": "https://www.linkedin.com/in/brenesh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brenesh&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECHsQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a24226c1ef8ec0aafd6f621f6306109786.png",
+      "snippet": "Sr. Solution Architect - Migrations & Modernizations at AWS · Amazon Web ... Wipro Graphic. Principal Architect & Practice Leader Legacy Modernization.",
+      "snippet_highlighted_words": [
+        "Solution Architect",
+        "Amazon",
+        "Principal Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Sr. Solution Architect",
+            "Migrations and Modernizations",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brenesh S.F"
+    },
+    {
+      "position": 83,
+      "title": "Victor Chiu - Senior Database Specialist Solutions Architect",
+      "link": "https://uk.linkedin.com/in/victor-chiu-a1a21352",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/victor-chiu-a1a21352&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECHoQAQ",
+      "displayed_link": "850+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a224fed7ab23f4b69aeb39ae79661dd917.png",
+      "snippet": "... Amazon Web Services (AWS) · The University of Calgary · United Kingdom ... Solution Architect. Sun Microsystems. 2006 - 2009 3 years. - System Engineer ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Solution Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior Database Specialist Solutions Architect",
+            "EMEA",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Victor Chiu"
+    },
+    {
+      "position": 84,
+      "title": "Ruben Falk - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/rubenfalk",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rubenfalk&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECHgQAQ",
+      "displayed_link": "3.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2e9720e7b7bcd12712192fb89b1899815.png",
+      "snippet": "Global executive leadership record across blue chip capital market businesses and VC… · Experience: Amazon Web Services (AWS) · Education: University of ...",
+      "snippet_highlighted_words": [
+        "executive",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ruben Falk"
+    },
+    {
+      "position": 85,
+      "title": "George Churchill - Head of Public Sector Specialist ...",
+      "link": "https://uk.linkedin.com/in/george-churchill",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/george-churchill&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECHYQAQ",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a21ddd7cf1d3d41fa174da2c035a0fd2fc.png",
+      "snippet": "Principal Consultant (UK) - Global Infrastructure Consultancy Services. Dell. Dec 2015 - Feb 2017 1 year 3 months. United Kingdom. Principal Consultant ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "United Kingdom",
+        "Principal"
+      ],
+      "source": "LinkedIn · George Churchill"
+    },
+    {
+      "position": 86,
+      "title": "Katie Bach - Sr Principal Product Manager, Tech",
+      "link": "https://www.linkedin.com/in/katie-bach-2b569a1a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/katie-bach-2b569a1a&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJYBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2a19100ecb88252b0ade8ded2fc2ef69e.png",
+      "snippet": "Sr Principal Product Mgr, Tech @Amazon | Strategy, Product, & People Leader ... executive and Board materials. Also, led priority internal consulting ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "executive"
+      ],
+      "source": "LinkedIn · Katie Bach"
+    },
+    {
+      "position": 87,
+      "title": "Diego Piacentini - DoorDash",
+      "link": "https://www.linkedin.com/in/diego-piacentini",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/diego-piacentini&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJMBEAE",
+      "displayed_link": "9.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a240ee5ce2f445c69a11ef6102b937c002.png",
+      "snippet": "London Area, United Kingdom. -. Greater Seattle Area. -. Rome Area, Italy ... Non-executive member of Board of Directors and member of Executive Committee.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "executive",
+        "Executive"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "DoorDash"
+          ]
+        }
+      },
+      "source": "LinkedIn · Diego Piacentini"
+    },
+    {
+      "position": 88,
+      "title": "Tania Neill - EA, EU Marketing Amazon",
+      "link": "https://uk.linkedin.com/in/tania-neill-32852a42",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tania-neill-32852a42&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJUBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a29f8295387f8fafc12cc54b45475e49dd.png",
+      "snippet": "Executive Assistant to the UK Alexa Shopping team. Amazon. May 2022 - Present 2 years 11 months. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Tania Neill"
+    },
+    {
+      "position": 89,
+      "title": "Heather Mooney - Head of WW Executive Escalations, ABCS",
+      "link": "https://www.linkedin.com/in/heather-mooney-9a666aba",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/heather-mooney-9a666aba&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCJgBEAE",
+      "displayed_link": "770+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2da51c725e7bce1960cf1c0213d0cb6cb.png",
+      "snippet": "Head of WW Executive Escalations & NA Operations, ABCS at Amazon · I am a focused operational leader with 10+ years of success in enhancing team performance ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Owingsville, Kentucky, United States",
+            "Head of WW Executive Escalations, ABCS",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Heather Mooney"
+    },
+    {
+      "position": 90,
+      "title": "Harzhini Fernando - Executive Relations Specialist",
+      "link": "https://uk.linkedin.com/in/harzhini-fernando-25b12b66",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/harzhini-fernando-25b12b66&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCLABEAE",
+      "displayed_link": "50+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2c599f058be44c195eabe1152f954c4f4.png",
+      "snippet": "Executive Driver Relations · On top of being a wife and a mother I ... Amazon Logistics · De Montfort University · United Kingdom · 51 connections ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Executive Relations Specialist",
+            "Amazon Logistics"
+          ]
+        }
+      },
+      "source": "LinkedIn · Harzhini Fernando"
+    },
+    {
+      "position": 91,
+      "title": "Praveen Jayakumar - Amazon Web Services (AWS)",
+      "link": "https://in.linkedin.com/in/pjpraveen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/pjpraveen&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCK0BEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2911d1eb5f03b8d87ce720e8cc1dc8b1e.png",
+      "snippet": "... Amazon Web Services (AWS) · Location: Chennai · 500+ connections on ... Principal Specialist AI/ML Solutions Architect. Amazon Web Services (AWS). Oct ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Principal",
+        "Architect",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Praveen Jayakumar"
+    },
+    {
+      "position": 92,
+      "title": "Martin Beeby - Principal Technical Keynote Lead",
+      "link": "https://uk.linkedin.com/in/thebeebs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/thebeebs&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCKwBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2b067b5e86fd792e71d702ac21e064889.png",
+      "snippet": "Principal Technical Keynote Lead at Amazon Web Services (AWS) · I've been a ... United Kingdom · 500+ connections on LinkedIn. View Martin Beeby's ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Martin Beeby"
+    },
+    {
+      "position": 93,
+      "title": "Francisco Martins - Solutions Architect - FSI - Amazon Web ...",
+      "link": "https://uk.linkedin.com/in/franciscotoscanomartins",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/franciscotoscanomartins&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCK8BEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2973695681842cdb242094345e5560523.png",
+      "snippet": "London, England, United Kingdom. 1K followers 500+ ... I have over six years of experience at Amazon, both in Retail and at AWS as a Solutions Architect.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon",
+        "Architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Solutions Architect",
+            "FSI",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Francisco Martins"
+    },
+    {
+      "position": 94,
+      "title": "Kate Llewellyn - Operations Designer - Amazon",
+      "link": "https://uk.linkedin.com/in/katellewellyn9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/katellewellyn9&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCMgBEAE",
+      "displayed_link": "690+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a27fe35b386dd400fdb7731b68ec8f7331.png",
+      "snippet": "Operations Designer at Amazon · am an enthusiastic interior architect and am driven to produce high quality work within the set time frame while ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "architect"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Operations Designer",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kate Llewellyn"
+    },
+    {
+      "position": 95,
+      "title": "Adrian Daniel - Solutions Architect - Amazon Web Services ...",
+      "link": "https://uk.linkedin.com/in/adrian-daniel-8a9374200",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/adrian-daniel-8a9374200&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCM0BEAE",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2838bff7e1b65019b8525dd2752b74c40.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Adrian Daniel's ... Adrian Daniel. Solutions Architect at Amazon Web Services (AWS). Amazon Web ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Architect",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Solutions Architect",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adrian Daniel"
+    },
+    {
+      "position": 96,
+      "title": "Hannah Cheetham - Amazon Authorised Instructor",
+      "link": "https://uk.linkedin.com/in/hannahcheetham",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hannahcheetham&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCMcBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2b1a18093c678c7ee739a55dbd7180caf.png",
+      "snippet": "AWS Authorised Instructor | AWS re/Start Instructor | AWS Solutions Architect Associate | GCP Pro Architect | Agile ... United Kingdom · 500+ connections ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Architect",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Hannah Cheetham"
+    },
+    {
+      "position": 97,
+      "title": "Benjamin Frew - Principal Program Manager - Amazon",
+      "link": "https://www.linkedin.com/in/ben-frew11",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ben-frew11&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCM4BEAE",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a23105b51fffe6c240341b383cef4cc18e.png",
+      "snippet": "Principal Program Manager | Amazon · Experience: Amazon · Education ... - May 2024 10 months. Manchester, England, United Kingdom. Amazon Graphic ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon",
+        "Amazon",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Nashville, Tennessee, United States",
+            "Principal Program Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Benjamin Frew"
+    },
+    {
+      "position": 98,
+      "title": "Basiruddin Seikh - Senior Storage Solution Architect, EMEA",
+      "link": "https://uk.linkedin.com/in/basiruddin-seikh-9642084",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/basiruddin-seikh-9642084&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoFCMoBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a2784ce94c1b10286351701ff9d2a51475.png",
+      "snippet": "Senior Storage Solutions Architect EMEA at Amazon Web Services (AWS) ... As Specialist Solution architect in Storage, I worked with the customer across ...",
+      "snippet_highlighted_words": [
+        "Architect",
+        "Amazon",
+        "Solution architect"
+      ],
+      "source": "LinkedIn · Basiruddin Seikh"
+    },
+    {
+      "position": 99,
+      "title": "Tara Erer - Prime Video & Amazon Studios",
+      "link": "https://uk.linkedin.com/in/tara-erer-23282130",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/tara-erer-23282130&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECCsQAQ",
+      "displayed_link": "590+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a20ea6cb3fdcd493c71171add98140e8ba.png",
+      "snippet": "Head of UK & Northern Europe Originals · Prime Video & Amazon Studios · Columbia University in the City of New York · United Kingdom · 410 connections on ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Head of UK & Northern Europe Originals",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tara Erer"
+    },
+    {
+      "position": 100,
+      "title": "Stephen Miller - Principal Consultant (Energy)",
+      "link": "https://uk.linkedin.com/in/stephen-miller-3a99279?trk=public_post_main-feed-card-text",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stephen-miller-3a99279%3Ftrk%3Dpublic_post_main-feed-card-text&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQFnoECC0QAQ",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfab3d14cde48f2c93088/images/6ba04003da880702807b29be71e493a287cf1c061e366ba3c0fcd03b02388f33.png",
+      "snippet": "Stephen Miller. Principal Consultant @ AWS Energy, 25 years experience in Oil & Gas Industry. Amazon Web Services (AWS) Erasmus University ...",
+      "snippet_highlighted_words": [
+        "Principal",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Reading, England, United Kingdom",
+            "Principal Consultant (Energy)",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Miller"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=tPrdZ5zyAZ7l4-EPzrvIuAw&start=100&sa=N&sstk=Af40H4VrAbJ3QNfa25FI2oAi2Rc3XqSXTif9zwe1qdX2THJs8u80ig-IFPB9Q1LsbXcj3xKVK9NOduLOIXStRIN06gdTBtfqJDSIug&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQ8NMDegUItAIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=tPrdZ5zyAZ7l4-EPzrvIuAw&start=100&sa=N&sstk=Af40H4VrAbJ3QNfa25FI2oAi2Rc3XqSXTif9zwe1qdX2THJs8u80ig-IFPB9Q1LsbXcj3xKVK9NOduLOIXStRIN06gdTBtfqJDSIug&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQ8tMDegUItAIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=tPrdZ5zyAZ7l4-EPzrvIuAw&start=200&sa=N&sstk=Af40H4VrAbJ3QNfa25FI2oAi2Rc3XqSXTif9zwe1qdX2THJs8u80ig-IFPB9Q1LsbXcj3xKVK9NOduLOIXStRIN06gdTBtfqJDSIug&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQ8tMDegUItAIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=tPrdZ5zyAZ7l4-EPzrvIuAw&start=300&sa=N&sstk=Af40H4VrAbJ3QNfa25FI2oAi2Rc3XqSXTif9zwe1qdX2THJs8u80ig-IFPB9Q1LsbXcj3xKVK9NOduLOIXStRIN06gdTBtfqJDSIug&ved=2ahUKEwicnLaVrpyMAxWe8jgGHc4dEscQ8tMDegUItAIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Architect%22+OR+%22Senior+Architect%22+OR+%22Principal+Architect%22+OR+%22Solution+Architect%22+OR+%22Principal%22+OR+%22Senior+Principal%22+OR+%22Executive%22%29&start=300"
+    }
+  }
+}

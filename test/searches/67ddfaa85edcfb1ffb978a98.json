@@ -1,0 +1,2182 @@
+{
+  "search_metadata": {
+    "id": "67ddfaa85edcfb1ffb978a98",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a2928956f92e4442/67ddfaa85edcfb1ffb978a98.json",
+    "created_at": "2025-03-21 23:47:52 UTC",
+    "processed_at": "2025-03-21 23:47:52 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a2928956f92e4442/67ddfaa85edcfb1ffb978a98.html",
+    "total_time_taken": 3.42
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Amazon\" AND \"United Kingdom\" AND (current OR present) AND (\"Group Manager\" OR \"Regional Manager\" OR \"Department Manager\" OR \"Team Manager\" OR \"Owner\" OR \"Founder\" OR \"Co-Founder\" OR \"Proprietor\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Amazon\" AND \"United Kingdom\" AND (current OR present) AND (\"Group Manager\" OR \"Regional Manager\" OR \"Department Manager\" OR \"Team Manager\" OR \"Owner\" OR \"Founder\" OR \"Co-Founder\" OR \"Proprietor\")",
+    "total_results": 4390000,
+    "time_taken_displayed": 1.1,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "John Boumphrey - VP Country Manager UK & Ireland",
+      "link": "https://uk.linkedin.com/in/johnboumphrey",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/johnboumphrey&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECAkQAQ",
+      "displayed_link": "36.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead6f47fde7e23807b935253a999fb52f74.png",
+      "snippet": "John Boumphrey is an influencer. VP, UK & Ireland Country Manager, Amazon. Amazon INSEAD. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "VP Country Manager UK & Ireland",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John Boumphrey"
+    },
+    {
+      "position": 2,
+      "title": "John McEwen - General Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/john-mcewen-80b35132",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/john-mcewen-80b35132&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECB0QAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead4ddcfb0d47e131f524dad71226803633.png",
+      "snippet": "Experience. Amazon. 10 years 3 months · Amazon Graphic. General Manager. Amazon. Mar 2024 - Present 1 year 1 month. Greater London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "General Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · John McEwen"
+    },
+    {
+      "position": 3,
+      "title": "Edward Anson - Senior Regional Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/edward-anson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/edward-anson&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECBoQAQ",
+      "displayed_link": "550+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eada2af3ff0d3b85855e01065745321495e.png",
+      "snippet": "Edward Anson. Senior Regional Manager at Amazon. Amazon Newcastle University. Basingstoke, England, United Kingdom. 552 followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Regional Manager",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Basingstoke, England, United Kingdom",
+            "Senior Regional Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Edward Anson"
+    },
+    {
+      "position": 4,
+      "title": "Pete Scratchley - Founder & CEO - Amazon FBA Brand",
+      "link": "https://www.linkedin.com/in/petescratchley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/petescratchley&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECBsQAQ",
+      "displayed_link": "190+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead964412f6f4dcaa36db21a7eced76d4f9.png",
+      "snippet": "Founder & CEO - Amazon FBA Brand | E-Commerce | Full Product Lifecycle - Dev, Operations, Marketing. Amazon. 2019 - Present 6 years. London, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Pete Scratchley"
+    },
+    {
+      "position": 5,
+      "title": "Oliver Towndrow - Regional Manager, Amazon Fresh",
+      "link": "https://www.linkedin.com/in/oliver-towndrow/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/oliver-towndrow/&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECBkQAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead0cdf1c0b00da331cfe2b99cd4f2f5269.png",
+      "snippet": "Regional Manager, Amazon Fresh · Amazon · INSEAD · United Kingdom · 500+ connections on LinkedIn ... Co-Founder, CEO. Trustbill. Jul 2018 - Jan 2020 1 year 7 ...",
+      "snippet_highlighted_words": [
+        "Regional Manager",
+        "Amazon",
+        "Amazon",
+        "United Kingdom",
+        "Co-Founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Regional Manager, Amazon Fresh",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Oliver Towndrow"
+    },
+    {
+      "position": 6,
+      "title": "Ant Finch - Founder & CEO - Vendor Rocket",
+      "link": "https://uk.linkedin.com/in/antfinch",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/antfinch&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECBwQAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead8a05efeb0eab064effded42a068285ee.png",
+      "snippet": "Founder @ Vendor Rocket | Helping brands grow on Amazon. Vendor Rocket - Amazon Consultant West Suffolk College. United Kingdom. 3K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Founder & CEO",
+            "Vendor Rocket",
+            "Amazon Consultant"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ant Finch"
+    },
+    {
+      "position": 7,
+      "title": "Daniel Padula - Regional Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/daniel-padula-824a7a107",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/daniel-padula-824a7a107&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCOkBEAE",
+      "displayed_link": "790+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadef06455bd2a9f44df6818b76cd9e698f.png",
+      "snippet": "Regional Manager at Amazon · As an Industrial Engineer, with a robust ... - May 2021 1 year 9 months. London Area, United Kingdom. Amazon Graphic. AFE ...",
+      "snippet_highlighted_words": [
+        "Regional Manager",
+        "Amazon",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Barcelona, Catalonia, Spain",
+            "Regional Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Padula"
+    },
+    {
+      "position": 8,
+      "title": "Kris Lindquist - Amazon",
+      "link": "https://uk.linkedin.com/in/krislindquist",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/krislindquist&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECC4QAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead3459444b75849c24b9e99a0deb63014d.png",
+      "snippet": "Kris Lindquist. Amazon University of Washington - Michael G. Foster School of Business. London, England, United Kingdom. 2K followers 500+ connections. See your ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kris Lindquist"
+    },
+    {
+      "position": 9,
+      "title": "Lavishka Katwa - Senior Regional Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/lavishka-katwa-02516b78",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/lavishka-katwa-02516b78&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCOgBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eade95d048220bda17c1dc45162b3daab1a.png",
+      "snippet": "Lavishka Katwa. Senior Regional Manager at Amazon. Amazon Yale University. United Kingdom. 2K followers ...",
+      "snippet_highlighted_words": [
+        "Regional Manager",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior Regional Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lavishka Katwa"
+    },
+    {
+      "position": 10,
+      "title": "Matias Menendez - Sr. Business Development & ...",
+      "link": "https://uk.linkedin.com/in/matias-menendez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matias-menendez&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECCsQAQ",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead63891bbb2d8bc766b3622bb6f5a1a778.png",
+      "snippet": "London, England, United Kingdom. 2K followers 500+ connections. See your mutual ... Co-Founder & General Manager. Barones Bier Brewery. 2017 - 2019 2 years.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Co-Founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Sr. Business Development & Partnerships Manager",
+            "Amazon Business"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matias Menendez"
+    },
+    {
+      "position": 11,
+      "title": "Adele Pyle - Senior Regional Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/adele-pyle-a01466137",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/adele-pyle-a01466137&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJkBEAE",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead7900a3140a22d2e8767166960fe6b3a2.png",
+      "snippet": "Senior Regional Manager at Amazon · A Senior Regional Manager at Amazon, I ... - Jul 2020 1 year 2 months. Bardon, Leicestershire, United Kingdom. Amazon ...",
+      "snippet_highlighted_words": [
+        "Regional Manager",
+        "Amazon",
+        "Regional Manager",
+        "Amazon",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Leicester Area",
+            "Senior Regional Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adele Pyle"
+    },
+    {
+      "position": 12,
+      "title": "Susan Levine - Co-Founder | Managing Director",
+      "link": "https://uk.linkedin.com/in/susanamazonfashion",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/susanamazonfashion&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCOsBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead504b56bf15c096147dbe704c2d91fa9a.png",
+      "snippet": "Amazon in Seattle. Experience. West End Tails Graphic. Co-Founder | Managing Director. West End Tails. Jan 2025 - Present 3 months. London Area, United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Co-Founder",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Co-Founder | Managing Director",
+            "West End Tails"
+          ]
+        }
+      },
+      "source": "LinkedIn · Susan Levine"
+    },
+    {
+      "position": 13,
+      "title": "Nick Jones - Amazon",
+      "link": "https://www.linkedin.com/in/nick-jones-ab22b623",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nick-jones-ab22b623&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCIcCEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead4f9b5a32e1a80d43e1feda593a41b223.png",
+      "snippet": "Experience · Amazon Graphic · Amazon. Greater Seattle Area · -. Seattle, Washington, United States · -. Seattle, Washington · - · -. London, United Kingdom · - · -.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Woodinville, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nick Jones"
+    },
+    {
+      "position": 14,
+      "title": "Seun O. - Area Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/seun-o-48a28a84",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/seun-o-48a28a84&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECEgQAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead1625f762bb92157bf78c92e5f92776d0.png",
+      "snippet": "Experience · Amazon Graphic. Area Manager. Amazon. Jun 2024 - Present 10 months. Coventry, England, United Kingdom · Amazon Graphic. Interim Area Manager. Amazon.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Coventry, England, United Kingdom",
+            "Area Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Seun O."
+    },
+    {
+      "position": 15,
+      "title": "James Phipps - Co-Founder - Stealth Startup",
+      "link": "https://uk.linkedin.com/in/james-phipps-b68312a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/james-phipps-b68312a&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECGYQAQ",
+      "displayed_link": "630+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eada32f7786837b1782328e08a26e363172.png",
+      "snippet": "... Amazon. · Stealth Startup · United Kingdom · 500+ connections on LinkedIn ... Co-Founder. Stealth Startup. Jan 2025 - Present 3 months. Consultant. COA ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Co-Founder",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Co-Founder",
+            "Stealth Startup"
+          ]
+        }
+      },
+      "source": "LinkedIn · James Phipps"
+    },
+    {
+      "position": 16,
+      "title": "Matthew Bowles - Head of Worldwide Amazon Strategy",
+      "link": "https://uk.linkedin.com/in/matthew-bowles-9723a286",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matthew-bowles-9723a286&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJoBEAE",
+      "displayed_link": "730+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead93d123762eaa7596c6e9ffc68850aacc.png",
+      "snippet": "Experience · Head of Worldwide Amazon Strategy · Co-Owner · Marketing Manager · Football scholarship · Professional Scholar · Evo Stick Southern Premier League.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Owner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Newcastle Upon Tyne, England, United Kingdom",
+            "Head of Worldwide Amazon Strategy",
+            "Creative Conceptions Ltd"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthew Bowles"
+    },
+    {
+      "position": 17,
+      "title": "Zak Watts - Amazon",
+      "link": "https://uk.linkedin.com/in/zak-watts-84862420",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/zak-watts-84862420&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCNIBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadf31abaf4ae0729026ad1b19289dcedf8.png",
+      "snippet": "Experience: Amazon · Location: United Kingdom · 500+ connections on LinkedIn. View Zak Watts' profile on LinkedIn, a professional community of 1 billion ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Zak Watts"
+    },
+    {
+      "position": 18,
+      "title": "Thomas Baker - FordeBaker",
+      "link": "https://uk.linkedin.com/in/thomas-baker-amazon-agency",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/thomas-baker-amazon-agency&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCOoBEAE",
+      "displayed_link": "6.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eada87695084f13a89673014b31da048a8a.png",
+      "snippet": "Founder of Amazon agency, FordeBaker. Very proud to be leading a great team and creating… · Experience: FordeBaker · Location: United Kingdom · 500+ ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "FordeBaker"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Baker"
+    },
+    {
+      "position": 19,
+      "title": "Joe Baldwin - Founder & Managing Director - Exsellerating",
+      "link": "https://uk.linkedin.com/in/joe-baldwin-a0914718b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/joe-baldwin-a0914718b&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCIICEAE",
+      "displayed_link": "340+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead9cbf733d85fa6a1f10501450abfd3d86.png",
+      "snippet": "Co-Founder and Managing Director of Exsellerating, a company scaling and growing a range of reliable brands selling on the Amazon platform.",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Founder & Managing Director",
+            "Exsellerating"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joe Baldwin"
+    },
+    {
+      "position": 20,
+      "title": "Colm Tobin - Area Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/colm-tobin-53a354195",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/colm-tobin-53a354195&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCIgCEAE",
+      "displayed_link": "360+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead1eb29342c9d0ed1f474654202bf63347.png",
+      "snippet": "Colm Tobin. Area Manager at Amazon. Amazon UCL. United Kingdom. 362 followers 361 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Area Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Colm Tobin"
+    },
+    {
+      "position": 21,
+      "title": "Ian Meyers - Amazon Web Services (AWS)",
+      "link": "https://uk.linkedin.com/in/ianmeyers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ianmeyers&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCKECEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead99a88157c0242e333b29c6978f4edfc2.png",
+      "snippet": "Ian Meyers. Amazon Web Services (AWS). Greater London, England, United Kingdom. 2K followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ian Meyers"
+    },
+    {
+      "position": 22,
+      "title": "Arthur Neto - Area Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/arthurneto91",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/arthurneto91&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECEsQAQ",
+      "displayed_link": "640+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eada9af11a4ed8e1307eebfad5e63fb1328.png",
+      "snippet": "- Present 4 months. Warrington, England, United Kingdom. Amazon Graphic. UK& Ireland HR Team Manager. Amazon. Jun 2022 - Dec 2024 2 years 7 months. Amazon ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "Amazon",
+        "Team Manager",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Liverpool Area",
+            "Area Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Arthur Neto"
+    },
+    {
+      "position": 23,
+      "title": "Matt Lloyd - Head Of Brand Marketing, Prime Video EMEA.",
+      "link": "https://uk.linkedin.com/in/matt-lloyd-6a46838",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/matt-lloyd-6a46838&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECEYQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead0d5e2a59851e49c6dac8dedba2598cca.png",
+      "snippet": "Experience · Amazon Graphic. Head Of Brand Marketing, Prime Video EMEA. Amazon. Nov 2023 - Present 1 year 5 months. London, England, United Kingdom · Amazon ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Stansted Mountfitchet, England, United Kingdom",
+            "Head Of Brand Marketing, Prime Video EMEA.",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Lloyd"
+    },
+    {
+      "position": 24,
+      "title": "Thomas Paines - Senior Retail Account Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/thomas-paines-4939721b6?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/thomas-paines-4939721b6%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECGAQAQ",
+      "displayed_link": "520+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead4fb6d2b0af5ed54a0500abb5063cb1a3.png",
+      "snippet": "London, England, United Kingdom. Amazon FBA Private Label Retailer Graphic. Founder and Managing Director. Amazon FBA Private Label Retailer. Sep 2017 - Present ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon",
+        "Founder",
+        "Amazon",
+        "Present"
+      ],
+      "source": "LinkedIn · Thomas Paines"
+    },
+    {
+      "position": 25,
+      "title": "James Gunaca - Founder - Product Sphere",
+      "link": "https://uk.linkedin.com/in/jamesgunaca",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jamesgunaca&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECHkQAQ",
+      "displayed_link": "8.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead45c2e19206e3b87e183606d769e45a0b.png",
+      "snippet": "I help Product Managers build and grow rewarding careers as a Product Management Coach | Ex-Amazon | Founder ... London, England, United Kingdom. 9K ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Founder",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · James Gunaca"
+    },
+    {
+      "position": 26,
+      "title": "Ben Smith - Creative Studio Manager, EMEA @ Amazon",
+      "link": "https://uk.linkedin.com/in/13ensmith",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/13ensmith&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJgBEAE",
+      "displayed_link": "960+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead82580acdc0ead826fea9492a1c135404.png",
+      "snippet": "Creative Director & Founder. Primary Film. Oct 2009 - Jan 2018 8 years 4 months. Cardiff, Wales, United Kingdom. Business Growth & Recognition • Scaled revenue ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Manager, Creative Studio EMEA",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Smith"
+    },
+    {
+      "position": 27,
+      "title": "Evgeny Bik - Founder - Day One Careers",
+      "link": "https://uk.linkedin.com/in/evgenybik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/evgenybik&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCLQBEAE",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead3d0e6359cb1d39e14a4bba6474509271.png",
+      "snippet": "Founder, Day One Careers | ex-Amazon | ex-Apple · Evgeny Bik is a ... United Kingdom · 500+ connections on LinkedIn. View Evgeny Bik's profile on ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Founder",
+            "Day One Careers"
+          ]
+        }
+      },
+      "source": "LinkedIn · Evgeny Bik"
+    },
+    {
+      "position": 28,
+      "title": "Peter Busulwa - Private Label Owner - Amazon",
+      "link": "https://uk.linkedin.com/in/peter-busulwa-aa9a5327",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/peter-busulwa-aa9a5327&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCM0BEAE",
+      "displayed_link": "130+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead914339e8b04bb60c0d07f9495c39fa38.png",
+      "snippet": "Peter Busulwa. Private Label Owner at Amazon. Amazon King's College London. London, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Owner",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Peter Busulwa"
+    },
+    {
+      "position": 29,
+      "title": "Sebastian Joseph - CEO and Founder - Retail-Outsource",
+      "link": "https://uk.linkedin.com/in/seb-joseph",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/seb-joseph&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCMoBEAE",
+      "displayed_link": "6.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead265da406102be7052ebc22d894279c0d.png",
+      "snippet": "London, United Kingdom. As the CEO and Co-founder of EARTHCROC LTD, I led the charge in specializing in gaming chair imports and distribution. CEO and Founder.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Co-founder",
+        "Founder"
+      ],
+      "source": "LinkedIn · Sebastian Joseph"
+    },
+    {
+      "position": 30,
+      "title": "Ryan Kroonenburg",
+      "link": "https://uk.linkedin.com/in/acloudguru",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/acloudguru&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCO0BEAE",
+      "displayed_link": "53.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadcc28d9223bb3bcb51859be076f1e2f8f.png",
+      "snippet": "London, United Kingdom. -. London, United Kingdom. -. Twickenham, United Kingdom ... AWS Certified Solutions Architect - Professional. Amazon Web Services.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "United Kingdom",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Kroonenburg Capital"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ryan Kroonenburg"
+    },
+    {
+      "position": 31,
+      "title": "Gurpreet Sandhu - EU Team Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/gurpreet-sandhu-87966912b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gurpreet-sandhu-87966912b&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCOYBEAE",
+      "displayed_link": "170+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadba47eb485759cd9f29cd881abf1d430f.png",
+      "snippet": "Gurpreet Sandhu. AIC EU Team Manager - (Auditing, Insights, Compliance). Amazon. Tamworth, England, United Kingdom. 177 followers 169 connections. See your ...",
+      "snippet_highlighted_words": [
+        "Team Manager",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Gurpreet Sandhu"
+    },
+    {
+      "position": 32,
+      "title": "Heloise Finch - Founder & CEO - Sell Beyond",
+      "link": "https://uk.linkedin.com/in/heloisefb",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/heloisefb&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCIYCEAE",
+      "displayed_link": "5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadf7a15d9641944ff840080c55ba519d8b.png",
+      "snippet": "Profit-First Amazon Management Consultancy | Founder & CEO Sell Beyond ... Colchester, England, United Kingdom. 5K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Founder",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Colchester, England, United Kingdom",
+            "Founder & CEO",
+            "Sell Beyond",
+            "Amazon Management Consultancy"
+          ]
+        }
+      },
+      "source": "LinkedIn · Heloise Finch-Boyer"
+    },
+    {
+      "position": 33,
+      "title": "George Yates - Team Manager - EU Retail - Amazon",
+      "link": "https://uk.linkedin.com/in/george-yates-3842a413b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/george-yates-3842a413b&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCIECEAE",
+      "displayed_link": "230+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead64c0467269be914cb139a61ae3e36d0f.png",
+      "snippet": "George Yates. Team Manager - EU Retail @ Amazon. Amazon. London, England, United Kingdom. 235 ...",
+      "snippet_highlighted_words": [
+        "Team Manager",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Team Manager",
+            "EU Retail",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · George Yates"
+    },
+    {
+      "position": 34,
+      "title": "Carina McLeod - Ecommerce Nurse Limited",
+      "link": "https://uk.linkedin.com/in/carinamcleod",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/carinamcleod&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJsCEAE",
+      "displayed_link": "4.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead2c2d34ca1b7130040592a48c8657178d.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Carina McLeod's profile ... Amazon Retail for Advertisers Certification Graphic · Amazon Retail for ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Ecommerce Nurse Limited"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carina McLeod"
+    },
+    {
+      "position": 35,
+      "title": "Sam Hörbye - Co-Founder - Olsam.",
+      "link": "https://uk.linkedin.com/in/sam-h%C3%B6rbye-68546987",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sam-h%25C3%25B6rbye-68546987&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJ4CEAE",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead27d5b71e0ca64d9299d622e1756f57cc.png",
+      "snippet": "Co-Founder. Olsam. Oct 2020 - Present 4 years 6 months. London, England, United Kingdom. Olsam is an e-commerce platform that helps independent brands blow up ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Co-Founder",
+            "Olsam."
+          ]
+        }
+      },
+      "source": "LinkedIn · Sam Hörbye"
+    },
+    {
+      "position": 36,
+      "title": "John Ing - Founder - The Independent User Group for ...",
+      "link": "https://uk.linkedin.com/in/ingjohn",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ingjohn&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCKICEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead0bd0429c5a156f02a0c91b90ffcdcd7a.png",
+      "snippet": "The Independent User Group for Amazon Connect Graphic. Founder. The Independent User Group for Amazon Connect. Mar 2024 - Present 1 year 1 month. United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Founder",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · John Ing"
+    },
+    {
+      "position": 37,
+      "title": "Archit Tiwari - Co-Founder - Juno AI",
+      "link": "https://uk.linkedin.com/in/archittiwari",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/archittiwari&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCLgCEAE",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadd7d46cd13fdbeb3f16d077c0578e6e38.png",
+      "snippet": "Co-Founder. Mooli. Jul 2019 - Feb 2022 2 years 8 months. London, England, United Kingdom. Amazon. 2 years. Amazon Graphic. Senior Special Projects Manager.",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "United Kingdom",
+        "Amazon",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Archit Tiwari"
+    },
+    {
+      "position": 38,
+      "title": "Jamie Timmins - FC Lead - Amazon",
+      "link": "https://uk.linkedin.com/in/jamie-timmins-087171192",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jamie-timmins-087171192&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECEMQAQ",
+      "displayed_link": "330+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead15ff60b89ecc0dba758bc8ccc37bd9f4.png",
+      "snippet": "Jamie Timmins. AWS Restart at Generation UK & Ireland. Amazon Generation UK & Ireland. United Kingdom.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "FC Lead",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jamie Timmins"
+    },
+    {
+      "position": 39,
+      "title": "Christopher Smith - Head of EU AMS Inventory & ...",
+      "link": "https://uk.linkedin.com/in/msucjsmith",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/msucjsmith&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECEkQAQ",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead083e620352c7761b168fdaad68443a10.png",
+      "snippet": "Amazon. Oct 2020 - Aug 2021 11 months. London, England, United Kingdom. When it became clear in March that testing Amazon employees for COVID-19 was going to ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sevenoaks, England, United Kingdom",
+            "Head of EU AMS Inventory & Sustainability",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christopher Smith"
+    },
+    {
+      "position": 40,
+      "title": "Rachel Repper - Amazon Business",
+      "link": "https://uk.linkedin.com/in/rachel-repper-7217639",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/rachel-repper-7217639&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECGIQAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead72c4c5ecc2326a7342cfb74445b7f8c2.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Rachel Repper's ... Co-Founder. World Changing Women Network. Jan 2023 - Present 2 years 3 months.",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Co-Founder",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon Business",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rachel Repper"
+    },
+    {
+      "position": 41,
+      "title": "Steven Phillips - Executive Director & Co-Founder",
+      "link": "https://uk.linkedin.com/in/steven-michael-phillips",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/steven-michael-phillips&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECGMQAQ",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead575482aaa104c8396f8d2c2182dd51df.png",
+      "snippet": "Executive Director & Co-Founder of the world's largest network for Jewish Employee Resource Group leaders. ... I am founder and co-president of Amazon's Jewish ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "founder",
+        "Amazon's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Barnet, England, United Kingdom",
+            "Executive Director & Co-Founder",
+            "JewishERGs"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steven Phillips"
+    },
+    {
+      "position": 42,
+      "title": "Sofia Alexandrescu - Team Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/sofia-alexandrescu-2501bb172",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sofia-alexandrescu-2501bb172&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECGEQAQ",
+      "displayed_link": "https://uk.linkedin.com › ...",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead3bcb06ad118e7a0e4a8881f4ce74436f.png",
+      "snippet": "Sofia Alexandrescu. Team Manager la Amazon. Amazon. Doncaster, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Team Manager",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Doncaster, England, United Kingdom",
+            "Team Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn"
+    },
+    {
+      "position": 43,
+      "title": "Thomas Parkinson - Founder - Fast Track FBA",
+      "link": "https://uk.linkedin.com/in/thomasparkinson",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/thomasparkinson&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECHsQAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead7725575f06fe8ad4a0e833985077ce35.png",
+      "snippet": "Founder. Fast Track FBA. Aug 2019 - Present 5 years 8 months. London, England, United Kingdom. We help Amazon resellers scale their business. Founder. Amazon ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Present",
+        "United Kingdom",
+        "Amazon",
+        "Founder",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Thomas Parkinson"
+    },
+    {
+      "position": 44,
+      "title": "Vineet Kumar, Ph.D - Founder - GI Heritage",
+      "link": "https://uk.linkedin.com/in/vineetphd",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/vineetphd&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECHoQAQ",
+      "displayed_link": "5.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadd80ac1104bedda5888f41277c2d4f769.png",
+      "snippet": "UK TechNation Exceptional Talent Visa Holder | Co-founder - Emvantage (Acquired by Amazon) | Founder & CEO – GI Heritage | Founder - FinuSmart | Payments ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Amazon",
+        "Founder",
+        "Founder"
+      ],
+      "source": "LinkedIn · Vineet Kumar, Ph.D"
+    },
+    {
+      "position": 45,
+      "title": "Jonny Golding - Amazon PPC Management",
+      "link": "https://uk.linkedin.com/in/jonny-golding",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jonny-golding&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJwBEAE",
+      "displayed_link": "14.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eade0685e3896620e72866a76e9304fc4d9.png",
+      "snippet": "Jonny Golding. Amazon PPC Management University of Southampton. Hook, England, United Kingdom. 14K followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hook, England, United Kingdom",
+            "Amazon PPC Management"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonny Golding"
+    },
+    {
+      "position": 46,
+      "title": "Mike Lloyd - CEO & Founder - Propel Your Product",
+      "link": "https://uk.linkedin.com/in/mikelloyd-",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/mikelloyd-&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJQBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead9eec95ccd9f0b3ca6ccabe03e656c5d8.png",
+      "snippet": "CEO & Founder. Propel Your Product. Oct 2019 - Present 5 years 6 months. United Kingdom. Amazon Growth Specialists for Innovative Consumer Brands. Offering a ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Present",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Mike Lloyd"
+    },
+    {
+      "position": 47,
+      "title": "Ash Hollowell - Team Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/ash-hollowell-a2a7007b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ash-hollowell-a2a7007b&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCLUBEAE",
+      "displayed_link": "320+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead5b423d513513ebc1a9f83b43f6094828.png",
+      "snippet": "... United Kingdom · 325 connections on LinkedIn. View Ash Hollowell's ... Team Manager at Amazon. Amazon Anglia Ruskin University. United Kingdom. 329 ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Team Manager",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Team Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ash Hollowell"
+    },
+    {
+      "position": 48,
+      "title": "Stéphane Vukovic - Prime Video & Amazon Studios",
+      "link": "https://uk.linkedin.com/in/stephanevukovic",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/stephanevukovic&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCLIBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eade4d8c4b4c527087457e8e322314a4abe.png",
+      "snippet": "Stéphane Vukovic. Prime Video & Amazon Studios Harvard Business School. London, England, United Kingdom. 2K ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stéphane Vukovic"
+    },
+    {
+      "position": 49,
+      "title": "Ankur Aggarwal - Senior Product Manager- Tech I Digital ...",
+      "link": "https://uk.linkedin.com/in/ankur-aggarwal-95251219",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ankur-aggarwal-95251219&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCLABEAE",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead7744d3445d95a86d098fc027d5e1b68b.png",
+      "snippet": "Part of Amazon's EU MBA Corporate Leadership Development Program. Received Amazon Business (AB) EU Top Performer, AB UK Rising Star Award 2021. Co-Founder.",
+      "snippet_highlighted_words": [
+        "Amazon's",
+        "Amazon",
+        "Co-Founder"
+      ],
+      "source": "LinkedIn · Ankur Aggarwal"
+    },
+    {
+      "position": 50,
+      "title": "Kostas Stamatopoulos - Sr. Regional Manager, Global ...",
+      "link": "https://uk.linkedin.com/in/kstamatopoulos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/kstamatopoulos&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCM4BEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadb52ff2f4743c44fa05ea6840eaf10623.png",
+      "snippet": "Kostas Stamatopoulos. Sr Regional Manager for Capacity Expansion investments. Amazon University of Nottingham. United Kingdom.",
+      "snippet_highlighted_words": [
+        "Regional Manager",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Sr. Regional Manager, Global Engineering Services",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kostas Stamatopoulos"
+    },
+    {
+      "position": 51,
+      "title": "Diego Piacentini - DoorDash",
+      "link": "https://www.linkedin.com/in/diego-piacentini",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/diego-piacentini&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCMsBEAE",
+      "displayed_link": "9.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadd3106788c3a66d2eb827c76715b470cd.png",
+      "snippet": "London Area, United Kingdom. -. Greater Seattle Area. -. Rome Area, Italy ... Endeavor. Sep 2008 - Present 16 years 7 months. I am a long standing mentor and ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "DoorDash"
+          ]
+        }
+      },
+      "source": "LinkedIn · Diego Piacentini"
+    },
+    {
+      "position": 52,
+      "title": "Max Sinclair - Founder, CEO - Ecomtent",
+      "link": "https://uk.linkedin.com/in/max-sinclair-ai",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/max-sinclair-ai&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCM8BEAE",
+      "displayed_link": "7.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead04b14a2f88a46006b43d19b7d9337ef0.png",
+      "snippet": "Founder, CEO at Ecomtent | ex-Amazon | Helping Sellers to optimize for AI ... - Owner of… Show more. Our vision in Amazon Business: to be the ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Amazon",
+        "Owner",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Max Sinclair"
+    },
+    {
+      "position": 53,
+      "title": "Sanidhya Kumar - Team Manager - Amazon Development ...",
+      "link": "https://in.linkedin.com/in/sanidhya-kumar-914b1456",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/sanidhya-kumar-914b1456&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCNEBEAE",
+      "displayed_link": "80+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadc97c91a94fec0dbb9ea4e0037d4d7cb2.png",
+      "snippet": "Team Manager at Amazon for (United Kingdom) Retail operations. · The meaning of my name is \"a person who is in close proximity to everyone\" and with that I ...",
+      "snippet_highlighted_words": [
+        "Team Manager",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "India",
+            "Team Manager",
+            "Amazon Development Center Romania"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sanidhya Kumar"
+    },
+    {
+      "position": 54,
+      "title": "Tayyab Shahzad - Founder / Director of Advertising",
+      "link": "https://www.linkedin.com/in/tayyab-shahzad65",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tayyab-shahzad65&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECCgQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead496b29d35c784288f1bc5feb78d9245e.png",
+      "snippet": "Co-Founder. ES LTD. Jan 2013 - Present 12 years 3 months. Northamptonshire, England, United Kingdom. Provided strategic PPC Management and SEO solutions to ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Tayyab Shahzad"
+    },
+    {
+      "position": 55,
+      "title": "Nayan Vakharia - Amazon Flex",
+      "link": "https://uk.linkedin.com/in/nayan-vakharia-3528b450",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nayan-vakharia-3528b450&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCOUBEAE",
+      "displayed_link": "660+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead84b8abb8350d68b0bba0f75e3ad32934.png",
+      "snippet": "... Owner | IT Project Implementation Manager | Cash Management Analyst | Field Engineer | Sales. Amazon University of Hertfordshire. London Area, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Owner",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Nayan Vakharia"
+    },
+    {
+      "position": 56,
+      "title": "Adam Henry-Whittle - Co-Founder & Director",
+      "link": "https://uk.linkedin.com/in/adam-henry-whittle-4564a014a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/adam-henry-whittle-4564a014a&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCOwBEAE",
+      "displayed_link": "250+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead8479ddccc196da3e78a8ec64ad8419c7.png",
+      "snippet": "Co-Founder & Director. OBSIDIA GROUP (UK) LTD. Aug 2011 - Present 13 years 8 months. Retford, United Kingdom. Amazon Graphic. Department Manager. Amazon. Sep ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "United Kingdom",
+        "Amazon",
+        "Department Manager",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Retford, England, United Kingdom",
+            "Co-Founder & Director",
+            "OBSIDIA GROUP (UK) LTD"
+          ]
+        }
+      },
+      "source": "LinkedIn · Adam Henry-Whittle"
+    },
+    {
+      "position": 57,
+      "title": "Selina Carr - Assistant Team Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/selina-carr-26882122b?trk=public_profile_browsemap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/selina-carr-26882122b%3Ftrk%3Dpublic_profile_browsemap&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCOcBEAE",
+      "displayed_link": "5 followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead0c5c4e6815584a4409a3edf8c75850c1.png",
+      "snippet": "Assistant Team Manager at Amazon. Amazon. London, England, United Kingdom. 5 ... Sales Assistant. Asda. Jul 2018 - Present 6 years 9 months. United Kingdom.",
+      "snippet_highlighted_words": [
+        "Team Manager",
+        "Amazon",
+        "Amazon",
+        "United Kingdom",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Selina Carr"
+    },
+    {
+      "position": 58,
+      "title": "David Frankel - Founder Collective",
+      "link": "https://www.linkedin.com/in/davidafrankel1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/davidafrankel1&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCIQCEAE",
+      "displayed_link": "4.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadbb69b884c868805fd5c238d653666753.png",
+      "snippet": "David is co-founder and Managing Partner of Founder Collective, a seed-stage VC fund… · ... Calling it the Amazon of Korea overstates the case, but not by much.",
+      "snippet_highlighted_words": [
+        "co-founder",
+        "Founder",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cambridge, Massachusetts, United States",
+            "Founder Collective"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Frankel"
+    },
+    {
+      "position": 59,
+      "title": "Atif Rafiq - CEO & Co-founder - Ritual",
+      "link": "https://www.linkedin.com/in/atif1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/atif1&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCIMCEAE",
+      "displayed_link": "486.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead8e4615eab40036c5e5c741bac494f9e1.png",
+      "snippet": "... Amazon, Yahoo!, and AOL, Atif held C-suite roles at McDonald's, Volvo ... CEO & Co-founder. Ritual. Jan 2021 - Present 4 years 3 months. United States.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Co-founder",
+        "Present"
+      ],
+      "source": "LinkedIn · Atif Rafiq"
+    },
+    {
+      "position": 60,
+      "title": "Dave Wood - Owner Consignia Logistics Ltd, Amazon DSP ...",
+      "link": "https://uk.linkedin.com/in/dave-wood-5903a114",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/dave-wood-5903a114&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCIUCEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead5d00c3bbe1f4d35ec3c43daf4b0d2078.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Dave Wood's ... Owner at Amazon DSP 2.0 COSN & CR auto bodies and Autosmart. Amazon Logistics ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Owner",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Owner Consignia Logistics Ltd, Amazon DSP 2.0",
+            "Amazon Logistics"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dave Wood"
+    },
+    {
+      "position": 61,
+      "title": "Hamza Mudassir - Founder - strategize.inc",
+      "link": "https://uk.linkedin.com/in/hamzamudassir",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/hamzamudassir&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCIACEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadec5f6f7a05a5a9c741eabce8b3da6421.png",
+      "snippet": "... United Kingdom · 500+ connections on LinkedIn. View Hamza Mudassir's profile ... Amazon Graphic. Product Leader - Pan European Automotive. Amazon. Sep ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Hamza Mudassir"
+    },
+    {
+      "position": 62,
+      "title": "Matt Newman - Amazon",
+      "link": "https://www.linkedin.com/in/mdnewman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mdnewman&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJ0CEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eada33c958974bd38972a3db22a2df41f5b.png",
+      "snippet": "Amazon · University of Michigan - Stephen M. Ross School of Business · Los ... London, United Kingdom. -. London, United Kingdom. -. Greater Seattle Area ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Newman"
+    },
+    {
+      "position": 63,
+      "title": "Poornima Maheshwari - Product Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/poornima-maheshwari",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/poornima-maheshwari&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJ8CEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead1aefa9dee488ec086326b50474e0b2aa.png",
+      "snippet": "Product Manager @Amazon| MBA @Strathclyde Business School · With over 13 years of experience in IT, the last 8 years in business analysis and product owner ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "owner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Product Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Poornima Maheshwari"
+    },
+    {
+      "position": 64,
+      "title": "Jonathan Cowing - Head of Vendor Management - Amazon",
+      "link": "https://uk.linkedin.com/in/jonathan-cowing-4039bb11b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jonathan-cowing-4039bb11b&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJwCEAE",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead960d32ed28afd63521eea43a65353190.png",
+      "snippet": "Head of Vendor Management at Amazon Retail. Amazon University of Leeds. London, England, United Kingdom. 759 followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Head of Vendor Management",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonathan Cowing"
+    },
+    {
+      "position": 65,
+      "title": "Phoebe Wang - Amazon",
+      "link": "https://www.linkedin.com/in/phoebewang1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/phoebewang1&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCKACEAE",
+      "displayed_link": "27.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead21f87954176a254158b2edb6a2dbc791.png",
+      "snippet": "Exeter, England, United Kingdom. -. Chicago, Illinois, United States. -. San ... “I had the pleasure of working with Phoebe Wang on the Female Founder ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Phoebe Wang"
+    },
+    {
+      "position": 66,
+      "title": "Andrei Burca - Co-founder | Amazon Business Strategist",
+      "link": "https://uk.linkedin.com/in/andrei-burca",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrei-burca&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCLACEAE",
+      "displayed_link": "970+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead88a1872300e56c1cd3e6272e94870abb.png",
+      "snippet": "Co-founder | Amazon Business Strategist | Fully integrated Agency. Seller Mango. May 2021 ; Amazon Business Owner & Seller. Amazon. 2017 ; Insurance Advisor. Litt ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Amazon",
+        "Amazon",
+        "Owner",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Andrei Burca"
+    },
+    {
+      "position": 67,
+      "title": "Andrej Budkevic - Senior Regional Manager",
+      "link": "https://uk.linkedin.com/in/andrej-budkevic-5909b092",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/andrej-budkevic-5909b092&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCLoCEAE",
+      "displayed_link": "760+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eada5c89e64917af812499654c528c28201.png",
+      "snippet": "Senior Regional Manager at Amazon Logistics. Amazon Logistics University of Hertfordshire. United Kingdom. 761 followers 500+ connections. See your mutual ...",
+      "snippet_highlighted_words": [
+        "Regional Manager",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior Regional Manager",
+            "Amazon Logistics"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrej Budkevic"
+    },
+    {
+      "position": 68,
+      "title": "Gerald Blee - Global lead - Ad Policy - Amazon",
+      "link": "https://uk.linkedin.com/in/gerald-blee",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/gerald-blee&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCL4CEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eade7cc7689536b868b76ece82f1ab8fcb5.png",
+      "snippet": "Amazon. Dec 2023 - Present 1 year 4 months. United Kingdom. Global owner and team lead for the Amazon ad policies that apply to Amazon Stores. TikTok. 3 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Present",
+        "United Kingdom",
+        "owner",
+        "Amazon",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "Global lead",
+            "Ad Policy",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gerald Blee"
+    },
+    {
+      "position": 69,
+      "title": "Aakar Jain - Founder - The Amazon Guru",
+      "link": "https://in.linkedin.com/in/aakarjain-theamazonguru",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/aakarjain-theamazonguru&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCLkCEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadffbe68ceb9b94f4024a7f5fee759d438.png",
+      "snippet": "Founder @ The Amazon Guru | Marketplace Growth Strategist | Scaling Brands ... Jul 2024 - Present 9 months. Founder of TheAmazonGuru - an E-Commerce ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Amazon",
+        "Present",
+        "Founder"
+      ],
+      "source": "LinkedIn · Aakar Jain"
+    },
+    {
+      "position": 70,
+      "title": "Richard Turner - Founder - Richberry",
+      "link": "https://uk.linkedin.com/in/riwvt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/riwvt&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECEcQAQ",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead9b8b17a5b4e8b4a70d054b92c84c0e57.png",
+      "snippet": "Driving Peak Potential Performance through Amazon Ads and SEO | Founder at Richberry. Richberry The Open University. Brighton, England, United Kingdom. 905 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Founder",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brighton, England, United Kingdom",
+            "Founder",
+            "Richberry"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Turner"
+    },
+    {
+      "position": 71,
+      "title": "Amali de Alwis MBE, UAL Honorary Fellow - Amazon Web ...",
+      "link": "https://uk.linkedin.com/in/amali",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/amali&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECEQQAQ",
+      "displayed_link": "7.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadc7d3df7482e3257a56859e9404e18a60.png",
+      "snippet": "PLEASE NOTE * If we've never met, do click \"follow\" on my activities to keep up to date… · Experience: Amazon ... co-founder and CEO of Unruly, Russ Shaw, founder ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "co-founder",
+        "founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amali de Alwis MBE, UAL Honorary Fellow"
+    },
+    {
+      "position": 72,
+      "title": "Varun Bhanot - MAGIC AI",
+      "link": "https://uk.linkedin.com/in/varunbhanot1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/varunbhanot1&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECEUQAQ",
+      "displayed_link": "26.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead606360ed8e820ebc775c7f2cbeb7acb9.png",
+      "snippet": "Co-founder & CEO, MAGIC AI (https://www.magic.fit) MAGIC AI has been listed ... United Kingdom · 500+ connections on LinkedIn. View Varun Bhanot's ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "MAGIC AI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Varun Bhanot"
+    },
+    {
+      "position": 73,
+      "title": "Amy Massey - ICQA Regional Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/amy-massey-1709001b6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/amy-massey-1709001b6&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECEoQAQ",
+      "displayed_link": "190+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead78612300680ae11b916ae3a9d76987e1.png",
+      "snippet": "ICQA Regional Operations Manager at Amazon. Amazon. Gateshead, England, United Kingdom. 195 followers 189 connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Gateshead, England, United Kingdom",
+            "ICQA Regional Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amy Massey"
+    },
+    {
+      "position": 74,
+      "title": "Ankit Pant - Co-Founder & CTO - 1Vendor Platform™ (1VP)",
+      "link": "https://uk.linkedin.com/in/ankitpant8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ankitpant8&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECGQQAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead48a5960f5c48e4919fec48ede964610c.png",
+      "snippet": "Co-Founder & CTO. 1Vendor Platform™ (1VP). Feb 2025 - Present 2 months. London Area, United Kingdom. Amazon Web Services (AWS) Graphic. Senior Consultant ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Co-Founder & CTO",
+            "1Vendor Platform™ (1VP)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ankit Pant"
+    },
+    {
+      "position": 75,
+      "title": "PJ Scott - Co-Founder - Velocity Commerce",
+      "link": "https://uk.linkedin.com/in/pj--scott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pj--scott&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECF4QAQ",
+      "displayed_link": "4.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadb143af624216a891fda4c3a3d277b620.png",
+      "snippet": "Co Founder @ Velocity Commerce - Amazon agency optimisation & brand building experts Co Founder @ Majority Audio - Amazon ... Cambridge, England, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Co Founder",
+        "Amazon",
+        "Co Founder",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · PJ Scott"
+    },
+    {
+      "position": 76,
+      "title": "Sophia Rahman - CEO & Co-founder - Stealth Startup",
+      "link": "https://uk.linkedin.com/in/sophiagmrahman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/sophiagmrahman&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECGUQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead2869fb6996bed36edde75692b8c5335c.png",
+      "snippet": "CEO & Co-founder @ Stealth · I am Product Operations at Momentum, a custom ... United Kingdom · 500+ connections on LinkedIn. View Sophia Rahman's ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "CEO & Co-founder",
+            "Stealth Startup"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sophia Rahman"
+    },
+    {
+      "position": 77,
+      "title": "Warner Fields - Owner - Fields of Profit",
+      "link": "https://www.linkedin.com/in/warnerf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/warnerf&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECF8QAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadc0be7a8ed17d0c1e90b0f573aebe9b8f.png",
+      "snippet": "... Amazon themselves for free. Part Owner. SellerAmp. May 2022 - Present 2 years 11 months. United Kingdom. Our SaaS powers the sourcing and organization behind ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Owner",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Warner Fields"
+    },
+    {
+      "position": 78,
+      "title": "Lauren Ingram - Amazon",
+      "link": "https://uk.linkedin.com/in/ingramlauren",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ingramlauren&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECHwQAQ",
+      "displayed_link": "18.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead260f5bbb4374c4485b52de089f561521.png",
+      "snippet": "Lauren Ingram. Amazon University of Sussex. London, England, United Kingdom. 18K followers 500+ connections. See your mutual connections. View mutual ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lauren Ingram"
+    },
+    {
+      "position": 79,
+      "title": "Hannah Whitlock - Female Founders Directory",
+      "link": "https://uk.linkedin.com/in/amazonadvertisingspecialist-hannahwhitlock",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/amazonadvertisingspecialist-hannahwhitlock&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECH4QAQ",
+      "displayed_link": "20.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead24db995fb449dfdf729c79842eb5bb4e.png",
+      "snippet": "Founder of Red Dog PPC, a full service Amazon agency based in London ... United Kingdom · 500+ connections on LinkedIn. View Hannah Whitlock's profile on ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Female Founders Directory"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hannah Whitlock"
+    },
+    {
+      "position": 80,
+      "title": "Emma Roberts - EMEA Brand Strategy and Planning Lead",
+      "link": "https://uk.linkedin.com/in/emma-roberts-58609347",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/emma-roberts-58609347&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECH8QAQ",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadb8e5dd6182d2c438e06c8bbe676dfe23.png",
+      "snippet": "EMEA Brand Strategy and Planning Lead at Amazon Prime Video · Experience: Prime Video & Amazon ... Greater London, England, United Kingdom. 911 followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "EMEA Brand Strategy and Planning Lead",
+            "Prime Video & Amazon Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Emma Roberts"
+    },
+    {
+      "position": 81,
+      "title": "Robin Burrowes - Amazon",
+      "link": "https://www.linkedin.com/in/robinburrowes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robinburrowes&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECH0QAQ",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead1e40b847d34df16cc48ade3e059ee431.png",
+      "snippet": "Strategic thinker and data-driven marketing leader with 15+ years of experience in B2C… · Experience: Amazon ... Glasgow, United Kingdom. Projects. Xbox LIVE New ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robin Burrowes"
+    },
+    {
+      "position": 82,
+      "title": "Vadim Petrov - CEO / Founder - ZonPhoto",
+      "link": "https://uk.linkedin.com/in/vadim-zonphoto",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/vadim-zonphoto&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCIABEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead1c59ea7bfbd189a4af9d2be30106d8a2.png",
+      "snippet": "Premium Branding Agency for Amazon Brands | Founder @ ZonPhoto. ZonPhoto University of Sussex. Brighton, England, United Kingdom. 1K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Founder",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brighton, England, United Kingdom",
+            "CEO / Founder",
+            "ZonPhoto"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vadim Petrov"
+    },
+    {
+      "position": 83,
+      "title": "Reece Chan - CS Team Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/reece-chan-820782108",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/reece-chan-820782108&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCIEBEAE",
+      "displayed_link": "860+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead60e6eddc4c29078210bc82d7785268a2.png",
+      "snippet": "CS Team Manager | Glamazon UK Board Member · Public Speaking Coaching ... - Oct 2024 1 year 2 months. Edinburgh City, Scotland, United Kingdom. Looking ...",
+      "snippet_highlighted_words": [
+        "Team Manager",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Edinburgh, Scotland, United Kingdom",
+            "CS Team Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Reece Chan"
+    },
+    {
+      "position": 84,
+      "title": "David Murphy - Prime Video & Amazon Studios",
+      "link": "https://uk.linkedin.com/in/david-a-murphy",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/david-a-murphy&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJYBEAE",
+      "displayed_link": "470+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadc9b1ecad014776a85c8bdbe39b1f116b.png",
+      "snippet": "David Murphy. Head Of Production. Prime Video & Amazon Studios. United Kingdom. 479 followers 449 ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · David Murphy"
+    },
+    {
+      "position": 85,
+      "title": "Ben Allison - Amazon",
+      "link": "https://uk.linkedin.com/in/ben-allison-2b881458",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ben-allison-2b881458&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJsBEAE",
+      "displayed_link": "3.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead2b3dee2683c88225ed4873310bdcfba3.png",
+      "snippet": "Ben Allison. Amazon The University of Sheffield. Edinburgh, Scotland, United Kingdom. 4K followers ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Edinburgh, Scotland, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Allison"
+    },
+    {
+      "position": 86,
+      "title": "Selin Yanyali - Partnership Manager, FinTech",
+      "link": "https://uk.linkedin.com/in/selinyanyali",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/selinyanyali&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJUBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead79a679882d2f867063684eb9db28b514.png",
+      "snippet": "Strategic Fintech Partnerships at AWS | Founder | ex Goldman Sachs · Experience: Amazon Web Services (AWS) · Education: UCL · Location: United Kingdom ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Selin Yanyali"
+    },
+    {
+      "position": 87,
+      "title": "Craig Leslie - United Kingdom | Professional Profile",
+      "link": "https://uk.linkedin.com/in/craigleslie10",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/craigleslie10&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCJcBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eada65cd738dbe163f0bb02bd73c2fd5f7d.png",
+      "snippet": "... Amazon, Ex-BAT, Founder of wabya. Founders Law. United Kingdom. 3K followers 500+ connections. See your mutual connections. View mutual connections with Craig.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Founder",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Craig Leslie"
+    },
+    {
+      "position": 88,
+      "title": "Ukonwa Kuzi-Orizu Ojo - United States | Professional Profile",
+      "link": "https://www.linkedin.com/in/ukonwa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ukonwa&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCLMBEAE",
+      "displayed_link": "79.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadd763e8491b5baa5ec72b6702ced28794.png",
+      "snippet": "... Amazon Prime Video & Studios. She is a creatively driven P&L leader, with a ... Ukonwa Ojo is the Founder and CEO of Zaia Ventures, a Venture Studio ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Founder"
+      ],
+      "source": "LinkedIn · Ukonwa Kuzi-Orizu Ojo"
+    },
+    {
+      "position": 89,
+      "title": "Matt Schrage - Amazon Web Services (AWS)",
+      "link": "https://www.linkedin.com/in/matt-schrage-957b6843",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/matt-schrage-957b6843&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCLcBEAE",
+      "displayed_link": "580+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead963c27b70568cf79ee37e50dbf3638cb.png",
+      "snippet": "Amazon Web Services (AWS) · United States · 482 connections on LinkedIn ... Cambridge, United Kingdom. -. NYC. -. Washington D.C. Metro Area. -. Greater ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Amazon Web Services (AWS)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matt Schrage"
+    },
+    {
+      "position": 90,
+      "title": "Ethan Smith - CS Team Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/ethan-smith-2721ab30b?trk=people-guest_people_search-card",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ethan-smith-2721ab30b%3Ftrk%3Dpeople-guest_people_search-card&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCLEBEAE",
+      "displayed_link": "50+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eadb28e7fb791295309da50ad45bb2b2d60.png",
+      "snippet": "CS Team Manager. Amazon · Amazon Graphic. Customer Service Manager. Amazon. Apr 2020 - Present 5 years. Edinburgh, Scotland, United Kingdom.",
+      "snippet_highlighted_words": [
+        "Team Manager",
+        "Amazon",
+        "Amazon",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Ethan Smith"
+    },
+    {
+      "position": 91,
+      "title": "Stephen Weir - Regional Manager - Amazon",
+      "link": "https://www.linkedin.com/in/stephen-weir-b1262154",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stephen-weir-b1262154&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCLYBEAE",
+      "displayed_link": "830+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead1e184f32268c66c5db6ffa3f05baa216.png",
+      "snippet": "Stephen Weir. Regional Manager | Project Implementation, Continuous Improvement. Amazon Napier University. Motherwell, Scotland, United Kingdom. 836 followers ...",
+      "snippet_highlighted_words": [
+        "Regional Manager",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Motherwell, Scotland, United Kingdom",
+            "Regional Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephen Weir"
+    },
+    {
+      "position": 92,
+      "title": "Martim Mead da Maia - New York, New York, United States",
+      "link": "https://www.linkedin.com/in/martimmaia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/martimmaia&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCK8BEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead8ccba3f2ea86974c0c2fcd3b5dd96646.png",
+      "snippet": "... (Amazon) and small (Jumia, Rocket Internet) tech companies, as well as an ... Sep 2021 2 years. London, United Kingdom. Softlines (Fashion) - Inventory ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Martim Mead da Maia"
+    },
+    {
+      "position": 93,
+      "title": "Francis Meier - Operations Manager - Amazon",
+      "link": "https://uk.linkedin.com/in/fjmeier",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/fjmeier&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCMwBEAE",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead36d21f429c11da8782f02a1545c679ca.png",
+      "snippet": "L5 Area Manager at Amazon. Founder of 1:ONE Apparel and volunteer at Young ... United Kingdom · 500+ connections on LinkedIn. View Francis Meier's ...",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Founder",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Manchester Area, United Kingdom",
+            "Operations Manager",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Francis Meier"
+    },
+    {
+      "position": 94,
+      "title": "Chris Turton - Managing Director - Ecommerce Intelligence",
+      "link": "https://uk.linkedin.com/in/christurton-amazonagency",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/christurton-amazonagency&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoFCNABEAE",
+      "displayed_link": "7.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143eade1b75a15dcc6bc6b96ee0e0ea171674d.png",
+      "snippet": "Ecommerce Intelligence. Jan 2019 - Present 6 years 3 months. Shrewsbury, United Kingdom. A seasoned Amazon FBA ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "United Kingdom",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Chris Turton"
+    },
+    {
+      "position": 95,
+      "title": "Neha Sharma - Amazon",
+      "link": "https://uk.linkedin.com/in/nehha",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/nehha&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECCwQAQ",
+      "displayed_link": "16.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead627711ab57ca617bd752bc60a31298e8.png",
+      "snippet": "Neha Sharma. Amazon. London, England, United Kingdom. 16K followers 500+ connections.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Neha Sharma"
+    },
+    {
+      "position": 96,
+      "title": "Ben Baruch - Head of Economic Policy - Amazon",
+      "link": "https://uk.linkedin.com/in/ben-baruch-5570682a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ben-baruch-5570682a&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECC8QAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead424f0b8e18942b7fc94c515e9bb7714e.png",
+      "snippet": "London, England, United Kingdom. Amazon Graphic. Public Policy Manager. Amazon. Oct 2020 - Mar 2023 2 years 6 months. London, England, United Kingdom. British ...",
+      "snippet_highlighted_words": [
+        "United Kingdom",
+        "Amazon",
+        "Amazon",
+        "United Kingdom"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater London, England, United Kingdom",
+            "Head of Economic Policy",
+            "Amazon"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ben Baruch"
+    },
+    {
+      "position": 97,
+      "title": "Phil Loynes - Regional Manager - England & Wales",
+      "link": "https://uk.linkedin.com/in/phil-loynes-80597b6a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/phil-loynes-80597b6a&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECCoQAQ",
+      "displayed_link": "500+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead74f06325ed358fa880ae215e71ce072e.png",
+      "snippet": "CTPD Regional Manager (England & Wales) – Amazon Key for Business · Highly ... Co-founder/ Scrum Master. Ordersort. Jun 2023 - Feb 2024 9 months. Head Of ...",
+      "snippet_highlighted_words": [
+        "Regional Manager",
+        "Amazon",
+        "Co-founder"
+      ],
+      "source": "LinkedIn · Phil Loynes"
+    },
+    {
+      "position": 98,
+      "title": "Amir Nemni - CEO-Founder and Amazon Expert",
+      "link": "https://www.linkedin.com/in/amirnemni?trk=people-guest_people_search-card",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amirnemni%3Ftrk%3Dpeople-guest_people_search-card&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECDAQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead2230feb8f163575041497155d4050acf.png",
+      "snippet": "CEO-Founder and Amazon Expert. PeakSellers.com. 2017 - Present 8 years. As an online retailer and successful Amazon seller since 2010, I founded PeakSellers to ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Amazon",
+        "Present",
+        "Amazon"
+      ],
+      "source": "LinkedIn · Amir Nemni"
+    },
+    {
+      "position": 99,
+      "title": "Yassine E. - Founder of NivoAds",
+      "link": "https://www.linkedin.com/in/amazonppcmanager",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amazonppcmanager&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECC0QAQ",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead2b4eecd574d263c434296f60e1665e8c.png",
+      "snippet": "Amazon Advertising Specialist & Founder of NivoAds · Amazon Advertising Specialist with over 13 years of digital marketing and e-commerce experience.",
+      "snippet_highlighted_words": [
+        "Amazon",
+        "Founder",
+        "Amazon"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Princeton, New Jersey, United States",
+            "Founder of NivoAds",
+            "NivoAds"
+          ]
+        }
+      },
+      "source": "LinkedIn · Yassine E."
+    },
+    {
+      "position": 100,
+      "title": "Barbara Town - Entrepreneur - Store Owner @ Amazon EU",
+      "link": "https://uk.linkedin.com/in/barbara-town-994287ab",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/barbara-town-994287ab&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQFnoECCkQAQ",
+      "displayed_link": "30+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfaa85edcfb1ffb978a98/images/fb90ab9b5214c46e848314d348143ead4b158fc5c947907d6598d1f067a61658.png",
+      "snippet": "Store Owner @ Amazon EU. Mar 2016 - Present 9 years. United Kingdom, Germany, France, Italy & Spain. I spend my days buying this and that and selling it via ...",
+      "snippet_highlighted_words": [
+        "Owner",
+        "Amazon",
+        "Present",
+        "United Kingdom"
+      ],
+      "source": "LinkedIn · Barbara Town"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=qvrdZ6L4B_PR1e8PxL6iyAk&start=100&sa=N&sstk=Af40H4XgJzaakHNrHu2RQzB3dcI2GeO6q0MuRwMcCmIk9MlXDfx_JP0an8OoTTr8YNPZ1Bsklwg9TzdHKailB_wF3RAxJ5EyjHNBcQ&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQ8NMDegUItwIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=qvrdZ6L4B_PR1e8PxL6iyAk&start=100&sa=N&sstk=Af40H4XgJzaakHNrHu2RQzB3dcI2GeO6q0MuRwMcCmIk9MlXDfx_JP0an8OoTTr8YNPZ1Bsklwg9TzdHKailB_wF3RAxJ5EyjHNBcQ&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQ8tMDegUItwIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=qvrdZ6L4B_PR1e8PxL6iyAk&start=200&sa=N&sstk=Af40H4XgJzaakHNrHu2RQzB3dcI2GeO6q0MuRwMcCmIk9MlXDfx_JP0an8OoTTr8YNPZ1Bsklwg9TzdHKailB_wF3RAxJ5EyjHNBcQ&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQ8tMDegUItwIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Amazon%22+AND+%22United+Kingdom%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=qvrdZ6L4B_PR1e8PxL6iyAk&start=300&sa=N&sstk=Af40H4XgJzaakHNrHu2RQzB3dcI2GeO6q0MuRwMcCmIk9MlXDfx_JP0an8OoTTr8YNPZ1Bsklwg9TzdHKailB_wF3RAxJ5EyjHNBcQ&ved=2ahUKEwii9dmQrpyMAxXzaPUHHUSfCJkQ8tMDegUItwIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Amazon%22+AND+%22United+Kingdom%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=300"
+    }
+  }
+}

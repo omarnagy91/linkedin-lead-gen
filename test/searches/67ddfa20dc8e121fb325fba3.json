@@ -1,0 +1,2265 @@
+{
+  "search_metadata": {
+    "id": "67ddfa20dc8e121fb325fba3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7235e0c7923bbd8c/67ddfa20dc8e121fb325fba3.json",
+    "created_at": "2025-03-21 23:45:36 UTC",
+    "processed_at": "2025-03-21 23:45:36 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7235e0c7923bbd8c/67ddfa20dc8e121fb325fba3.html",
+    "total_time_taken": 1.99
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Google\" AND \"Germany\" AND (current OR present) AND (\"Practice Director\" OR \"VP\" OR \"Vice President\" OR \"Senior Vice President\" OR \"SVP\" OR \"EVP\" OR \"Executive Vice President\" OR \"Assistant Vice President\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Google\" AND \"Germany\" AND (current OR present) AND (\"Practice Director\" OR \"VP\" OR \"Vice President\" OR \"Senior Vice President\" OR \"SVP\" OR \"EVP\" OR \"Executive Vice President\" OR \"Assistant Vice President\")",
+    "total_results": 8890000,
+    "time_taken_displayed": 0.73,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_images": [
+    {
+      "source": "https://ch.linkedin.com/in/andreapassalacqua",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy3eU3OOgouxh4Zgf6PzgZu8bwToDkuYD-gydiuJHe7i07MvQBJnf2CEo&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E03AQFrEeAJGTF0bw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1707323457648?e=2147483647&v=beta&t=zFtosicji8C0NXAe_uSZkiWHTEH_AKYEB7MxRRUwjiA",
+      "title": "Andrea Passalacqua – VP and General Manager, Germany ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/brad-germany-2027172b",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOFu4iFjcF5bxNuk4xhEuPIbTaGCun9GI4LZmYcO1gjhyHvl4lBgSPHvo&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4E03AQHs31k1giQLfQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1584387631577?e=2147483647&v=beta&t=AaFcVSbA_llnjwR0m0P7lylueoj6XmjJnzuWAGFY52c",
+      "title": "Brad Germany - Vice President - Croft & Bender | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/xamat",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUH2pr4ot7L2O6YVo1WDMaKUOwyi6-R57GcuhOqH2PaK77z6B0csMbz9s&s",
+      "original": "https://media.licdn.com/dms/image/v2/D5616AQE9bA6jqaiuSA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1732750850432?e=2147483647&v=beta&t=ufCUyaN-Vt0JtiXi7HXxu7FkuT4H9JpAom6RYHNDVdw",
+      "title": "Xavier (Xavi) Amatriain - VP of Product, ACE (AI and Compute ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://de.linkedin.com/in/stephan-deutsch-1a99a215/en",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJzTnWDrLl6WrTqYuTAogOIV8H_qWPgMj-EMjnJ1Q2ZZC0qupzN3BfjLg&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4D03AQFiASuEAPe81w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1633349706441?e=2147483647&v=beta&t=GPzL9OMe74Kw4EkSCi4WtUGIB4GdWRZRsUxlsxdzbfg",
+      "title": "Stephan Deutsch - VP - Business Line Manager EMEA (BU ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://de.linkedin.com/in/arndt-writzel-06363930/en",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYUJ3h8UN9AS8m8YACjNIm0tbvTBpzi0XfurdLBJNh-nTTBc4XKFOLcDY&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E03AQHV_QhuSco1lQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1693153907530?e=2147483647&v=beta&t=yTbOHeC_RerNXwE7vMS6R-pEu-dm_FZjZxVZl6tUzvc",
+      "title": "Arndt Writzel - Vice President Operations Germany North ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/brad-germany-2027172b",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMvqz92gqsqxu_nh5a1HqAD8ngomnx3bevorydGBg_ykeVuP1JdyJ2_wY&s",
+      "original": "https://media.licdn.com/dms/image/sync/v2/D4E27AQFODdJVgElZJQ/articleshare-shrink_800/articleshare-shrink_800/0/1730549231255?e=2147483647&v=beta&t=B1I4wOH6JMJq_h4gYeOtAVKDfvwvN7OmliW9jGO-BB4",
+      "title": "Brad Germany - Vice President - Croft & Bender | LinkedIn",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://www.linkedin.com/in/ann-marie-clements-934498a",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRETNKYeK4mwXwutYy4Sm5YdgMRBibpatvRLrDNv62DFTNHCe_LKRQ2LzE&s",
+      "original": "https://media.licdn.com/dms/image/v2/D4E03AQGwM8dEqPVrZw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719481993578?e=2147483647&v=beta&t=aECuPCAvydcmYcvsVYvceaalyW0g2T_ywCTppWwzQyo",
+      "title": "Ann Marie Clements - Director of Communications - Google ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://de.linkedin.com/in/philippfeige",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnC47oezSCdViZqt5j8XpufJbvDrel3xYBrFaf4EF93Q3EuX9kkzmrDv0&s",
+      "original": "https://media.licdn.com/dms/image/v2/C4E03AQH1GYYH2F_7jA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1643219260180?e=2147483647&v=beta&t=evQpfAzgBOm0bNiu4juJC_JDbNFUHKIJUN8cSpAOyfY",
+      "title": "Philipp Feige – Vice President - Head of Capital Deployment ...",
+      "source_name": "LinkedIn"
+    },
+    {
+      "source": "https://de.linkedin.com/in/holger-m%C3%BCller-05b71231/en",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRro_dQx894ox0ep98wSAW4fpa8DRsn0P1yRshf-sdfNaiBgD0ucpoxRgw&s",
+      "original": "https://media.licdn.com/dms/image/v2/C5603AQGQXnT_5ZIqAg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1516481704195?e=2147483647&v=beta&t=dT4ePIj4_m4VqPAqn4XEMMgPRhfidHA2xNm3BjL_j7M",
+      "title": "Holger Mueller - Senior Vice President Asia - INEOS ...",
+      "source_name": "LinkedIn"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Michiel van Eldik - Google",
+      "link": "https://uk.linkedin.com/in/michielvaneldik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/michielvaneldik&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECAkQAQ",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cd86ef294e15adb85c8105233c1367988.png",
+      "snippet": "Experience. Google Graphic · Google. London, United Kingdom. -. Milan Area, Italy. -. Amsterdam/ London. -. Munich Area, Germany. -. Munich Area, Germany ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Michiel van Eldik"
+    },
+    {
+      "position": 2,
+      "title": "Manuel Greisinger – Google",
+      "link": "https://de.linkedin.com/in/mgreisinger",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/mgreisinger&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECBcQAQ",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c2e300d911b2dc1eafc9990f24d34cc2a.png",
+      "snippet": "With 20+ years of experience in technology and leadership, I am a Director of Global… · Berufserfahrung: Google ... Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Manuel Greisinger"
+    },
+    {
+      "position": 3,
+      "title": "Amy Arora - Google",
+      "link": "https://www.linkedin.com/in/amyarora",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/amyarora&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECCIQAQ",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c1ce09ae93f92e3b662ae3cf620286296.png",
+      "snippet": "Experienced executive with a strong track record in strategy, M&A, investments, and… Experience. Google Graphic. Google. -. -. -. Munich, Bavaria, Germany ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amy Arora"
+    },
+    {
+      "position": 4,
+      "title": "Gerrit Kazmaier - Workday",
+      "link": "https://www.linkedin.com/in/gerrit-kazmaier",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gerrit-kazmaier&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECBgQAQ",
+      "displayed_link": "15.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c0af81b7daf8fc5ae2a09642bf091e3cd.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Germany. -. Germany. -. Vancouver, British Columbia, Canada. -. Vancouver ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "Workday"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gerrit Kazmaier"
+    },
+    {
+      "position": 5,
+      "title": "Xavier (Xavi) Amatriain - VP of Product, ACE (AI and ...",
+      "link": "https://www.linkedin.com/in/xamat",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/xamat&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECBYQAQ",
+      "displayed_link": "42.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c3f6288becfabf802ca4ea2a7dd2d91be.png",
+      "snippet": "Experience · Google Graphic. VP of Product, ACE (AI and Compute Enablement). Google. Mar 2024 - Present 1 year 1 month · Curai Health Graphic. Member Board of ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "VP",
+        "Google",
+        "Present"
+      ],
+      "source": "LinkedIn · Xavier (Xavi) Amatriain"
+    },
+    {
+      "position": 6,
+      "title": "Sarah Olsen - Head of Retail, EMEA Hub - Germany - Google",
+      "link": "https://www.linkedin.com/in/sarah-arvo-olsen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/sarah-arvo-olsen&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECB4QAQ",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c53c5775eb94c2bd4c1a48e52921e8a15.png",
+      "snippet": "... Germany. Charged with developing pitches and strategies to introduce new ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Detroit Metropolitan Area",
+            "Head of Retail, EMEA Hub",
+            "Germany",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sarah Olsen"
+    },
+    {
+      "position": 7,
+      "title": "Christof Leng – Google",
+      "link": "https://de.linkedin.com/in/christofleng",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/christofleng&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECCUQAQ",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c07e20fa2a9bed070dc99fd91a5ef9bf3.png",
+      "snippet": "Head of the founding convention of the Pirate Party Germany, co-author of platform and bylaws. ... Continue with GoogleContinue with Google. Neu bei ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Darmstadt, Hessen, Deutschland",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christof Leng"
+    },
+    {
+      "position": 8,
+      "title": "Stephanie Davis - Google",
+      "link": "https://ie.linkedin.com/in/stephanie-davis-59917a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/stephanie-davis-59917a&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCI4BEAE",
+      "displayed_link": "17.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c183c7ede6ee4b3a8bd76eaf36be111a7.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Germany * Successfully completed a fall 1991 internship as a Marketing ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Dublin",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephanie Davis"
+    },
+    {
+      "position": 9,
+      "title": "Lynn Torrel - Google",
+      "link": "https://www.linkedin.com/in/lynntorrel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lynntorrel&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCNoBEAE",
+      "displayed_link": "8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cdc5dcfeb8b9549b821758eefb97f59cd.png",
+      "snippet": "Deutschakademie, Munich, Germany. Issued Aug 1998. Volunteer Experience ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Jose, California, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lynn Torrel"
+    },
+    {
+      "position": 10,
+      "title": "Laurent Samama - Director EMEA Partnerships at Google",
+      "link": "https://uk.linkedin.com/in/laurentsamama",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/laurentsamama&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECCYQAQ",
+      "displayed_link": "2.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c05ad6e2e2143c0093d2419cc45a3261a.png",
+      "snippet": "Director EMEA Partnerships at Google · Experience: Google · Education: Columbia University - Columbia Business School · Location: London · 500+ connections ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Laurent Samama"
+    },
+    {
+      "position": 11,
+      "title": "Cassidy Morgan - American Council on Germany",
+      "link": "https://www.linkedin.com/in/cassidy-morgan-3b67736",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cassidy-morgan-3b67736&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCLQBEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c59cc83285f3de9801b6b3774a76ad345.png",
+      "snippet": "Experienced global marketing leader with a successful track record of results oriented… · Experience: American Council on Germany ... Continue with GoogleContinue ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mountain View, California, United States",
+            "American Council on Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Cassidy Morgan"
+    },
+    {
+      "position": 12,
+      "title": "Ann Germany - San Francisco Bay Area | Professional Profile",
+      "link": "https://www.linkedin.com/in/anngermany",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/anngermany&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCOsBEAE",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659caa88c18bf3e3160126673e819ebe3385.png",
+      "snippet": "... Germany's profile on LinkedIn, a professional community of 1 billion members ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany's",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Ann Germany"
+    },
+    {
+      "position": 13,
+      "title": "William Magro - Google",
+      "link": "https://www.linkedin.com/in/william-magro",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/william-magro&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCIoCEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c9892e41f52d306a9886c9c3e19f7a7f8.png",
+      "snippet": "William Magro. Google University of Illinois at Urbana-Champaign. Austin, Texas, United States. 2K ...",
+      "snippet_highlighted_words": [
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · William Magro"
+    },
+    {
+      "position": 14,
+      "title": "Ann Marie Clements - Director of Communications - Google",
+      "link": "https://www.linkedin.com/in/ann-marie-clements-934498a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ann-marie-clements-934498a&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECCkQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c79f9a76c6643318e0133503b5ca62982.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join ... Germany, France and Spain. GMMB Graphic. Communications Specialist. GMMB. Sep ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ashburn, Virginia, United States",
+            "Director of Communications",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ann Marie Clements"
+    },
+    {
+      "position": 15,
+      "title": "Eva Geckeis, PhD – Head of SI Partner Development ...",
+      "link": "https://de.linkedin.com/in/eva-geckeis",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/eva-geckeis&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECF4QAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cc4b5b402568b37d8ff613d392ec60e40.png",
+      "snippet": "Eva Geckeis, PhD. Head of SI Partner Development, Germany at Google Cloud. Google V. N. Karazin Kharkiv National University ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Head of SI Partner Development, Germany",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eva Geckeis, PhD"
+    },
+    {
+      "position": 16,
+      "title": "Hillary Roche - Senior Vice President Marketing - STIHL",
+      "link": "https://de.linkedin.com/in/hillaryroche/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/hillaryroche/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCI0BEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c0e25351de2efcca3a8a3f69430946421.png",
+      "snippet": "Senior Vice President Marketing. STIHL. Sep 2022 - Present 2 years 7 months. Germany. radicant Graphic. Senior Marketing Advisor. radicant. Jan 2022 - Jun 2022 ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Present",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Senior Vice President Marketing",
+            "STIHL"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hillary Roche"
+    },
+    {
+      "position": 17,
+      "title": "Stefan Schulz - Frankfurt, Hesse, Germany",
+      "link": "https://de.linkedin.com/in/stefan-schulz-a2b71018b/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/stefan-schulz-a2b71018b/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCNgBEAE",
+      "displayed_link": "330+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cf7360e5cadf6e354cbd1400fd7defeb9.png",
+      "snippet": "Stefan Schulz. VP Human Resources and Corporate Communications Standard Profil Group. Frankfurt, Hesse, Germany. 331 followers 303 connections.",
+      "snippet_highlighted_words": [
+        "VP",
+        "Germany"
+      ],
+      "source": "LinkedIn · Stefan Schulz"
+    },
+    {
+      "position": 18,
+      "title": "Marion Armand - Vice President, Business Excellence ...",
+      "link": "https://www.linkedin.com/in/marion-armand-1b420a54",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marion-armand-1b420a54&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCOoBEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659ca5a1c824b52c4fdc5afa7a788e2d22f2.png",
+      "snippet": "Marion Armand. Vice President, Business Excellence Process Solution at MilliporeSigma, MBA. Merck KGaA, Darmstadt, Germany Babson College ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Vice President, Business Excellence, Process Solution",
+            "Merck KGaA, Darmstadt, Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marion Armand"
+    },
+    {
+      "position": 19,
+      "title": "Maximilian Schildheuer - Vice President - Goldman Sachs",
+      "link": "https://www.linkedin.com/in/maximilian-schildheuer-935b7870",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/maximilian-schildheuer-935b7870&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCPYBEAE",
+      "displayed_link": "940+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c27d0213e6af8c279d298b327172a6844.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Munich Area, Germany. PwC Graphic. Intern - Valuation and Strategy. PwC. Sep ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Vice President",
+            "Goldman Sachs"
+          ]
+        }
+      },
+      "source": "LinkedIn · Maximilian Schildheuer"
+    },
+    {
+      "position": 20,
+      "title": "Florian Foerster - Head of Financial Services Germany",
+      "link": "https://de.linkedin.com/in/florian-foerster-4a134728/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/florian-foerster-4a134728/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCJMCEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c9dcce2bf4e9536f5ae7fbe95ca7350e8.png",
+      "snippet": "Vice President | Head of Financial Services Germany at Capgemini Invent · Florian ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or.",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Florian Foerster"
+    },
+    {
+      "position": 21,
+      "title": "Julian Mueller - Vice President - TPG",
+      "link": "https://uk.linkedin.com/in/julian-mueller-462b43100",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/julian-mueller-462b43100&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCKQCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c7b37a478cbc89d75e218952366c19392.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... 2018 - 2021 3 years. Berlin, Berlin, Germany. TMT growth equity ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Vice President",
+            "TPG"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julian Mueller"
+    },
+    {
+      "position": 22,
+      "title": "Rahul Roy-Chowdhury - Grammarly",
+      "link": "https://www.linkedin.com/in/rahulrc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rahulrc&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECCwQAQ",
+      "displayed_link": "12.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c6b4393f7b1928768e22abb54d066899e.png",
+      "snippet": "When expanded it provides a list of search options that will switch the search inputs to match the current selection. ... Continue with GoogleContinue with Google ...",
+      "snippet_highlighted_words": [
+        "current",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Grammarly"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rahul Roy-Chowdhury"
+    },
+    {
+      "position": 23,
+      "title": "Bruce Bebo - Executive Vice President, Research",
+      "link": "https://www.linkedin.com/in/bruce-bebo-9b0961a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bruce-bebo-9b0961a&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECEIQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cf8fb72194cb7834d34091f4ceebc1889.png",
+      "snippet": "Executive Vice President, Research at National MS Society · I am responsible ... Continue with GoogleContinue with Google. New to LinkedIn? Join now.",
+      "snippet_highlighted_words": [
+        "Executive Vice President",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Portland, Oregon, United States",
+            "Executive Vice President, Research",
+            "National MS Society"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bruce Bebo"
+    },
+    {
+      "position": 24,
+      "title": "Joe Bohman - Executive Vice President, PLM Products",
+      "link": "https://www.linkedin.com/in/joebohman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/joebohman&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECFwQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c8e6d3a5187a9c8f17b6dfd6b7293c332.png",
+      "snippet": "Experience · Executive Vice President, PLM Products · Senior Vice President, Lifecycle Collaboration Software · Vice President, Product Engineering Software.",
+      "snippet_highlighted_words": [
+        "Executive Vice President",
+        "Senior Vice President",
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Costa Mesa, California, United States",
+            "Executive Vice President, PLM Products",
+            "Siemens Digital Industries Software"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joe Bohman"
+    },
+    {
+      "position": 25,
+      "title": "Holger Schramm - Vice President - Head of Global ...",
+      "link": "https://de.linkedin.com/in/holger-schramm/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/holger-schramm/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECHsQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c74989727eb7a95985265d4722690573b.png",
+      "snippet": "Vice President - Head of Global Business Services Finance. Marelli. Feb 2024 - Present 1 year 2 months. Cologne Region, Germany.",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Present",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cologne Bonn Region",
+            "Vice President",
+            "Head of Global Business Services Finance",
+            "Marelli"
+          ]
+        }
+      },
+      "source": "LinkedIn · Holger Schramm"
+    },
+    {
+      "position": 26,
+      "title": "Niels Hilbrink – SVP Cloud Services Germany, Switzerland",
+      "link": "https://ch.linkedin.com/in/hilbrink",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ch.linkedin.com/in/hilbrink&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCJYBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c6900c5dd7d295abcc56fb9ceceddbda7.png",
+      "snippet": "As the current VP of Solution Design and Assurance at NTT Ltd., I lead a ... SVP Cloud Services Germany, Switzerland. NTT DATA, Inc. Okt. 2023 –Heute 1 ...",
+      "snippet_highlighted_words": [
+        "current VP",
+        "SVP",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Neuenburg, Neuenburg, Schweiz",
+            "SVP Cloud Services Germany, Switzerland",
+            "NTT DATA, Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Niels Hilbrink"
+    },
+    {
+      "position": 27,
+      "title": "Steffen Riedling – Executive Vice President, Head of APPS ...",
+      "link": "https://de.linkedin.com/in/steffen-riedling-63bb7823",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/steffen-riedling-63bb7823&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCKcBEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c22a59127b3597f96eb235446dc382a80.png",
+      "snippet": "Executive Vice President | Head of Apps Practices | Germany | Capgemini ... Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden.",
+      "snippet_highlighted_words": [
+        "Executive Vice President",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "Executive Vice President, Head of APPS Practices Germany",
+            "Capgemini"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steffen Riedling"
+    },
+    {
+      "position": 28,
+      "title": "Crystal Holt - Vice President Series - 20th Television",
+      "link": "https://www.linkedin.com/in/crystal-holt-30294b14",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/crystal-holt-30294b14&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCMIBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c6b5b7447e858b2a05ebf6845b0809f2f.png",
+      "snippet": "Vice President Series @ 20th Television | Current Television, Development, Production ... Continue with GoogleContinue with Google. New to LinkedIn? Join ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Current",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Vice President Series",
+            "20th Television"
+          ]
+        }
+      },
+      "source": "LinkedIn · Crystal Holt"
+    },
+    {
+      "position": 29,
+      "title": "Sindhu Gangadharan - Head, Customer Innovation ...",
+      "link": "https://in.linkedin.com/in/sindhugangadharan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/sindhugangadharan&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCNcBEAE",
+      "displayed_link": "118.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cf0737dae05cc486d762e7687e354fe1a.png",
+      "snippet": "... Germany. She is known for her inclusive leadership style and is admired as ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Sindhu Gangadharan"
+    },
+    {
+      "position": 30,
+      "title": "Andrea Passalacqua – VP and General Manager, Germany",
+      "link": "https://ch.linkedin.com/in/andreapassalacqua",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ch.linkedin.com/in/andreapassalacqua&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCOABEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c3ddfb29923a2d2ad08331d47ee69c9f5.png",
+      "snippet": "Berufserfahrung · VP and General Manager, Germany · Therapeutic Areal Lead Hematology & Nephrology International · Vice President, EU Customer Office · Interim ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "Germany",
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Neuenburg, Neuenburg, Schweiz",
+            "VP and General Manager, Germany",
+            "Alexion Pharmaceuticals, Inc."
+          ]
+        }
+      },
+      "source": "LinkedIn · Andrea Passalacqua"
+    },
+    {
+      "position": 31,
+      "title": "Kevin Scott - CTO Microsoft",
+      "link": "https://www.linkedin.com/in/jkevinscott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jkevinscott&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCPcBEAE",
+      "displayed_link": "757.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cf02fdc91b2fce59c2273e8e78a3c9aab.png",
+      "snippet": "Experience ; Senior Vice President of Engineering & Operations · Nov 2013 · Jan 2017 3 years 3 months ; SVP Of Engineering · Jan 2012 · Nov 2013 1 year 11 months ; VP ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "SVP",
+        "VP"
+      ],
+      "source": "LinkedIn · Kevin Scott"
+    },
+    {
+      "position": 32,
+      "title": "Cristina Méndez - Executive Vice President & Chief ...",
+      "link": "https://www.linkedin.com/in/cristina-m%C3%A9ndez-2581096",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/cristina-m%25C3%25A9ndez-2581096&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCIQCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c2bab5470cbf3697578cccd37ba199eef.png",
+      "snippet": "Experience · Executive Vice President & Chief Financial Officer · SVP Finance & CFO EMEA · Director Controlling · Head of T. Group Strategic Planning, Project ...",
+      "snippet_highlighted_words": [
+        "Executive Vice President",
+        "SVP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Farmington, Connecticut, United States",
+            "Executive Vice President & Chief Financial Officer",
+            "Otis Elevator Co."
+          ]
+        }
+      },
+      "source": "LinkedIn · Cristina Méndez"
+    },
+    {
+      "position": 33,
+      "title": "Markus Mohrs - Vice President, Pre‑Clinical Research and ...",
+      "link": "https://www.linkedin.com/in/markus-mohrs-9b890b85",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/markus-mohrs-9b890b85&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCJQCEAE",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c7232a19cd0b0ae57701bb9b8d42e831c.png",
+      "snippet": "Markus Mohrs. Vice President, Pre‑Clinical Research and Development. Cullinan Therapeutics Max-Planck-Institute for Immunobiology, Freiburg, Germany ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "Vice President, Pre‑Clinical Research and Development",
+            "Cullinan Therapeutics"
+          ]
+        }
+      },
+      "source": "LinkedIn · Markus Mohrs"
+    },
+    {
+      "position": 34,
+      "title": "Cathryn Clüver Ashbrook – Executive Vice President ...",
+      "link": "https://de.linkedin.com/in/cathryn-cl%C3%BCver-ashbrook-46a797b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/cathryn-cl%25C3%25BCver-ashbrook-46a797b&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCJUCEAE",
+      "displayed_link": "4.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cb38b2a13892bc431b24e5ffa4c7bd503.png",
+      "snippet": "Executive Vice President/Senior Adviser. Bertelsmann Stiftung. Aug. 2022 –Heute 2 Jahre 8 Monate. Berlin, Germany. Global Public Policy Institute (GPPi) Grafik ...",
+      "snippet_highlighted_words": [
+        "Executive Vice President",
+        "Germany"
+      ],
+      "source": "LinkedIn · Cathryn Clüver Ashbrook"
+    },
+    {
+      "position": 35,
+      "title": "Kate Jackson - Vice President Production - ESPN",
+      "link": "https://www.linkedin.com/in/kate-jackson-9ab117a6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kate-jackson-9ab117a6&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCKwCEAE",
+      "displayed_link": "880+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c4e5c8b6209856423d61db18e630c18df.png",
+      "snippet": "Publications · Bluffs native, now VP at ESPN, prepares for Heisman ceremony with Duggan · Council Bluffs native Jackson promoted to Vice President at ESPN.",
+      "snippet_highlighted_words": [
+        "VP",
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Hartford",
+            "Vice President Production",
+            "ESPN"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kate Jackson"
+    },
+    {
+      "position": 36,
+      "title": "Shilpan Amin - Senior Vice President and ...",
+      "link": "https://www.linkedin.com/in/shilpan-amin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/shilpan-amin&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCKoCEAE",
+      "displayed_link": "23.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cf26650b497d3c8542e3db83147360314.png",
+      "snippet": "Senior Vice President and President General Motors International · I lead ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Shilpan Amin"
+    },
+    {
+      "position": 37,
+      "title": "William (Bill) Sauer - Vice President at Deutsche Bank",
+      "link": "https://www.linkedin.com/in/williamsauer96",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/williamsauer96&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCL8CEAE",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c6dfb38dcaf513571ac56ae462ab7d0f6.png",
+      "snippet": "Vice President at Deutsche Bank · Deutsche Bank · New York · 500 ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Vice President | Corporate Investment Solutions US",
+            "Deutsche Bank"
+          ]
+        }
+      },
+      "source": "LinkedIn · William (Bill) Sauer"
+    },
+    {
+      "position": 38,
+      "title": "Werner Metternich - Vice President Architecture & ...",
+      "link": "https://de.linkedin.com/in/werner-metternich/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/werner-metternich/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECCgQAQ",
+      "displayed_link": "500+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cead03ddb72b1fbee0a261144394581ad.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Jun 2023 1 year 3 months. Munich, Bavaria, Germany. Intel Corporation ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Munich Metropolitan Area",
+            "Vice President Architecture & Requirements",
+            "HARMAN International"
+          ]
+        }
+      },
+      "source": "LinkedIn · Werner Metternich"
+    },
+    {
+      "position": 39,
+      "title": "Amanda Palley - Senior Vice President, Current Programs",
+      "link": "https://www.linkedin.com/in/aspalley",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aspalley&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECD8QAQ",
+      "displayed_link": "980+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c2cfc56e492a8fca8973eac07d87adacf.png",
+      "snippet": "Senior Vice President, Current Programs at CBS · Experience: CBS · Location ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or.",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Current",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Senior Vice President, Current Programs",
+            "CBS"
+          ]
+        }
+      },
+      "source": "LinkedIn · Amanda Palley"
+    },
+    {
+      "position": 40,
+      "title": "Jens Schleicher - Vice President of Sales & Marketing ...",
+      "link": "https://www.linkedin.com/in/jens-schleicher",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jens-schleicher&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECEEQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c23c63a73f27b3fe032bc15698b4611ac.png",
+      "snippet": "Driving Innovation & Growth in Automation | VP Sales & Marketing at KUKA Robotics North America | Empowering the Future of ... Continue with GoogleContinue with ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Tampa Bay Area",
+            "Vice President of Sales & Marketing North America",
+            "KUKA"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jens Schleicher"
+    },
+    {
+      "position": 41,
+      "title": "Stefan Tittel - CIO & Corporate Vice President Group IT",
+      "link": "https://www.linkedin.com/in/stefan-tittel-102737117/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/stefan-tittel-102737117/&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECFoQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c29c692223283cf6e2da239c37471167e.png",
+      "snippet": "CIO & Corporate Vice President Group IT. Symrise AG. 2018 - Present 7 years. Holzminden, Lower Saxony, Germany. NKT Group Graphic. CIO & Senior Vice President.",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Present",
+        "Germany",
+        "Senior Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cologne Bonn Region",
+            "CIO & Corporate Vice President Group IT",
+            "Symrise AG"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stefan Tittel"
+    },
+    {
+      "position": 42,
+      "title": "Arturo Interian - Executive Vice President, Current Scripted ...",
+      "link": "https://www.linkedin.com/in/arturo-interian-8689047",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/arturo-interian-8689047&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECFsQAQ",
+      "displayed_link": "290+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cbc27dcf69b38d91c97704ae8a498aec2.png",
+      "snippet": "Executive Vice President, Current Scripted Programming at MGM · Interian is in charge of a ... Senior Vice President, Scripted Programming, HISTORY. A+E ...",
+      "snippet_highlighted_words": [
+        "Executive Vice President",
+        "Current",
+        "Senior Vice President"
+      ],
+      "source": "LinkedIn · Arturo Interian"
+    },
+    {
+      "position": 43,
+      "title": "Brian Siegel - The Walt Disney Company",
+      "link": "https://www.linkedin.com/in/brian-siegel-1248263",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brian-siegel-1248263&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECHIQAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cbc28968f5602414c6a8fe2a39558a22f.png",
+      "snippet": "Vice President, Franchise Development at The Walt Disney Company · The ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Brian Siegel"
+    },
+    {
+      "position": 44,
+      "title": "Birgit Girshick - EVP, Chief Operating Officer",
+      "link": "https://www.linkedin.com/in/birgit-girshick",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/birgit-girshick&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECH0QAQ",
+      "displayed_link": "3.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c09dca17271b13af6ac0627afb0b921e6.png",
+      "snippet": "EVP, Chief Operating Officer · EVP, Discovery, Safety Assessment & Biologics Solutions · Corporate SVP, Global Discovery Services · Corporate SVP, NA Research ...",
+      "snippet_highlighted_words": [
+        "EVP",
+        "EVP",
+        "SVP",
+        "SVP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Wilmington, Massachusetts, United States",
+            "EVP, Chief Operating Officer",
+            "Charles River Laboratories"
+          ]
+        }
+      },
+      "source": "LinkedIn · Birgit Girshick"
+    },
+    {
+      "position": 45,
+      "title": "Martin Maier - Senior Vice President, Research - Alnylam ...",
+      "link": "https://www.linkedin.com/in/martin-maier-a37045139",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/martin-maier-a37045139&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECH8QAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659ce5cb000bab031802ad23cff40f549e37.png",
+      "snippet": "Senior Vice President, Research at Alnylam Pharmaceuticals · Scientific ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Boston",
+            "Senior Vice President, Research",
+            "Alnylam Pharmaceuticals"
+          ]
+        }
+      },
+      "source": "LinkedIn · Martin Maier"
+    },
+    {
+      "position": 46,
+      "title": "Wulff-Erik von Borcke - Senior Vice President, AbbVie, and ...",
+      "link": "https://www.linkedin.com/in/wulff-erik-von-borcke-10105a34",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/wulff-erik-von-borcke-10105a34&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCJgBEAE",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c239d68480de1a5a409d6b1d792e0f6aa.png",
+      "snippet": "Senior Vice President, AbbVie, and President, Oncology · Experience: AbbVie · Education: ESB Business School, Reutlingen/Germany & Madrid/Spain · Location: ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Germany"
+      ],
+      "source": "LinkedIn · Wulff-Erik von Borcke"
+    },
+    {
+      "position": 47,
+      "title": "Uwe Finnern - SVP Finance | Head of Corporate ...",
+      "link": "https://de.linkedin.com/in/uwe-finnern/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/uwe-finnern/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCJoBEAE",
+      "displayed_link": "290+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cefc3450139d1b454be24a63ec53e67fb.png",
+      "snippet": "Jun 2023 - Present 1 year 10 months. Hamburg, Germany. Senior Vice President. Beiersdorf AG. Mar 2019 - Aug 2023 4 years 6 months. Hamburg. SVP Finance Europe ...",
+      "snippet_highlighted_words": [
+        "Present",
+        "Germany",
+        "Senior Vice President",
+        "SVP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "SVP Finance | Head of Corporate Controlling and Consolidation",
+            "Beiersdorf"
+          ]
+        }
+      },
+      "source": "LinkedIn · Uwe Finnern"
+    },
+    {
+      "position": 48,
+      "title": "Frank Keller - PayPal",
+      "link": "https://www.linkedin.com/in/fkeller",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/fkeller&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCKkBEAE",
+      "displayed_link": "7.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c4c3992dca89ea6caf41e06a9ee90734f.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Walldorf, Germany. Education. Hasso Plattner Institute Graphic. Hasso ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "PayPal"
+          ]
+        }
+      },
+      "source": "LinkedIn · Frank Keller"
+    },
+    {
+      "position": 49,
+      "title": "Dr. Joerg Strauss - Executive Vice President Quality, ...",
+      "link": "https://de.linkedin.com/in/dr-joerg-strauss-679b99219/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dr-joerg-strauss-679b99219/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCLEBEAE",
+      "displayed_link": "930+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c08b75775b380d31dcb0b2f28c473c56b.png",
+      "snippet": "Senior Vice President & General Manager Business Line Visualization & Sensing Jul 2022 - Sep 2023 1 year 3 months Regensburg, Bavaria, Germany",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Germany"
+      ],
+      "source": "LinkedIn · Dr. Joerg Strauss"
+    },
+    {
+      "position": 50,
+      "title": "Naga Chandrasekaran - Chief Global Operations Officer ...",
+      "link": "https://www.linkedin.com/in/nagachandrasekaran",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nagachandrasekaran&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCMMBEAE",
+      "displayed_link": "10.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c0aaef9ecffa096349ddf99245f26246d.png",
+      "snippet": "Executive Vice President | Technology Development and Manufacturing | Supply Chain | Board Member ... Senior Vice President, Technology Development. Micron ...",
+      "snippet_highlighted_words": [
+        "Executive Vice President",
+        "Senior Vice President"
+      ],
+      "source": "LinkedIn · Naga Chandrasekaran"
+    },
+    {
+      "position": 51,
+      "title": "David Saldanha - Head of Managed Services, CIS Germany",
+      "link": "https://in.linkedin.com/in/david-saldanha-9a03bb29",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/david-saldanha-9a03bb29&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCMkBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c203aab401a25fc02d454ea7801457f93.png",
+      "snippet": "Vice President - Head of Managed Services, CIS Germany · A motivated ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Mumbai, Maharashtra, India",
+            "Vice President",
+            "Head of Managed Services, CIS Germany",
+            "Capgemini"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Saldanha"
+    },
+    {
+      "position": 52,
+      "title": "Sonja Liénard - Senior Vice President Development - SAP",
+      "link": "https://de.linkedin.com/in/sonjalienard/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sonjalienard/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECCcQAQ",
+      "displayed_link": "10.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c594c19b73e0e041a785b03ed62a965d6.png",
+      "snippet": "Senior Vice President Development. SAP. Apr 2024 - Present 1 year. Walldorf, Baden-Württemberg, Germany. Senior Vice President, Head of BTP ABAP. SAP SE Graphic ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Present",
+        "Germany",
+        "Senior Vice President"
+      ],
+      "source": "LinkedIn · Sonja Liénard"
+    },
+    {
+      "position": 53,
+      "title": "Oliver Dachsel - Senior Vice President, Capital Markets",
+      "link": "https://www.linkedin.com/in/oliver-dachsel-47497b135",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/oliver-dachsel-47497b135&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCNkBEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659ce76dda6b994aa3e17172033d305d6d0e.png",
+      "snippet": "Senior Vice President, Capital Markets at Aris Mining (TSX: ARIS; NYSE-A ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greenwich, Connecticut, United States",
+            "Senior Vice President, Capital Markets",
+            "Aris Mining"
+          ]
+        }
+      },
+      "source": "LinkedIn · Oliver Dachsel"
+    },
+    {
+      "position": 54,
+      "title": "Dijana Dimitrovska – VP of Marketing – KoRo",
+      "link": "https://de.linkedin.com/in/dijanadimitrovska",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dijanadimitrovska&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCN8BEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c617a4289f277e088d473922885890aa2.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden ... 2021 2 Jahre 1 Monat. Berlin Area, Germany. Marley Spoon Grafik. Head of ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "VP of Marketing",
+            "KoRo"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dijana Dimitrovska"
+    },
+    {
+      "position": 55,
+      "title": "Brad Germany - Vice President - Croft & Bender",
+      "link": "https://www.linkedin.com/in/brad-germany-2027172b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brad-germany-2027172b&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCOkBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c37a5a71b6302f07db3f733a60d5a4f54.png",
+      "snippet": "Brad Germany. Vice President at Croft & Bender. Croft & Bender University of North Carolina at Chapel Hill - Kenan-Flagler Business School ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta Metropolitan Area",
+            "Vice President",
+            "Croft & Bender"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brad Germany"
+    },
+    {
+      "position": 56,
+      "title": "Christian Müller - Vice President Global Software Center",
+      "link": "https://de.linkedin.com/in/christian-m%C3%BCller-7630613a/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/christian-m%25C3%25BCller-7630613a/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCPIBEAE",
+      "displayed_link": "710+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cd1a376c9136ff23bf9f0b62508190bb3.png",
+      "snippet": "Manager for test system development (Hardware-in-the-Loop). ZF Group Universität Karlsruhe (TH). Meckenbeuren, Baden-Württemberg, Germany ... Continue with Google ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google"
+      ],
+      "source": "LinkedIn · Christian Müller"
+    },
+    {
+      "position": 57,
+      "title": "Vicki Dummer - EVP, Head of Current - Warner Bros. ...",
+      "link": "https://www.linkedin.com/in/vicki-dummer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/vicki-dummer&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCPUBEAE",
+      "displayed_link": "750+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659ca48bf8aa575b0a64633406ff2b3c8a6e.png",
+      "snippet": "EVP, Head of Current · Head, Current Series Programming · EVP, Daytime and Current Series & Specials Programming · SVP Alternative Series, Specials, and Late Night.",
+      "snippet_highlighted_words": [
+        "EVP",
+        "Current",
+        "Current",
+        "EVP",
+        "Current",
+        "SVP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "EVP, Head of Current",
+            "Warner Bros. Discovery"
+          ]
+        }
+      },
+      "source": "LinkedIn · Vicki Dummer"
+    },
+    {
+      "position": 58,
+      "title": "Dr. Nils Napierala - FleishmanHillard Germany",
+      "link": "https://www.linkedin.com/in/nils-napierala/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nils-napierala/&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCPQBEAE",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cf73d2402c46eae7a011406fdf7580763.png",
+      "snippet": "1 Comment. Experience. FleishmanHillard Germany Graphic. Vice President. FleishmanHillard Germany. Oct 2024 - Present 6 months. Berlin, Deutschland.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Vice President",
+        "Germany",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin Metropolitan Area",
+            "Vice President",
+            "FleishmanHillard Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Nils Napierala"
+    },
+    {
+      "position": 59,
+      "title": "Holger Mueller - Senior Vice President Asia - INEOS ...",
+      "link": "https://de.linkedin.com/in/holger-m%C3%BCller-05b71231/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/holger-m%25C3%25BCller-05b71231/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCIcCEAE",
+      "displayed_link": "610+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cd872be94c10e0977d211ffcb885c9c9c.png",
+      "snippet": "Senior Vice President Business Development · INEOS Composites · Germany · 500+ connections on LinkedIn ... Continue with GoogleContinue with Google. New to ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Senior Vice President Asia",
+            "INEOS Composites"
+          ]
+        }
+      },
+      "source": "LinkedIn · Holger Müller"
+    },
+    {
+      "position": 60,
+      "title": "Carolyn Horne - Snr VP EMEA Strategic Customer ...",
+      "link": "https://uk.linkedin.com/in/carolyn-horne",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/carolyn-horne&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCIkCEAE",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c3bf792cae72d85718c5adf5a8e08e515.png",
+      "snippet": "SVP EMEA Strategic Customer Engagements - Workday. Non Executive Director - Malt · As EMEA Senior Vice President Strategic Customer Engagements at Workday, ...",
+      "snippet_highlighted_words": [
+        "SVP",
+        "Senior Vice President"
+      ],
+      "source": "LinkedIn · Carolyn Horne"
+    },
+    {
+      "position": 61,
+      "title": "Sebastian Lührs - Energy Networks Germany",
+      "link": "https://de.linkedin.com/in/sebastian-luehrs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sebastian-luehrs&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCIgCEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c352d0e42801a9902dab0530bf029feec.png",
+      "snippet": "Vice President @ E.ON | Energy Networks Germany · As Vice President Steering ... Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Germany",
+        "Vice President",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Sebastian Lührs"
+    },
+    {
+      "position": 62,
+      "title": "Shraddhanjali Rao - Google",
+      "link": "https://in.linkedin.com/in/shraddhanjalirao",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/shraddhanjalirao&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCJYCEAE",
+      "displayed_link": "87.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cae699e2f33bdae5fc79072f7602f0004.png",
+      "snippet": "Experience · Google Graphic. Google. India · -. India · -. India · -. India I Germany · -. India · -. Bangalore, Chennai, Mumbai ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Shraddhanjali Rao"
+    },
+    {
+      "position": 63,
+      "title": "Fabio Di Capua – Vice President Analyst – Gartner",
+      "link": "https://de.linkedin.com/in/fabiodicapua",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/fabiodicapua&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCJcCEAE",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cb790bc5e76f790ac30f55e27016d3b8b.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied werden ... 2021 1 Jahr 6 Monate. Munich Area, Germany. Gartner Grafik. Senior Research ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Vice President Analyst",
+            "Gartner"
+          ]
+        }
+      },
+      "source": "LinkedIn · Fabio Di Capua"
+    },
+    {
+      "position": 64,
+      "title": "Kalle Friz - EVP International Operations & CEO Germany",
+      "link": "https://de.linkedin.com/in/kalle-friz-32588162/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/kalle-friz-32588162/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCKICEAE",
+      "displayed_link": "700+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c0d620c41553e5628b667017b7e1936c4.png",
+      "snippet": "EVP International Operations & CEO Germany. STUDIOCANAL GmbH. Jan 2020 ... Executive Vice President Theatrical Distribution. Studiocanal GmbH. Jul 2009 ...",
+      "snippet_highlighted_words": [
+        "EVP",
+        "Germany",
+        "Executive Vice President"
+      ],
+      "source": "LinkedIn · Kalle Friz"
+    },
+    {
+      "position": 65,
+      "title": "Dana Gotlieb-Carter - Senior Vice President, Current ...",
+      "link": "https://www.linkedin.com/in/dana-gotlieb-carter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/dana-gotlieb-carter&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCKMCEAE",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cad1f1704abb1d62823f7c81707495307.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Senior Vice President, Current Programming. Lionsgate. Jan 2023 - Present 2 ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior Vice President",
+        "Current",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Senior Vice President, Current Programming",
+            "Lionsgate"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dana Gotlieb-Carter"
+    },
+    {
+      "position": 66,
+      "title": "Claudia Rautenberg - Vice President HR Management ...",
+      "link": "https://de.linkedin.com/in/claudia-rautenberg-201a0913a/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/claudia-rautenberg-201a0913a/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCKkCEAE",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c67bdec50b49a07189e89bff4a446e6cc.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Jun 2017 - Present 7 years 10 months. Frankfurt Am Main Area, Germany.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Present",
+        "Germany"
+      ],
+      "source": "LinkedIn · Claudia Rautenberg"
+    },
+    {
+      "position": 67,
+      "title": "Simon Jackson - Vice President of EDO - Samsung Europe",
+      "link": "https://uk.linkedin.com/in/simonjackson6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/simonjackson6&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCLQCEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c0b31b467dbe125aef8d43110d7755027.png",
+      "snippet": "Senior Vice President, EMEA Sales. NEC Display Solutions Europe GmbH. Apr 2019 - Nov 2020 1 year 8 months. Munich, Bavaria, Germany. Vice President, Strategic ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Germany",
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Vice President of EDO",
+            "Samsung Europe"
+          ]
+        }
+      },
+      "source": "LinkedIn · Simon Jackson"
+    },
+    {
+      "position": 68,
+      "title": "Tom Danon - Executive Vice President - Lionsgate",
+      "link": "https://www.linkedin.com/in/tom-danon-50645a6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tom-danon-50645a6&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCLICEAE",
+      "displayed_link": "600+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c0c7d77f2eb08ca6f140e319709c63e12.png",
+      "snippet": "Executive Vice President, Current Programming, Lionsgate Alternative · Emmy ... SVP, Current Programming, US Alternative Television. Entertainment One.",
+      "snippet_highlighted_words": [
+        "Executive Vice President",
+        "Current",
+        "SVP",
+        "Current"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Executive Vice President",
+            "Lionsgate"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tom Danon"
+    },
+    {
+      "position": 69,
+      "title": "Chairuni Aulia Nusapati - Google",
+      "link": "https://www.linkedin.com/in/chairuni",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/chairuni&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCLsCEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c2fef39e494d657cd187e30e578894033.png",
+      "snippet": "Experience · Google Graphic. Google. London, England, United Kingdom · -. Munich, Bavaria, Germany · -. Greater Jakarta Area, Indonesia · -. Bandung Area, West Java ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Google"
+          ]
+        }
+      },
+      "source": "LinkedIn · Chairuni Aulia Nusapati"
+    },
+    {
+      "position": 70,
+      "title": "Benjamin Hein - Executive Vice President, Head of Life ...",
+      "link": "https://www.linkedin.com/in/benjaminhein",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/benjaminhein&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCPMBEAE",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cade85c718b9cce134a57bf9f6bcffdba.png",
+      "snippet": "Executive Vice President, Head of Life Science Services · MilliporeSigma · Merck KGaA, Darmstadt, Germany.",
+      "snippet_highlighted_words": [
+        "Executive Vice President",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Boston, Massachusetts, United States",
+            "Executive Vice President, Head of Life Science Services",
+            "MilliporeSigma"
+          ]
+        }
+      },
+      "source": "LinkedIn · Benjamin Hein"
+    },
+    {
+      "position": 71,
+      "title": "Tom Daniels - Partner/Executive Vice President of Operations",
+      "link": "https://www.linkedin.com/in/todaniels",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/todaniels&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECEAQAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c210c6881d0d0182dc6f5cbdb68380399.png",
+      "snippet": "Partner/Executive Vice President of Operations - 11 Residential ... Senior Vice President. Riverstone Residential Group. May 2002 - May 2012 10 ...",
+      "snippet_highlighted_words": [
+        "Executive Vice President",
+        "Senior Vice President"
+      ],
+      "source": "LinkedIn · Tom Daniels"
+    },
+    {
+      "position": 72,
+      "title": "Bianka Woelke - SAP SuccessFactors",
+      "link": "https://de.linkedin.com/in/biankawoelke/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/biankawoelke/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECEQQAQ",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c5fff8eb106c7e4a358165749b8379c0f.png",
+      "snippet": "Group Vice President Head of Application Product Management · Mar 2024 - Present 1 year 1 month. Germany ; Group Vice President of HR and Talent Products at SAP ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Present",
+        "Germany",
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Heidelberg, Baden-Württemberg, Germany",
+            "Group Vice President Head of Application Product Management",
+            "SAP SuccessFactors"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bianka Woelke"
+    },
+    {
+      "position": 73,
+      "title": "Roxana Dumitru - VP of Business & Marketing",
+      "link": "https://de.linkedin.com/in/roxana-dumitru-9644631b5/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/roxana-dumitru-9644631b5/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECEMQAQ",
+      "displayed_link": "990+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cfe9de1c335aa5c617a24af0071d827c3.png",
+      "snippet": "... Germany · 500+ connections on LinkedIn. View Roxana Dumitru's profile on ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Roxana Dumitru"
+    },
+    {
+      "position": 74,
+      "title": "Brittinee Royes - Vice President of Unscripted ...",
+      "link": "https://www.linkedin.com/in/brittinee-royes-20bbbb2a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brittinee-royes-20bbbb2a&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECEcQAQ",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c404a648f705bc9fde05f4c8ba243ff36.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Vice President of Development and Current Production- Unscripted Lifestyle ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Vice President",
+        "Current"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Vice President of Unscripted Development and Current Production, Entertainment Content",
+            "NBCUniversal Media, LLC"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brittinee Royes"
+    },
+    {
+      "position": 75,
+      "title": "Philipp von Rosenstiel - Vice President Global Clinical ...",
+      "link": "https://www.linkedin.com/in/philipp-von-rosenstiel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/philipp-von-rosenstiel&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECEgQAQ",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659ca783ff7e50cac80c83b0ed1d72fba947.png",
+      "snippet": "Lecturer MSc in Cerebrovascular Medicine. Charité. 2010 - 2014 4 years. Berlin Area, Germany ... Continue with GoogleContinue with Google. New to LinkedIn? Join ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cambridge, Massachusetts, United States",
+            "Vice President Global Clinical Sciences, Neuroscience",
+            "Takeda"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Philipp von Rosenstiel"
+    },
+    {
+      "position": 76,
+      "title": "Peter Würtenberger - Executive Vice President",
+      "link": "https://de.linkedin.com/in/pwuerten/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/pwuerten/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECFkQAQ",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c02668c9f11a57e4d1429b9f9ebb3c499.png",
+      "snippet": "Executive Vice President @ Axel Springer SE · Axel Springer SE · University of Cologne, Germany · Berlin · 500+ connections on LinkedIn.",
+      "snippet_highlighted_words": [
+        "Executive Vice President",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Germany",
+            "Executive Vice President",
+            "Axel Springer SE"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Würtenberger"
+    },
+    {
+      "position": 77,
+      "title": "Marc Fischer - Hewlett Packard Enterprise",
+      "link": "https://de.linkedin.com/in/marc-fischer-051370136",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/marc-fischer-051370136&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECF0QAQ",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c7cb498f1698582e2e331f7ebab634241.png",
+      "snippet": "Continue with GoogleContinue with Google. Neu bei LinkedIn? Mitglied ... General Manager & Vice President Germany, Austria. Lenovo. 2005 – 2009 4 Jahre.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Vice President Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Böblingen, Baden-Württemberg, Deutschland",
+            "Managing Director & Vice President Sales Germany",
+            "Hewlett Packard Enterprise"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marc Fischer"
+    },
+    {
+      "position": 78,
+      "title": "Peter Seitz - Executive Vice President, Surgery - Siemens ...",
+      "link": "https://de.linkedin.com/in/seitzpeter/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/seitzpeter/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECGYQAQ",
+      "displayed_link": "910+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c66323c06a52f4cf95cf0a330e21d9a79.png",
+      "snippet": "Executive Vice President, Surgery · Experience: Siemens Healthcare · Location: Germany · 500+ connections on LinkedIn. View Peter Seitz's profile on ...",
+      "snippet_highlighted_words": [
+        "Executive Vice President",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Executive Vice President, Surgery",
+            "Siemens Healthcare"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Seitz"
+    },
+    {
+      "position": 79,
+      "title": "Ajay Patil - VP & Chief Financial Officer- India ABO",
+      "link": "https://in.linkedin.com/in/ajay-patil-375aa69",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/ajay-patil-375aa69&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECGcQAQ",
+      "displayed_link": "3.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c206f9b350fc977ee425716f50871405d.png",
+      "snippet": "VP & Chief Financial Officer- India ABO · Executive Director -Corporate Finance · Chief Financial Officer - Americas-Honeywell Buildings Solutions · Vice President ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Pune, Maharashtra, India",
+            "VP & Chief Financial Officer- India ABO",
+            "Cummins India"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ajay Patil"
+    },
+    {
+      "position": 80,
+      "title": "Paul Shuler - Senior Vice President - Office of the Germany ...",
+      "link": "https://www.linkedin.com/in/paul-shuler-50009812b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/paul-shuler-50009812b&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECHMQAQ",
+      "displayed_link": "860+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c3627994187e5dfdd23b28e62b35db062.png",
+      "snippet": "Continue with GoogleContinue with Google ... Experience. Citi. 5 years 9 months · Citi Graphic. Senior Vice President - Office of the Germany and Austria Cluster ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior Vice President",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hesse, Germany",
+            "Senior Vice President",
+            "Office of the Germany and Austria Cluster Head",
+            "Citi"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Shuler"
+    },
+    {
+      "position": 81,
+      "title": "Paul Vogel - Vice President of Target Discovery at AIRNA",
+      "link": "https://www.linkedin.com/in/paul-vogel-469579195",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/paul-vogel-469579195&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECHEQAQ",
+      "displayed_link": "430+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c7fa053331520bc9229b4b4c6462a6bdc.png",
+      "snippet": "Experience · Vice President of Target Discovery at AIRNA · Vice President of Research at AIRNA · Managing Director of AIRNA Bio Germany GmbH · Co-Founder and ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Vice President",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cambridge, Massachusetts, United States",
+            "Vice President of Target Discovery at AIRNA",
+            "AIRNA"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Vogel"
+    },
+    {
+      "position": 82,
+      "title": "Knut Mueller - Rolls-Royce Power Systems AG",
+      "link": "https://de.linkedin.com/in/knut-m%C3%BCller/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/knut-m%25C3%25BCller/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECHoQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cb48a701267b25c92e3521c618fa997af.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ... Senior Vice President Global Governmental - Rolls-Royce Powersystems / mtu.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Senior Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ravensburg, Baden-Württemberg, Germany",
+            "Senior Vice President Global Governmental",
+            "Rolls-Royce Powersystems / mtu",
+            "Rolls-Royce Power Systems AG"
+          ]
+        }
+      },
+      "source": "LinkedIn · Knut Müller"
+    },
+    {
+      "position": 83,
+      "title": "Javier Arias González - VP Data Engineering, Global ...",
+      "link": "https://uk.linkedin.com/in/javierariasgonzalez",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/javierariasgonzalez&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECHwQAQ",
+      "displayed_link": "5.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c4b6f9df0928e518f774bbc8b13915ac0.png",
+      "snippet": "VP Data Engineering, Global Streaming Platform ... • Led technical aspects of Google partnerships and contracts; enabled product launch in UK, Germany and France",
+      "snippet_highlighted_words": [
+        "VP",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London Area, United Kingdom",
+            "VP Data Engineering, Global Streaming Platform",
+            "NBCUniversal"
+          ]
+        }
+      },
+      "source": "LinkedIn · Javier Arias González"
+    },
+    {
+      "position": 84,
+      "title": "Richard Ho - Head of Hardware - OpenAI",
+      "link": "https://www.linkedin.com/in/richard-ho-chips",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/richard-ho-chips&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECH4QAQ",
+      "displayed_link": "7.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659ce1122fd4961aeeef7bcb8dfd8b6c3c42.png",
+      "snippet": "Head of Hardware @ OpenAI | ex-SVP Lightmatter | ML for chip design | ex-Google TPU | ... Senior Vice President, Silicon and Software Engineering. Lightmatter.",
+      "snippet_highlighted_words": [
+        "SVP",
+        "Google",
+        "Senior Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Palo Alto, California, United States",
+            "Head of Hardware",
+            "OpenAI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Richard Ho"
+    },
+    {
+      "position": 85,
+      "title": "Steven E Sokol - President - American Council on Germany",
+      "link": "https://www.linkedin.com/in/steven-e-sokol-bb801529",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/steven-e-sokol-bb801529&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCIwBEAE",
+      "displayed_link": "3.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c2c45a77b91f2b00c8a437cc11075339c.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Vice President and Director of Programs. American Council on Germany. Oct ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Vice President",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York City Metropolitan Area",
+            "President",
+            "American Council on Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Steven E Sokol"
+    },
+    {
+      "position": 86,
+      "title": "Hans Thomas Peters - Vice President - Data Science & AI",
+      "link": "https://www.linkedin.com/in/hans-thomas-peters-982368171",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hans-thomas-peters-982368171&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCJUBEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c7279809769d328f7ff853c2c99deabdd.png",
+      "snippet": "V.P. Data Science & AI · Experienced and dedicated Data Science Leader ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "V.P.",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "New York, New York, United States",
+            "Vice President",
+            "Data Science & AI",
+            "Campana & Schott"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hans Thomas Peters"
+    },
+    {
+      "position": 87,
+      "title": "Elizabeth Belew - SVP Long Form Development and ...",
+      "link": "https://www.linkedin.com/in/elizabeth-belew-648a954",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/elizabeth-belew-648a954&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCJcBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c91db2f500fc072ad16bf63f599edf705.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... VP of Development. Rive Gauche Television. 2011 - 2013 2 years. Los Angeles.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "VP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "SVP Long Form Development and Current Programming",
+            "Funny Or Die"
+          ]
+        }
+      },
+      "source": "LinkedIn · Elizabeth Belew"
+    },
+    {
+      "position": 88,
+      "title": "Tobey List - Senior Vice President, Current Programming",
+      "link": "https://www.linkedin.com/in/tobey-list-4711737",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tobey-list-4711737&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCJkBEAE",
+      "displayed_link": "960+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c082c3446b635d179504509df3125d443.png",
+      "snippet": "Senior Vice President, Current Programming at The Intellectual Property ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Current",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Senior Vice President, Current Programming",
+            "The Intellectual Property Corporation"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tobey List"
+    },
+    {
+      "position": 89,
+      "title": "Jit Saini - Senior Vice President, Head of Medical Affairs ...",
+      "link": "https://uk.linkedin.com/in/jitsaini",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/jitsaini&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCKgBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659ce413342f3ceb05653a66742b5d4b621a.png",
+      "snippet": "Merck KGaA, Darmstadt, Germany. Oct 2017 - Present 7 years 6 months. Currently, I serve as the Senior Vice President ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Present",
+        "Senior Vice President"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United Kingdom",
+            "Senior Vice President, Head of Medical Affairs EMEA",
+            "Merck KGaA, Darmstadt, Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jit Saini"
+    },
+    {
+      "position": 90,
+      "title": "Stefan Kuehr - Regional Vice President Germany & Austria ...",
+      "link": "https://tr.linkedin.com/in/stefan-kuehr-1664839",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://tr.linkedin.com/in/stefan-kuehr-1664839&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCLMBEAE",
+      "displayed_link": "8.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c4e6573740b5e752eef7da98e7a074f0b.png",
+      "snippet": "Continue with GoogleContinue with Google ... Deneyim. Marriott International. 6 yıl 10 ay. Marriott International Grafik. Regional Vice President Germany & ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Vice President Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Avusturya",
+            "Regional Vice President Germany & Austria & Switzerland (DACH)",
+            "Marriott International"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stefan Kuehr"
+    },
+    {
+      "position": 91,
+      "title": "Belinda Rungsea - Vice President, Current Programming",
+      "link": "https://www.linkedin.com/in/belinda-rungsea-156b192a",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/belinda-rungsea-156b192a&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCLIBEAE",
+      "displayed_link": "820+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c2248071dccde8edd1b0e25002e62e297.png",
+      "snippet": "VP, Current Programming - Universal Television Alternative Studio ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By clicking ...",
+      "snippet_highlighted_words": [
+        "VP",
+        "Current",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Vice President, Current Programming",
+            "NBCUniversal"
+          ]
+        }
+      },
+      "source": "LinkedIn · Belinda Rungsea"
+    },
+    {
+      "position": 92,
+      "title": "Ian White - Senior Vice President, Open Banking Europe",
+      "link": "https://uk.linkedin.com/in/ian-white-09288024",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/ian-white-09288024&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCLABEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659ceb7b408fa4f55c6953fff4e1e399b5d5.png",
+      "snippet": "Senior Vice President, Open Banking Europe. Mastercard. Jul 2017 - Present 7 years 9 months. London. Roles: - September 2017 - September 2020: VP, Issuer ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Present",
+        "VP"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Senior Vice President, Open Banking Europe",
+            "Mastercard"
+          ]
+        }
+      },
+      "source": "LinkedIn · Ian White"
+    },
+    {
+      "position": 93,
+      "title": "Dr. Iris Eveleigh - Senior Vice President Investor Relations",
+      "link": "https://de.linkedin.com/in/dr-iris-eveleigh-2b69a422/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dr-iris-eveleigh-2b69a422/en&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCLUBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c870d55ef236c8a3bce7001a89bcb5b52.png",
+      "snippet": "Senior Vice President Investor Relations. E.ON. Oct 2022 - Present 2 years 6 months. Essen, North Rhine-Westphalia, Germany. E.ON Graphic. Head of Competition ...",
+      "snippet_highlighted_words": [
+        "Senior Vice President",
+        "Present",
+        "Germany"
+      ],
+      "source": "LinkedIn · Dr. Iris Eveleigh"
+    },
+    {
+      "position": 94,
+      "title": "Zoey Neuenschwander - Vice President Legal, Corporate ...",
+      "link": "https://www.linkedin.com/in/zoey-neuenschwander-b099a031",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/zoey-neuenschwander-b099a031&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCMYBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659ceec06f0b2a932cc04fcd7a6e0c5144f2.png",
+      "snippet": "Vice President Legal, Corporate Governance, Transactions & Legal ... Continue with GoogleContinue with Google. New to LinkedIn? Join now. or. By ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Google",
+        "Google"
+      ],
+      "source": "LinkedIn · Zoey Neuenschwander"
+    },
+    {
+      "position": 95,
+      "title": "Patrick Waite - SVP Assurance, Risk, & Enablement - Cox ...",
+      "link": "https://www.linkedin.com/in/patrickwaite",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/patrickwaite&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCMoBEAE",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659ce2ecae8905dab398de700c615f4f8835.png",
+      "snippet": "SVP Assurance, Risk, & Enablement · Vice President of Audit Services · Part-Time Professor · Vice President Supply Chain Operations, Planning, & Logistics.",
+      "snippet_highlighted_words": [
+        "SVP",
+        "Vice President",
+        "Vice President"
+      ],
+      "source": "LinkedIn · Patrick Waite"
+    },
+    {
+      "position": 96,
+      "title": "Krystal Whitney - BBC Studios",
+      "link": "https://www.linkedin.com/in/krystal-whitney-26183532",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/krystal-whitney-26183532&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCMwBEAE",
+      "displayed_link": "370+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659cbc3b25dc9c3f756e9416ac653069ce2b.png",
+      "snippet": "Executive Vice President, Current Programming at BBC Studios · BBC Studios ... Senior Vice President, Current Programming. BBC Studios. Nov 2022 - Jan ...",
+      "snippet_highlighted_words": [
+        "Executive Vice President",
+        "Current",
+        "Senior Vice President",
+        "Current"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Executive Vice President, Current Programming",
+            "BBC Studios"
+          ]
+        }
+      },
+      "source": "LinkedIn · Krystal Whitney"
+    },
+    {
+      "position": 97,
+      "title": "Rene Meyer - VP of Technology - AMAX Information ...",
+      "link": "https://www.linkedin.com/in/rene-meyer-710a035",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/rene-meyer-710a035&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoFCMsBEAE",
+      "displayed_link": "300+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659ceca50a54fde1ca98b89d4600f27764fd.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Research Center Juelich, Germany. 2003 - 2005 2 years. Juelich, Germany.",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Sunnyvale, California, United States",
+            "VP of Technology",
+            "AMAX Information Technologies"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rene Meyer"
+    },
+    {
+      "position": 98,
+      "title": "Eric van Rossum - SAP",
+      "link": "https://www.linkedin.com/in/ericvanrossum1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ericvanrossum1&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECC0QAQ",
+      "displayed_link": "6.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c6e4022bd50b9139b752288aa0adc66df.png",
+      "snippet": "Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ... Walldorf, Baden-Württemberg, Germany. Education. Maastricht University ...",
+      "snippet_highlighted_words": [
+        "Google",
+        "Google",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Chicago Area",
+            "SAP"
+          ]
+        }
+      },
+      "source": "LinkedIn · Eric van Rossum"
+    },
+    {
+      "position": 99,
+      "title": "Andi Walker Ochoa - Vice President of Development & ...",
+      "link": "https://www.linkedin.com/in/andi-contentproducer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/andi-contentproducer&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4QFnoECCsQAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddfa20dc8e121fb325fba3/images/d861054dc98765676a8781e2d905659c05e8e8d792b2916e49805243af075bc9.png",
+      "snippet": "Vice President, Development & Programming · I am a proven content ... Continue with GoogleContinue with Google. New to LinkedIn? Join now · Join to ...",
+      "snippet_highlighted_words": [
+        "Vice President",
+        "Google",
+        "Google"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles Metropolitan Area",
+            "Vice President of Development & Programming",
+            "Pantheon Media Group"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andi Walker Ochoa"
+    }
+  ],
+  "top_stories_link": "https://www.google.com/search?num=100&sca_esv=b275642f2649e319&gl=us&q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22)&udm=2&source=univ&fir=vVVbrHVXUfbDWM%252CjY9pixTikBth_M%252C_%253BOKk8QvlcdUyJ-M%252CbzNpZD33A1Q59M%252C_%253B4_TEOUhUkDv-oM%252Cd-SBte7s4qj7FM%252C_%253BfVIxsrJk9LMLNM%252CKN9z_2yIqJieMM%252C_%253BBM7IW3TfLcyUhM%252CPxlIedbCS73rHM%252C_%253BUgf_GLG94a78DM%252CbzNpZD33A1Q59M%252C_%253BXr9chM4cfnyzWM%252CwZOogSXewdGMHM%252C_%253B4LhHfNpbTn0y4M%252CboOF5R6AJp_SeM%252C_%253BMF2QP000gx1vSM%252CfM9k4leBb84hYM%252C_&usg=AI4_-kRv_ir8gU7DHNx2mNb6EySbf8-hNw&sa=X&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4Q7Al6BAhYEAY",
+  "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29",
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=IfrdZ7zAMNW4kPIPmpTn8Qc&start=100&sa=N&sstk=Af40H4XSoNmyGVyVF5ZGqc8uwu4AHiFrG-HeQtXVhb4FRX-vVyMDXfh2iD8VbOZH-Wc1mzFiYyqr3lIjmhOG-5o6oKYpPyeoqypJ_g&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4Q8NMDegUIswIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=IfrdZ7zAMNW4kPIPmpTn8Qc&start=100&sa=N&sstk=Af40H4XSoNmyGVyVF5ZGqc8uwu4AHiFrG-HeQtXVhb4FRX-vVyMDXfh2iD8VbOZH-Wc1mzFiYyqr3lIjmhOG-5o6oKYpPyeoqypJ_g&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4Q8tMDegUIswIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=IfrdZ7zAMNW4kPIPmpTn8Qc&start=200&sa=N&sstk=Af40H4XSoNmyGVyVF5ZGqc8uwu4AHiFrG-HeQtXVhb4FRX-vVyMDXfh2iD8VbOZH-Wc1mzFiYyqr3lIjmhOG-5o6oKYpPyeoqypJ_g&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4Q8tMDegUIswIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Google%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=IfrdZ7zAMNW4kPIPmpTn8Qc&start=300&sa=N&sstk=Af40H4XSoNmyGVyVF5ZGqc8uwu4AHiFrG-HeQtXVhb4FRX-vVyMDXfh2iD8VbOZH-Wc1mzFiYyqr3lIjmhOG-5o6oKYpPyeoqypJ_g&ved=2ahUKEwj81NjPrZyMAxVVHEQIHRrKOX4Q8tMDegUIswIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Google%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Practice+Director%22+OR+%22VP%22+OR+%22Vice+President%22+OR+%22Senior+Vice+President%22+OR+%22SVP%22+OR+%22EVP%22+OR+%22Executive+Vice+President%22+OR+%22Assistant+Vice+President%22%29&start=300"
+    }
+  }
+}

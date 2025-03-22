@@ -1,0 +1,116 @@
+{
+  "full_name": "John Smith",
+  "first_name": "John",
+  "last_name": "Smith",
+  "headline": "VP of Engineering at Microsoft",
+  "summary": "Experienced VP of Engineering with over 15 years in software development and technology leadership. Expert in cloud computing, AI integration, and agile methodologies. Passionate about building high-performing engineering teams and delivering innovative products at scale.",
+  "country": "US",
+  "country_full_name": "United States of America",
+  "city": "Seattle",
+  "state": "Washington",
+  "experiences": [
+    {
+      "company": "Microsoft",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/microsoft",
+      "title": "VP of Engineering",
+      "description": "Leading engineering teams across cloud and AI initiatives. Responsible for product development strategy, technical architecture, and engineering excellence.",
+      "location": "Seattle, Washington",
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2018
+      },
+      "ends_at": null
+    },
+    {
+      "company": "Google",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/google",
+      "title": "Director of Engineering",
+      "description": "Led multiple engineering teams focused on search infrastructure and cloud computing solutions. Managed team of 50+ engineers across multiple locations.",
+      "location": "Mountain View, California",
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 28,
+        "month": 2,
+        "year": 2018
+      }
+    },
+    {
+      "company": "Amazon",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/amazon",
+      "title": "Senior Engineering Manager",
+      "description": "Managed teams developing e-commerce platform infrastructure. Implemented agile methodologies and improved deployment processes.",
+      "location": "Seattle, Washington",
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2013
+      }
+    }
+  ],
+  "education": [
+    {
+      "school": "Stanford University",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/stanford-university/",
+      "degree_name": "Master of Science",
+      "field_of_study": "Computer Science",
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2005
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2007
+      }
+    },
+    {
+      "school": "University of Washington",
+      "school_linkedin_profile_url": "https://www.linkedin.com/school/university-of-washington/",
+      "degree_name": "Bachelor of Science",
+      "field_of_study": "Computer Engineering",
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2001
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2005
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cloud Computing"
+    },
+    {
+      "name": "Software Architecture"
+    },
+    {
+      "name": "Engineering Leadership"
+    },
+    {
+      "name": "Agile Methodologies"
+    },
+    {
+      "name": "Artificial Intelligence"
+    },
+    {
+      "name": "Team Management"
+    }
+  ],
+  "connections": 500,
+  "profile_pic_url": "https://example.com/profile.jpg"
+}

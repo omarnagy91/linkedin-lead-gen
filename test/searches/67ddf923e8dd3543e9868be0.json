@@ -1,0 +1,284 @@
+{
+  "search_metadata": {
+    "id": "67ddf923e8dd3543e9868be0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2b7fb4c3e010f361/67ddf923e8dd3543e9868be0.json",
+    "created_at": "2025-03-21 23:41:23 UTC",
+    "processed_at": "2025-03-21 23:41:23 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/2b7fb4c3e010f361/67ddf923e8dd3543e9868be0.html",
+    "total_time_taken": 1.72
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"United States\" AND (current OR present) AND (\"senior\" OR \"leader\" OR \"executive\" OR \"experienced\") AND \"years experience\"",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"United States\" AND (current OR present) AND (\"senior\" OR \"leader\" OR \"executive\" OR \"experienced\") AND \"years experience\"",
+    "total_results": 484000,
+    "time_taken_displayed": 0.59,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Bill Schmitt - Sr. Commercial Executive - Microsoft",
+      "link": "https://www.linkedin.com/in/bill-schmitt-00061829",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/bill-schmitt-00061829&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8QFnoECBkQAQ",
+      "displayed_link": "490+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf923e8dd3543e9868be0/images/b4e71fa860341a54a4c8d5d14451dbbcde9066b44a362b2ab3857b85400207da.png",
+      "snippet": "Sr. Commercial Executive at Microsoft Corporation · With more than 25 years' experience working ... Microsoft Midwest District - IL, WI, IN. As a Senior ...",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "years' experience",
+        "Microsoft",
+        "Senior"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Wadsworth, Illinois, United States",
+            "Sr. Commercial Executive",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Bill Schmitt"
+    },
+    {
+      "position": 2,
+      "title": "Mandy Montano - Redmond, Washington, United States",
+      "link": "https://www.linkedin.com/in/montanoml",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/montanoml&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8QFnoECBoQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf923e8dd3543e9868be0/images/b4e71fa860341a54a4c8d5d14451dbbc5763756d231a6f799f6d1a04b9993016.png",
+      "snippet": "Chief of Staff at Microsoft · I am a highly motivated business management and executive ... Patrick O. “If you're a hiring manager looking for an experienced ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "executive",
+        "experienced"
+      ],
+      "source": "LinkedIn · Mandy Montano"
+    },
+    {
+      "position": 3,
+      "title": "Elliot Oshman - Microsoft",
+      "link": "https://www.linkedin.com/in/elliotoshman",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/elliotoshman&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8QFnoECBYQAQ",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf923e8dd3543e9868be0/images/b4e71fa860341a54a4c8d5d14451dbbce0433db2c85f1145a15c8a1344c4530b.png",
+      "snippet": "Results-driven leader with over 25 years experience solving business problems in a range… · ... Elliot Oshman. Microsoft. Austin, Texas, United States. 2K ...",
+      "snippet_highlighted_words": [
+        "leader",
+        "years experience",
+        "Microsoft",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Elliot Oshman"
+    },
+    {
+      "position": 4,
+      "title": "Robin Lerner - Senior Director, Academic Engagement",
+      "link": "https://www.linkedin.com/in/robin-lerner-191665a3",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robin-lerner-191665a3&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8QFnoECBcQAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf923e8dd3543e9868be0/images/b4e71fa860341a54a4c8d5d14451dbbc22f49eaa2424b2d8111b207ae8d0a902.png",
+      "snippet": "Senior Director, Academic Engagement, Microsoft · A senior global affairs leader with 20 years' experience ... Washington, District of Columbia, United States.",
+      "snippet_highlighted_words": [
+        "Senior",
+        "Microsoft",
+        "senior",
+        "leader",
+        "years' experience",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Austin, Texas Metropolitan Area",
+            "Senior Director, Academic Engagement",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robin Lerner"
+    },
+    {
+      "position": 5,
+      "title": "Angela Heise - Microsoft",
+      "link": "https://www.linkedin.com/in/angela-heise-028a8445",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/angela-heise-028a8445&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8QFnoECBgQAQ",
+      "displayed_link": "8.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf923e8dd3543e9868be0/images/b4e71fa860341a54a4c8d5d14451dbbc04467f65537a02bb5b5216c65b2355b7.png",
+      "snippet": "Angela Heise. Microsoft Harvard Business School Executive Education. Oakton, Virginia, United States. 8K followers 500+ connections. See your mutual connections ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Executive",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Oakton, Virginia, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Angela Heise"
+    },
+    {
+      "position": 6,
+      "title": "Hemant Dutta - Director, Monetization & Business Planning",
+      "link": "https://www.linkedin.com/in/hemantdutta",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/hemantdutta&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8QFnoECBUQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf923e8dd3543e9868be0/images/b4e71fa860341a54a4c8d5d14451dbbc2bb44c70cc28793eb690a597c70b0dd7.png",
+      "snippet": "... Senior executive with 15+ years of hands-on experience blending finance ... • Senior leader in multiple PE-/ VC-backed companies • Completed multiple ...",
+      "snippet_highlighted_words": [
+        "Senior executive",
+        "Senior leader"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Renton, Washington, United States",
+            "Director, Monetization & Business Planning",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hemant Dutta"
+    },
+    {
+      "position": 7,
+      "title": "Rebecca Evans - Executive Business Administrator",
+      "link": "https://www.linkedin.com/in/ssor629",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ssor629&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8QFnoECC4QAQ",
+      "displayed_link": "420+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf923e8dd3543e9868be0/images/b4e71fa860341a54a4c8d5d14451dbbce00e6a26e77b87056ca78ea1b9c90848.png",
+      "snippet": "Executive Business Administrator. Microsoft. May 2024 - Present 11 months. Irving, Texas, United States.",
+      "snippet_highlighted_words": [
+        "Executive",
+        "Microsoft",
+        "Present",
+        "United States"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dallas-Fort Worth Metroplex",
+            "Executive Business Administrator",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rebecca Evans"
+    },
+    {
+      "position": 8,
+      "title": "Brian Turner - Microsoft",
+      "link": "https://www.linkedin.com/in/brian-a-turner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brian-a-turner&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8QFnoECCkQAQ",
+      "displayed_link": "https://www.linkedin.com › brian-a-turner",
+      "favicon": "https://serpapi.com/searches/67ddf923e8dd3543e9868be0/images/b4e71fa860341a54a4c8d5d14451dbbc5959e679b2d5bfcc355ce8c7c92b0231.png",
+      "snippet": "A collaborative, team oriented, experienced Information Technology professional with a… · Experience: Microsoft · Education: Alabama Agricultural and ...",
+      "snippet_highlighted_words": [
+        "experienced",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Atlanta Metropolitan Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn"
+    },
+    {
+      "position": 9,
+      "title": "Elaine Smith - Director, Business Programs EBC - Microsoft",
+      "link": "https://www.linkedin.com/in/elaine-smith102",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/elaine-smith102&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8QFnoECC0QAQ",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf923e8dd3543e9868be0/images/b4e71fa860341a54a4c8d5d14451dbbc1a997517c4c9c2e1012e72d0e831ce9d.png",
+      "snippet": "Microsoft. Mar 2025 - Present 1 month. Redmond, Washington, United States. Microsoft Graphic. Senior Executive Engagement Program Manager. Microsoft. Jun 2014 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present",
+        "United States",
+        "Microsoft",
+        "Senior Executive",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Director, Business Programs EBC",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Elaine Smith"
+    },
+    {
+      "position": 10,
+      "title": "Greg Urquhart - GM, Americas - MS Business Applications",
+      "link": "https://www.linkedin.com/in/urquhartgreg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/urquhartgreg&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8QFnoECCwQAQ",
+      "displayed_link": "3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf923e8dd3543e9868be0/images/b4e71fa860341a54a4c8d5d14451dbbcbc35a09fbc89b8ad11da5e60746d1716.png",
+      "snippet": "GM, Americas Business Applications Leader | Microsoft · I am passionate about learning new things, and about what ... years' experience in technology sales ...",
+      "snippet_highlighted_words": [
+        "Leader",
+        "Microsoft",
+        "years' experience"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "GM, Americas",
+            "MS Business Applications",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Greg Urquhart"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=JPndZ6OLKcOowPAPqcvL-AM&start=100&sa=N&sstk=Af40H4XF9XH5bcfaFGSFbp4i8NCV9fL97bVdfomV5D0abZTDgUQnfUuzNaEKFt0OP3ET-9SYOwaQzwCAnmI8bj1yG6byJJKjbpzQbA&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8Q8NMDegQICBAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=JPndZ6OLKcOowPAPqcvL-AM&start=100&sa=N&sstk=Af40H4XF9XH5bcfaFGSFbp4i8NCV9fL97bVdfomV5D0abZTDgUQnfUuzNaEKFt0OP3ET-9SYOwaQzwCAnmI8bj1yG6byJJKjbpzQbA&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8Q8tMDegQICBAE",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=JPndZ6OLKcOowPAPqcvL-AM&start=200&sa=N&sstk=Af40H4XF9XH5bcfaFGSFbp4i8NCV9fL97bVdfomV5D0abZTDgUQnfUuzNaEKFt0OP3ET-9SYOwaQzwCAnmI8bj1yG6byJJKjbpzQbA&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8Q8tMDegQICBAG",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22United+States%22+AND+(current+OR+present)+AND+(%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22)+AND+%22years+experience%22&num=100&sca_esv=b275642f2649e319&gl=us&ei=JPndZ6OLKcOowPAPqcvL-AM&start=300&sa=N&sstk=Af40H4XF9XH5bcfaFGSFbp4i8NCV9fL97bVdfomV5D0abZTDgUQnfUuzNaEKFt0OP3ET-9SYOwaQzwCAnmI8bj1yG6byJJKjbpzQbA&ved=2ahUKEwijrf_WrJyMAxVDFBAIHanlEj8Q8tMDegQICBAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22United+States%22+AND+%28current+OR+present%29+AND+%28%22senior%22+OR+%22leader%22+OR+%22executive%22+OR+%22experienced%22%29+AND+%22years+experience%22&start=300"
+    }
+  }
+}

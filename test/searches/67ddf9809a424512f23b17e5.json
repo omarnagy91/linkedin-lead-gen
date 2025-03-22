@@ -1,0 +1,2203 @@
+{
+  "search_metadata": {
+    "id": "67ddf9809a424512f23b17e5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/83fa2939102c5949/67ddf9809a424512f23b17e5.json",
+    "created_at": "2025-03-21 23:42:56 UTC",
+    "processed_at": "2025-03-21 23:42:56 UTC",
+    "google_url": "https://www.google.com/search?q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&oq=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&gl=us&num=100&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/83fa2939102c5949/67ddf9809a424512f23b17e5.html",
+    "total_time_taken": 2.01
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "site:linkedin.com/in/ \"Microsoft\" AND \"Germany\" AND (current OR present) AND (\"Group Manager\" OR \"Regional Manager\" OR \"Department Manager\" OR \"Team Manager\" OR \"Owner\" OR \"Founder\" OR \"Co-Founder\" OR \"Proprietor\")",
+    "google_domain": "google.com",
+    "gl": "us",
+    "num": "100",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "site:linkedin.com/in/ \"Microsoft\" AND \"Germany\" AND (current OR present) AND (\"Group Manager\" OR \"Regional Manager\" OR \"Department Manager\" OR \"Team Manager\" OR \"Owner\" OR \"Founder\" OR \"Co-Founder\" OR \"Proprietor\")",
+    "total_results": 3070000,
+    "time_taken_displayed": 0.92,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Florian Deter – Managing Director Germany & EMEA ...",
+      "link": "https://de.linkedin.com/in/florian-deter",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/florian-deter&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECAkQAQ",
+      "displayed_link": "10.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61351e35dca4e04911300e2d52a14a6ef4d7.png",
+      "snippet": "As Managing Director Germany and General Manager Enterprise Commercial at Microsoft, I am responsible for driving the digital agenda, scaling the cloud business ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Managing Director Germany & EMEA General Manager Enterprise Partner Sales",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Florian Deter"
+    },
+    {
+      "position": 2,
+      "title": "Josephine Howe 🐎 - Senior Integrated Marketing Manager ...",
+      "link": "https://de.linkedin.com/in/josephine-h%C3%B6ltermann/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/josephine-h%25C3%25B6ltermann/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECB4QAQ",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c613577a8cb482df72e20c27707b7b41f0bb0.png",
+      "snippet": "Josephine Howe. Senior Marketing Manager at Microsoft. Microsoft University of Hamburg. Hamburg, Hamburg, Germany.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "source": "LinkedIn · Josephine Howe 🐎"
+    },
+    {
+      "position": 3,
+      "title": "Yaravi Lopez-Petersen - SMB ||Microsoft AI",
+      "link": "https://de.linkedin.com/in/ylopez-petersen",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ylopez-petersen&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECCEQAQ",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135d10881b913784e84ad3dd1e92140498b.png",
+      "snippet": "Regional Sales Director @ Microsoft Advertising || Driving revenue growth || AdTechnology || AI || HOLA ERG Co-Founder and Board Member @Microsoft Germany ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Co-Founder",
+        "Microsoft Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Sales Director Microsoft Advertising",
+            "Germany, Spain and Rest of WE || SMB ||Microsoft AI",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Yaravi Lopez-Petersen"
+    },
+    {
+      "position": 4,
+      "title": "Luca Callegari – Microsoft | LinkedIn",
+      "link": "https://de.linkedin.com/in/luca-callegari",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/luca-callegari&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECBgQAQ",
+      "displayed_link": "5.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135678946f4cc49f91a433d0d92c957373a.png",
+      "snippet": "My Mission: I'm on a mission as a leader – to empower both a company and its people to… · Berufserfahrung: Microsoft ... Munich, Bavaria, Germany; Milan, Lombardy ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Luca Callegari"
+    },
+    {
+      "position": 5,
+      "title": "Stephan Bauer - Microsoft",
+      "link": "https://de.linkedin.com/in/stephanbauer92/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/stephanbauer92/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECBoQAQ",
+      "displayed_link": "5.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135f054ad446ac9353432b72e1b525093b1.png",
+      "snippet": "Stephan Bauer. Microsoft FOM Hochschule für Oekonomie & Management. Munich, Bavaria, Germany. 6K followers 500+ connections. See your mutual connections. View ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stephan Bauer"
+    },
+    {
+      "position": 6,
+      "title": "Pina Meisel – Microsoft",
+      "link": "https://de.linkedin.com/in/pinameisel",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/pinameisel&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECBkQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135a8acfc11196b17dcbb5ac0c74b0c377b.png",
+      "snippet": "Pina Meisel. Microsoft Universität Duisburg-Essen. München, Bayern, Deutschland. 1706 Follower:innen ...",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pina Meisel"
+    },
+    {
+      "position": 7,
+      "title": "Claudia Hartwich – Microsoft",
+      "link": "https://de.linkedin.com/in/claudia-hartwich",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/claudia-hartwich&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECC4QAQ",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135a53aeec198ae930c7fee2d9430542795.png",
+      "snippet": "Claudia Hartwich, Microsoft, Info, Together with a fantastic HR Team we are passionate about the transformation of Microsoft.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Claudia Hartwich"
+    },
+    {
+      "position": 8,
+      "title": "Alessandro Podda – Microsoft",
+      "link": "https://de.linkedin.com/in/alessandropodda",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/alessandropodda&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJUBEAE",
+      "displayed_link": "2.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61354ab452815e7804a2dbcbfa9a454de711.png",
+      "snippet": "Munich Area, Germany. -. Berlin und Umgebung, Deutschland. -. Berlin und ... Founder and leader: Hold weekly presentations and discussions about the ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alessandro Podda"
+    },
+    {
+      "position": 9,
+      "title": "Sean Jones – Microsoft",
+      "link": "https://de.linkedin.com/in/sean-jones-2a8a934",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sean-jones-2a8a934&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCOgBEAE",
+      "displayed_link": "6.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61354755e3ff0c22a4cab368cb6dff6d3ab0.png",
+      "snippet": "Helping Microsoft save the world with the heart of a (grand)father and ... Global (Ludwigshafen, Germany based). -. Global (Ludwigshafen, Germany based) ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brühl, Baden-Württemberg, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sean Jones"
+    },
+    {
+      "position": 10,
+      "title": "Felix Schümann - Microsoft",
+      "link": "https://www.linkedin.com/in/felixschuemann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/felixschuemann&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECCsQAQ",
+      "displayed_link": "370+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135f8e38d6f3c4c0f5bb7cb3a2e8b9960f1.png",
+      "snippet": "Experience: Microsoft · Education: Hochschule Wismar · Location: Germany · 361 connections on LinkedIn ... Professional Scrum Product Owner Graphic ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "Owner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Felix Schümann"
+    },
+    {
+      "position": 11,
+      "title": "Jared Preston – Microsoft",
+      "link": "https://de.linkedin.com/in/jaredpreston",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/jaredpreston&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCM4BEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61350cd495fefe2446ea37291ed2498b3bca.png",
+      "snippet": "Berufserfahrung · Microsoft Grafik · Microsoft. Munich, Bavaria, Germany · -. Berlin, Germany · -. United States · -. Frankfurt Am Main Area, Germany · -. Bonn Area, ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion Berlin/Brandenburg",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jared Preston"
+    },
+    {
+      "position": 12,
+      "title": "Alexander Loth – Microsoft",
+      "link": "https://de.linkedin.com/in/aloth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/aloth&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCOYBEAE",
+      "displayed_link": "31.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135f87d6046676ecb76405ebb4ac918b7a3.png",
+      "snippet": "Frankfurt am Main, Hesse, Germany. -. Frankfurt Am Main Area, Germany ... Microsoft. Sept. 2021 –Heute 3 Jahre 7 Monate. Wissenschaft und Technologie.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt, Hessen, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexander Loth"
+    },
+    {
+      "position": 13,
+      "title": "Filiz Babacan - SMC Germany - Azure TS Team Manager",
+      "link": "https://ie.linkedin.com/in/filizbabacan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/filizbabacan&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCIoCEAE",
+      "displayed_link": "12.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61358c8206af1b4db291f26286d65b6bd0ba.png",
+      "snippet": "Azure Technical Specialist Team Manager @ Microsoft | Executive MBA, · As ... SMC Germany - Azure TS Team Manager. Microsoft. Jul 2024 - Present 9 months.",
+      "snippet_highlighted_words": [
+        "Team Manager",
+        "Microsoft",
+        "Germany",
+        "Team Manager",
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ireland",
+            "SMC Germany",
+            "Azure TS Team Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Filiz Babacan"
+    },
+    {
+      "position": 14,
+      "title": "André Pechmann – Director Communications – Microsoft",
+      "link": "https://de.linkedin.com/in/apechmann",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/apechmann&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECEMQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135a4e9af88442b00a165ac851f2946edfa.png",
+      "snippet": "Director Communications at Microsoft · Strategic thinking albeit creative and agile communicator with a hands on mentality ... Communications Manager Germany.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Erlangen, Bayern, Deutschland",
+            "Director Communications",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · André Pechmann"
+    },
+    {
+      "position": 15,
+      "title": "Tracey Martin - Sales Director for Small, Medium and ...",
+      "link": "https://ie.linkedin.com/in/traceymartin2",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/traceymartin2&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECGQQAQ",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135cc5e0462f39e3808be6c42d6a45fbd8d.png",
+      "snippet": "Sales Director for Small, Medium and Corporate Business - Germany. Microsoft. Oct 2022 - Present 2 years 6 months. Dublin, County Dublin, Ireland.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Ireland",
+            "Sales Director for Small, Medium and Corporate Business",
+            "Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tracey Martin"
+    },
+    {
+      "position": 16,
+      "title": "Reynold D'Sa - Microsoft",
+      "link": "https://www.linkedin.com/in/reynolddsa",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/reynolddsa&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJkBEAE",
+      "displayed_link": "5.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135ff55fc89c2f03e0c9892bd0a54383463.png",
+      "snippet": "Senior technology executive with 25+ years of experience in building and nurturing global… · Microsoft · Stanford University · Redmond · 500+ connections on ...",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Reynold D'Sa"
+    },
+    {
+      "position": 17,
+      "title": "Nikhil Sharma – Global Customer Success Account Manager",
+      "link": "https://de.linkedin.com/in/contactnikhilsharma",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/contactnikhilsharma&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCMwBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135a2bb0919c5dae822d9ab9e33dd8eb811.png",
+      "snippet": "Berlin, Germany ... These are people who make extraordinary contributions to the Microsoft business, translating our Microsoft goals into real world successes.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Global Customer Success Account Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nikhil Sharma"
+    },
+    {
+      "position": 18,
+      "title": "Oliver Scheffert – Impossible Cloud",
+      "link": "https://de.linkedin.com/in/oliverscheffert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/oliverscheffert&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCOcBEAE",
+      "displayed_link": "4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61351f30f674847ddcbaf81d3e7719d2256f.png",
+      "snippet": "... Germany in 2017. Customer and Partner Experience Champions Award. Microsoft Deutschland GmbH. Juni 2015. The Customer and Partner Experience Champions Award ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Stephanskirchen, Bayern, Deutschland",
+            "Impossible Cloud"
+          ]
+        }
+      },
+      "source": "LinkedIn · Oliver Scheffert"
+    },
+    {
+      "position": 19,
+      "title": "Korbinian Lorenz - Channel Sales Manager Surface",
+      "link": "https://at.linkedin.com/in/korbinian-lorenz-040b6b185/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://at.linkedin.com/in/korbinian-lorenz-040b6b185/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCIECEAE",
+      "displayed_link": "880+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135e1b27cd10fe6fae8ba3d85608df590eb.png",
+      "snippet": "... Microsoft · Vienna University of Economics and Business ... • Coordinated process partners in Germany and China for ix3 export from China to Europe",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Vienna, Vienna, Austria",
+            "Channel Sales Manager Surface",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Korbinian Lorenz"
+    },
+    {
+      "position": 20,
+      "title": "Abhilasha S. - Co-Founder - OpenGig",
+      "link": "https://in.linkedin.com/in/abhilasha-azaad",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/abhilasha-azaad&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJQCEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61354c08ea4da18b7cd18bec1e7828ad129b.png",
+      "snippet": "Co-Founder. OpenGig. Oct 2024 - Present 6 months. Hyderabad, Telangana, India. Microsoft. 2 years 6 months · Microsoft Graphic. Software Engineer 2. Microsoft.",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hyderabad, Telangana, India",
+            "Co-Founder",
+            "OpenGig"
+          ]
+        }
+      },
+      "source": "LinkedIn · Abhilasha S."
+    },
+    {
+      "position": 21,
+      "title": "Aleksa Gordić - Founder & Head of AI @ <soon to be ...",
+      "link": "https://www.linkedin.com/in/aleksagordic",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/aleksagordic&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCKICEAE",
+      "displayed_link": "103.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61354033060c52bf619e0e3b7da946a5faec.png",
+      "snippet": "Founder mode | x-Google DeepMind / Microsoft · Cooking. Social: Website ... Jul 2017 - Sep 2017 3 months. Freiburg Area, Germany. This German startup ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Founder & Head of AI @ <soon to be announced :)/>",
+            "<TBD/>"
+          ]
+        }
+      },
+      "source": "LinkedIn · Aleksa Gordić"
+    },
+    {
+      "position": 22,
+      "title": "Christoph Wilfert - Co-Founder - athlea.ai",
+      "link": "https://uk.linkedin.com/in/christophwilfert",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/christophwilfert&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECEUQAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61358c7d97d1388a2e7892eea17755781874.png",
+      "snippet": "Co-Founder. athlea.ai. Sep 2023 - Present 1 year 7 months. London Area ... Microsoft Germany. Jan 2004 - Jul 2006 2 years 7 months. Munich Area, Germany.",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "Microsoft Germany",
+        "Germany"
+      ],
+      "source": "LinkedIn · Christoph Wilfert"
+    },
+    {
+      "position": 23,
+      "title": "Thomas Mickeleit - Founder - KommunikationNeuDenken!",
+      "link": "https://de.linkedin.com/in/thomas-mickeleit/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/thomas-mickeleit/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECFcQAQ",
+      "displayed_link": "9.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61353eebb1ec165f41e851f2f3aa9f454231.png",
+      "snippet": "Founder. KommunikationNeuDenken! Nov 2020 - Present 4 years 5 months. Hamburg, Deutschland. Microsoft Graphic. Director of Communications. Microsoft. Jul 2006 ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Present",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hamburg, Hamburg, Germany",
+            "Founder",
+            "KommunikationNeuDenken!"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Mickeleit"
+    },
+    {
+      "position": 24,
+      "title": "Oliver K. - Senior Windows and M365 Consumer Category ...",
+      "link": "https://de.linkedin.com/in/oliver-k-97777713a/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/oliver-k-97777713a/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECG8QAQ",
+      "displayed_link": "440+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135a852dfb8ccf8b1723619c32ae8bf8904.png",
+      "snippet": "Microsoft. Apr 2013 - Jun 2017 4 years 3 months. Munich Area, Germany. Responsibilities: • P&L-owner for the Office Consumer business in Germany • Annual ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "owner",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "senior_windows_and_m_consumer_category_manager_central_europe": 365
+          },
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Senior Windows and M365 Consumer Category Manager Central Europe",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Oliver K."
+    },
+    {
+      "position": 25,
+      "title": "Rihab L. - Co-founder and CEO - Asendia AI",
+      "link": "https://fr.linkedin.com/in/rihab-l-085182164",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fr.linkedin.com/in/rihab-l-085182164&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECHwQAQ",
+      "displayed_link": "33.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c613519b41d79acb417dbd2db02c77b75733b.png",
+      "snippet": "Expérience · Graphique Asendia AI. Co-founder and CEO · Graphique Google. Cloud Space Architect · Microsoft · Graphique Siemens. Marketing · Graphique The Coffee ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "France",
+            "Co-founder and CEO",
+            "Asendia AI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rihab L."
+    },
+    {
+      "position": 26,
+      "title": "José Alexandre – Microsoft",
+      "link": "https://de.linkedin.com/in/jgalexandre",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/jgalexandre&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJcBEAE",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135de8adb6fddb363e097a39aeea0dbf8ec.png",
+      "snippet": "Berlin Area, Germany. -. Berlin Area, Germany. -. Berlin Area, Germany. -. Berlin ... Microsoft Global Hackathon 2024 Grafik. Microsoft Global Hackathon 2024.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Germany",
+        "Germany",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · José Alexandre"
+    },
+    {
+      "position": 27,
+      "title": "Kevin Scott - CTO Microsoft",
+      "link": "https://www.linkedin.com/in/jkevinscott",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jkevinscott&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCLMBEAE",
+      "displayed_link": "757.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c613568a025ac65dba15fc166fbaa138780b3.png",
+      "snippet": "Experience ; CTO Microsoft. Microsoft. Jan 2017 ; Member Board Of Directors. Code.org. Oct 2021 ; Author. Reprogramming the American Dream. Apr 2020 ; Co-founder.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Co-founder"
+      ],
+      "source": "LinkedIn · Kevin Scott"
+    },
+    {
+      "position": 28,
+      "title": "Peter Krause - Microsoft",
+      "link": "https://de.linkedin.com/in/ms-peterkrause/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/ms-peterkrause/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCM0BEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135364bec19310faf2c4199eeed32f85ffd.png",
+      "snippet": "Experience. Microsoft Graphic · Microsoft. Köln, Nordrhein-Westfalen, Deutschland. -. Germany. -. Cologne. -. Köln und Umgebung, Deutschland. -. Köln und ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cologne Bonn Region",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Peter Krause"
+    },
+    {
+      "position": 29,
+      "title": "Oliver Buckie – Principal IT Manager – Microsoft",
+      "link": "https://de.linkedin.com/in/oliver-buckie/de",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/oliver-buckie/de&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCNIBEAE",
+      "displayed_link": "560+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135793527470bcd8201619ec7678b0a2ef9.png",
+      "snippet": "IT Leader at Microsoft Germany | Digital Transformation advocate | IT Service optimization & transition | IT Management ... IT-Manager & Founder. EVERSYS IT ...",
+      "snippet_highlighted_words": [
+        "Microsoft Germany",
+        "Founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Principal IT Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Oliver Buckie"
+    },
+    {
+      "position": 30,
+      "title": "Joachim Franz – Automotive Industry Lead – Microsoft",
+      "link": "https://de.linkedin.com/in/joachimfranz",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/joachimfranz&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCOoBEAE",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135dd610938f706b10fd6ee4d6fe41b05f4.png",
+      "snippet": "... Owner (CSPO), Trained Design Thinker, Large Scale Program Manager ... Germany. Responsibility for Digital Business Strategy & Execution, eCommerce, CRM ...",
+      "snippet_highlighted_words": [
+        "Owner",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Braunschweig, Niedersachsen, Deutschland",
+            "Automotive Industry Lead",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Joachim Franz"
+    },
+    {
+      "position": 31,
+      "title": "Jens Lund – Founder & CEO – ContextML UG ...",
+      "link": "https://de.linkedin.com/in/jenslund",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/jenslund&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCOwBEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135c2237ed392eb6584d6eb1d7022464671.png",
+      "snippet": "Founder & CEO at ContextML UG (haftungsbeschränkt), member of Microsoft for ... Business Destination Germany 2018 – Germany as an investment paradise.",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Berlin, Deutschland",
+            "Founder & CEO",
+            "ContextML UG (haftungsbeschränkt)"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jens Lund"
+    },
+    {
+      "position": 32,
+      "title": "Christiaan Brinkhoff - Microsoft",
+      "link": "https://www.linkedin.com/in/christiaanbrinkhoff",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/christiaanbrinkhoff&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCIACEAE",
+      "displayed_link": "25.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135e7a64b0e1f86c24215db5b4bc6719134.png",
+      "snippet": "Performing the migration of 15 sites of Vion Foods in Europe (from England, Germany ... Leader and co-founder. Aug 2021 - Present. Go check www.w365community.com ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "co-founder",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Redmond, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Christiaan Brinkhoff"
+    },
+    {
+      "position": 33,
+      "title": "Marcos Waltenberg - Microsoft",
+      "link": "https://www.linkedin.com/in/marcos-waltenberg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marcos-waltenberg&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCIMCEAE",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61355e8310b0d500b264d4c12a1d3025552a.png",
+      "snippet": "Experience: Microsoft · Education: ESPM Escola Superior de Propaganda e ... Munich, Germany August-November, 2000. 2000 - 2000. Salamanca, Spain July ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marcos Waltenberg"
+    },
+    {
+      "position": 34,
+      "title": "Manish Rai – Group Manager – HCL Technologies",
+      "link": "https://de.linkedin.com/in/thatmanishrai",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/thatmanishrai&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJwCEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135836027fb35f95ed1109087520cd17316.png",
+      "snippet": "Manish Rai. Group Manager at HCL Tech GmbH, Germany. HCL Technologies St ... Convergys/Microsoft. März 2008 – Juni 2013 5 Jahre 4 Monate. Ausbildung. St ...",
+      "snippet_highlighted_words": [
+        "Group Manager",
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Köln, Nordrhein-Westfalen, Deutschland",
+            "Group Manager",
+            "HCL Technologies"
+          ]
+        }
+      },
+      "source": "LinkedIn · Manish Rai"
+    },
+    {
+      "position": 35,
+      "title": "Alexander Singer - Microsoft",
+      "link": "https://de.linkedin.com/in/alexandersinger/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/alexandersinger/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJ4CEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c613548ec80ceacc871c23dc2e8d70eebc510.png",
+      "snippet": "Experience · Microsoft · Helliwood media &amp; education Graphic. Technical Specialist (TSP) - Education - Modern Workplace for Microsoft Germany · Campusware GmbH.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Hannover-Braunschweig-Göttingen-Wolfsburg Region",
+            "Senior Sales Excellence Manger & Program Management | Delos Cloud (NCOE)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexander Singer"
+    },
+    {
+      "position": 36,
+      "title": "Carsten Thiel - Customer Success Account Manager (CSAM)",
+      "link": "https://de.linkedin.com/in/carstenthielmicrosoft/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/carstenthielmicrosoft/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCLECEAE",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135f230c1f07892a3501f4a4294939773a1.png",
+      "snippet": "Carsten Thiel. Customer Success Account Manager (CSAM) for German customers @Microsoft Germany with more than 40 years of experience in IT. Microsoft ...",
+      "snippet_highlighted_words": [
+        "Microsoft Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cologne, North Rhine-Westphalia, Germany",
+            "Customer Success Account Manager (CSAM)",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Carsten Thiel"
+    },
+    {
+      "position": 37,
+      "title": "Kai Wang - Industry Advisor – Microsoft",
+      "link": "https://de.linkedin.com/in/kai-wang-5a3768a1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/kai-wang-5a3768a1&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCLYCEAE",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61355383fd379229943b30b26f1a0d142830.png",
+      "snippet": "Manufacturing & Mobility practice | Industry Advisor. Microsoft. Juni 2022 –Heute 2 Jahre 10 Monate. Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "Manufacturing & Mobility practice | Industry Advisor",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kai Wang"
+    },
+    {
+      "position": 38,
+      "title": "Alexander Dreiling - Vice President / General Manager",
+      "link": "https://au.linkedin.com/in/alex3ling",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://au.linkedin.com/in/alex3ling&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECEkQAQ",
+      "displayed_link": "2.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61354a3f4ae3c50c4c1b1a4a8e1d639547fd.png",
+      "snippet": "... Germany, the US and Australia Objectives: - Achieve lasting and sustainable ... Microsoft · Brisbane · 500+ connections on LinkedIn. View Alexander ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Brisbane, Queensland, Australia",
+            "Vice President / General Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Alexander Dreiling"
+    },
+    {
+      "position": 39,
+      "title": "Brian Marrs - Microsoft",
+      "link": "https://www.linkedin.com/in/brian-marrs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/brian-marrs&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECEYQAQ",
+      "displayed_link": "15.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135ad6d7f920db594f2d517c5c1e72f487f.png",
+      "snippet": "Brian has over 16 years of experience serving multiple public companies across the energy… · Microsoft ... Germany's demonstrated ability to lower these “soft” ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany's"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Brian Marrs"
+    },
+    {
+      "position": 40,
+      "title": "Ted Kempf - Honorary Consul - Federal Republic of Germany",
+      "link": "https://www.linkedin.com/in/ted-kempf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/ted-kempf&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECGEQAQ",
+      "displayed_link": "3.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61353747c52a8a0f14f63fd37ae3aef1a18e.png",
+      "snippet": "Business Applications Sales Lead Energy, Media & Telco and Professional Services - US, Canada and Latin America at Microsoft. Federal Republic of Germany New ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "source": "LinkedIn · Ted Kempf"
+    },
+    {
+      "position": 41,
+      "title": "Gunnar Mein - Co-Founder - together.science",
+      "link": "https://www.linkedin.com/in/gunnarmein",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/gunnarmein&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECF8QAQ",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61359f8a7db044058edfb15346a7be4432c4.png",
+      "snippet": "Co-Founder at together.science, ex-Microsoft, science and robotics teacher, UC Berkeley MIDS · ... KRS GmbH, Burscheid, Germany. Jan 1985 - Jan 1988 3 years ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Co-Founder",
+            "together.science"
+          ]
+        }
+      },
+      "source": "LinkedIn · Gunnar Mein"
+    },
+    {
+      "position": 42,
+      "title": "Rosaria Di Donna - Munich, Bavaria, Germany",
+      "link": "https://de.linkedin.com/in/rosaria-di-donna/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/rosaria-di-donna/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECGoQAQ",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c613546a0dc9db305df4955ea46c9c7947874.png",
+      "snippet": "... current selection. Jobs; People; Learning. Clear text. Clear text ... | Social entrepreneur | Keynote Speaker | Women in Tech | Mom. Munich, Bavaria, Germany.",
+      "snippet_highlighted_words": [
+        "current",
+        "Germany"
+      ],
+      "source": "LinkedIn · Rosaria Di Donna"
+    },
+    {
+      "position": 43,
+      "title": "Mafalda Rebordão - Global Digital & AI Strategy Lead for ...",
+      "link": "https://www.linkedin.com/in/mafalda-rebord%C3%A3o",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mafalda-rebord%25C3%25A3o&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECHoQAQ",
+      "displayed_link": "41.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135f9d762130f242133c9e23fc40d9827a3.png",
+      "snippet": "... Co-founder NGO@C-level Mentorship Academy | Advisor President of | Published author|TEDx speaker | ft.Financial Times, FORBES & BBC · Microsoft ... Germany ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Microsoft",
+        "Germany"
+      ],
+      "source": "LinkedIn · Mafalda Rebordão"
+    },
+    {
+      "position": 44,
+      "title": "Florian Trautwein – Commercial Director Strategic Sales ...",
+      "link": "https://de.linkedin.com/in/florian-trautwein-b9b5a052",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/florian-trautwein-b9b5a052&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECH8QAQ",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135737fa3bf10368bf3e0b833de47b52dff.png",
+      "snippet": "Berufserfahrung. Microsoft. 9 Jahre 5 Monate · Microsoft Grafik. Commercial Director Strategic Sales Germany. Microsoft. Okt. 2021 –Heute 3 Jahre 6 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Commercial Director Strategic Sales Germany",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Florian Trautwein"
+    },
+    {
+      "position": 45,
+      "title": "Khoi Tran - Co-Founder & Managing Director - LieVie GmbH",
+      "link": "https://www.linkedin.com/in/khoiala",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/khoiala&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJoBEAE",
+      "displayed_link": "720+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135aa5716a1fc19f1a1d5f71fb5402e4b04.png",
+      "snippet": "Co-Founder & Managing Director. LieVie GmbH. Aug 2022 - Present 2 years 8 months. Passau, Bavaria, Germany. Microsoft Graphic. Senior Support Engineer.",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Passau, Bavaria, Germany",
+            "Co-Founder & Managing Director",
+            "LieVie GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Khoi Tran"
+    },
+    {
+      "position": 46,
+      "title": "Dominique Côté - Founder / StartUp of SoloPro",
+      "link": "https://de.linkedin.com/in/dominique-c%C3%B4t%C3%A9/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dominique-c%25C3%25B4t%25C3%25A9/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJsBEAE",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c613554838292a468d457770579480986dc87.png",
+      "snippet": "SoloPro Graphic. Founder / StartUp of SoloPro - managed modern workplaces for micro-businesses · Microsoft Graphic · Principal Consultant, Trainer and Owner.",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft",
+        "Owner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Founder / StartUp of SoloPro",
+            "managed modern workplaces for micro-businesses",
+            "SoloPro"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dominique (Dom) Côté"
+    },
+    {
+      "position": 47,
+      "title": "Alexandra S. - Group Manager, High Risk Deal Desk, Asia",
+      "link": "https://sg.linkedin.com/in/alexandra-s-15679757",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sg.linkedin.com/in/alexandra-s-15679757&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCLABEAE",
+      "displayed_link": "480+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61354b242d2787f0860e0a76db3ebdf2918f.png",
+      "snippet": "Alexandra S. Group Manager, High Risk Deal Desk, Asia at Microsoft. Microsoft ... Team leader, Germany Sales Operations. HP. Mar 2004 - Nov 2005 1 year 9 ...",
+      "snippet_highlighted_words": [
+        "Group Manager",
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "source": "LinkedIn · Alexandra S."
+    },
+    {
+      "position": 48,
+      "title": "Olusola Amusan - Vesti",
+      "link": "https://www.linkedin.com/in/olusolaamusan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/olusolaamusan&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCLUBEAE",
+      "displayed_link": "28.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135e81790ece8a35ea05942feec9aeaadeb.png",
+      "snippet": "Olusola (Olu) Amusan, is Co-founder and CEO at Vesti where he is building a financial… · ... Microsoft. Issued Jul 2014. AWS Cloud Solutions Architect ...",
+      "snippet_highlighted_words": [
+        "Co-founder",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco, California, United States",
+            "Vesti"
+          ]
+        }
+      },
+      "source": "LinkedIn · Olusola Amusan"
+    },
+    {
+      "position": 49,
+      "title": "Marie-Thérèse Fontaine – Lynkt",
+      "link": "https://de.linkedin.com/in/marietheresefontaine",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/marietheresefontaine&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCLcBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135dde646f65c0fa8b07672083f7c4e4d54.png",
+      "snippet": "Berufserfahrung. Lynkt Grafik. Lynkt. Munich, Bavaria, Germany. -. Munich ... Microsoft. Ausgestellt: Feb. 2022. Nachweis anzeigen · Accessibility in Action ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Lynkt"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marie-Thérèse Fontaine"
+    },
+    {
+      "position": 50,
+      "title": "Nicolas Paz - Senior Product Owner - Align Technology",
+      "link": "https://www.linkedin.com/in/nicolas-paz-33360431/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nicolas-paz-33360431/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCNEBEAE",
+      "displayed_link": "540+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c613515c36e61d8996cd8ca3f2c078e45ab29.png",
+      "snippet": "Align Technology. May 2023 - Present 1 year 11 months. Berlin, Germany ... • Utilized Project manager tools (Jira, Microsoft Project, Asana, Trello, Monday)",
+      "snippet_highlighted_words": [
+        "Present",
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Vancouver, Washington, United States",
+            "Senior Product Owner",
+            "Align Technology"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nicolas Paz"
+    },
+    {
+      "position": 51,
+      "title": "Kellye Kuh – Microsoft",
+      "link": "https://de.linkedin.com/in/kellyekuh",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/kellyekuh&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCMsBEAE",
+      "displayed_link": "2.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135c3465880f49e0989a2dcdb725f675fd3.png",
+      "snippet": "Microsoft · The Seattle School of Theology & Psychology · München ... Berufserfahrung. Microsoft Grafik · Microsoft. Munich, Bavaria, Germany. -. Munich ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Kellye Kuh"
+    },
+    {
+      "position": 52,
+      "title": "Robert Aichner - Partner Director of Product Management",
+      "link": "https://www.linkedin.com/in/robertaichner",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/robertaichner&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCNABEAE",
+      "displayed_link": "2.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135899f7ead2ce39741bbe073be6185f7f1.png",
+      "snippet": "Product owner for Skype calling and media experiences. ... Microsoft RoundTable, Microsoft Office Communicator, Microsoft Lync and Windows Live Messenger.",
+      "snippet_highlighted_words": [
+        "owner",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bellevue, Washington, United States",
+            "Partner Director of Product Management",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Robert Aichner"
+    },
+    {
+      "position": 53,
+      "title": "Nathan Gruber - Co-Founder & CEO - Datagon AI",
+      "link": "https://de.linkedin.com/in/nathan-gruber/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/nathan-gruber/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECCkQAQ",
+      "displayed_link": "2.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61357cec68e85b624394dd3e61cae9a90ede.png",
+      "snippet": "Co-Founder & CEO @ Datagon AI | CDTM | BEA | TUM. Datagon AI Center for Digital Technology and Management (CDTM). Munich, Bavaria, Germany. 2K followers 500+ ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Co-Founder & CEO",
+            "Datagon AI"
+          ]
+        }
+      },
+      "source": "LinkedIn · Nathan Gruber"
+    },
+    {
+      "position": 54,
+      "title": "Alain Genevaux – Modern Work Sales Specialist Lead",
+      "link": "https://de.linkedin.com/in/alain-genevaux",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/alain-genevaux&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCOkBEAE",
+      "displayed_link": "3.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61351e806875dde49ddd2c65524dfaaa7f7f.png",
+      "snippet": "Microsoft Germany Grafik. Office Business Group Manager / COO at Microsoft Germany. Microsoft Germany. Sept. 2016 –Heute 8 Jahre 7 Monate. Munich. * Scope ...",
+      "snippet_highlighted_words": [
+        "Microsoft Germany",
+        "Group Manager",
+        "Microsoft Germany",
+        "Microsoft Germany"
+      ],
+      "source": "LinkedIn · Alain Genevaux"
+    },
+    {
+      "position": 55,
+      "title": "Tammy (Tamuno) Okwara – Cloud Solutions Architect",
+      "link": "https://de.linkedin.com/in/tammyokwara",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/tammyokwara&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCOUBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135861c9d6b5b39e21b1d904bf9aa94cf9a.png",
+      "snippet": "Customer Success Manager Business Applications. Microsoft. Jan. 2023 – Jan. 2024 1 Jahr 1 Monat. Berlin, Germany. Purplebook.ng Grafik. Founder and Lead ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "Founder"
+      ],
+      "source": "LinkedIn · Tammy (Tamuno) Okwara"
+    },
+    {
+      "position": 56,
+      "title": "Tina Meek - Senior Manager, Microsoft Azure Government",
+      "link": "https://www.linkedin.com/in/tinameek",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/tinameek&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCOsBEAE",
+      "displayed_link": "2.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135f50652cafb351cc8658176a3631a7ad4.png",
+      "snippet": "... Germany; & launching a U.S. Army Recruiting Command program for high schools ... co-founder of an education advocacy across Fairfax County to organize ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "co-founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Herndon, Virginia, United States",
+            "Senior Manager, Microsoft Azure Government",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Tina Meek"
+    },
+    {
+      "position": 57,
+      "title": "Florian Thurnwald – Architect | Industry Solutions Delivery",
+      "link": "https://de.linkedin.com/in/florianthurnwald",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/florianthurnwald&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCO0BEAE",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61354f88fad7bf5b3861a5bbbb5397b3ac7f.png",
+      "snippet": "Microsoft. Aug. 2019 – Nov. 2021 2 Jahre 4 Monate. Munich Area, Germany. FT Software Grafik. Founder and leader. FT Software. 2005 –Heute 20 Jahre. Microsoft.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "Founder",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Florian Thurnwald"
+    },
+    {
+      "position": 58,
+      "title": "Stratos Komotoglou – Microsoft",
+      "link": "https://de.linkedin.com/in/stratoskomotoglou",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/stratoskomotoglou&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCIYCEAE",
+      "displayed_link": "5.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c613534d75116eb5e31fcc5f4e7fe258e661e.png",
+      "snippet": "Microsoft Grafik · Microsoft. Germany · -. Deutschland · -. Cologne, North Rhine-Westphalia, Germany · -. Germany · - · - · - · -. Köln und Umgebung, Deutschland ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Region Köln/Bonn",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Stratos Komotoglou"
+    },
+    {
+      "position": 59,
+      "title": "Thomas Staebler - Worldwide Surface Category Director",
+      "link": "https://www.linkedin.com/in/thomas-staebler",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/thomas-staebler&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCIICEAE",
+      "displayed_link": "1.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135c2b4f79436c52971bfa9b6019fadc10c.png",
+      "snippet": "International Executive Sales, Marketing and Product Leader | P&L Owner | Dual Citizenship (USA & Germany). Microsoft North Carolina State University. United ...",
+      "snippet_highlighted_words": [
+        "Owner",
+        "Germany",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Worldwide Surface Category Director",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Thomas Staebler"
+    },
+    {
+      "position": 60,
+      "title": "Daniel Trost – Microsoft",
+      "link": "https://de.linkedin.com/in/daniel-trost-8758ba21",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/daniel-trost-8758ba21&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCIQCEAE",
+      "displayed_link": "2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61350ab35482b7446f9d44e87e2a1e6a47b9.png",
+      "snippet": "Berufserfahrung. Microsoft Grafik · Microsoft. Stuttgart, Baden-Württemberg, Germany. -. Stuttgart Area, Germany. -. Stuttgart und Umgebung, Deutschland. -.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Region Stuttgart",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Daniel Trost"
+    },
+    {
+      "position": 61,
+      "title": "Natalia Godyla - Microsoft",
+      "link": "https://www.linkedin.com/in/nataliagodyla",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/nataliagodyla&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCIUCEAE",
+      "displayed_link": "1.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135af4ec57cb46dfcec5e4d34273992dce2.png",
+      "snippet": "My career started with a Craigslist ad. My parents immigrated to the United… · Experience: Microsoft · Education: University of Rochester · Location: Los ...",
+      "snippet_highlighted_words": [
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Los Angeles, California, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Natalia Godyla"
+    },
+    {
+      "position": 62,
+      "title": "Michael Maley - Cloud & AI Strategy and Revenue Planning",
+      "link": "https://www.linkedin.com/in/maleymichael",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/maleymichael&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJsCEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61353b58492b73711beb563d225941d3aedf.png",
+      "snippet": "... Microsoft | Co-Founder @ Vareli.Inc · Michael Maley is a globally minded individual with professional experience in Belgium, The Netherlands, Germany, the ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Co-Founder",
+        "Germany"
+      ],
+      "source": "LinkedIn · Michael Maley"
+    },
+    {
+      "position": 63,
+      "title": "Théo de Lestrade de Conty - Microsoft",
+      "link": "https://de.linkedin.com/in/theo-de-lestrade-de-conty-960889123/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/theo-de-lestrade-de-conty-960889123/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJ0CEAE",
+      "displayed_link": "370+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135dd54e0818086ec1664d2e53f08c4702d.png",
+      "snippet": "Digital Marketing Specialist at Microsoft Advertising. Microsoft. Apr 2024 - Present 1 year. Germany. Apple. 5 years 3 months · Apple Graphic. Team Manager ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Present",
+        "Germany",
+        "Team Manager"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Germany",
+            "Digital Marketing Specialist at Microsoft Advertising",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Theo de Lestrade de Conty"
+    },
+    {
+      "position": 64,
+      "title": "Omar Aftab - Microsoft",
+      "link": "https://www.linkedin.com/in/oaftab",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/oaftab&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCKQCEAE",
+      "displayed_link": "900+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135125bfa4be6c2bf00f02cd87d03f62d96.png",
+      "snippet": "VP at Microsoft with more than 20 years of experience in AI, conversational technologies,… ... Jan 2015 - Present. Fund manager for Seattle Angel Conference ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Omar Aftab"
+    },
+    {
+      "position": 65,
+      "title": "MUNIPRASAD SANI - Founder - Infinityde GmbH, Germany",
+      "link": "https://de.linkedin.com/in/muniprasad-sani/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/muniprasad-sani/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCKMCEAE",
+      "displayed_link": "580+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135856c9df6915c9be6a46e632f1357c05e.png",
+      "snippet": "Founder @ Manieus International Group Ltd | IT Services, Growth ... Microsoft, including MCSE and Azure. My mission is to help my clients grow ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · MUNIPRASAD SANI"
+    },
+    {
+      "position": 66,
+      "title": "Soundararajan Srinivasan - Microsoft",
+      "link": "https://www.linkedin.com/in/soundararajansrinivasan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/soundararajansrinivasan&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCLACEAE",
+      "displayed_link": "5.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135f543f542053dce26972532f83acd7520.png",
+      "snippet": "Microsoft Graphic. Microsoft. Greater Boston Area. -. -. Greater Boston Area. -. Palo Alto, USA and Stuttgart, Germany. -. Palo Alto, California and Stuttgart, ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Cambridge, Massachusetts, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Soundararajan Srinivasan"
+    },
+    {
+      "position": 67,
+      "title": "Jan Plüer - Founder & CEO - OTEA Digital",
+      "link": "https://www.linkedin.com/in/jp2001/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/jp2001/&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCLUCEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135cd6638fbe9628e40e3ad741c923f357c.png",
+      "snippet": "Co-Founder. Zalbertus & Plüer GbR. Nov 2023 - Present 1 year 5 months. Munich ... Microsoft Graphic. Technology Consultant for Business Applications ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Jan Plüer"
+    },
+    {
+      "position": 68,
+      "title": "Mike Kamuntoo - Business - Microsoft Germany",
+      "link": "https://mw.linkedin.com/in/mike-kamuntoo-b1a2a4149",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://mw.linkedin.com/in/mike-kamuntoo-b1a2a4149&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCLgCEAE",
+      "displayed_link": "30+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135aec2ac575863cf539a25d8467786b04e.png",
+      "snippet": "Business at Microsoft Germany · Microsoft Germany · Malawi · 30 connections on LinkedIn. View Mike Kamuntoo's profile on LinkedIn, a professional community ...",
+      "snippet_highlighted_words": [
+        "Microsoft Germany",
+        "Microsoft Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Malawi",
+            "Business",
+            "Microsoft Germany"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mike Kamuntoo"
+    },
+    {
+      "position": 69,
+      "title": "Michael Bhaskar - Strategy & Communications - Microsoft AI",
+      "link": "https://uk.linkedin.com/in/michaelbhaskar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/michaelbhaskar&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCMACEAE",
+      "displayed_link": "5.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135a0a8956e3477cb6fbf257a5990b71597.png",
+      "snippet": "Digital strategy, blogging, mass digitisation programmes, retailer communication and innovative projects including the first books on the iPhone. Co-Founder.",
+      "snippet_highlighted_words": [
+        "Co-Founder"
+      ],
+      "source": "LinkedIn · Michael Bhaskar"
+    },
+    {
+      "position": 70,
+      "title": "Earl Martin Valencia - Microsoft",
+      "link": "https://www.linkedin.com/in/earlvalencia",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/earlvalencia&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECFYQAQ",
+      "displayed_link": "14.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61354535b00d349b7c079937b4c27b0383e8.png",
+      "snippet": "Earl is a Senior Product Marketing Manager for Azure, working at Microsoft's… · Experience: Microsoft ... Nominated with co-founder Marthyn Cuan, \"contributed ...",
+      "snippet_highlighted_words": [
+        "Microsoft's",
+        "Microsoft",
+        "co-founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Earl Martin Valencia"
+    },
+    {
+      "position": 71,
+      "title": "Knut Nicholas Krause - Founder & CBO",
+      "link": "https://www.linkedin.com/in/knut-nicholas-krause-71a8076",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/knut-nicholas-krause-71a8076&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECEcQAQ",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61350754f99962b1d4b441f310efb685f1c2.png",
+      "snippet": "Co-Founder. knk Technologies s.a.r.l., Paris (Mobile Technologies). Aug ... Microsoft Dynamics CRM consulting team in Germany. Member of the Supervisory ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Microsoft",
+        "Germany"
+      ],
+      "source": "LinkedIn · Knut Nicholas Krause"
+    },
+    {
+      "position": 72,
+      "title": "Dr. Kitty Y. M. Yeung - Wear It",
+      "link": "https://www.linkedin.com/in/kittyyeung1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/kittyyeung1&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECEgQAQ",
+      "displayed_link": "9.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135b55119e2a1a601b5cf25b20ed4e11969.png",
+      "snippet": "Germany. -. -. Europe, Asia. -. Portugal. -. -. -. -. London ... Microsoft Global Hackathon 2021 Challenge Winner Graphic. Microsoft Global Hackathon 2021 ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "San Francisco Bay Area",
+            "Wear It"
+          ]
+        }
+      },
+      "source": "LinkedIn · Dr. Kitty Y. M. Yeung"
+    },
+    {
+      "position": 73,
+      "title": "Lisa Call - HRBI Group Manager, Global Talent ...",
+      "link": "https://www.linkedin.com/in/lisa-call-59817265",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lisa-call-59817265&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECEQQAQ",
+      "displayed_link": "220+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61359bbe90315b1449421968738cf7edf2f6.png",
+      "snippet": "... Microsoft Office Products, Reporting and Analytics. Strong business ... I am a Group Manager in HR Business Insights at the greatest company on earth.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Group Manager"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Greater Seattle Area",
+            "HRBI Group Manager, Global Talent Management",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Lisa Call"
+    },
+    {
+      "position": 74,
+      "title": "Marius Rausch - Microsoft",
+      "link": "https://de.linkedin.com/in/mariusrausch/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/mariusrausch/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECGAQAQ",
+      "displayed_link": "3.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c613574f520a63c5004895721f3bb74524b9b.png",
+      "snippet": "Microsoft · Philipps-Universität Marburg · Frankfurt Rhine-Main ... Hamburg Area, Germany. -. Greater New York City Area. -. Darmstadt. -. Darmstadt ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt Rhine-Main Metropolitan Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marius Rausch"
+    },
+    {
+      "position": 75,
+      "title": "Julia Kruslin – Founder & Co-CEO – beatvest",
+      "link": "https://de.linkedin.com/in/juliakruslin",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/juliakruslin&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECF4QAQ",
+      "displayed_link": "10K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135ed3b4dfaaf6cf596f182c9a40cc5e20c.png",
+      "snippet": "Co-founder of beatvest | Forbes 30u30 | TEDx speaker | Linkedin Top Voice. beatvest WU (Vienna University of Economics and Business). Berlin, Deutschland.",
+      "snippet_highlighted_words": [
+        "Co-founder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Berlin, Deutschland",
+            "Founder & Co-CEO",
+            "beatvest"
+          ]
+        }
+      },
+      "source": "LinkedIn · Julia Kruslin"
+    },
+    {
+      "position": 76,
+      "title": "Marco Stahl - Microsoft",
+      "link": "https://www.linkedin.com/in/marco-stahl-a8417a123",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/marco-stahl-a8417a123&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECGIQAQ",
+      "displayed_link": "850+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135cda741630be8a4529426dca18b8a8874.png",
+      "snippet": "Munich Area, Germany. Education. Harvard Business School Online Graphic ... Microsoft 365 Certified Fundamentals · Microsoft. Issued Dec 2019. See credential.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Marco Stahl"
+    },
+    {
+      "position": 77,
+      "title": "Jonas Schneider - Co-Founder - Berg & Macher",
+      "link": "https://de.linkedin.com/in/schneider-jonas/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/schneider-jonas/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECGMQAQ",
+      "displayed_link": "2.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61353233356cb75478f71c81a6e8107eff5f.png",
+      "snippet": "Co-Founder. Berg & Macher. Mar 2020 - Present 5 years 1 month. Munich Area, Germany. Servus, wir sind Berg & Macher: Wir machen Arbeit für Menschen und ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Present",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "Co-Founder",
+            "Berg & Macher"
+          ]
+        }
+      },
+      "source": "LinkedIn · Jonas Schneider"
+    },
+    {
+      "position": 78,
+      "title": "Filip Grgić - Microsoft",
+      "link": "https://de.linkedin.com/in/filip-grgic/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/filip-grgic/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECH0QAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61353041d8d5d5d29f1d07908c89798c844f.png",
+      "snippet": "My mission is to empower people and businesses to apply practical and solution-oriented… · Microsoft ... Frankfurt am Main, Germany. Education. Universität ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt Rhine-Main Metropolitan Area",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Filip Grgić"
+    },
+    {
+      "position": 79,
+      "title": "Paul Ryan - Microsoft",
+      "link": "https://uk.linkedin.com/in/pauldtryan",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/pauldtryan&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECHkQAQ",
+      "displayed_link": "5.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135fc2f8c5d5233d95b8e9dad66350de54b.png",
+      "snippet": "Experience. Microsoft Graphic · Microsoft. Munich, Bavaria, Germany. -. London, England, United Kingdom. Licenses & Certifications. Product Strategy Graphic ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Paul Ryan"
+    },
+    {
+      "position": 80,
+      "title": "Rupal Jain - Microsoft",
+      "link": "https://in.linkedin.com/in/rupal-jain",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/rupal-jain&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECHsQAQ",
+      "displayed_link": "3.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135f05f310d5d7c4002f252db735805b0af.png",
+      "snippet": "Microsoft · Technical University Munich · Bengaluru · 500+ connections on LinkedIn ... Munich, Bavaria, Germany. -. Munich, Bavaria, Germany. -. Munich, Bavaria ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bengaluru, Karnataka, India",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Rupal Jain"
+    },
+    {
+      "position": 81,
+      "title": "John W. Ko - Microsoft",
+      "link": "https://www.linkedin.com/in/johnwko",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/johnwko&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECH4QAQ",
+      "displayed_link": "1.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61359f2b223c74c8c255055ed89c8634e522.png",
+      "snippet": "California, Arizona, Washington, Germany, Korea, Japan, Afghanistan. -. -. - ... Certified Scrum Product Owner (CSPO) Graphic · Certified Scrum Product Owner ...",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Owner",
+        "Owner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Washington, District of Columbia, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · John W. Ko"
+    },
+    {
+      "position": 82,
+      "title": "Matthias Scharer – Microsoft",
+      "link": "https://de.linkedin.com/in/matthias-scharer-537b43",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/matthias-scharer-537b43&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCIABEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135de6d3b62f3a540f0bccf64e557d4ca3d.png",
+      "snippet": "Berufserfahrung: Microsoft · Ausbildung: ESSEC Business School · Ort ... Berufserfahrung. Microsoft Grafik · Microsoft. Munich, Bavaria, Germany. -. Munich ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Metropolregion München",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Matthias Scharer"
+    },
+    {
+      "position": 83,
+      "title": "David Reinbold – Microsoft",
+      "link": "https://de.linkedin.com/in/dareinbo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/dareinbo&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCIQBEAE",
+      "displayed_link": "1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135e151dfcd02387ad491d200eb8789729e.png",
+      "snippet": "Professional Scrum Product Owner I · Scrum.org. Ausgestellt: Apr. 2018 ... Microsoft Germany. März 2024. The German Impact Award 2024 is a prestigious ...",
+      "snippet_highlighted_words": [
+        "Owner",
+        "Microsoft Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Darmstadt, Hessen, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · David Reinbold"
+    },
+    {
+      "position": 84,
+      "title": "Catharina Yu Berger – Azure Go-To-Market Manager",
+      "link": "https://de.linkedin.com/in/catharina-yu-berger/de",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/catharina-yu-berger/de&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJYBEAE",
+      "displayed_link": "2.3K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c613584091edf06733941106c88736d316743.png",
+      "snippet": "Co-Founder, VP Sales & Marketing. Human Ingenuity Intl. Corp. Sept. 1996 ... Microsoft Germany. Ausgestellt: Juni 2024. Nachweis anzeigen · Copilot for M365 ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Microsoft Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Deutschland",
+            "Azure Go-To-Market Manager",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Catharina Yu Berger"
+    },
+    {
+      "position": 85,
+      "title": "Hatem Abdallah – DEV II – Microsoft",
+      "link": "https://de.linkedin.com/in/hatem-abdallah-aa68125",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/hatem-abdallah-aa68125&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJwBEAE",
+      "displayed_link": "410+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135c4415fcd2f2eb6ce5efd91decf060fad.png",
+      "snippet": "15 Jahre 10 Monate. STC-E Munich Germany. I am currently working at Microsoft Search Technology Center - Munich Germany ... Department Manager. Sakhr Software.",
+      "snippet_highlighted_words": [
+        "Germany",
+        "Microsoft",
+        "Germany",
+        "Department Manager"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Bayern, Deutschland",
+            "DEV II",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Hatem Abdallah"
+    },
+    {
+      "position": 86,
+      "title": "Sanchit Alekh – Microsoft",
+      "link": "https://de.linkedin.com/in/sanchitalekh/de",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/sanchitalekh/de&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJgBEAE",
+      "displayed_link": "1.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c613590842300fce37696bd6ca60059575a8d.png",
+      "snippet": "In my current role as a Cloud Solution Architect at Microsoft, I support clients all over… · ... Stuttgart Area, Germany. -. Kreisfreie Stadt Aachen Area ...",
+      "snippet_highlighted_words": [
+        "current",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "München, Bayern, Deutschland",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Sanchit Alekh"
+    },
+    {
+      "position": 87,
+      "title": "Glenn Norman PMP® - Group Manager, Service Delivery & ...",
+      "link": "https://ie.linkedin.com/in/glennnorman85",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://ie.linkedin.com/in/glennnorman85&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCJQBEAE",
+      "displayed_link": "1.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61350eeaaba510ded9b353e9097a998b7b36.png",
+      "snippet": "Group Manager : Service Delivery & Vendor Management : Operations at Microsoft ... Dublin City University (2 years) ESB Reutlingen, Germany (2 years) B.A. ...",
+      "snippet_highlighted_words": [
+        "Group Manager",
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Dublin, County Dublin, Ireland",
+            "Group Manager, Service Delivery & Vendor Management",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Glenn Norman PMP®"
+    },
+    {
+      "position": 88,
+      "title": "Harvey Eagle - Global Director of Azure Gaming - Microsoft",
+      "link": "https://uk.linkedin.com/in/harveyeagle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://uk.linkedin.com/in/harveyeagle&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCLQBEAE",
+      "displayed_link": "1.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135401ea403c3d55cffc69a279ee002d579.png",
+      "snippet": "... Microsoft · The University of Manchester · London · 500+ connections on ... Global Director of Azure Gaming. Microsoft. Sep 2023 - Present 1 year 7 months.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "London, England, United Kingdom",
+            "Global Director of Azure Gaming",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Harvey Eagle"
+    },
+    {
+      "position": 89,
+      "title": "Oliver Graham - Principal Product Manager - Teams",
+      "link": "https://www.linkedin.com/in/oliver-graham-63859115",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/oliver-graham-63859115&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCLIBEAE",
+      "displayed_link": "950+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61352b1f59773d319f635added4eefb850fc.png",
+      "snippet": "Principal Product Manager - Microsoft | Founder of Aquatic Robotics- robotic ... Owner. Taggart Construction, Inc. Apr 1995 - May 2010 15 years 2 months.",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Founder",
+        "Owner"
+      ],
+      "source": "LinkedIn · Oliver Graham"
+    },
+    {
+      "position": 90,
+      "title": "Łukasz B. - Founder - Wisent",
+      "link": "https://www.linkedin.com/in/lbartoszcze/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/lbartoszcze/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCK8BEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135b279da47829c529b63fc6f5c9c1af931.png",
+      "snippet": "founder of Wisent · https://www.lukaszbartoszcze.com/ · Experience ... Microsoft Certified: Azure AI Engineer Associate · Microsoft. Issued Jun 2022 ...",
+      "snippet_highlighted_words": [
+        "founder",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Łukasz B."
+    },
+    {
+      "position": 91,
+      "title": "Mehmet Ziya Özbayrak - Founder - IBA",
+      "link": "https://www.linkedin.com/in/mzozbayrak",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/mzozbayrak&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCLYBEAE",
+      "displayed_link": "7.5K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135285cf5819f03975a3490ba657994dfbc.png",
+      "snippet": "Founder | IBA | Microsoft Power Platform Implementer · With a solid ... Advanced Certified Scrum Product Owner (ACSPO) Graphic. Advanced Certified Scrum ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft",
+        "Owner"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Istanbul, Türkiye",
+            "Founder",
+            "IBA"
+          ]
+        }
+      },
+      "source": "LinkedIn · Mehmet Ziya Özbayrak"
+    },
+    {
+      "position": 92,
+      "title": "Deepanshu Pandey - Member, Founder Hub",
+      "link": "https://in.linkedin.com/in/deepanshu-pandey-6baab9266",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://in.linkedin.com/in/deepanshu-pandey-6baab9266&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCLEBEAE",
+      "displayed_link": "1.4K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135deb5e8a6eb0e2956b4f7026798b47eaf.png",
+      "snippet": "Member, Founder Hub. Microsoft for Startups. Sep 2024 - Present 7 months. New ... current option. Algae-Powered Innovations: Replacing Foam, PU, EVA, and ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft",
+        "Present",
+        "current"
+      ],
+      "source": "LinkedIn · Deepanshu Pandey"
+    },
+    {
+      "position": 93,
+      "title": "Harald Becker - Microsoft",
+      "link": "https://www.linkedin.com/in/haraldbecker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/haraldbecker&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCM8BEAE",
+      "displayed_link": "5.1K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135505904348b931888e085f9b08779fa6c.png",
+      "snippet": "I am a customer engagement leader passionate about exploring the intersection of emerging… · Microsoft ... MOHAI bridges the past, present, and future and ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "present"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Seattle, Washington, United States",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Harald Becker"
+    },
+    {
+      "position": 94,
+      "title": "Melanie Graeff - Partner Development Manager Surface",
+      "link": "https://de.linkedin.com/in/melanie-graeff/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/melanie-graeff/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoFCMoBEAE",
+      "displayed_link": "730+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135efac1e9a49bab33aa57a37f6997a8f32.png",
+      "snippet": "Empowering Surface partners to success at Microsoft. Microsoft Europäische Wirtschafts- und Sprachenakademie Dresden. Dresden, Saxony, Germany. 732 ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Germany"
+      ],
+      "source": "LinkedIn · Melanie Graeff"
+    },
+    {
+      "position": 95,
+      "title": "James Rempt - Project Manager - Microsoft",
+      "link": "https://www.linkedin.com/in/james-rempt-71b8256",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/james-rempt-71b8256&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECDAQAQ",
+      "displayed_link": "810+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61352c4065eabc7424e82019ff840705877b.png",
+      "snippet": "James Rempt. Consultant, Co-Founder. Microsoft University of Washington, Henry M. Jackson School of International Studies ...",
+      "snippet_highlighted_words": [
+        "Co-Founder",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · James Rempt"
+    },
+    {
+      "position": 96,
+      "title": "Boyd Multerer - Founder and CEO - Kry10",
+      "link": "https://nz.linkedin.com/in/boydmulterer",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://nz.linkedin.com/in/boydmulterer&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECC0QAQ",
+      "displayed_link": "1.9K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135af4c55a1c772a094bab5ccd66cf41a0f.png",
+      "snippet": "Microsoft. 17 years 10 months · Microsoft Graphic. Partner Director of Development, Xbox. Microsoft. May 2011 - Dec 2014 3 years 8 months. Redmond, WA. Owner ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Microsoft",
+        "Microsoft",
+        "Owner"
+      ],
+      "source": "LinkedIn · Boyd Multerer"
+    },
+    {
+      "position": 97,
+      "title": "Pooja Patnaik – Microsoft",
+      "link": "https://de.linkedin.com/in/poojapatnaik",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/poojapatnaik&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECCoQAQ",
+      "displayed_link": "1.2K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135fcef940f7def9567c453af74d9a2fded.png",
+      "snippet": "With 14 years of rich consulting experience in various facets of IT Project lifecycle, my… · Microsoft ... Frankfurt am Main, Hesse, Germany. -. Frankfurt Rhine- ...",
+      "snippet_highlighted_words": [
+        "Microsoft",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Frankfurt/Rhein-Main",
+            "Microsoft"
+          ]
+        }
+      },
+      "source": "LinkedIn · Pooja Patnaik"
+    },
+    {
+      "position": 98,
+      "title": "Alexandre Ribeiro - Founder - DQPM",
+      "link": "https://de.linkedin.com/in/alexandremrb/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/alexandremrb/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECCgQAQ",
+      "displayed_link": "7.6K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135c457a367a55410ec58364dc482e1482a.png",
+      "snippet": "EdTech Founder “From the Favelas to the World” | President of CUFA Germany ... Microsoft Office · Mídias sociais · Oratória · Microsoft Excel · Microsoft Word.",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Germany",
+        "Microsoft",
+        "Microsoft",
+        "Microsoft"
+      ],
+      "source": "LinkedIn · Alexandre Ribeiro"
+    },
+    {
+      "position": 99,
+      "title": "Andreas Maslo - VERSO GmbH",
+      "link": "https://de.linkedin.com/in/andreasmaslo/en",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://de.linkedin.com/in/andreasmaslo/en&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECC8QAQ",
+      "displayed_link": "5.7K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c61359b0f85f58c8566c36edf3ee871a08c41.png",
+      "snippet": "The Founder Institute is the world's largest pre-seed startup accelerator ... Award presented by Microsoft. Oct 2014. Award for - Big Sustainability Data ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Microsoft"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Munich, Bavaria, Germany",
+            "VERSO GmbH"
+          ]
+        }
+      },
+      "source": "LinkedIn · Andreas Maslo"
+    },
+    {
+      "position": 100,
+      "title": "Omar Shaya - Please",
+      "link": "https://www.linkedin.com/in/omarshaya",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.linkedin.com/in/omarshaya&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQFnoECCwQAQ",
+      "displayed_link": "5.8K+ followers",
+      "favicon": "https://serpapi.com/searches/67ddf9809a424512f23b17e5/images/21b9315ff3bbfbe47d2cf0b4bb1c6135ec056da6038d30485e9f80ac6aded4ca.png",
+      "snippet": "Omar Shaya is the Founder and CEO of Please Platforms (formerly known as ... Berlin, Germany. -. Berlin, Germany. Education. Stanford University Graphic ...",
+      "snippet_highlighted_words": [
+        "Founder",
+        "Germany",
+        "Germany"
+      ],
+      "rich_snippet": {
+        "top": {
+          "extensions": [
+            "Palo Alto, California, United States",
+            "Please"
+          ]
+        }
+      },
+      "source": "LinkedIn · Omar Shaya"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=gfndZ4nLCoehhbIPo9-y2Ag&start=100&sa=N&sstk=Af40H4X7JF1qXBPsgHroRyZyBlJGg7WIWXW5iPsM90EyV4xcZoHcGVLL5AromK_gb4H3KQyrcHxIB319_kqHZhUHPOjNOngnv-Aqmw&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQ8NMDegUIwgIQCg",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=gfndZ4nLCoehhbIPo9-y2Ag&start=100&sa=N&sstk=Af40H4X7JF1qXBPsgHroRyZyBlJGg7WIWXW5iPsM90EyV4xcZoHcGVLL5AromK_gb4H3KQyrcHxIB319_kqHZhUHPOjNOngnv-Aqmw&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQ8tMDegUIwgIQBA",
+      "3": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=gfndZ4nLCoehhbIPo9-y2Ag&start=200&sa=N&sstk=Af40H4X7JF1qXBPsgHroRyZyBlJGg7WIWXW5iPsM90EyV4xcZoHcGVLL5AromK_gb4H3KQyrcHxIB319_kqHZhUHPOjNOngnv-Aqmw&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQ8tMDegUIwgIQBg",
+      "4": "https://www.google.com/search?q=site:linkedin.com/in/+%22Microsoft%22+AND+%22Germany%22+AND+(current+OR+present)+AND+(%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22)&num=100&sca_esv=b275642f2649e319&gl=us&ei=gfndZ4nLCoehhbIPo9-y2Ag&start=300&sa=N&sstk=Af40H4X7JF1qXBPsgHroRyZyBlJGg7WIWXW5iPsM90EyV4xcZoHcGVLL5AromK_gb4H3KQyrcHxIB319_kqHZhUHPOjNOngnv-Aqmw&ved=2ahUKEwjJj42DrZyMAxWHUEEAHaOvDIsQ8tMDegUIwgIQCA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=100",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=200",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&num=100&q=site%3Alinkedin.com%2Fin%2F+%22Microsoft%22+AND+%22Germany%22+AND+%28current+OR+present%29+AND+%28%22Group+Manager%22+OR+%22Regional+Manager%22+OR+%22Department+Manager%22+OR+%22Team+Manager%22+OR+%22Owner%22+OR+%22Founder%22+OR+%22Co-Founder%22+OR+%22Proprietor%22%29&start=300"
+    }
+  }
+}
